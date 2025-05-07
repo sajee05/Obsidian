@@ -1,34 +1,6 @@
 # Home 
 
-### 🌼 Daily Notes
-```dataviewjs
-// 1. cutoff = midnight today minus 6 days
-const cutoff = new Date();
-cutoff.setHours(0,0,0,0);
-cutoff.setDate(cutoff.getDate() - 6);
-
-// 2. collect, parse, filter, sort by timestamp
-const recent = dv
-  .pages('"09 Daily Notes"')
-  .where(p => /^\d{2}-\d{2}-\d{4}/.test(p.file.name))
-  .map(p => {
-    const [dd, mm, yyyy] = p.file.name.split(',')[0].split('-').map(n => +n);
-    p._date = new Date(yyyy, mm - 1, dd);
-    return p;
-  })
-  .filter(p => p._date >= cutoff)
-  .sort(p => p._date.getTime(), 'desc');  // ← sort by timestamp
-
-// 3. render
-dv.table(
-  ["File", "Date"],
-  recent.map(p => [
-    p.file.link,
-    p._date.toLocaleDateString('en-GB')
-  ])
-);
-```
-### 🍉 [[A Sense of Purpose]]
+### 🍉 [[A Sense of Purpose|Visualize : A Sense of Purpose]]
 ### 🎯 [[Strategy]]
 
 ### 🚮 [[DUMP MOC|dump-random]] 
