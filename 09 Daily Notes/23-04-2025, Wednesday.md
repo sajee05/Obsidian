@@ -34,7 +34,7 @@ Hair_Oil: false
 
 
 
-- [ ] Economics Poverty Anki 🔼 
-- [ ] Economics Unemployment ⏫ eta : 1 hour
-- [ ] Economics all Old-portion pre-completed.⏫ eta : 3-4 hours
-- [x] fix "already covered" AND "Mapped with x" (socio) analytics done by AI. 🔽 ✅ 2025-04-23 - BOOK PADHLUNGA YAR. 
+- [ ] Economics Poverty Anki 🔼 #ticktick
+- [ ] Economics Unemployment ⏫ eta : 1 hour #ticktick 
+- [ ] Economics all Old-portion pre-completed.⏫ eta : 3-4 hours #ticktick 
+- [x] fix "already covered" AND "Mapped with x" (socio) analytics done by AI.   - BOOK PADHLUNGA YAR.  [link](https://ticktick.com/webapp/#p/681aaaf2c71c710000000041/tasks/681ab6c974148e55307d3c76) #ticktick  %%[ticktick_id:: 681ab6c974148e55307d3c76]%% 🔽 ✅ 2025-04-23

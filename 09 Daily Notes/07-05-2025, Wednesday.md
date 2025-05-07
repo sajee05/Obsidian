@@ -12,13 +12,13 @@ Skincare: false
 Hair_Oil: false
 ---
 # TO-DO
-- [x] Economics Unemployment ⏫ eta : 1 hour ✅ 2025-05-07
-- [ ] Economics all Old-portion pre-completed.⏫ eta : 3-4 hours
-- [x] Market ✅ 2025-05-07
- - [x] Mango ✅ 2025-05-07
- - [ ] Banana 
-	- [ ] Fidget Spinner
-- [ ] Gym `full body`
+- [x] Economics Unemployment ⏫ eta : 1 hour ✅ 2025-05-07 #ticktick 
+- [ ] Economics all Old-portion pre-completed.⏫ eta : 3-4 hours #ticktick 
+- [x] Market ✅ 2025-05-07 #ticktick 
+ - [x] Mango ✅ 2025-05-07 #ticktick 
+ - [ ] Banana #ticktick
+	- [ ] Fidget Spinner #ticktick 
+- [ ] Gym `full body` #ticktick 
 
 
 
