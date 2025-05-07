@@ -1,0 +1,11 @@
+"Date: 2025-05-07+0000"
+"Version: 7.1"
+"Status: 
+0 Normal
+1 Completed
+2 Archived"
+"Folder Name","List Name","Title","Kind","Tags","Content","Is Check list","Start Date","Due Date","Reminder","Repeat","Priority","Status","Created Time","Completed Time","Order","Timezone","Is All Day","Is Floating","Column Name","Column Order","View Mode","taskId","parentId"
+"","Inbox","america ","TEXT","","","N","2025-05-06T18:30:00+0000","2025-05-06T18:30:00+0000","P0DT9H0M0S
+P0DT6H0M0S","","5","2","2025-05-07T00:59:54+0000","2025-05-07T01:06:00+0000","-536870912","Asia/Kolkata","true","false",,,"list","1",""
+"","Inbox","Daily record","TEXT","","What have I accomplished today?What's the highlight of the day?Did I encounter any difficulties today?Mood?Any special thoughts?","N","","","","","0","2","2025-05-07T00:59:39+0000","2025-05-07T01:06:02+0000","-268435456","Asia/Kolkata","true","false",,,"list","2",""
+"","Inbox","economics backlogs","TEXT","","","N","","","","","0","2","2025-05-07T00:44:56+0000","2025-05-07T01:06:04+0000","0","Asia/Kolkata","true","false",,,"list","3",""

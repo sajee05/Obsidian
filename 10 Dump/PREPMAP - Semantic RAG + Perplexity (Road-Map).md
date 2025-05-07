@@ -6,10 +6,11 @@
 
 #productivity-and-tech🗑️ 
 
-- [ ] 1. API Key rotator : Round robin => prompt ✅ #ticktick 
-- [x] 2. Rag PDF Citations => prompt ✅ ✅ 2025-05-04 #ticktick 
-- [x] 3. Fact check clickable. next to cited sources. => prompt ✅  [link](https://ticktick.com/webapp/#p/681aaaf2c71c710000000041/tasks/681ab6c174148e55307d3c48) #ticktick  %%[ticktick_id:: 681ab6c174148e55307d3c48]%% ✅ 2025-05-04
-- [!] ~~4. implement this logic replacing gemini normal output : "C:\Users\FO\Desktop\nanoPerplexityAI-main" => prompt ❌~~ ✅ 2025-05-04 #ticktick 
+- [ ] 1. API Key rotator : Round robin => prompt ✅  
+- [x] 2. Rag PDF Citations => prompt ✅ ✅ 2025-05-04  
+- [x] 3. Fact check clickable. next to cited sources. => prompt ✅  [link](https://ticktick.com/webapp/#p/681aaaf2c71c710000000041/tasks/681ab6c174148e55307d3c48)   %%[ticktick_id:: 681ab6c174148e55307d3c48]%% ✅ 2025-05-04
+
+- [!] ~~4. implement this logic replacing gemini normal output : "C:\Users\FO\Desktop\nanoPerplexityAI-main" => prompt ❌~~ ✅ 2025-05-04  
 
 ---
 
