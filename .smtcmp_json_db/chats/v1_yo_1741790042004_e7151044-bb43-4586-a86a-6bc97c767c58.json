@@ -1,0 +1,141 @@
+{
+  "id": "e7151044-bb43-4586-a86a-6bc97c767c58",
+  "title": "yo",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "yo",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nyo\n\n"
+        }
+      ],
+      "id": "81c815a4-bec2-4fa4-b6fd-f67b9019714a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "To-do.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "What would you like me to do with the file?\n",
+      "id": "09e0088b-d294-4921-aa89-6999aa2cc41e",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 569,
+          "completion_tokens": 12,
+          "total_tokens": 581
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "what am i supposed to do today?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nwhat am i supposed to do today?\n\n"
+        }
+      ],
+      "id": "9e9849b5-79d3-4b9f-bba3-48dc8e47902e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "To-do.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the provided to-do list, you have two main tasks scheduled for today (March 12, 2025):\n\n*   Complete International Marketing.\n*   Map Income tax PYQs (Previous Year Questions).\n",
+      "id": "7003621c-0577-4b28-9f9c-1cbf6c6c21f6",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 591,
+          "completion_tokens": 50,
+          "total_tokens": 641
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    }
+  ],
+  "createdAt": 1741790031265,
+  "updatedAt": 1741790042004,
+  "schemaVersion": 1
+}

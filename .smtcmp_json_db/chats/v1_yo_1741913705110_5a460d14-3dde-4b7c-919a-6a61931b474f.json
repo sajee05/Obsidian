@@ -1,0 +1,202 @@
+{
+  "id": "5a460d14-3dde-4b7c-919a-6a61931b474f",
+  "title": "yo",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "yo",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nyo\n\n"
+        }
+      ],
+      "id": "a5f61d83-24ae-402a-ad2c-6cedb76b8aa0",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "0 Dump/Obsidian-setup-checklist.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Understood. How can I help you with the provided file? Do you have any specific questions or tasks you'd like me to assist with?\n",
+      "id": "ec08c753-155f-4d29-9b0f-9a4d37fb87c1",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 543,
+          "completion_tokens": 31,
+          "total_tokens": 574
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "test",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\ntest\n\n"
+        }
+      ],
+      "id": "314f6a2e-a76b-4414-a5bf-42048d5aafa6",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "content": "Okay. I'm ready for your instructions. Do you want me to make some changes to a file?\n",
+      "id": "afb649fd-f341-4782-9ef3-0e555c6dd9e2",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 451,
+          "completion_tokens": 23,
+          "total_tokens": 474
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "yup correct grammatical errors",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nyup correct grammatical errors\n\n"
+        }
+      ],
+      "id": "799c5412-b252-4a4b-8dd1-e59764644086",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "0 Dump/Obsidian-setup-checklist.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"Dump/Obsidian-setup-checklist.md\" language=\"markdown\">\n- [x] Set up sync with iPad\n- [ ] Learn backlink concept\n- [x] Set up Kanban board for this app -- COPY TODOIST CONFIG\n- [x] Add habit tracker\n- [ ] Set up database extension like Notion\n- [ ] Fix and set up plugins: Error: unnecessary loading issue\n- [ ] Transfer important stuff from OneNote and Notion to Obsidian manually.\n</smtcmp_block>\n\n**Summary of changes:**\n\n*   \"set up sync and with ipad\" was corrected to \"Set up sync with iPad\"\n*   \"kanbard board to this app\" was corrected to \"Kanban board for this app\"\n*   \"unncecessary loadiung issue\" was corrected to \"unnecessary loading issue\"\n*   \"trf imp stuff\" was corrected to \"Transfer important stuff\"\n*   \"onenote\" was corrected to \"OneNote\"\n*   \"notion\" was corrected to \"Notion\"\n",
+      "id": "d454c2aa-5570-479e-af72-a46af19117e8",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 605,
+          "completion_tokens": 230,
+          "total_tokens": 835
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    }
+  ],
+  "createdAt": 1741913527840,
+  "updatedAt": 1741913705110,
+  "schemaVersion": 1
+}

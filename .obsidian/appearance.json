@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "accentColor": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true,
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "showRibbon": true,
+  "interfaceFontFamily": "Bahnschrift"
+}

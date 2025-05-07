@@ -1,0 +1,75 @@
+{
+  "id": "ead6142a-2940-46de-ba9c-4b24665d1110",
+  "title": "ASK ME DETAILED MCQS from this topic",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ASK ME DETAILED MCQS from this topic",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nASK ME DETAILED MCQS from this topic\n\n"
+        }
+      ],
+      "id": "a35a3ea3-92d2-4f11-81da-1ab3fa31f487",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Socio-test-example.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "I can help you generate some detailed multiple-choice questions (MCQs) from the content you provided on \"Modernity and the Emergence of Sociology.\" Here are a few examples:\n\n1.  Which of the following best describes the concept of modernity?\n\n    a) A return to traditional practices and values.\n\n    b) A period of social, cultural, and intellectual upheaval and transformations.\n\n    c) A focus on collectivism over individualism.\n\n    d) A decline in scientific and technological progress.\n\n2.  Which of the following is NOT a characteristic typically associated with modernization?\n\n    a) Questioning of tradition.\n\n    b) Emphasis on collectivism.\n\n    c) Promotion of scientific progress.\n\n    d) Rationalization of institutions.\n\n3.  Which of the following is NOT identified as a reason for modernization in the provided text?\n\n    a) Enlightenment\n\n    b) French Revolution\n\n    c) Industrial Revolution\n\n    d) The Renaissance\n\n4.  What disciplines were deemed inadequate to address the rapid changes and issues of modernity, leading to the proposal of sociology?\n\n    a) Physics, Chemistry, Biology\n\n    b) Political Science, Religion, Law, Economics\n\n    c) History, Geography, Anthropology\n\n    d) Art, Music, Literature\n\n5.  Which of the following figures is associated with the idea that the virtue of an object is defined by its function, aligning with functionalist sociological theories?\n\n    a) Plato\n\n    b) Cicero\n\n    c) Aristotle\n\n    d) Socrates\n\n6.  What characterized the Dark Ages, hindering social and scientific innovation?\n\n    a) Prevalence of social evils and domination of religion.\n\n    b) Rapid advancements in technology and science.\n\n    c) Focus on individualism and freedom of thought.\n\n    d) Expansion of trade and commerce.\n\n7.  Which of the following was NOT a result of the Renaissance?\n\n    a) Rebirth of ancient Greek ideals.\n\n    b) Scientific revolution.\n\n    c) Religious reformation.\n\n    d) Decline of colonialism.\n\n8.  What was the Commercial Revolution primarily characterized by?\n\n    a) A shift towards a subsistence economy in medieval Europe.\n\n    b) Expansion of trade and commerce with Oriental countries and the Americas.\n\n    c) Decline of banking systems and credit facilities.\n\n    d) Isolation of European markets from new commodities.\n\n9.  Which of the following is NOT an effect of the Renaissance mentioned in the text?\n\n    a) Humanism, focusing on human relationships and emotions.\n\n    b) Realism, emphasizing realistic portrayals in art.\n\n    c) Idealism, focusing on theological thinking and superstitions.\n\n    d) Empiricism, encouraging experimentation to obtain knowledge.\n\n10. Which of the following best describes Immanuel Kant's view of Enlightenment?\n\n    a) A period of religious reformation.\n\n    b) \"Freedom to use one's own intelligence and critically analyze.\"\n\n    c) A focus on traditional values and beliefs.\n\n    d) A decline in scientific and technological progress.\n",
+      "id": "8abae48f-2911-4165-8018-cafbb79bd277",
+      "metadata": {
+        "usage": {
+          "prompt_tokens": 1999,
+          "completion_tokens": 642,
+          "total_tokens": 2641
+        },
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash-exp",
+          "enable": true
+        }
+      }
+    }
+  ],
+  "createdAt": 1741790170097,
+  "updatedAt": 1741790174590,
+  "schemaVersion": 1
+}

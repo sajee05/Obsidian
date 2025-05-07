@@ -1,0 +1,96 @@
+{
+  "editor:open-search": [],
+  "smart-composer:open-new-chat": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "various-complements:show-suggestions": [],
+  "various-complements:toggle-complement-automatically": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [],
+      "key": "F8"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal-infile": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editing-toolbar:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "obsidian-mindmap-nextgen:mindmapnextgen:pinned": [],
+  "obsidian-mindmap-nextgen:mindmapnextgen:unpinned": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "M"
+    }
+  ]
+}

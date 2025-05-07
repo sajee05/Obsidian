@@ -1,0 +1,207 @@
+{
+  "id": "0c56489d-272c-460f-8a3a-53eae5a924f4",
+  "title": "what is epiphyte? ",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "what is epiphyte? ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "## Potentially Relevant Snippets from the current vault\n```12 Anki/3. Prelims Focused/Etymologies/Epiphytes_1738003181503.md\n1|---\r\n2|anki_note_id: 1738003181503\r\n3|anki_note_mod: 1738003181\r\n4|content_hash: f02131aa4154076481b4a54cb049ad88\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Epiphytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|epi (upon) + phyton (plant)  \r\n16|  \r\n17|→ Plants that grow upon other plants.  \r\n18|  \r\n19|**Examples:** Orchids, Ferns, Spanish Moss  \r\n20|  \r\n21|**Layman Explanation:** These plants **sit on other trees** but don’t harm them, they just use them for support.  \r\n22|  \r\n23|![Epiphytic plants: Facts, growth, care, uses, benefits](epiphytic-plants-1-compressed.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Parasitic plants_1738002766063.md\n1|---\r\n2|anki_note_id: 1738002766063\r\n3|anki_note_mod: 1738002766\r\n4|content_hash: 6d8a4727d4ae7430f4ed77bd292eeff0\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Parasitic plants\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|para (beside) + site (food)  \r\n16|  \r\n17|→ Plants that live beside and feed off other organisms.  \r\n18|  \r\n19|**Examples:** Mistletoe, Cuscuta (Dodder), Rafflesia  \r\n20|  \r\n21|**Layman Explanation:** These plants **steal water and nutrients** from other plants instead of making their own food.  \r\n22|![Implications of bioactive solute transfer from hosts to parasitic plants -  ScienceDirect](1-s2.0-S136952661300099X-gr1.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Phreatophytes_1738004538069.md\n1|---\r\n2|anki_note_id: 1738004538069\r\n3|anki_note_mod: 1738004538\r\n4|content_hash: 9793cd3f2813a95ca0ce384d8b868a61\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Phreatophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|Phreato (underground water) + phytes (plants)  \r\n16|  \r\n17|→ Plants that have deep roots to access underground water.  \r\n18|Examples: Mesquite, Tamarisk  \r\n19|  \r\n20|Layman Explanation: These plants have long roots that reach deep into the ground to find water  \r\n21|  \r\n22|![Word of the Day - Phreatophyte | Natick, MA Patch](1487354695.png)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Thallophytes_1738004941670.md\n1|---\r\n2|anki_note_id: 1738004941670\r\n3|anki_note_mod: 1739369327\r\n4|content_hash: 96bda74b803bbd74c229217f07d5898f\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Thallophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|thala → bad player → no leaves, stems, etc (skills)  \r\n16|  \r\n17|Thallos (a young shoot) + phytes (plants)  \r\n18|  \r\n19|→ Simple plants like algae and fungi that lack a stem or leaves.  \r\n20|  \r\n21|Examples: Algae, Lichens  \r\n22|  \r\n23|Layman Explanation: These plants don’t have roots, stems, or leaves, and often grow on other surfaces.  \r\n24|  \r\n25|![Thallophytes | PPT](Thallophytes-2-320.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Gametophytes_1738004854433.md\n1|---\r\n2|anki_note_id: 1738004854433\r\n3|anki_note_mod: 1738004854\r\n4|content_hash: f5c7d932e3e29e3b8c7d638695749eba\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Gametophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|Gamos (marriage) + phytes (plants)\r\n16|\r\n17|→ The sexual stage in the life cycle of a plant, producing gametes (sperm and eggs).\r\n18|\r\n19|Examples: Ferns, Mosses\r\n20|\r\n21|Layman Explanation: These plants produce sex cells that help them reproduce.\r\n22|\r\n23|![Gametophyte | Definition, Production & Examples Video](1dvzav60mx.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Tropophytes_1738004270878.md\n1|---\r\n2|anki_note_id: 1738004270878\r\n3|anki_note_mod: 1738004270\r\n4|content_hash: 1d042c43be3cec43454af54ed0ef12e6\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Tropophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|Tropos (turn) + phytes (plants)\r\n16|\r\n17|→ Plants that adjust their behavior according to the season or climate.\r\n18|\r\n19|Examples: Mangroves, Some desert plants  \r\n20|Layman Explanation: These plants change how they behave based on weather conditions, like drying up in the dry season.\r\n21|\r\n22|![Deciduous trees Stock Photos, Royalty Free Deciduous trees Images |  Depositphotos](depositphotos_66911207-stock-photo-rendering-of-four-different-kind.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Hydrophytes_1738004448225.md\n1|---\r\n2|anki_note_id: 1738004448225\r\n3|anki_note_mod: 1739367945\r\n4|content_hash: 19102b091a54aa4a86c3378aba906307\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Hydrophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|Hydro (water) + phytes (plants)  \r\n16|  \r\n17|→ Plants that grow in or near water.  \r\n18|  \r\n19|Examples: Water lilies, Lotus  \r\n20|  \r\n21|Layman Explanation: These plants live in or around water, using it to grow and survive.  \r\n22|  \r\n23|![Hydrophytes - Everything-Ponds.com](images-848679d8f28ca4772e014c457a18bcfceb70ac50.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Pteridophytes_1738004738881.md\n1|---\r\n2|anki_note_id: 1738004738881\r\n3|anki_note_mod: 1738004738\r\n4|content_hash: a736aac17cb649d8feeea383ab0bed93\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Pteridophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|Pteron (feather) + phytes (plants)  \r\n16|  \r\n17|→ Vascular plants that reproduce via spores, like ferns.  \r\n18|  \r\n19|Examples: Ferns, Horsetails  \r\n20|  \r\n21|Layman Explanation: These plants don’t have flowers or seeds; they reproduce using spores.  \r\n22|  \r\n23|![Pteridophytes | Live Plant Collections](images-5ba10884e9addff1c167dc37b9fea81673e0345f.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/Heliotrophytes_1738003966750.md\n1|---\r\n2|anki_note_id: 1738003966750\r\n3|anki_note_mod: 1738003966\r\n4|content_hash: 105a9d6cc6d492ae9ec1d4617778ea99\r\n5|---\r\n6|\r\n7|## Front\r\n8|\r\n9|Heliotrophytes\r\n10|\r\n11|<hr/>\r\n12|\r\n13|## Back\r\n14|\r\n15|helios (sun) + trophytes (nourishment)  \r\n16|  \r\n17|→ Plants that orient themselves towards the sun to maximize light absorption.  \r\n18|Examples: Sunflowers, Dandelions  \r\n19|  \r\n20|Layman Explanation: These plants turn or tilt towards the sun to get more light for growth.  \r\n21|  \r\n22|![Botanical names - Heliophytes - Light loving plants.... | Facebook](images.jpg)\n```\n```12 Anki/3. Prelims Focused/Etymologies/_Etymologies_index.md\n3|## Notes\r\n4|\r\n5|- [[3. Prelims Focused/Etymologies/Nitrogen-fixing plants_1738002601580.md|Nitrogen-fixing plants]]\r\n6|- [[3. Prelims Focused/Etymologies/Parasitic plants_1738002766063.md|Parasitic plants]]\r\n7|- [[3. Prelims Focused/Etymologies/Epiphytes_1738003181503.md|Epiphytes]]\r\n8|- [[3. Prelims Focused/Etymologies/Xerophytes_1738003377533.md|Xerophytes]]\r\n9|- [[3. Prelims Focused/Etymologies/Halophytes_1738003519242.md|Halophytes]]\r\n10|- [[3. Prelims Focused/Etymologies/Heliotrophytes_1738003966750.md|Heliotrophytes]]\r\n11|- [[3. Prelims Focused/Etymologies/Saprophytes_1738004027024.md|Saprophytes]]\r\n12|- [[3. Prelims Focused/Etymologies/Tropophytes_1738004270878.md|Tropophytes]]\r\n13|- [[3. Prelims Focused/Etymologies/Hydrophytes_1738004448225.md|Hydrophytes]]\r\n14|- [[3. Prelims Focused/Etymologies/Phreatophytes_1738004538069.md|Phreatophytes]]\r\n15|- [[3. Prelims Focused/Etymologies/Bryophytes_1738004601754.md|Bryophytes]]\r\n16|- [[3. Prelims Focused/Etymologies/Pteridophytes_1738004738881.md|Pteridophytes]]\n```\n\n\n\nwhat is epiphyte? \n\n"
+        }
+      ],
+      "id": "2507004b-8244-4b5b-987c-ab01860a924e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": null
+        }
+      ],
+      "similaritySearchResults": [
+        {
+          "id": 3859,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Epiphytes_1738003181503.md",
+          "mtime": 1746150794000,
+          "content": "---\r\nanki_note_id: 1738003181503\r\nanki_note_mod: 1738003181\r\ncontent_hash: f02131aa4154076481b4a54cb049ad88\r\n---\r\n\r\n## Front\r\n\r\nEpiphytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nepi (upon) + phyton (plant)  \r\n  \r\n→ Plants that grow upon other plants.  \r\n  \r\n**Examples:** Orchids, Ferns, Spanish Moss  \r\n  \r\n**Layman Explanation:** These plants **sit on other trees** but don’t harm them, they just use them for support.  \r\n  \r\n![Epiphytic plants: Facts, growth, care, uses, benefits](epiphytic-plants-1-compressed.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 23,
+            "startLine": 1
+          },
+          "similarity": 0.6782112125624921
+        },
+        {
+          "id": 3850,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Parasitic plants_1738002766063.md",
+          "mtime": 1746150769000,
+          "content": "---\r\nanki_note_id: 1738002766063\r\nanki_note_mod: 1738002766\r\ncontent_hash: 6d8a4727d4ae7430f4ed77bd292eeff0\r\n---\r\n\r\n## Front\r\n\r\nParasitic plants\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\npara (beside) + site (food)  \r\n  \r\n→ Plants that live beside and feed off other organisms.  \r\n  \r\n**Examples:** Mistletoe, Cuscuta (Dodder), Rafflesia  \r\n  \r\n**Layman Explanation:** These plants **steal water and nutrients** from other plants instead of making their own food.  \r\n![Implications of bioactive solute transfer from hosts to parasitic plants -  ScienceDirect](1-s2.0-S136952661300099X-gr1.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.5514966026641965
+        },
+        {
+          "id": 3849,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Phreatophytes_1738004538069.md",
+          "mtime": 1746150770000,
+          "content": "---\r\nanki_note_id: 1738004538069\r\nanki_note_mod: 1738004538\r\ncontent_hash: 9793cd3f2813a95ca0ce384d8b868a61\r\n---\r\n\r\n## Front\r\n\r\nPhreatophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nPhreato (underground water) + phytes (plants)  \r\n  \r\n→ Plants that have deep roots to access underground water.  \r\nExamples: Mesquite, Tamarisk  \r\n  \r\nLayman Explanation: These plants have long roots that reach deep into the ground to find water  \r\n  \r\n![Word of the Day - Phreatophyte | Natick, MA Patch](1487354695.png)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.5297554947326167
+        },
+        {
+          "id": 3846,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Thallophytes_1738004941670.md",
+          "mtime": 1746150771000,
+          "content": "---\r\nanki_note_id: 1738004941670\r\nanki_note_mod: 1739369327\r\ncontent_hash: 96bda74b803bbd74c229217f07d5898f\r\n---\r\n\r\n## Front\r\n\r\nThallophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nthala → bad player → no leaves, stems, etc (skills)  \r\n  \r\nThallos (a young shoot) + phytes (plants)  \r\n  \r\n→ Simple plants like algae and fungi that lack a stem or leaves.  \r\n  \r\nExamples: Algae, Lichens  \r\n  \r\nLayman Explanation: These plants don’t have roots, stems, or leaves, and often grow on other surfaces.  \r\n  \r\n![Thallophytes | PPT](Thallophytes-2-320.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 25,
+            "startLine": 1
+          },
+          "similarity": 0.5126968390634906
+        },
+        {
+          "id": 3857,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Gametophytes_1738004854433.md",
+          "mtime": 1746150771000,
+          "content": "---\r\nanki_note_id: 1738004854433\r\nanki_note_mod: 1738004854\r\ncontent_hash: f5c7d932e3e29e3b8c7d638695749eba\r\n---\r\n\r\n## Front\r\n\r\nGametophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nGamos (marriage) + phytes (plants)\r\n\r\n→ The sexual stage in the life cycle of a plant, producing gametes (sperm and eggs).\r\n\r\nExamples: Ferns, Mosses\r\n\r\nLayman Explanation: These plants produce sex cells that help them reproduce.\r\n\r\n![Gametophyte | Definition, Production & Examples Video](1dvzav60mx.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 23,
+            "startLine": 1
+          },
+          "similarity": 0.5101858521392085
+        },
+        {
+          "id": 3845,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Tropophytes_1738004270878.md",
+          "mtime": 1746150772000,
+          "content": "---\r\nanki_note_id: 1738004270878\r\nanki_note_mod: 1738004270\r\ncontent_hash: 1d042c43be3cec43454af54ed0ef12e6\r\n---\r\n\r\n## Front\r\n\r\nTropophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nTropos (turn) + phytes (plants)\r\n\r\n→ Plants that adjust their behavior according to the season or climate.\r\n\r\nExamples: Mangroves, Some desert plants  \r\nLayman Explanation: These plants change how they behave based on weather conditions, like drying up in the dry season.\r\n\r\n![Deciduous trees Stock Photos, Royalty Free Deciduous trees Images |  Depositphotos](depositphotos_66911207-stock-photo-rendering-of-four-different-kind.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.5097398492201156
+        },
+        {
+          "id": 3853,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Hydrophytes_1738004448225.md",
+          "mtime": 1746150774000,
+          "content": "---\r\nanki_note_id: 1738004448225\r\nanki_note_mod: 1739367945\r\ncontent_hash: 19102b091a54aa4a86c3378aba906307\r\n---\r\n\r\n## Front\r\n\r\nHydrophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nHydro (water) + phytes (plants)  \r\n  \r\n→ Plants that grow in or near water.  \r\n  \r\nExamples: Water lilies, Lotus  \r\n  \r\nLayman Explanation: These plants live in or around water, using it to grow and survive.  \r\n  \r\n![Hydrophytes - Everything-Ponds.com](images-848679d8f28ca4772e014c457a18bcfceb70ac50.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 23,
+            "startLine": 1
+          },
+          "similarity": 0.5081897597279565
+        },
+        {
+          "id": 3848,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Pteridophytes_1738004738881.md",
+          "mtime": 1746150770000,
+          "content": "---\r\nanki_note_id: 1738004738881\r\nanki_note_mod: 1738004738\r\ncontent_hash: a736aac17cb649d8feeea383ab0bed93\r\n---\r\n\r\n## Front\r\n\r\nPteridophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nPteron (feather) + phytes (plants)  \r\n  \r\n→ Vascular plants that reproduce via spores, like ferns.  \r\n  \r\nExamples: Ferns, Horsetails  \r\n  \r\nLayman Explanation: These plants don’t have flowers or seeds; they reproduce using spores.  \r\n  \r\n![Pteridophytes | Live Plant Collections](images-5ba10884e9addff1c167dc37b9fea81673e0345f.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 23,
+            "startLine": 1
+          },
+          "similarity": 0.5021220775000934
+        },
+        {
+          "id": 3854,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/Heliotrophytes_1738003966750.md",
+          "mtime": 1746150770000,
+          "content": "---\r\nanki_note_id: 1738003966750\r\nanki_note_mod: 1738003966\r\ncontent_hash: 105a9d6cc6d492ae9ec1d4617778ea99\r\n---\r\n\r\n## Front\r\n\r\nHeliotrophytes\r\n\r\n<hr/>\r\n\r\n## Back\r\n\r\nhelios (sun) + trophytes (nourishment)  \r\n  \r\n→ Plants that orient themselves towards the sun to maximize light absorption.  \r\nExamples: Sunflowers, Dandelions  \r\n  \r\nLayman Explanation: These plants turn or tilt towards the sun to get more light for growth.  \r\n  \r\n![Botanical names - Heliophytes - Light loving plants.... | Facebook](images.jpg)",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 22,
+            "startLine": 1
+          },
+          "similarity": 0.49131978823972466
+        },
+        {
+          "id": 3842,
+          "path": "12 Anki/3. Prelims Focused/Etymologies/_Etymologies_index.md",
+          "mtime": 1746150644000,
+          "content": "## Notes\r\n\r\n- [[3. Prelims Focused/Etymologies/Nitrogen-fixing plants_1738002601580.md|Nitrogen-fixing plants]]\r\n- [[3. Prelims Focused/Etymologies/Parasitic plants_1738002766063.md|Parasitic plants]]\r\n- [[3. Prelims Focused/Etymologies/Epiphytes_1738003181503.md|Epiphytes]]\r\n- [[3. Prelims Focused/Etymologies/Xerophytes_1738003377533.md|Xerophytes]]\r\n- [[3. Prelims Focused/Etymologies/Halophytes_1738003519242.md|Halophytes]]\r\n- [[3. Prelims Focused/Etymologies/Heliotrophytes_1738003966750.md|Heliotrophytes]]\r\n- [[3. Prelims Focused/Etymologies/Saprophytes_1738004027024.md|Saprophytes]]\r\n- [[3. Prelims Focused/Etymologies/Tropophytes_1738004270878.md|Tropophytes]]\r\n- [[3. Prelims Focused/Etymologies/Hydrophytes_1738004448225.md|Hydrophytes]]\r\n- [[3. Prelims Focused/Etymologies/Phreatophytes_1738004538069.md|Phreatophytes]]\r\n- [[3. Prelims Focused/Etymologies/Bryophytes_1738004601754.md|Bryophytes]]\r\n- [[3. Prelims Focused/Etymologies/Pteridophytes_1738004738881.md|Pteridophytes]]",
+          "model": "gemini/text-embedding-004",
+          "dimension": 768,
+          "metadata": {
+            "endLine": 16,
+            "startLine": 3
+          },
+          "similarity": 0.49113006822328975
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "Alright, boss! An epiphyte, huh? Let's dive into that.\n\n<smtcmp_block filename=\"12 Anki/3. Prelims Focused/Etymologies/Epiphytes_1738003181503.md\" language=\"markdown\" startLine=\"1\" endLine=\"23\"></smtcmp_block>\n\nSo, as the note says, an epiphyte is a plant that grows upon other plants. The etymology breaks down to \"epi\" (upon) + \"phyton\" (plant). They're like the freeloaders of the plant world, but in a good way – they just use other plants for support and don't harm them. Think orchids, ferns, or Spanish moss. They just chill on other trees, soaking up the sun and nutrients. You got it, man!\n",
+      "id": "473726c3-400c-4d6c-b415-c0cb63ec0109",
+      "metadata": {
+        "model": {
+          "providerType": "gemini",
+          "providerId": "gemini",
+          "id": "gemini-2.0-flash",
+          "model": "gemini-2.0-flash",
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 4795,
+          "completion_tokens": 184,
+          "total_tokens": 4979
+        }
+      }
+    }
+  ],
+  "createdAt": 1746221937484,
+  "updatedAt": 1746222260642,
+  "schemaVersion": 1
+}

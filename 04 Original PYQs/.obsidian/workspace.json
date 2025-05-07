@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "513fa4cf22c29b77",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ec0d911dda4df2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1f52c98fbf46934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GS/Mains/2. GS2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. GS2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f414ea327d8daee",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e3a1220b798cbc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6b41b529c16489",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ad2b2a1b3832576d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82f5d9e45cddad34",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5739e8d74dbef233",
+    "type": "split",
+    "children": [
+      {
+        "id": "44c5efad3a973cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49ec04095db0c74c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GS/Mains/2. GS2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2. GS2"
+            }
+          },
+          {
+            "id": "ad973b3c0d8ad881",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GS/Mains/2. GS2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2. GS2"
+            }
+          },
+          {
+            "id": "061bdd4b92a2bf92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9801887435b77047",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GS/Mains/2. GS2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. GS2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a1f52c98fbf46934",
+  "lastOpenFiles": [
+    "GS/Mains/4. GS4.md",
+    "GS/Mains/2. GS2.md",
+    "Sociology/Topic 3. Introducing Indian Society (33 questions).md",
+    "Sociology/Topic 5. Sociology of Religion (57 questions).md",
+    "Sociology/Topic 2. Sociological Thinkers (49 questions).md"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1741793033457.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1741793033457,
+  "responses": {
+    "gemini-1741793069996": {
+      "id": "gemini-1741793069996",
+      "object": "chat.completion",
+      "created": 1741793070009,
+      "model": "gemini-2.0-flash",
+      "choices": [
+        {
+          "index": 0,
+          "message": {
+            "role": "assistant",
+            "content": "Hey there! How can I help you today?\n"
+          },
+          "finish_reason": "stop"
+        }
+      ],
+      "usage": {
+        "prompt_tokens": 1,
+        "completion_tokens": 11,
+        "total_tokens": 12
+      }
+    }
+  },
+  "messages": {
+    "user-1-1741793067686-1": 1,
+    "assistant-2-1741793069996-1": 2
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1741793033457",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1741793033457",
+      "content": [
+        {
+          "type": "text",
+          "text": "hey"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1741793067686-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1741793067686-1",
+      "key": "Untitled 1741793033457#user-1-1741793067686-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1741793033457",
+      "content": "Hey there! How can I help you today?\n",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1741793069996-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "gemini-1741793069996",
+      "branch_i": "1741793069996-1",
+      "key": "Untitled 1741793033457#assistant-2-1741793069996-1"
+    }
+  ]
+}
