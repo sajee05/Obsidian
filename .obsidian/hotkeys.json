@@ -1,5 +1,4 @@
 {
-  "editor:open-search": [],
   "smart-composer:open-new-chat": [
     {
       "modifiers": [
@@ -91,6 +90,14 @@
         "Alt"
       ],
       "key": "M"
+    }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
     }
   ]
 }
