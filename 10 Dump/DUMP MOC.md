@@ -3,3 +3,4 @@
 3. [[Strategy]]
 4. [[tentative WORKFLOW]]
 5.  [[A Sense of Purpose]]
+6. [[polity workflow]]

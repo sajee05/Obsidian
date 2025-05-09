@@ -1,4 +1,5 @@
 {
   "folder": "10 Dump",
-  "format": "hh:mm:ss ,ddd-DD-MM-YY"
+  "format": "hh:mm:ss ,ddd-DD-MM-YY",
+  "template": "06 Templates/Current Affairs"
 }

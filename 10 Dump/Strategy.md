@@ -7,7 +7,6 @@ kanban-plugin: board
 ## TO-DO #🤔Plan
 
 - [ ] Geography ⏫
-- [ ] Polity ⏫ May
 - [ ] Sociology ⏫
 - [ ] Mapping
 - [ ] Essay
@@ -27,6 +26,7 @@ kanban-plugin: board
 
 - [ ] Economics ⏫ by 7 May
 - [ ] foundation + standard book anki
+- [ ] Polity ⏫ May
 
 
 ## DONE✅
