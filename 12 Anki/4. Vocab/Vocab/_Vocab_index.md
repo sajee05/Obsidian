@@ -2,6 +2,7 @@
 
 ## Notes
 
+- [[4. Vocab/Vocab/Cartelisation_1746734349056.md|Cartelisation]]
 - [[4. Vocab/Vocab/Accord_1736249782969.md|Accord]]
 - [[4. Vocab/Vocab/civil_1736249819146.md|civil]]
 - [[4. Vocab/Vocab/altruism_1736249829439.md|altruism]]
@@ -94,4 +95,6 @@
 - [[4. Vocab/Vocab/Antenatal_1743886005492.md|Antenatal]]
 - [[4. Vocab/Vocab/Neonatal_1743886364007.md|Neonatal]]
 - [[4. Vocab/Vocab/Cadastral_1743886557500.md|Cadastral]]
+- [[4. Vocab/Vocab/impediments_1746559154728.md|impediments]]
+- [[4. Vocab/Vocab/Mercantilism_1746563265235.md|Mercantilism]]
 - [[4. Vocab/Vocab/{{c1_image-occlusion_rect_left=.4813_top=.1925_width=.1839_height=.1154_oi=1}} {{c2_image-occlusion_1736973759860.md|{{c1::image-occlusion:rect:left=.4813:top=.1925:width=.1839:height=.1154:oi=1}} ...]]

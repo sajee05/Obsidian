@@ -8,6 +8,11 @@
 - [[1️. Foundation/Economics/2. Inequality/_2. Inequality_index.md|2. Inequality MOC]]
 #### 3. Unemployment
 - [[1️. Foundation/Economics/3. Unemployment/_3. Unemployment_index.md|3. Unemployment MOC]]
+#### 4. Basic concepts, National income, etc
+- [[1️. Foundation/Economics/4. Basic concepts, National income, etc/_4. Basic concepts, National income, etc_index.md|4. Basic concepts, National income, etc MOC]]
+#### 5. Inflation
+- [[1️. Foundation/Economics/5. Inflation/_5. Inflation_index.md|5. Inflation MOC]]
+#### 6. Money supply and monetary policy
 ### PolityMCF
 
 ## 2. Facts & mapping
@@ -18,29 +23,17 @@
 ##### 2. Capitals
 - [[2. Facts & mapping/Mapping/Indian Mapping/2. Capitals/_2. Capitals_index.md|2. Capitals MOC]]
 ##### 3. National Parks
-- [[2. Facts & mapping/Mapping/Indian Mapping/3. National Parks/_3. National Parks_index.md|3. National Parks MOC]]
 ##### Biosphere Reserves
-- [[2. Facts & mapping/Mapping/Indian Mapping/Biosphere Reserves/_Biosphere Reserves_index.md|Biosphere Reserves MOC]]
 ##### Lakes
-- [[2. Facts & mapping/Mapping/Indian Mapping/Lakes/_Lakes_index.md|Lakes MOC]]
 ##### Major tribes
-- [[2. Facts & mapping/Mapping/Indian Mapping/Major tribes/_Major tribes_index.md|Major tribes MOC]]
 ##### Mountain passes
-- [[2. Facts & mapping/Mapping/Indian Mapping/Mountain passes/_Mountain passes_index.md|Mountain passes MOC]]
 ##### Ports
-- [[2. Facts & mapping/Mapping/Indian Mapping/Ports/_Ports_index.md|Ports MOC]]
 ##### Ramsar Sites
-- [[2. Facts & mapping/Mapping/Indian Mapping/Ramsar Sites/_Ramsar Sites_index.md|Ramsar Sites MOC]]
 ##### Rivers
-- [[2. Facts & mapping/Mapping/Indian Mapping/Rivers/_Rivers_index.md|Rivers MOC]]
 ##### Tiger Reserves
-- [[2. Facts & mapping/Mapping/Indian Mapping/Tiger Reserves/_Tiger Reserves_index.md|Tiger Reserves MOC]]
 ##### UNESCO WHS
-- [[2. Facts & mapping/Mapping/Indian Mapping/UNESCO WHS/_UNESCO WHS_index.md|UNESCO WHS MOC]]
 ##### Wildlife sanctuary
-- [[2. Facts & mapping/Mapping/Indian Mapping/Wildlife sanctuary/_Wildlife sanctuary_index.md|Wildlife sanctuary MOC]]
 ##### harappan sites
-- [[2. Facts & mapping/Mapping/Indian Mapping/harappan sites/_harappan sites_index.md|harappan sites MOC]]
 #### World Mapping
 ##### Country - Capital
 ##### Map - Country
@@ -63,5 +56,5 @@
 ### phrase-bank
 - [[4. Vocab/phrase-bank/_phrase-bank_index.md|phrase-bank MOC]]
 
-## test
-- [[test/_test_index.md|test MOC]]
+## PAN
+- [[PAN/_PAN_index.md|PAN MOC]]

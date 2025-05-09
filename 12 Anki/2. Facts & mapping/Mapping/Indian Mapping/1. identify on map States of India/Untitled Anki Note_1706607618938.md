@@ -1,7 +1,7 @@
 ---
 anki_note_id: 1706607618938
-anki_note_mod: 1724411877
-content_hash: 201ea32a3d0763dfca59b753806fd855
+anki_note_mod: 1746708932
+content_hash: e2c6dfcf5bf05230068350531134171f
 ---
 
 ## Front
@@ -14,4 +14,5 @@ content_hash: 201ea32a3d0763dfca59b753806fd855
 
 Dadra and Nagar Haveli  
 DN  
-(Union Territory)
+(Union Territory)  
+![](paste-0c7ceef53e1c7117c341cad4ecb43acf466f10b6.jpg)
