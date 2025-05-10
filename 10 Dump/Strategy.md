@@ -26,7 +26,7 @@ kanban-plugin: board
 
 - [ ] Economics ⏫ by 7 May
 - [ ] foundation + standard book anki
-- [ ] Polity ⏫ May
+- [ ] Polity ⏫ May [[polity workflow]]
 
 
 ## DONE✅
