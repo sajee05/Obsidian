@@ -18,7 +18,7 @@
 
 -COPY working hai,
 preprepo-GUI not working. - NOT REALLY IMP TO FIX EITHER. FOCUS ON ROI. FOCUS ON GOAL.
-![[image.png]]
+![[image 1.png]]
 
 - this already contains <> and </> you will see when you copy.
 - this is not a necessity right now, do it in your absolute free time. Priority rn is `Daily Targets and [[Strategy]]`
