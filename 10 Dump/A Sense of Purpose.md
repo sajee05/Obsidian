@@ -2,6 +2,7 @@
 ![[msg-93103-29.jpg]]
 
 ## Am i capable enough: Economically 💰 and Attractiveness 👦 to be with someone like her? will she date a *computer nerd* or *IAS officer with prestige and Power*? 
+![[image-7.png]]
 ![[msg-93103-31-1.jpg]]
 ![[msg-93103-26.jpg]]
 
@@ -14,4 +15,4 @@
 ![[image-4.png]]
 ![[image-1.png]]
 ![[image.png]]
-![[msg-93103-30.jpg]]![[msg-93103-28.jpg]]
+![[msg-93103-30.jpg]]![[image-6.png]]![[msg-93103-28.jpg]]
