@@ -25,7 +25,6 @@ kanban-plugin: board
 ## DOING♻️
 
 - [ ] Economics ⏫ by 7 May
-- [ ] foundation + standard book anki
 - [ ] Polity ⏫ May [[polity workflow]]
 
 
@@ -34,8 +33,22 @@ kanban-plugin: board
 **Complete**
 
 
+## Polity #Pol⚖️
+
+- [ ] foundation
+- [ ] Laxmikant = zotero
+- [ ] mains notes
+- [ ] anki = only stuff required to be remembered after at least 2 reads of laxmikant actively.
+- [ ] cse pyqs
+- [ ] forum toolkit
+- [ ] 2 mocks
+- [ ] 20 answers
+
+
 ## Economics #💵Eco
 
+- [ ] foundation
+- [ ] all foundation => anki
 - [ ] mains notes
 - [ ] cse pyqs
 - [ ] forum toolkit
@@ -54,16 +67,6 @@ kanban-plugin: board
 
 
 ## Geography #Geo🌍
-
-- [ ] foundation + standard book anki
-- [ ] mains notes
-- [ ] cse pyqs
-- [ ] forum toolkit
-- [ ] 2 mocks
-- [ ] 20 answers
-
-
-## Polity #Pol⚖️
 
 - [ ] foundation + standard book anki
 - [ ] mains notes
@@ -221,6 +224,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,null,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true]}
 ```
 %%
