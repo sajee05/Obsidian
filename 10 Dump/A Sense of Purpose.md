@@ -1,4 +1,8 @@
-## Gotta Do it for my Dad💗. My Mom💞. My Sister💝.
+## Gotta Do it for my Dad💗. My Mom💞. My Sister💝
+
+* IAS Baniwinne pachi koi na nai choye daawat me achan jo - papa
+* Jaldi IAS Baniwin Pachi har 2-3 mahino me nawe nawe banglow me winnas - mom.
+
 ![[msg-93103-29.jpg]]
 
 ## Am i capable enough: Economically 💰 and Attractiveness 👦 to be with someone like her? will she date a *computer nerd* or *IAS officer with prestige and Power*? 
