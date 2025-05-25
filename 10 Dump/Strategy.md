@@ -20,6 +20,7 @@ kanban-plugin: board
 - [ ] Medieval History
 - [ ] Ancient History
 - [ ] Modern History
+- [ ] 1 Week recap after foundation. https://youtube.com/playlist?list=PLXKNhxEsVhFvvckkuIm5vIx-k9Ip14S9P&feature=shared
 
 
 ## DOING♻️
