@@ -113,7 +113,7 @@ kanban-plugin: board
 - [ ] 20 answers
 
 
-## CSAT #csat🔢
+## CSAT start after 4 CORE!🔺  #csat🔢
 
 - [ ] foundation + standard book anki
 - [ ] mains notes
