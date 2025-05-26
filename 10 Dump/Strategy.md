@@ -59,7 +59,7 @@ kanban-plugin: board
 
 ## Sociology #🫂Socio
 
-- [ ] foundation + standard book anki
+- [ ] foundation + standard book anki / nice ias + level up crash course.
 - [ ] mains notes
 - [ ] cse pyqs
 - [ ] forum toolkit
@@ -225,6 +225,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,true,true,true,true,true,true,true,true,true,true,true,true,true,true,true]}
+{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true]}
 ```
 %%
