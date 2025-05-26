@@ -1,5 +1,5 @@
 * 2025-05-27
-* subject tags: 
+* subject tags: #🫂Socio 
 ## Syllabus Pointers
 1. modernity and social changes in Europe and emergence of Sociology
 2. Scope of subject and comparison with other social sciences
@@ -63,7 +63,7 @@
 ## Topics: 
 
 - [ ] modernity and social changes in Europe and emergence of Sociology
-- [ ] french and indsutrial revolution
+- [ ] french and industrial revolution
 - [ ] enlightenment and renaissance
 - [ ] scope of subjection
 - [ ] comparison w other social sciences
