@@ -60,7 +60,7 @@
 3. How is sociology related to common sense? (2021-10M)
 
 - i am planning to add my notes here like this. would be nice to have socio and cs backlinked to its common sense mentioned in some other note. 
-## Topics: 
+## Topics To: 
 
 - [ ] modernity and social changes in Europe and emergence of Sociology
 - [ ] french and industrial revolution
