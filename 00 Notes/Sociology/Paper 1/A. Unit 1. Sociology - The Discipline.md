@@ -53,7 +53,6 @@
 10. Delimit the scope of Sociology in relation to other social sciences. (2022-10M)
 11. Discuss the relationship between sociology’ and political science. (2023-10M)
 12. Discuss the nature of Sociology. Highlight its relationship with Social Anthropology. (2024-10M)
-13. 
 ---
 ### Sociology and Common Sense (3 questions)
 1. Is sociology common sense? Give reasons in support of your argument. (2016-10M)
@@ -62,28 +61,6 @@
 
 - i am planning to add my notes here like this. would be nice to have socio and cs backlinked to its common sense mentioned in some other note. 
 ## Topics: 
-#### Dimensions / Question Types
-1.  Write short note (1991, 2011)
-2.  Explain/Discuss linkage/relationship (2008, 2012, 2019)
-3.  Comment (2013, 2021, 2023)
-4.  Discuss (2016)
-5.  Explain contribution/paving way (2015, 2017, 2020, 2022)
-6.  Critically study/examine (1989, 2024)
-7.  Analyze role (2012)
 
-#### Themes / Frequently Tested Concepts
-1.  Modernisation (1991)
-2.  Emergence of sociology linked with modernisation of Europe (2008, 2011)
-3.  Emergence of Sociology & social reformism (USA) (2013)
-4.  Sociology as study of modern societies (2016)
-5.  Historical antecedents of Sociology's emergence (2019)
-6.  Modernity's emergence in Europe (2021)
-7.  Tradition and Modernity relationship (antithetical?) (2023)
-8.  French Revolution's role in emergence of Sociology (1989, 2012)
-9.  Industrial Revolution's role in emergence of Sociology (1999, 2012)
-10. Intellectual sources/background for rise of Sociology (1994, 2006, 2020)
-11. Ideology and emergence of sociology (1993)
-12. Enlightenment's contribution to emergence of Sociology (2015, 2017, 2022, 2024)
-13. Renaissance's contribution to emergence of Sociology (2024)
-14. Rationality and scientific temper in emergence of sociology (2017)
-## NOTES
+- [ ] modernity and social changes in Europe and emergence of Sociology
+- [ ] 
