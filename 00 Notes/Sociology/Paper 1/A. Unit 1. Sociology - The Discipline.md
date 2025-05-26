@@ -72,3 +72,4 @@
 ## Notes
 
 ### Modernity and social changes in Europe and emergence of Sociology. 
+
