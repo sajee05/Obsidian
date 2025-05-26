@@ -1,10 +1,10 @@
 * 2025-05-27
 * subject tags: 
-#### Syllabus Pointers
+## Syllabus Pointers
 1. modernity and social changes in Europe and emergence of Sociology
 2. Scope of subject and comparison with other social sciences
 3. Sociology and common sense.
-#### PYQs
+## PYQs
 ### modernity and social changes in Europe and emergence of Sociology (8 questions)
 1. Write short note: Modernisation. (1991-20M)
 2. How is emergence of sociology linked with modernisation of Europe? (2008-60M)
@@ -86,4 +86,4 @@
 12. Enlightenment's contribution to emergence of Sociology (2015, 2017, 2022, 2024)
 13. Renaissance's contribution to emergence of Sociology (2024)
 14. Rationality and scientific temper in emergence of sociology (2017)
-
+## NOTES
