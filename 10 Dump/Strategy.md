@@ -59,12 +59,12 @@ kanban-plugin: board
 
 ## Sociology #🫂Socio
 
-- [ ] foundation + standard book anki / nice ias + level up crash course.
+- [ ] Nitin sangwan - familiarity w Sociology
+- [ ] Shivam chandra notes
+- [ ] Level-up crash course
 - [ ] mains notes
 - [ ] cse pyqs
-- [ ] forum toolkit
-- [ ] 2 mocks
-- [ ] 20 answers
+- [ ] 2 answers each topic.
 
 
 ## Geography #Geo🌍
