@@ -63,4 +63,8 @@
 ## Topics: 
 
 - [ ] modernity and social changes in Europe and emergence of Sociology
-- [ ] 
+- [ ] french and insutrial revolution
+- [ ] enlightenment and renaissance
+- [ ] scope of subjection
+- [ ] comparison w other social sciences
+- [ ] sociology and commonsense.
