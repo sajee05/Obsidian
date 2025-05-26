@@ -4,7 +4,9 @@
 * (relevant syllabus pointers here)
 ## PYQs
 * PYQs as it is from Original PYQs Folder
-## Topics: 
+## Topics To-do: 
 - [x] PYQ Topics / headings.
 
+## Notes
 
+### Topic 1.
