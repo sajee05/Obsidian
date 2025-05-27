@@ -6,8 +6,8 @@ kanban-plugin: board
 
 ## TO-DO #🤔Plan
 
+- [ ] mains advance course- vision
 - [ ] Geography ⏫
-- [ ] Sociology ⏫
 - [ ] Mapping
 - [ ] Essay
 - [ ] CSAT ⚠️
@@ -27,6 +27,7 @@ kanban-plugin: board
 
 - [ ] Economics ⏫ by 7 May
 - [ ] Polity ⏫ May [[polity workflow]]
+- [ ] Sociology ⏫
 
 
 ## DONE✅
