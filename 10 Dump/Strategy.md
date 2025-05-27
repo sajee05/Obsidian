@@ -220,7 +220,7 @@ kanban-plugin: board
 - [ ] National Income -calculations
 
 
-## Current Affairs
+## Current Affairs #ca📰
 
 - [ ] Next IAS quiz monthly magazine : try to brainstorm and solve with static knowledge by intelligent guess work. (requirement for the exam)
 - [ ] PT 365 : 1. use as active recall tool, 2. fill the gaps. 3. notes in the index
@@ -246,6 +246,6 @@ kanban-plugin: board
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,false,true,true,true,true,true,true,true,true,true,true,true,true,true,true,false]}
+{"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,false,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true]}
 ```
 %%
