@@ -59,10 +59,9 @@ kanban-plugin: board
 
 ## Sociology #🫂Socio
 
-- [ ] Nitin sangwan - familiarity w Sociology
-- [ ] Shivam chandra notes
-- [ ] Level-up crash course
-- [ ] mains notes
+- [ ] 1. Next IAS notes + levelup socio crash course = base
+- [ ] mains notes => short from 1.
+- [ ] Value addition from toppers notes / n sangwan / nice ias / forum ias / topper copies / ignou / haralambos / pranay agarwal sir etc. in mains notes
 - [ ] cse pyqs
 - [ ] 2 answers each topic.
 
