@@ -60,8 +60,9 @@ kanban-plugin: board
 
 ## Sociology #🫂Socio
 
-- [ ] 1. Next IAS notes + levelup socio crash course = base
-- [ ] mains notes => short from 1.
+- [ ] 1. Pranay sir's notes (lecture transcript notes) = base
+- [ ] Nitin sangwan alongside.
+- [ ] Mains notes => base + minimal nitin sangwan
 - [ ] Value addition from toppers notes / n sangwan / nice ias / forum ias / topper copies / ignou / haralambos / pranay agarwal sir etc. in mains notes
 - [ ] cse pyqs
 - [ ] 2 answers each topic.
