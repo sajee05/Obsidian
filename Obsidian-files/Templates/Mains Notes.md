@@ -1,12 +1,15 @@
 * {{date}}
-* subject tags: 
-## Syllabus Pointers
-* (relevant syllabus pointers here)
-## PYQs
-* PYQs as it is from Original PYQs Folder
-## Topics To-do: 
-- [x] PYQ Topics / headings.
+### Inter-linkages
+* (relevant syllabus pointers here- prelims, mains, socio)
+### Topics To-do: 
+- [x] PYQ Topics / headings / Themes / Static.
 
-## Notes
+### Notes
+#### Topic 1
+**Introduction
 
-### Topic 1.
+**Body**
+
+**Conclusion**
+
+**Important Keywords**
