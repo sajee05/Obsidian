@@ -1,6 +1,3 @@
-1. [[Obsidian UPSC video on YouTube]]
-2. [[PREPMAP - Semantic RAG + Perplexity (Road-Map)]]
-3. [[Strategy]]
-4. [[tentative WORKFLOW]]
-5.  [[A Sense of Purpose]]
-6. [[polity workflow]]
+
+1. [[Strategy]]
+2.  [[A Sense of Purpose]]

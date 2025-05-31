@@ -5,6 +5,6 @@
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
-  "showRibbon": true,
+  "showRibbon": false,
   "interfaceFontFamily": "Bahnschrift"
 }
