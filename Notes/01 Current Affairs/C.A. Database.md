@@ -1,54 +1,38 @@
-```dataviewjs
-dv.header(3, "Path Test 1: Full Path with Leading Slash");
-const path1 = "/Notes/01 Current Affairs/Current Affairs";
-const pages1 = dv.pages(`"${path1}"`);
-dv.paragraph(`Querying: "${path1}"`);
-dv.paragraph(`Pages found: ${pages1.length}`);
-if (pages1.length > 0) {
-    dv.list(pages1.map(p => p.file.name));
-} else {
-    dv.paragraph("No pages found with Path 1.");
-}
+```querydash
+const subjectTags = ["History", "Geography", "Polity", "Society", "IR", "S&T", "Environment", "Ethics"];
+const relevanceTags = ["Prelims", "Essay", "Optional", "GS1", "GS2", "GS3", "GS4"];
+// **IMPORTANT**: Confirm this is the correct path from your vault root to your notes
+const folderPath = "Notes/01 Current Affairs/Current Affairs";
 
-dv.header(3, "Path Test 2: Full Path without Leading Slash");
-const path2 = "Notes/01 Current Affairs/Current Affairs";
-const pages2 = dv.pages(`"${path2}"`);
-dv.paragraph(`Querying: "${path2}"`);
-dv.paragraph(`Pages found: ${pages2.length}`);
-if (pages2.length > 0) {
-    dv.list(pages2.map(p => p.file.name));
-} else {
-    dv.paragraph("No pages found with Path 2.");
-}
+let pages = dv.pages(`"${folderPath}"`)
+    .where(p => p.file.name !== dv.current().file.name) // Exclude the current file
+    .sort(p => p.file.name, 'asc'); // Sort by file name ascending
 
-dv.header(3, "Path Test 3: Simpler Path (Parent of Target)");
-const path3 = "Notes/01 Current Affairs/Current Affairs";
-const pages3 = dv.pages(`"${path3}"`);
-dv.paragraph(`Querying: "${path3}"`);
-dv.paragraph(`Pages found: ${pages3.length}`);
-if (pages3.length > 0) {
-    dv.list(pages3.map(p => p.file.name + (p.file.isFolder ? " (FOLDER)" : " (FILE)")));
-    // Specifically check if 'Current Affairs' subfolder is seen
-    const caFolder = pages3.find(p => p.file.name === "Current Affairs" && p.file.isFolder);
-    if (caFolder) {
-        dv.paragraph("Found 'Current Affairs' subfolder in Path 3.");
-    } else {
-        dv.paragraph("Did NOT find 'Current Affairs' subfolder in Path 3.");
-    }
-} else {
-    dv.paragraph("No pages found with Path 3.");
-}
+if (pages.length > 0) {
+    dv.table(
+        ["Name", "Subject", "Topic", "Relevance", "Syllabus Link"],
+        pages.map(p => {
+            // Get all tags from the file (they include the '#' prefix)
+            // and remove the '#' prefix for comparison and display
+            const allPageTags = p.file.tags ? p.file.tags.map(tag => tag.substring(1)) : [];
 
-dv.header(3, "Path Test 4: Even Simpler Path (Notes Folder)");
-const path4 = "/Notes";
-const pages4 = dv.pages(`"${path4}"`);
-dv.paragraph(`Querying: "${path4}"`);
-dv.paragraph(`Pages found: ${pages4.length}`);
-if (pages4.length > 0) {
-    dv.list(pages4.map(p => p.file.name + (p.file.isFolder ? " (FOLDER)" : " (FILE)")));
-} else {
-    dv.paragraph("No pages found with Path 4.");
-}
+            const pageSubject = allPageTags.filter(tag => subjectTags.includes(tag));
+            const pageRelevance = allPageTags.filter(tag => relevanceTags.includes(tag));
+            const pageTopic = allPageTags.filter(tag => 
+                !subjectTags.includes(tag) && 
+                !relevanceTags.includes(tag)
+            );
 
-dv.paragraph("--- End of Diagnostic ---");
+            return [
+                p.file.link,
+                pageSubject, // dv.table will display arrays nicely
+                pageTopic,
+                pageRelevance,
+                p.file.outlinks // This is already an array of links
+            ];
+        })
+    );
+} else {
+    dv.paragraph("DataviewJS: No results to show for table query. Check folder path and note content.");
+}
 ```
