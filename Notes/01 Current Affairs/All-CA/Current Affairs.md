@@ -7,7 +7,6 @@ database-plugin: basic
 ```yaml:dbfolder
 name: CA-db
 description: Databse for All Current Affairs
-
 columns:
   __file__:
     key: __file__
