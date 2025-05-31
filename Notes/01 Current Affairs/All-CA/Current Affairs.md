@@ -5,8 +5,8 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
-description: new description
+name: CA-db
+description: Databse for All Current Afa
 columns:
   __file__:
     key: __file__

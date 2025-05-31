@@ -1,4 +1,0 @@
----
-Topic:
-  - Places in News
----
