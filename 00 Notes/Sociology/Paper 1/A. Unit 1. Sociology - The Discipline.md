@@ -59,7 +59,6 @@
 2. The focal point of Sociology rests on interaction. How do you distinguish it from coimnon sense? (2018-10M)
 3. How is sociology related to common sense? (2021-10M)
 
-- i am planning to add my notes here like this. would be nice to have socio and cs backlinked to its common sense mentioned in some other note. 
 ## Topics To-do: 
 
 - [ ] modernity and social changes in Europe and emergence of Sociology
