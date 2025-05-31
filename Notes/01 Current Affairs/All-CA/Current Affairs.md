@@ -74,6 +74,32 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  Relevance:
+    input: tags
+    accessorKey: Relevance
+    key: Relevance
+    id: Relevance
+    label: Relevance
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "Optional", value: "Optional", color: "hsl(263, 95%, 90%)"}
+      - { label: "GS1", value: "GS1", color: "hsl(308, 95%, 90%)"}
+      - { label: "GS2", value: "GS2", color: "hsl(204, 95%, 90%)"}
+      - { label: "GS3", value: "GS3", color: "hsl(189, 95%, 90%)"}
+      - { label: "GS4", value: "GS4", color: "hsl(96, 95%, 90%)"}
+      - { label: "ESSAY", value: "ESSAY", color: "hsl(317, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: wide
