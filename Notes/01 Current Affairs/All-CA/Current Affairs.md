@@ -18,7 +18,7 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
     config:
@@ -30,34 +30,14 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Subject:
-    input: tags
-    accessorKey: Subject
-    key: Subject
-    id: Subject
-    label: Subject
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "mains", value: "mains", color: "hsl(47, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
+      wrap_content: true
   Topic:
     input: tags
     accessorKey: Topic
     key: Topic
     id: Topic
     label: Topic
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -81,7 +61,27 @@ columns:
     key: Relevance
     id: Relevance
     label: Relevance
-    position: 100
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Syllabus_Link:
+    input: tags
+    accessorKey: Syllabus_Link
+    key: Syllabus_Link
+    id: Syllabus_Link
+    label: Syllabus Link
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
