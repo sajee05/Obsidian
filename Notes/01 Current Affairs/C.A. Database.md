@@ -22,7 +22,7 @@ if (pages2.length > 0) {
 }
 
 dv.header(3, "Path Test 3: Simpler Path (Parent of Target)");
-const path3 = "/Notes/01 Current Affairs";
+const path3 = "Notes/01 Current Affairs/Current Affairs";
 const pages3 = dv.pages(`"${path3}"`);
 dv.paragraph(`Querying: "${path3}"`);
 dv.paragraph(`Pages found: ${pages3.length}`);
