@@ -1,8 +1,9 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "focusNewTab": true,
   "newLinkFormat": "shortest",
-  "strictLineBreaks": true
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "Obsidian-files/Media"
 }

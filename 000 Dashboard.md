@@ -7,8 +7,6 @@
 
 ### Civil Services Notes📚
 
-- [[_Anki_Collection_Index|Anki Decks🗂️]] 
-
 - General Studies  
 	- 01 – [[MOC GS1]] 
 	- 02 – [[MOC GS2]]  
@@ -25,26 +23,6 @@
 
 - Current Affairs  
 	- - [[MOC for C.A]] 
-
-### PYQ and Themes 🛣️
-
-- Prelims
-	1. [[Hist Ancient India]] 47 Questions
-	2. [[Hist Medieval India]] 27 Questions
-	3. [[Hist Art & Culture]] 33 Questions
-	4. [[Hist Modern India]] 70 Questions
-	5. [[Indian Geography]] 56 Questions
-	6. [[World Geography]] 54 Questions
-	7. [[Environment & Ecology And Disaster Management]] 98
-	8. [[Polity and Governance]] 107 Questions
-	9. [[International Relations]] 27 Questions
-	10. [[Economy]] 300 Questions
-	11. [[03 Syllabus and PYQ themes/Prelims/Science and Technology|Science and Technology]] 144 Questions
-	12. [[C.A. and GK, Misc.]] 136 Questions
-
-* Mains
-	* GS : [[GS PYQ Themes]]
-	* Optional: [[Socio PYQ Themes]]
 
 ---
 
