@@ -6,7 +6,8 @@ database-plugin: basic
 
 ```yaml:dbfolder
 name: CA-db
-description: Databse for All Current Afa
+description: Databse for All Current Affairs
+
 columns:
   __file__:
     key: __file__
@@ -105,8 +106,8 @@ config:
   cell_size: wide
   sticky_first_column: true
   group_folder_column: 
-  remove_empty_folders: false
-  automatically_group_files: false
+  remove_empty_folders: true
+  automatically_group_files: true
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
   show_metadata_modified: false
@@ -117,18 +118,18 @@ config:
   source_data: current_folder
   source_form_result: 
   source_destination_path: /
-  row_templates_folder: /
+  row_templates_folder: Obsidian-files/Templates
   current_row_template: 
   pagination_size: 10
-  font_size: 16
+  font_size: 10
   enable_js_formulas: false
   formula_folder_path: /
   inline_default: false
-  inline_new_position: last_field
+  inline_new_position: top
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
-  enable_footer: false
+  enable_footer: true
   implementation: default
 filters:
   enabled: false
