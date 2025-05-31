@@ -55,28 +55,8 @@ columns:
       persist_changes: false
       option_source: manual
       wrap_content: true
-  Relevance:
-    input: tags
-    accessorKey: Relevance
-    key: Relevance
-    id: Relevance
-    label: Relevance
-    position: 2
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Syllabus_Link:
-    input: tags
+    input: text
     accessorKey: Syllabus_Link
     key: Syllabus_Link
     id: Syllabus_Link
@@ -85,7 +65,6 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
