@@ -5,6 +5,8 @@
 
 ### Civil Services Notes📚
 
+- [[MOC Prelims|Prelims]]
+
 - General Studies  
 	- 01 – [[MOC GS1|GS1]] 
 	- 02 – [[MOC GS2|GS2]]
