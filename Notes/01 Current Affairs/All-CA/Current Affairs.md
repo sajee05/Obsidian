@@ -41,6 +41,7 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "mains", value: "mains", color: "hsl(47, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -92,8 +93,8 @@ columns:
       persist_changes: false
 config:
   remove_field_when_delete_column: false
-  cell_size: normal
-  sticky_first_column: false
+  cell_size: wide
+  sticky_first_column: true
   group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
