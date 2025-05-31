@@ -1,4 +1,4 @@
 
-| **SUBJECT**                    | SYLLABUS | **TAGS**           |
-| ------------------------------ | -------- | ------------------ |
-| [[ethics]]<br>[[case studies]] |          | #Ethics-Examples😇 |
+| SYLLABUS | **TAGS**           |
+| -------- | ------------------ |
+|          | #Ethics-Examples😇 |

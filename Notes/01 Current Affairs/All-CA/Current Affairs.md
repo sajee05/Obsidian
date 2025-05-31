@@ -21,6 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    width: 325
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,14 +31,15 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: true
+      wrap_content: false
+      footer_formula: 
   Topic:
     input: tags
     accessorKey: Topic
     key: Topic
     id: Topic
     label: Topic
-    position: 3
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -65,6 +67,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 167
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -80,7 +83,7 @@ columns:
     key: Relevance
     id: Relevance
     label: Relevance
-    position: 100
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -120,11 +123,11 @@ config:
   row_templates_folder: Obsidian-files/Templates
   current_row_template: 
   pagination_size: 10
-  font_size: 10
+  font_size: 15
   enable_js_formulas: false
   formula_folder_path: /
   inline_default: false
-  inline_new_position: top
+  inline_new_position: last_field
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"

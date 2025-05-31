@@ -1,6 +1,6 @@
 # Home
 
-###  🍉 [[A Sense of Purpose|Visualize : A Sense of Purpose]]
+###  🍉 [[Visualization|Visualize : A Sense of Purpose]]
 ### 🎯 [[Strategy]]
 
 ### 🚮 [[DUMP MOC|dump-random]] 

@@ -1,9 +1,9 @@
 
-| **SUBJECT**          | SYLLABUS | **TAG**   |
-| -------------------- | -------- | --------- |
-| [[ancient history]]  |          | #AMAC🧓   |
-| [[medieval history]] |          | #AMAC🧓   |
-| [[art and culture]]  |          | #AMAC🧓   |
-| [[modern history]]   |          | #MH🥳     |
-| [[Geography]]        |          | #Geo🌍    |
-| [[Society]]          |          | #🫂Socio  |
+| SYLLABUS | **TAG**  |
+| -------- | -------- |
+|          | #AMAC🧓  |
+|          | #AMAC🧓  |
+|          | #AMAC🧓  |
+|          | #MH🥳    |
+|          | #Geo🌍   |
+|          | #🫂Socio |
