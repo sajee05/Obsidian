@@ -62,6 +62,8 @@ columns:
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "AI", value: "AI", color: "hsl(26, 95%, 90%)"}
+      - { label: "Places in News", value: "Places in News", color: "hsl(281, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -71,6 +73,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      wrap_content: true
   Relevance:
     input: tags
     accessorKey: Relevance
