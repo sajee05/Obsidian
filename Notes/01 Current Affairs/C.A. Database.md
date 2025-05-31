@@ -1,4 +1,4 @@
-```querydash
+```dataviewjs
 const subjectTags = ["History", "Geography", "Polity", "Society", "IR", "S&T", "Environment", "Ethics"];
 const relevanceTags = ["Prelims", "Essay", "Optional", "GS1", "GS2", "GS3", "GS4"];
 // **IMPORTANT**: Confirm this is the correct path from your vault root to your notes
