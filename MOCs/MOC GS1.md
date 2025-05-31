@@ -1,16 +1,16 @@
 **Indian Heritage and Culture, History and Geography of the World and Society**
 
-| **SYLLABUS** |
-| ------------ |
-|              |
-|              |
-|              |
-|              |
-|              |
-|              |
-- Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times.
-- Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues
-- The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country
+| **SYLLABUS**                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| Indian culture will cover the salient aspects of Art Forms, Literature and Architecture from ancient to modern times.              |
+| Modern Indian history from about the middle of the eighteenth century until the present- significant events, personalities, issues |
+| The Freedom Struggle - its various stages and important contributors /contributions from different parts of the country            |
+|                                                                                                                                    |
+|                                                                                                                                    |
+|                                                                                                                                    |
+- 
+- 
+- 
 - Post-independence consolidation and reorganization within the countryHistory of the world will include events from 18th century such as industrial revol, political philosophies like communism, capitalism, socialism etc.- their forms and effect on the society
 - Salient features of Indian Society, Diversity of India
 - Role of women and women's organization, population and associated issues, poverty and developmental issues, urbanization, their problems and their remedies
