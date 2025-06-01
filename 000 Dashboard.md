@@ -25,7 +25,11 @@
 
 ## Important Tags 🏷️
 
-| Emojis                    | Tags                        | Shortcut key         |
-| ------------------------- | --------------------------- | -------------------- |
-| Remember/Forgetting       | #📍remember/forgetting      | Round Pushpin        |
+| Emojis            | Tags                   | Purpose                                             |
+| ----------------- | ---------------------- | --------------------------------------------------- |
+| Forgetting        | #📍remember/forgetting | for something which i am forgetting again and again |
+| Remember          | #📍remember            | For something important.                            |
+| Spaced Repetition | #⏱️Review              | For spaced repetiton                                |
+| Lectures Notes    | #📹Lecture             | For Lectures Spaced repetition and active recall    |
+|                   |                        |                                                     |
 
