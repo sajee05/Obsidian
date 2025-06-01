@@ -246,7 +246,7 @@ Subject:
 
 ### Word Origin and Definition
 
-- **SOCIOLOGY**: Combined by AUGUST COMTE in 1838
+- **SOCIOLOGY**: Coined by AUGUST COMTE in 1838
 - **Latin term**: SOCIOUS (meaning companion or ally/comrade)  
 - **Greek term**: LOGOS (meaning knowledge)
 - Established new discipline dedicated to scientific study of society
