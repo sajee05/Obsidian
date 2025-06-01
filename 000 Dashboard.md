@@ -25,12 +25,12 @@ sr-ease: 410
 
 * #### Sociology
 
-	- - [[MOC Socio Paper 1|Paper 1]]
-	- - [[MOC Socio Paper 2|Paper 2]]
+	-  [[MOC Socio Paper 1|Paper 1]]
+	-  [[MOC Socio Paper 2|Paper 2]]
 
 - #### Prelims
-- [[Current Affairs]]
-- [[MOC Prelims|Prelims and CSAT]]
+	- [[Current Affairs]]
+	- [[MOC Prelims|Prelims and CSAT]]
 ---
 
 ## Important Tags 🏷️
