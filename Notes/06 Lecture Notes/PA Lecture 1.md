@@ -246,14 +246,14 @@ Subject:
 
 ### Word Origin and Definition
 
-- **SOCIOLOGY**: Combined by AUGUST COMTE in 1838
+- **SOCIOLOGY**: Combined by AUGUST COMTE in 1838 - Established new discipline dedicated to scientific study of society
 - **Latin term**: SOCIOUS (meaning companion or ally/comrade)  
 - **Greek term**: LOGOS (meaning knowledge)
-- Established new discipline dedicated to scientific study of society
+
 
 ### Formal Definitions
 
-- **According to COMTE**: Discipline dedicated to scientific study of society
+- **According to AUGUST COMTE**: Discipline dedicated to scientific study of society
 - **According to KINGSLAY DAVIS**: "Sociology is a general science of society"
 - **Basic Definition**: Sociology is the systematic and scientific study of society
 
