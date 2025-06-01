@@ -270,6 +270,7 @@ Examples include:
 - Parent-child relationship
 - Ruler-ruled relationship
 
+**2. Social Groups**
 ## SOCIAL RELATIONSHIPS AND GROUPS (124:03)
 
 ### Social Groups Definition
