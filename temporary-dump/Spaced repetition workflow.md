@@ -1,19 +1,7 @@
 ---
-sr-due: 2025-06-01
+sr-due: 2026-06-01
 sr-interval: NaN
-sr-ease: 290
-sr-due: 2025-06-01
-sr-interval: NaN
-sr-ease: 310
-sr-due: 2025-06-01
-sr-interval: NaN
-sr-ease: 330
-sr-due: 2025-06-01
-sr-interval: NaN
-sr-ease: 350
-sr-due: 2025-06-01
-sr-interval: NaN
-sr-ease: 370
+sr-ease: 410
 ---
 
 **For Notes**
