@@ -1,3 +1,8 @@
+---
+sr-interval: 3
+sr-ease: 999999
+---
+
 # Home
 
 ###  🍉 [[Visualization|Visualize : A Sense of Purpose]]

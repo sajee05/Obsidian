@@ -1,3 +1,9 @@
+---
+sr-due: 2025-06-04
+sr-interval: 3
+sr-ease: 270
+---
+
 **For Notes**
 add #review tag, double shift/3 dots = hard/good/easy 
 
