@@ -1,3 +1,9 @@
+---
+Teacher:
+  - Pranay sir
+Subject:
+  - Sociology
+---
 # UPSC Sociology Optional - Orientation Lecture: Course Methodology and Introduction to Sociology
 
 ## INTRODUCTION AND COURSE OVERVIEW (00:47)

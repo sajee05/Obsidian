@@ -18,6 +18,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
+    position: 0
+    isHidden: false
+    sortIndex: -1
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -34,6 +37,34 @@ columns:
     id: Teacher
     label: Teacher
     position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 138
+    options:
+      - { label: "Pranay sir", value: "Pranay sir", color: "hsl(291, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  Subject:
+    input: tags
+    accessorKey: Subject
+    key: Subject
+    id: Subject
+    label: Subject
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 146
+    options:
+      - { label: "Sociology", value: "Sociology", color: "hsl(159, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
