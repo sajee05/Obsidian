@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 325
+    width: 452
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -43,6 +43,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 134
     options:
       - { label: "AI", value: "AI", color: "hsl(26, 95%, 90%)"}
       - { label: "Places in News", value: "Places in News", color: "hsl(281, 95%, 90%)"}
@@ -67,7 +68,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 167
+    width: 303
     config:
       enable_media_view: true
       link_alias_enabled: true
