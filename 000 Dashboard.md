@@ -1,6 +1,9 @@
 ---
 sr-interval: 3
 sr-ease: 999999
+sr-due: 2026-06-01
+sr-interval: 365
+sr-ease: 410
 ---
 
 # Home
