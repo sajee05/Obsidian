@@ -35,12 +35,12 @@ sr-ease: 410
 
 ## Important Tags 🏷️
 
-| Emojis            | Tags                   | Purpose                                             |
-| ----------------- | ---------------------- | --------------------------------------------------- |
-| Forgetting        | #📍remember/forgetting | for something which i am forgetting again and again |
-| Remember          | #📍remember            | For something important.                            |
-| Spaced Repetition | #⏱️Review              | For spaced repetition - mains notes mostly          |
-| Lectures Notes    | #📹Lecture             | For Lectures Spaced repetition and active recall    |
-|                   |                        |                                                     |
-|                   |                        |                                                     |
+| Emojis            | Tags                       | Purpose                                             |
+| ----------------- | -------------------------- | --------------------------------------------------- |
+| Forgetting        | #📍remember/forgetting     | for something which i am forgetting again and again |
+| Remember          | #📍remember                | For something important.                            |
+| Spaced Repetition | #⏱️Review                  | For spaced repetition - mains notes mostly          |
+| Lectures Notes    | #📹Lecture                 | For Lectures Spaced repetition and active recall    |
+|                   |                            |                                                     |
+|                   |                            |                                                     |
 
