@@ -13,6 +13,8 @@ sr-ease: 410
 
 ### Civil Services Notes📚
 
+- [[Lecture Notes]]
+
 - #### General Studies  
 	- 01 – [[MOC GS1|GS1]] 
 	- 02 – [[MOC GS2|GS2]]
