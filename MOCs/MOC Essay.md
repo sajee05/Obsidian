@@ -6,4 +6,15 @@
 - Credit will be given for effective and exact expression
 
 ## Themes:
-1. 
+| Theme | Completion | PYQs - Model answer | Essays Written | Revisions |
+| ----- | ---------- | ------------------- | -------------- | --------- |
+|       | %          | %                   |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
+|       |            |                     |                |           |
