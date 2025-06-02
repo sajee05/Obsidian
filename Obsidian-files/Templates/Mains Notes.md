@@ -1,3 +1,7 @@
+---
+tags:
+  - linker-exclude
+---
 * {{date}}
 ### Inter-linkages
 * (relevant syllabus pointers here- prelims, mains, socio)
