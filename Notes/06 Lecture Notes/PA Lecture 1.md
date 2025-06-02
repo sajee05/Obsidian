@@ -3,6 +3,9 @@ Teacher:
   - Pranay sir
 Subject:
   - Sociology
+sr-due: 2025-06-05
+sr-interval: 3
+sr-ease: 250
 ---
 # UPSC Sociology Optional - Orientation Lecture: Course Methodology and Introduction to Sociology
 
