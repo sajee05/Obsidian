@@ -6,12 +6,12 @@ sr-interval: 365
 sr-ease: 410
 ---
 
-🍉 [[Visualization]] || 🎯 [[Strategy]]
+🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]]
 
 ---
  
-[[Fodder|Answer Writing Fodder]] || [[Ethics Examples]] || [[Sociology Examples]] 
-  
+[[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || [[Ethics Examples]] || [[Sociology Examples]] 
+
 ---
   - [[Lecture Notes]]
 - [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]

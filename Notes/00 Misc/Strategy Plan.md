@@ -1,0 +1,5 @@
+# Current Affairs 
+- I will read atish mathur **tracker pro** daily from ***mains* perspective** only and add fodder and ethics examples and sociology examples alongside. 
+- for *prelims* i will just solve **next ias monthly current affairs Quiz magazine** -> after 4 core subs are done. (no prep beforehand): workflow= Solve with aptitude ➡️ Wrong answer notes from Ascend UPSC to obsidian ➡️ (only very imp ones - do rga) 
+- extra: for *prelims* i will refer to PT365 at the end of this year.
+- for mains - will see. will keep collecting fodder and examples from now. (first point)
