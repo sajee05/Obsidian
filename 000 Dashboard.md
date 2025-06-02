@@ -10,7 +10,7 @@ sr-ease: 410
 
 ###  🍉 [[Visualization|Visualize : A Sense of Purpose]]
 ### 🎯 [[Strategy]]
-
+ 
 ### Civil Services Notes📚
 
 - [[Lecture Notes]]
