@@ -1,9 +1,3 @@
-#### Mock test Notes
-- [[Export (xyz date)]]
-
-
-
-
 **(for making prelims specific pointers, add backlinks to below syllabus pointers.)**
 ### Paper I - (200 marks) Duration: Two hours
 

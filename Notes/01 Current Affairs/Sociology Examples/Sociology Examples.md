@@ -18,10 +18,9 @@ columns:
     skipPersist: false
     isDragDisabled: false
     csvCandidate: true
-    position: 0
+    position: 1
     isHidden: false
     sortIndex: -1
-    width: 133
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -31,21 +30,16 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: true
-  Where_to_use:
-    input: tags
-    accessorKey: Where_to_use
-    key: Where_to_use
-    id: Where_to_use
-    label: Where to use
-    position: 100
+  Linkage_to_Syllabus:
+    input: text
+    accessorKey: Linkage_to_Syllabus
+    key: Linkage_to_Syllabus
+    id: Linkage_to_Syllabus
+    label: Linkage to Syllabus
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 151
-    options:
-      - { label: "Challenges / Issues", value: "Challenges / Issues", color: "hsl(312, 95%, 90%)"}
-      - { label: "fodder points", value: "fodder points", color: "hsl(128, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -55,71 +49,17 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      option_source: manual
-      wrap_content: true
-  Subjects:
-    input: tags
-    accessorKey: Subjects
-    key: Subjects
-    id: Subjects
-    label: Subjects
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 147
-    options:
-      - { label: "ALL", value: "ALL", color: "hsl(291, 95%, 90%)"}
-      - { label: "S&T", value: "S&T", color: "hsl(342, 95%, 90%)"}
-      - { label: "GS3", value: "GS3", color: "hsl(335, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-      wrap_content: true
-  What:
-    input: tags
-    accessorKey: What
-    key: What
-    id: What
-    label: Type
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 151
-    options:
-      - { label: "Framework", value: "Framework", color: "hsl(245, 95%, 90%)"}
-      - { label: "Current Affairs", value: "Current Affairs", color: "hsl(77, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-      wrap_content: true
   Topic:
     input: tags
     accessorKey: Topic
     key: Topic
     id: Topic
     label: Topic
-    position: 100
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
-      - { label: "AI", value: "AI", color: "hsl(60, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true

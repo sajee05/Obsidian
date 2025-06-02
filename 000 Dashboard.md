@@ -6,36 +6,23 @@ sr-interval: 365
 sr-ease: 410
 ---
 
-# Home
+🍉 [[Visualization]] || 🎯 [[Strategy]]
 
-###  🍉 [[Visualization|Visualize : A Sense of Purpose]]
-### 🎯 [[Strategy]]
-
-### Civil Services Notes📚
-
-- #### Spaced Rep Review
-	- [[Lecture Notes]]
-	- [[GS Spaced Repetition]] 
-	- [[Socio Spaced Repetition]] 
-	
-
-- #### Mains Notes
-	- [[MOC GS1|GS1]] 
-	- [[MOC GS2|GS2]]
-	- [[MOC GS3|GS3]]  
-	- [[MOC GS4|GS4]]
-	- [[Fodder|Answer Writing Fodder]]
-
-* #### Essay
-	- 05 - [[MOC Essay|Essay]]
-
-* #### Sociology
-
-	-  [[MOC Socio Paper 1|Paper 1]]
-	-  [[MOC Socio Paper 2|Paper 2]]
-
-- #### Prelims
-	- [[MOC Prelims|Prelims and CSAT]]
+---
+ 
+[[Fodder|Answer Writing Fodder]] || [[Ethics Examples]] || [[Sociology Examples]] 
+  
+---
+  - [[Lecture Notes]]
+- [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]
+- [[MOC Essay|Essay]]
+- [[MOC Prelims|Prelims and CSAT]]
+- [[Mock Test Prelims]] 
+---
+-  [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
+---
+-  [[GS Spaced Repetition]] 🃏
+- [[Socio Spaced Repetition]] 🃏
 ---
 
 ## Important Tags 🏷️
