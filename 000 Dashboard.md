@@ -19,12 +19,11 @@ sr-ease: 410
 	- [[Socio Spaced Repetition]] 
 	
 
-- #### [[Mains Notes]] 
+- #### Mains Notes
 	- 01 – [[MOC GS1|GS1]] 
 	- 02 – [[MOC GS2|GS2]]
 	- 03 – [[MOC GS3|GS3]]  
 	- 04 – [[MOC GS4|GS4]]
-	- [[Current Affairs]]
 
 * #### Essay
 	- 05 - [[MOC Essay|Essay]]
@@ -35,7 +34,6 @@ sr-ease: 410
 	-  [[MOC Socio Paper 2|Paper 2]]
 
 - #### Prelims
-	- [[Current Affairs]]
 	- [[MOC Prelims|Prelims and CSAT]]
 ---
 
