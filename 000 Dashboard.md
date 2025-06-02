@@ -13,17 +13,18 @@ sr-ease: 410
 
 ### Civil Services Notes📚
 
-- #### Review
+- #### Spaced Rep Review
 	- [[Lecture Notes]]
 	- [[GS Spaced Repetition]] 
 	- [[Socio Spaced Repetition]] 
 	
 
 - #### Mains Notes
-	- 01 – [[MOC GS1|GS1]] 
-	- 02 – [[MOC GS2|GS2]]
-	- 03 – [[MOC GS3|GS3]]  
-	- 04 – [[MOC GS4|GS4]]
+	- [[MOC GS1|GS1]] 
+	- [[MOC GS2|GS2]]
+	- [[MOC GS3|GS3]]  
+	- [[MOC GS4|GS4]]
+	- [[Fodder|Answer Writing Fodder]]
 
 * #### Essay
 	- 05 - [[MOC Essay|Essay]]
