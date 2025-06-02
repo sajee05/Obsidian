@@ -10,13 +10,16 @@ sr-ease: 410
 
 ###  🍉 [[Visualization|Visualize : A Sense of Purpose]]
 ### 🎯 [[Strategy]]
- 
+
 ### Civil Services Notes📚
 
-- [[Lecture Notes]]
-- [[GS Spaced Repetition]] 
+- #### Review
+	- [[Lecture Notes]]
+	- [[GS Spaced Repetition]] 
+	- [[Socio Spaced Repetition]] 
+	
 
-- #### General Studies  
+- #### [[Mains Notes]] 
 	- 01 – [[MOC GS1|GS1]] 
 	- 02 – [[MOC GS2|GS2]]
 	- 03 – [[MOC GS3|GS3]]  
