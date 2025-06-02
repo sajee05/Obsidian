@@ -74,6 +74,46 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  sr-due:
+    input: calendar
+    accessorKey: sr-due
+    key: sr-due
+    id: sr-due
+    label: sr-due
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: false
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  sr-interval:
+    input: number
+    accessorKey: sr-interval
+    key: sr-interval
+    id: sr-interval
+    label: sr-interval
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
