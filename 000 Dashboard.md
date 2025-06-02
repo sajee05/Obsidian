@@ -14,6 +14,7 @@ sr-ease: 410
 ### Civil Services Notes📚
 
 - [[Lecture Notes]]
+- [[GS Spaced Repetition]] 
 
 - #### General Studies  
 	- 01 – [[MOC GS1|GS1]] 
