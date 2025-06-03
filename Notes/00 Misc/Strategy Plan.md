@@ -11,5 +11,5 @@
 - Vision IAS lectures atm prelims. Ultra notes me notes banalunga with blank maps. Anki ka time nahi hoga. 
 - Mapping left for later. = Civils daily flashnotes are amazing.
 - Biosphere reserve left for Later = mapbuzz + civilsdaily PAN pdf.
-- ankifying National Parks state-wise Location bas for now, tbd : Details and question solving themes from civilsdaily + mapbuzz.
+- ankifying National Parks state-wise Location bas for now, tbd : Details and question solving themes from civilsdaily  AFTER PYQs if time left. bare minimum done.
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
