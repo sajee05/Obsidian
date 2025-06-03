@@ -958,8 +958,8 @@ Voltaire
 *   Keep them sorted by first letter - this can help in remembering these
 
 ### Dadabhai Naroji
-[Image: Dadabhai Naroji]
-(1825-1917)
+![[Essay-6.png]]
+**(1825-1917)**
 *   "Grand Old Man of Indian Nationalism" and "Unofficial Ambassador of India", was an Indian Independence activist, political leader, etc who served as 2nd, 9th, and 22nd President of the Indian National Congress
 *   Also, he used his legislative membership to raise voice against the injustice. These efforts were taken to support and protect the liberty of Indians."
 *   "Economic Drain" theory
@@ -988,7 +988,7 @@ Voltaire
 ## Additional topics & their fodder
 ### Compassion
 #### Anecdote - Compassion deficit anecdote towards animals
-[Image: Great Auk]
+![[Essay-7.png]]
 
 On a cold morning in 1844, a solitary great auk stood on Iceland's Eldey Island, unaware it represented the last of a species that just **half a century earlier had thrived in millions**. The speed of its extinction was staggering - in mere decades, European and American hunters had **decimated the population for meat, eggs, and feathers.**
 
