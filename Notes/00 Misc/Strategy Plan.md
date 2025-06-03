@@ -16,6 +16,15 @@
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
 
 # AIR 28: WHAT TO REMEMBER
+Read again!
+```embed
+title: "UPSC Prelims Preparation Plan"
+image: "https://miro.medium.com/v2/resize:fit:900/1*igDVenYMQx5I9FGdEtMO5w.jpeg"
+description: "UPSC Civil Service Examination consist of three phases. First, the Preliminary Examination. Second, the Main Examination and Third, the…"
+url: "https://medium.com/@rishabh_choudhary/upsc-prelims-preparation-plan-3fd1782087c0"
+favicon: ""
+aspectRatio: "49.55555555555556"
+```
 1. **Environment** : list of National Parks, Ramsar Sites, important Wildlife Sanctuaries, endemic and endangered species.
 2. **Economics** : reports released by different institutions, major exports and imports of India, GI tags, strategic sites like nuclear power plants, strategic oil reserves, etc.
 3. **Polity** : Important Sections and Articles of the Constitution
