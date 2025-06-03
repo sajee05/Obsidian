@@ -15,7 +15,7 @@
 - Tiger reserve and Elephant reserve LEFT for now, since only 3 questions on tiger reserve has been asked that too of theory not map position - no point remembering. -will be covered w env static. 
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
 
-# AIR 28: WHAT TO REMEMBER
+# AIR 28: 
 Read again!
 ```embed
 title: "UPSC Prelims Preparation Plan"
@@ -25,6 +25,8 @@ url: "https://medium.com/@rishabh_choudhary/upsc-prelims-preparation-plan-3fd178
 favicon: ""
 aspectRatio: "49.55555555555556"
 ```
+## WHAT TO REMEMBER (Anki)
+
 1. **Environment** : list of National Parks, Ramsar Sites, important Wildlife Sanctuaries, endemic and endangered species.
 2. **Economics** : reports released by different institutions, major exports and imports of India, GI tags, strategic sites like nuclear power plants, strategic oil reserves, etc.
 3. **Polity** : Important Sections and Articles of the Constitution
@@ -32,3 +34,24 @@ aspectRatio: "49.55555555555556"
 5. **Modern Indian History** : Socio-religious reform movements, tribal movements, major publications, congress sessions, major events in Indian National Movement, etc.
 6. **Art and Culture** : important facts related to Buddhism, Jainism, Indus Valley Civilisation, Major Palaeolithic, Mesolithic and Neolithic sites, Mauryan empire, Ashoka’s edicts, Gupta Period, Paintings, Dance, Music, Puppetry, Theatre, UNESCO sites, etc.
 7. **Geography** : important locations on the map like major Mountain ranges, glaciers, deserts, rivers, lakes, important local winds, map of India, etc.
+
+## PRELIMS SOURCES
+**Paper 1: General Studies**
+
+It has 100 questions broadly covering the following topics, carrying a maximum of 200 marks to be solved in 2 hours.
+
+1. Current events of National & International importance: _Newspaper (The Indian Express and The Hindu) and PT365._
+
+2. History of India & Indian National Movement: _Spectrum, VisionIAS Classroom Synopsis._
+
+3. Indian & World Geography — Physical, Social, Economic Geography of India & the World: _NCERTs Class 11th and 12th (4 books), VisionIAS Classroom Synopsis._
+
+4. Indian Polity & Governance — Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues, etc.: _Indian Polity by M Laxmikant, VisionIAS Classroom Synopsis_
+
+5. Economic & Social Development — Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc.: _NCERT class 9th to 12th, VisionIAS Classroom Synopsis._
+
+6. General issues on Environmental ecology, biodiversity & climate change — that do not require subject specialisation.: _ShankarIAS Environment, PMF IAS lists of NP, WLS, Ramsar Sites, VisionIAS Classroom Synopsis._
+
+7. General Science: _VisionIAS Classroom Synopsis_
+
+PYQ: Disha UPSC Topicwise question book by Murnal Sir.
