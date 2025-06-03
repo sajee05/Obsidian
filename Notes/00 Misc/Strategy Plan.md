@@ -9,4 +9,5 @@
 - PYQs -> MAIN
 - world -> Sudasrshan gujar 
 - Vision IAS lectures atm prelims. Ultra notes me notes banalunga with blank maps. Anki ka time nahi hoga. 
-- HAND SE FRAW KARNA BHI SEEKHNA HAI.
+- Mapping left for later. = Civils daily flashnotes are amazing.
+- HAND SE DRAW KARNA BHI SEEKHNA HAI.
