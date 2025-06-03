@@ -268,7 +268,7 @@ Creativity is often perceived **as the domain of the grand and spectacular**, bu
 ---
 ### Anecdotes
 #### Alexander Fleming
-[Image: Alexander Fleming]
+![[Essay-0.png]]
 
 In the autumn of 1928, a young Alexander Fleming returned to his laboratory after a vacation. What he discovered in his "messy" workspace would change the course of medical history forever. A contaminated Petri dish, forgotten in haste before his departure, had developed a curious mold that seemed to prevent bacterial growth around it. Most scientists would have discarded this "failed" experiment, but Fleming's wandering mind saw possibility where others saw disorder.
 
@@ -277,8 +277,7 @@ This serendipitous discovery of penicillin, born from what many would consider p
 As he later reflected, "One sometimes finds what one is not looking for. When I woke up just after dawn on September 28, 1928, I certainly didn't plan to revolutionize all medicine."
 
 #### Charles Darwin
-[Image: Charles Darwin - THE AUTOBIOGRAPHY OF CHARLES DARWIN]
-
+![[Essay-1.png]]
 On a crisp December morning in 1831, a young Charles Darwin stood on the deck of the HMS Beagle, watching the shores of England fade into the horizon. At just 22 years old, he was about to embark on a five-year voyage that would forever change his life—and the course of scientific history. With a notebook in hand and curiosity in his eyes, Darwin was eager to explore the uncharted territories of South America and the mysterious Galápagos Islands.
 
 During his Voyage, Darwin meticulously collected and catalogued plant and animal specimens while serving as the ship's naturalist. While he did it out of interest as he was a naturalist, the wanderness/doubt in him led him to explore how similar creatures on different islands had adapted to their specific environments and fossils of extinct creatures bore uncanny resemblances to living species, challenging the notion of fixed, unchangeable life forms.
@@ -349,14 +348,14 @@ As Louis Pasteur eloquently stated, "Chance favors the prepared mind." This prep
 
 #### Anecdotes
 ##### Epicurus
-[Image: EPICURUS]
+![[Essay-2.png]]
 
 In the final days of his life, despite experiencing excruciating pain from urinary problems and dysentery, Epicurus found solace in philosophical contemplation. Rather than dwelling on his physical suffering, he chose to relive his happiest memories, demonstrating that happiness isn't a destination but a state of mind. In his final letter to one of his friends, he wrote about experiencing joy even on his deathbed, showing that happiness can coexist with suffering.
 
 The path to happiness isn't about reaching a specific goal or destination; rather, it's about finding joy in the journey itself. This understanding transforms our perspective from seeing happiness as an endpoint to recognizing it as a way of living. The search for happiness becomes less about "arriving" and more about "being."
 
 ##### Thoreau
-[Image: Thoreau]
+![[Essay-3.png]]
 
 Hence Thoreau stated - "Happiness is like a butterfly, the more you chase it, the more it will evade you, but if you notice the other things around you, it will gently come and sit on your shoulder."
 
@@ -481,8 +480,7 @@ On the inauguration of his presidency, Nelson Mandela was asked by a reporter ab
 ##### Greek legends
 Greek legends like the Odyssey and the Iliad explore the real nature of 'glory' and heroism. They showcase the axiom that an ordinary man becomes a 'symbol of glory' not because he had always been a noble aristocrat worshipped by others, but because he fought impending consequences and failures - only to overcome the enemy and secure penultimate justice. Homer's protagonist Ulysses does it and so does the meek boy David against the monstrous Goliath.
 
-(David & Goliath picture)
-[Image: David & Goliath]
+![[Essay-4.png]]
 
 ##### Example of Earth
 The classic case of Earth as a living being in all its wholeness is a case of extinction and rejuvenation. Earth has experienced several ages of mass extinction from the Precambrian to the Permian. However, this beautiful and majestic planet continues to nurture life for over 4.8 million years now. Thus, life on Earth falls and rises again in all its glory.
@@ -620,7 +618,7 @@ Importance/benefit of education
 Importance/benefit of knowledge
 
 ##### Importance/benefit of Wisdom (King Solomon)
-[Image: King Solomon]
+![[Essay-5.png]]
 
 When young Solomon ascended to the throne of Israel, he was acutely aware of the immense responsibility that rested on his shoulders. The weight of leading a great nation felt overwhelming, and he recognized his own limitations. One night, seeking guidance and clarity, he journeyed to a template and poured out his heart in **earnest** prayer.
 
