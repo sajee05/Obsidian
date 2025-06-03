@@ -1,7 +1,7 @@
 {
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "focusNewTab": true,
   "newLinkFormat": "shortest",
   "strictLineBreaks": true,
