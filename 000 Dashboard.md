@@ -6,7 +6,7 @@ sr-interval: 365
 sr-ease: 410
 ---
 
-🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]]
+🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || [[other|Misc]] 
 
 ---
  
