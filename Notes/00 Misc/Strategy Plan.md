@@ -12,4 +12,5 @@
 - Mapping left for later. = Civils daily flashnotes are amazing.
 - Biosphere reserve left for Later = mapbuzz + civilsdaily PAN pdf.
 - ankifying National Parks state-wise Location bas for now, tbd : Details and question solving themes from civilsdaily  AFTER PYQs if time left. bare minimum done.
+- Tiger reserve and Elephant reserve LEFT for now, since only 3 questions on tiger reserve has been asked that too of theory not map position - no point remembering. -will be covered w env static. 
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
