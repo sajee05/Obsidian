@@ -10,4 +10,5 @@
 - world -> Sudasrshan gujar 
 - Vision IAS lectures atm prelims. Ultra notes me notes banalunga with blank maps. Anki ka time nahi hoga. 
 - Mapping left for later. = Civils daily flashnotes are amazing.
+- Biosphere reserve left for Later = mapbuzz + civilsdaily PAN pdf.
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
