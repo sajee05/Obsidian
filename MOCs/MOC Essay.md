@@ -5,6 +5,8 @@
 - They will be expected to keep closely to the subject of the essay to arrange their ideas in orderly fashion, and to write concisely
 - Credit will be given for effective and exact expression
 
+### [[Rahul W Essay Notes]]
+
 ## Themes:
 | Theme | Completion | PYQs - Model answer | Essays Written | Revisions |
 | ----- | ---------- | ------------------- | -------------- | --------- |
