@@ -10,7 +10,7 @@ sr-ease: 410
 
 ---
  
-[[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || [[Ethics Examples]] || [[Sociology Examples]] || [[Z9 Clippings]] 
+[[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || [[Z9 Clippings]] 
 
 ---
   - [[Lecture Notes]]
