@@ -13,4 +13,4 @@ Topic:
   - Agents of Social change
   - AI
 ---
-![[image-21.png]]
+![[image-21.png]]![[image-22.png]]
