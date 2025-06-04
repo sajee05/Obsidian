@@ -11,3 +11,7 @@ What:
 2. Design misalignment 
 	![[image-19.png]]
 3. Investment bottlenecks 
+	1. financing 
+	2. land acquisition 
+	3. delay in regulatory clearance
+	4. complex environmental clearance 
