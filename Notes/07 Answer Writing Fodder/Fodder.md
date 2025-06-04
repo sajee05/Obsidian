@@ -72,6 +72,7 @@ columns:
       - { label: "ALL", value: "ALL", color: "hsl(291, 95%, 90%)"}
       - { label: "S&T", value: "S&T", color: "hsl(342, 95%, 90%)"}
       - { label: "GS3", value: "GS3", color: "hsl(335, 95%, 90%)"}
+      - { label: "Sociology", value: "Sociology", color: "hsl(292, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -98,6 +99,7 @@ columns:
       - { label: "Framework", value: "Framework", color: "hsl(245, 95%, 90%)"}
       - { label: "Current Affairs", value: "Current Affairs", color: "hsl(77, 95%, 90%)"}
       - { label: "fodder", value: "fodder", color: "hsl(352, 95%, 90%)"}
+      - { label: "data", value: "data", color: "hsl(70, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -121,6 +123,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "AI", value: "AI", color: "hsl(60, 95%, 90%)"}
+      - { label: "Urbanisation", value: "Urbanisation", color: "hsl(186, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -130,6 +133,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
