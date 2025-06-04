@@ -19,18 +19,18 @@ Infrastructure plays a vital role in the growth of a country’s economy. Theref
 
 Some of the bottlenecks that create a barrier on the road to infrastructure development and growth in India are:
 
-- ## Financing:
+- ## 1. Financing:
 - It is crucial to address the funding bottlenecks to achieve the highest infrastructural growth. Operationalising innovative channels can fill the infrastructure financing gap.
-- Underdeveloped railway and road networks are examples of financial infrastructure bottlenecks. Because of the capital-intensive nature of infrastructure projects, the need for financing is always a matter of concern.
-- The increasing Non-Performing Assets also hampers private firms from getting loans from banks.
+- **Underdeveloped railway and road networks are examples of financial infrastructure bottleneck**s. Because of the capital-intensive nature of infrastructure projects, the need for financing is always a matter of concern.
+- The increasing **Non-Performing Assets also hampers private firms from getting loans** from banks.
 - The government has taken many initiatives to address various factors responsible for financing infrastructure.
-- One of them is the establishment of the National Infrastructure Investment Fund. It acts as an alternative for the investment fund. A good amount of money NIIF will pool is dedicated to infrastructural projects.
+- One of them is the establishment of the **National Infrastructure Investment Fund**. It acts as an alternative for the investment fund. A good amount of money NIIF will pool is dedicated to infrastructural projects.
 
 ## 2\. Land Acquisition:
 
-- The only most significant bottleneck regarding infrastructure development is land acquisition.
+- The only **most significant bottleneck regarding infrastructure development** is land acquisition.
 - Several times, some landowners willingly provide their lands for infrastructure growth. But, primarily, local communities and farmers oppose selling their lands.
-- The reason behind their opposition is the difference between the agency’s offered price and the prevailing market value.
+- The reason behind their opposition is the difference between the **agency’s offered price and the prevailing market value.**
 - These differences result in critical disputes and litigation issues.
 
 ## 3\. Delay in Regulatory Clearance:
@@ -42,7 +42,7 @@ Some of the bottlenecks that create a barrier on the road to infrastructure deve
 
 - Before starting an installation or amendment of an infrastructure project that may produce higher levels of environmental pollution, it is essential to get permission from the government.
 - Pollution can provoke an unexpected **climate change** which is not good at all. There are many complex environmental safety measures and guidelines.
-- The process is also very hectic and lengthy, with four clearance stages: Screening, Scoping, Public Consulting, and Appraisal.
+- The process is also very hectic and lengthy, with four clearance stages: **Screening, Scoping, Public Consulting, and Appraisal.**
 - Better governance would undoubtedly aid in reducing protracted delays in infrastructure projects.
 
 ## 5\. The Capacity of Private Players:
