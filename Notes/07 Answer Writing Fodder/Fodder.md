@@ -121,9 +121,11 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 263
     options:
       - { label: "AI", value: "AI", color: "hsl(60, 95%, 90%)"}
       - { label: "Urbanisation", value: "Urbanisation", color: "hsl(186, 95%, 90%)"}
+      - { label: "Social change in modern society", value: "Social change in modern society", color: "hsl(130, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
