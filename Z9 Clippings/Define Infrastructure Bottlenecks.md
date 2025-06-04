@@ -47,15 +47,15 @@ Some of the bottlenecks that create a barrier on the road to infrastructure deve
 
 ## 5\. The Capacity of Private Players:
 
-- Along with the funding, the project handling and managing skills of the infrastructure projects owners equally matter.
+- Along with the funding, the project **handling and managing skills** of the infrastructure projects owners equally matter.
 - Mostly medium to large businesses or agencies are not so capable of handling long and complex projects.
-- This lack of skills and abilities creates a roadblock in the project’s progress and is responsible for infrastructure blockages.
+- This **lack of skills and abilities creates a roadblock in the project’s progress** and is responsible for infrastructure blockages.
 
 ## 6\. Climate Change and Weather Interruptions:
 
-- Increased product demand due to weather conditions impacts the supply chain, depleting current inventories and generating issues as merchants struggle to satisfy customer demands.
+- **Increased product demand** due to **weather conditions** **impacts the supply chain**, **depleting current inventories** and **generating issues as merchants struggle to satisfy customer demands.**
 - For example, bad weather conditions **damage transportation infrastructure**, affecting the import and export of goods and services. Thus it becomes harder to keep up with consumers’ demand.
-- Climate change might influence situations that could impair and shorten the useful life of transportation infrastructure. Weather disruptions, such as a storm, are prominent, as are construction, accidents, and labour conflicts (strikes).
+- Climate change might i**nfluence situations that could impair and shorten the useful life of transportation infrastructure**. Weather disruptions, such as a storm, are prominent, as are construction, accidents, and labour conflicts (strikes).
 - These incidents happen so frequently that there is no possible forecast of them. These are highly responsible for the damage to transport infrastructure.
 
 ## 7\. Under-Investment:
