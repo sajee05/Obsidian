@@ -1,4 +1,5 @@
 ---
+
 kanban-plugin: board
 
 ---
@@ -21,15 +22,18 @@ kanban-plugin: board
 - [ ] Modern History
 - [ ] 1 Week recap after foundation. https://youtube.com/playlist?list=PLXKNhxEsVhFvvckkuIm5vIx-k9Ip14S9P&feature=shared
 
+
 ## DOING♻️
 
 - [ ] Economics ⏫ by 7 May
-- [ ] Polity ⏫ May [[polity workflow]]
+- [ ] Polity ⏫ May polity workflow
 - [ ] Sociology ⏫
+
 
 ## DONE✅
 
 **Complete**
+
 
 ## Polity
 
@@ -42,6 +46,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Economics
 
 - [ ] foundation
@@ -52,6 +57,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Sociology
 
 - [ ] 1. Pranay sir's notes (lecture transcript notes) = base
@@ -61,6 +67,7 @@ kanban-plugin: board
 - [ ] cse pyqs
 - [ ] 2 answers each topic.
 
+
 ## Geography
 
 - [ ] foundation + standard book anki
@@ -69,6 +76,7 @@ kanban-plugin: board
 - [ ] forum toolkit
 - [ ] 2 mocks
 - [ ] 20 answers
+
 
 ## Mapping
 
@@ -97,12 +105,14 @@ kanban-plugin: board
 - [ ] Modern history maps
 - [ ] National park in India
 
+
 ## Essay
 
 - [ ] foundation lectures
 - [ ] mains notes
 - [ ] cse pyqs
 - [ ] 20 answers
+
 
 ## CSAT start after 4 CORE!🔺
 
@@ -113,6 +123,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Ethics
 
 - [ ] foundation + standard book anki
@@ -121,6 +132,7 @@ kanban-plugin: board
 - [ ] forum toolkit
 - [ ] 2 mocks
 - [ ] 20 answers
+
 
 ## Science and Tech
 
@@ -131,6 +143,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Environment
 
 - [ ] foundation + standard book anki
@@ -139,6 +152,7 @@ kanban-plugin: board
 - [ ] forum toolkit
 - [ ] 2 mocks
 - [ ] 20 answers
+
 
 ## Prelims📝
 
@@ -149,6 +163,7 @@ kanban-plugin: board
 - [ ] CSE PYQs from 1990
 - [ ] At least 12 mocks each subject
 
+
 ## Art & Culture
 
 - [ ] foundation + standard book anki
@@ -157,6 +172,7 @@ kanban-plugin: board
 - [ ] forum toolkit
 - [ ] 2 mocks
 - [ ] 20 answers
+
 
 ## Medieval History
 
@@ -167,6 +183,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Ancient History
 
 - [ ] foundation + standard book anki
@@ -176,6 +193,7 @@ kanban-plugin: board
 - [ ] 2 mocks
 - [ ] 20 answers
 
+
 ## Modern History
 
 - [ ] foundation + standard book anki
@@ -184,6 +202,7 @@ kanban-plugin: board
 - [ ] forum toolkit
 - [ ] 2 mocks
 - [ ] 20 answers
+
 
 ## Mains Specific
 
@@ -197,9 +216,11 @@ kanban-plugin: board
 - [ ] World History
 - [ ] Post Independence  [link](https://ticktick.com/webapp/#p/681aaaf2c71c710000000041/tasks/681ab6bf74148e55307d3c42)   %%[ticktick_id:: 681ab6bf74148e55307d3c42]%%
 
+
 ## Relatively Weaker Areas
 
 - [ ] National Income -calculations
+
 
 ## Current Affairs
 
@@ -222,10 +243,11 @@ kanban-plugin: board
 - [ ] NEXT IAS : MARCH 26, SCORE=
 - [ ] PT 365
 
-%% kanban:settings
 
+
+
+%% kanban:settings
 ```
 {"kanban-plugin":"board","show-checkboxes":true,"list-collapse":[false,false,true,false,null,false,true,true,true,true,true,true,true,false,true,true,true,true,true,true,true]}
 ```
-
 %%
