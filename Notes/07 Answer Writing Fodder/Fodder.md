@@ -97,6 +97,7 @@ columns:
     options:
       - { label: "Framework", value: "Framework", color: "hsl(245, 95%, 90%)"}
       - { label: "Current Affairs", value: "Current Affairs", color: "hsl(77, 95%, 90%)"}
+      - { label: "fodder", value: "fodder", color: "hsl(352, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
