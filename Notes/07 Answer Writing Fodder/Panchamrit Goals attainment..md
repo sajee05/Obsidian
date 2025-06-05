@@ -10,6 +10,11 @@ What:
   - data
 Topic: ""
 ---
+## Example usage:
+### **xyz** is playing a key role in helping India meet the Panchamrit goal of achieving net zero emissions by 2070.
+
+---
+
 The Government of India has articulated and put across the concerns of developing countries at the 26th session of the Conference of the Parties (COP26) to the **United Nations Framework Convention on Climate Change (UNFCCC**) held in Glasgow, United Kingdom. Further, India presented the following five nectar elements _(Panchamrit)_ of India’s climate action:
 
 1. Reach **500GW Non-fossil energy capacity by 2030**.
