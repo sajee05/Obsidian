@@ -47,6 +47,7 @@ columns:
       - { label: "Challenges / Issues", value: "Challenges / Issues", color: "hsl(312, 95%, 90%)"}
       - { label: "fodder points", value: "fodder points", color: "hsl(128, 95%, 90%)"}
       - { label: "examples", value: "examples", color: "hsl(23, 95%, 90%)"}
+      - { label: "significance of anything", value: "significance of anything", color: "hsl(56, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -74,6 +75,7 @@ columns:
       - { label: "S&T", value: "S&T", color: "hsl(342, 95%, 90%)"}
       - { label: "GS3", value: "GS3", color: "hsl(335, 95%, 90%)"}
       - { label: "Sociology", value: "Sociology", color: "hsl(292, 95%, 90%)"}
+      - { label: "environment", value: "environment", color: "hsl(103, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
