@@ -62,4 +62,23 @@ PYQ: Disha UPSC Topicwise question book by Murnal Sir.
 ---
 # Personal insights and Improvement Journaling
 ## Saturation
-- its alright to 
+- its alright to change subject when saturated. do this: when saturated from short term target, make sure you have monthly goal in mind, and adjust accordingly. the diversity is so much that you wont feel saturated. at least for a year. thus,
+	- weekly and daily targets = dynamically adjustable
+	- monthly target = achieve at any cost.
+
+## Lectures 
+- What i feel when i listen to word "Lectures"
+	- Illusion of conceptual clarity 
+	- productive procrastination 
+	- mental masturbation
+- WHY?
+	- the modern history lectures i watched, the polity lectures i watched **twice** what is the output? did they save my time? did they help me write good answer?
+	- it sure felt productive and felt like i ma getting things done but was it the case fr? 
+	- the point it, even after i watched those lectures, made notes dilligently, i wont use it anywhere. the output is minimal. 
+- Goal is not to watch lectures and do what everybody else does, the conventional path of UPSC aspirant, BUT- just a simple goal = CLEAR THE EXAM. by hook or crook.
+
+## Updated strategy and mindset.
+#### Prelims: 
+1. Copy paste AIR 28 Notes (why AIR 28?: Vision IAS + Value added = complete in a good format)
+2. Read them on split screen on my iPad like teaching myself- Twice. = refer to lectures ONLY when any topic is NOT understandable. (got em all complete lectures on YouTube thankfully already.)
+3. 
