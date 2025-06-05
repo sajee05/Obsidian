@@ -4,6 +4,7 @@
 - extra: for *prelims* i will refer to PT365 at the end of this year.
 - for mains - will see. will keep collecting fodder and examples from now. (first point)
 
+---
 # Mapping
 - mapbuzz pdf -> anki cards abhi bana rha hu, baad me indian geo padhne ke baad pdf padhlunga ek baar ache se, cards me add karke --> cards reset kardunga. 
 - PYQs -> MAIN
@@ -15,6 +16,7 @@
 - Tiger reserve and Elephant reserve LEFT for now, since only 3 questions on tiger reserve has been asked that too of theory not map position - no point remembering. -will be covered w env static. 
 - HAND SE DRAW KARNA BHI SEEKHNA HAI.
 
+---
 # AIR 28: 
 Read again!
 ```embed
@@ -55,3 +57,9 @@ It has 100 questions broadly covering the following topics, carrying a maximum o
 7. General Science: _VisionIAS Classroom Synopsis_
 
 PYQ: Disha UPSC Topicwise question book by Murnal Sir.
+
+
+---
+# Personal insights and Improvement Journaling
+## Saturation
+- its alright to 
