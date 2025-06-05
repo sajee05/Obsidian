@@ -1,3 +1,69 @@
+```table-of-contents
+title: 
+style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
+minLevel: 0 # Include headings from the specified level
+maxLevel: 0 # Include headings up to the specified level
+include: 
+exclude: 
+includeLinks: true # Make headings clickable
+hideWhenEmpty: false # Hide TOC if no headings are found
+debugInConsole: false # Print debug info in Obsidian console
+```
+
+# TODO
+
+## Monthly AT ANY COST Targets
+
+| **MONTH** | **TARGETS**               | % **Completion** |
+| --------- | ------------------------- | ---------------- |
+| **June**      | Polity, Economics, Socio  |                  |
+| **July**      | Socio, Geography          |                  |
+| **August**    | Socio, Geography, History |                  |
+| **September** | Socio, Buffer             |                  |
+***must complete:***
+- [ ] Polity (core) +
+	- [ ] Mains notes
+	- [ ] Laxmikant
+	- [ ] NCERTs - ICAW (CivilsDaily)
+- [ ] Economics (core) +
+	- [ ] LECTURES NEEDED.
+	- [ ] Mains notes
+	- [ ] NCERT - Macro (CivilsDaily) 
+	- [ ] Ketanomy and vivek singh selectively 
+- [ ] Geography (core) +
+	- [ ] LECTURES NEEDED.
+	- [ ] Mains notes
+	- [ ] NCERT (CivilsDaily)
+- [ ] Modern History (core) +
+	- [ ] Mains notes
+	- [ ] TN NCERTs (refer to : AIR 130 Strategy)
+	- [ ] NCERT (CivilsDaily)
+- [ ] Medieval History (core) +
+	- [ ] Mains notes
+	- [ ] TN NCERTs (ref: AIR 130)
+	- [ ] NCERT (CivilsDaily)
+- [ ] Ancient History (core) +
+	- [ ] Mains notes
+	- [ ] NCERT (CivilsDaily)
+	- [ ] TN NCERT (AIR 130)
+	- [ ] Mandar Paatki Notes 
+- [ ] Art and Culture  (core) +
+	- [ ] Mains notes
+	- [ ] NCERT (CivilsDaily)
+	- [ ] Nitin Singhania = Mehak Jain selective. 
+
+- [ ] Sociology = Core (transcripts) + Notes topics wise. = intro, body, concl
+---
+START CSAT **AT ANY COST FROM OCTOBER.** 
++ start daily mains practice (10 answers AT LEAST)  and weekly essay = 4 in a month (write smart course?) **AT ANY COST.**
++ Mains leftover subjects (ankur verma ke notes ache hai btw)
++ WINDUP all. mains ready by december.
+
+| **October**  |     |     |
+| -------- | --- | --- |
+| **November** |     |     |
+| **December** |     |     |
+
 
 # Current Affairs 
 - I will read atish mathur **tracker pro** daily from ***mains* perspective** only and add [[Fodder]]
