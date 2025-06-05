@@ -6,11 +6,11 @@ sr-interval: 365
 sr-ease: 410
 ---
 
-🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || [[other|Misc]] 
+🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] 
 
 ---
  
-[[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || [[Z9 Clippings]] 
+[[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || 📜 [[Z9 Clippings]] 
 
 ---
   - [[Lecture Notes]]
