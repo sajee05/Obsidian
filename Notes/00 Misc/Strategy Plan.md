@@ -74,6 +74,7 @@ PYQ: Disha UPSC Topicwise question book by Murnal Sir.
 - WHY?
 	- the modern history lectures i watched, the polity lectures i watched **twice** what is the output? did they save my time? did they help me write good answer?
 	- it sure felt productive and felt like i ma getting things done but was it the case fr? 
+	- ULTIMATELY toh bhai notes revise karunga tab firse kuch kuch confusions hongi, lectures waste of time :(
 	- the point it, even after i watched those lectures, made notes dilligently, i wont use it anywhere. the output is minimal. 
 - Goal is not to watch lectures and do what everybody else does, the conventional path of UPSC aspirant, BUT- just a simple goal = CLEAR THE EXAM. by hook or crook.
 
