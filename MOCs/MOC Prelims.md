@@ -2,7 +2,7 @@
 
 | **GS**            | **Subject**                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
-| [[MOC GS1\|GS 1]] |                                                                          |
+| [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                                              |
 | [[MOC GS2\|GS2]]  | [[Polity - राजनीति]]                                                     |
 |                   | [[Governance]]                                                           |
 |                   | [[International Relations Prelims\|International Relations]] - AM/M Puri |
