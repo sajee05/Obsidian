@@ -2496,7 +2496,7 @@ _Wrt to reservation; no specification has been done related to chairmen in ULB u
 28. What is model of conduct? Does it have the legal status? When was it implemented for the first time?
     
 
-Pressure groups (Chapter 73)©
+## Pressure groups (Chapter 73)©
 
 1. What are pressure groups? Discuss its key types
     
@@ -2513,7 +2513,7 @@ Pressure groups (Chapter 73)©
 
   
 
-Table on P-55.2 to be remembered
+## Table on P-55.2 to be remembered
 
 - 6 Ministry of Personnel- CBI, CVC, CIC, UPSC, SSC, CAT
     
@@ -2538,78 +2538,7 @@ Detail article of constitution, composition, qualification, appointment, removal
 
   
 
-|   |   |
-|---|---|
- 
-|**Bodies**|**Appointment/Removal etc.**|
-|CAG (Art 148)|- Appointed by president<br>    <br>- Term for 6 yrs/65 yrs Not specified by constitution<br>    <br>    - _As determined by president in consultation with him (condition of service)_<br>        <br>- Removal as SC judge (Security of term)<br>    <br>- Re-appointment- No (centre/state)<br>    <br>- Status/Salary- As determined by parliament by law-<br>    <br>    - Can’t be varied to his disadvantage<br>        <br>    - Charged expenditure<br>        <br>- Qualifications- Not specified by constitution<br>    <br>- Oath- President (Sch 3)<br>    <br>- Resignation- President|
-|ECI (Art 324)|Chairman/Members:<br><br>- Appointed by president<br>    <br>    - # of members also as fixed by president subject to law of parliament<br>        <br>    - Recommendation of CEC- not binding on president (EC, REC)<br>        <br>- Term for 6 yrs/65 yrs(not as per constitution)<br>    <br>    - As determined by president subject to provisions of law of parliament)<br>        <br>- Removal as SC judge (Chairman), President on recommendation of CEC (EC, REC)<br>    <br>- Re-appointment- Can be re-appointed (not as per constitution)<br>    <br>- Status/Salary- SC judge [(though not charged expense)](http://www.arthapedia.in/index.php?title=Charged_Expenditure)(not as per constitution)<br>    <br>    - and salary not varied to their disadvantage (Chairman)<br>        <br>- Qualifications- (not as per constitution)<br>    <br>- Oath- (not as per constitution) President?<br>    <br>- Resignation – President (not as per constitution)|
-|Election Commission of State (Art 243K)|- Appointed by governor (Need to ascertain what all decided by governor/law)<br>    <br>- Term as decided by governor<br>    <br>- Removal as HC judge (Security of term)<br>    <br>- Rest – As decided by state legislature|
-|UPSC/JPSC/SPSC (Art 315)|Chairman/Members-<br><br>- Appointed by president (UPSC+ JPSC), governor (SPSC)<br>    <br>    - # of members as per president (UPSC, JPSC) and governor (SPSC)<br>        <br>- Term for 6 yrs/65 yrs (UPSC), 6 yrs/62 yrs (JPSC/SPSC)<br>    <br>- Removal by president<br>    <br>    - Insolvent, paid employment, unsound mind, misbehavior (as per SC)<br>        <br>    - Suspension during SC is looking misbehavior matter can be done by governor also (SPSC)<br>        <br>- Re-appointment-No employment under state/Union except<br>    <br>    - UPSC chairman- No office (but governor not considered employment as SC)<br>        <br>    - UPSC member- Only UPSC/SPSC chairman<br>        <br>    - SPSC chairman- UPSC member/chairman<br>        <br>    - SPSC member- UPSC chairman/member or any SPSC chairman<br>        <br>- Service condition/Salary-As determined by president (UPSC, JPSC), governor (JPSC)<br>    <br>    - Can’t be changed to his disadvantage<br>        <br>    - Charged expense on CFI/CFS (i/c staff salaries)<br>        <br>- Qualifications- 1/3rd members held office under GoI/state<br>    <br>- Oath - (N/A)<br>    <br>- Resignation- President (UPSC+JPSC), Governor (SPSC)|
-|FC of India<br><br>(Art 280)|Chairman/ 4 Members: (what by president/parliament)<br><br>- Appointed by president every five year<br>    <br>- Term 5 years or earlier as determined by president<br>    <br>- Qualification (decided by parliament)-<br>    <br>    - Chairman- Public affairs expert, M1- HC judge/qualified for HC judge, M2- govt. finance expert, M3- fin/admin expert, M4- economics expert)|
-|FC of State<br><br>(Art 243I)|Chairman/ Members:(Members not fixed here)<br><br>- Appointed by governor every five year<br>    <br>- Term 5 years<br>    <br>- Qualification (decided by legislature)-|
-|Attorney General of India (Art 76)/|- Appointed by president<br>    <br>- Term till president’s pleasure _(resigns with govt. as per convention)_<br>    <br>- Removal by president<br>    <br>- Re-appointment- He’s not a govt. servant (he gets a retainer)<br>    <br>- Status/Salary-As determined by president;<br>    <br>    - Salary- equal to SC judge Not specified by constitution<br>        <br>    - Privileges- Same as MP, can participate in parliamentary proceedings<br>        <br>- Qualifications- SC judge<br>    <br>- Oath- President<br>    <br>- Resignation-|
-|Advocate General of State (Art 165)|- Appointed by governor<br>    <br>- Termtill governor’s pleasure<br>    <br>- Removal by governor<br>    <br>- Re-appointment- He’s not a govt. servant (he gets a retainer)<br>    <br>- Status/Salary-As determined by governor;<br>    <br>    - Salary- Not specified by constitution<br>        <br>    - Privileges- Same as MLA, can participate in parliamentary proceedings<br>        <br>- Qualifications- HC judge<br>    <br>- Oath-<br>    <br>- Resignation-|
-|National Commission for SC<br><br>(Art 338)<br><br>(what by president/parliament)|Chairperson, VP and 3 other members- Set up as commission by 65th AA 1990<br><br>- Appointed by president (under his warrant and seal)<br>    <br>- Term as decided by president<br>    <br>- Removal by president<br>    <br>- Re-appointment- Not specified by constitution<br>    <br>- Status/Salary-As determined by president<br>    <br>- Qualifications-Not specified by constitution<br>    <br>- Oath- Not specified by constitution<br>    <br>- Resignation- Not specified by constitution|
-|National Commission for ST<br><br>(Art 338A)<br><br>(what by president/parliament)|Chairperson, VP and 3 other members- Bifurcated from NCSC by 89th AA 2003<br><br>- Appointed by president (under his warrant and seal)<br>    <br>- Term as decided by president<br>    <br>- Removal by president<br>    <br>- Re-appointment- Not specified by constitution<br>    <br>- Status/Salary-As determined by president<br>    <br>- Qualifications-Not specified by constitution<br>    <br>- Oath- Not specified by constitution<br>    <br>- Resignation- Not specified by constitution|
-|Backward Classes commission<br><br>(Art 340)|Appointed by president consisting of members as he deems fit|
-|Special Officer for Minorities<br><br>(Art 350B)|Appointed by president, rest details not specified by constitution|
 
-  
-
-|   |   |
-|---|---|
- 
-|**Bodies**|**Powers/functions**|
-|SEC|Superintendence, direction and control of preparation of electoral rolls for, and conduct of, all elections to panchayats and municipalities|
-|UPSC/SPSC/JPSC|Conduct examination to services of union and state<br><br>Matters related to appointment, transfer, promotions, and claims (pensions) disciplinary matters of Gr A and B posts only.<br><br>Unless president (AIS, other union services)/governor (state) says that such consultation is not required.<br><br>Annual report to president (UPSC), governor (SPSC, JPSC) who places it in front parliament/ resp. LA|
-|FC of India|Distribution of net proceeds, grant-in-aid’s to state governments (i/c distribution among states)<br><br>Measures to directly augment CFS to supplement panchayat and municipality finances.<br><br>Recommendation are not mandatory to follow for GoI<br><br>Report to president who place it in front of parliament|
-|FC of State|Distribution of net proceeds, grant-in-aid’s to local govts.<br><br>Also what taxes can be delegated to panchayats.<br><br>Recommendation on improving financial condition of panchayats<br><br>Report to governor who place in front of legislature|
-|AGI|Advice to GoI on legal matters. Represent GoI in SC/HC, any other references made by president/law|
-|AGS|Advice to state govt. on legal matters. Perform duties assigned to him by governor/law|
-|National Commission for SC|Power of civil court in case of an investigation.<br><br>Functions- investigate and make recommendation for implementation of safeguards and planning<br><br>Inquire into specific complaints<br><br>Additionally responsible for OBC and Anglo-Indian rights<br><br>Annual report to president who places it before parliament or forward it to governor (if related to state)|
-|National Commission for ST|Power of civil court (attendance, evidence on affidavit, requesting public records, issuing witness examination order) in case of an investigation.<br><br>Functions- investigate and make recommendation for better implementation of safeguards and planning. Additionally, look into PESA, minor forest produce, water resources, steps to remove shifting cultivation<br><br>Annual report to president who places it before parliament or forward it to governor (if related to state)|
-|Backward Classes commission|investigate the conditions of socially and educationally backward classes within the territory of India<br><br>Make recommendation (i/c grants) for union & state to president who shall place it in front of parliament|
-|Special Officer for linguistic minorities|Falls under jurisdiction of Ministry of minority affairs,<br><br>He investigates all matters and monitor implementation of safeguards provided to linguistic minorities.<br><br>He submits its report to president of India|
-
-  
-
-• _Statutory, regulatory and various quasi-judicial bodies_
-
-  
-
-Statutory
-
-Detail act/order of establishment, composition, appointment and key functions of the following body? ©
-
-  
-
-|   |   |
-|---|---|
- 
-|**Body/ Establishment**|**Appointment/Composition et al.**|
-|Lokpal|Composition: Chairperson + 8 members 50% Judicial, 50% SC/ST/OBC, Women, minorities<br><br>Appointment- By president on reco of (PM, LOO LS, Speaker, CJI, eminent judge)<br><br>- Term- 5 years/70 years<br>    <br>- Removal by president on grounds of misbehaviors as certified by SC<br>    <br>- Re- appointment- Can’t be re-appointed to any office under Union (i/c UT administrator), Foreign diplomat, Any constitutional/statutory post appointed by President (i/c Lokpal Chair/member)<br>    <br>- Status/Salary-of all employees is a Charged expense (Chairman ~CJI, members- ~SC judge),<br>    <br>- Qualifications- Mentioned above|
-|National Human Right Commission<br><br>  <br><br>(Protection of Human Rights Act 1993)|Composition: Chairman (Rtd. CJI/SC judge) + 5 members (M1- serving/ rtd. CJ of HC, M2- serving/ rtd. SC judge, M3/4/5- Human rights experts- 1 has to be women)<br><br>Ex-officio members- Chairman of National commission of (Minorities, SC, ST, Women, NCPCR, NCBC, CCPwD)<br><br>- Appointment- By President on reco of 6 member committee (PM, LS Speaker, Dy. Chairman RS, LOO in LS+RS, Union home minister (CJI to be consulted for appointing serving CJ-HC/SC judge)<br>    <br>- Term- 3 years/70 years<br>    <br>- Removal by president:<br>    <br>    - Insolvent, paid employment, unsound mind, convicted, misbehavior/in capacitance (as per SC)<br>        <br>- Re- appointment- Check (recent amendment removes 5 year limit for re-appomtment)<br>    <br>- Status/Salary-Determined by union govt. but can’t be varied to their disadvantage<br>    <br>- Qualifications- Mentioned above|
-|State Human Right Commission<br><br>  <br><br>(Protection of Human Rights Act 1993)|Composition: Chairman (Rtd. CJ of HC/HC judge) + 2 members (M1-serving/rtd. judge HC or DJ >7 yrs exp., M2- knowledge experts<br><br>- Appointment- By governor on reco of 4/6 membered committee (CM, LA Speaker, LC Chair (if appl), LOO in LA and LC (if appl), State home minister (CJ HC to be consulted if sitting HC/DJ))<br>    <br><br>- Term- 3 years/70 years<br>    <br>- Removal by president:<br>    <br>    - Insolvent, paid employment, unsound mind, convicted, misbehavior/in capacitance(as per SC)<br>        <br>- Re- appointment- Can’t be re-appointed to center/state posts<br>    <br>- Status/Salary- Determined by state govt. but can’t be varied to their disadvantage<br>    <br>- Qualifications- Mentioned above|
-|CIC (SIC)-<br><br>  <br><br>RTI Act 2005|Composition: CICr (SIC) and<10 ICr (# for state ICs varies across)<br><br>- Appointment- President (Governor) on recommendation of 3 member committee (PM (CM) , LOO in LS (LA), Cabinet minister nominated by PM (CM)<br>    <br>- Tenure- 5 years and <65 years As decided by union govt.<br>    <br>- Removal- President (Governor)<br>    <br>    - Insolvent, paid employment, unsound mind, convicted, misbehavior/in capacitance (as per SC)<br>        <br>- Re-appointment – Members can’t be reappointed-<br>    <br>    - ICr are eligible for CICr/State CICr (for State IC) max for 5 years (i/c their term as IC)<br>        <br>- Salary/allowances- Chief IC (CEC), ICr at CIC (EC), State CICr (EC), State ICr (State chief Secy) _(Union gov)_<br>    <br>    - can’t be varied to his disadvantage<br>        <br>- Qualifications- Should not be MP/MLA, not hold office of profit, self-profession, and allegiance with political party. Additionally they should be well versed with governance.|
-|CVC-<br><br>  <br><br>CVC Act 2003(not established by it though)<br><br>  <br><br>(Executive body based on Santhanam Committee 1964 recommendation)|Composition: Chief Vigilance Commissioner, not more than 2 Vigilance commissioner<br><br>- Appointment- President on recommendation of 3 member committee (PM, Union minister of Home Affairs, LOO in LS)<br>    <br>- Tenure- 4 years and <65 years<br>    <br>- Removal- President<br>    <br>    - Insolvent, paid employment, unsound mind, convicted, misbehavior/in capacitance (as per SC)<br>        <br>- Re- appointment- not eligible for re-appointment under state/central govt.<br>    <br>- Salary/allowances- Chief VCr (UPSC chairman), VCr (UPSC member)- can’t be varied to his disadvantage<br>    <br>- Qualifications-|
-|CBI-<br><br>Sanathanan Committee 1962-64– by MHA (now under MoPT)|Composition: Headed by director, supported by a special/additional director and multiple Jt. Directors<br><br>- Appointment-Director- Appointed by central govt. on recommendation of 3 membered committee (PM (chairperson), LOO LS (in case no LOO, then leader of single largest party), CJI (his nominee SC judge)<br>    <br>- Tenure- Director 2 years tenure protection, rank of IPS and equivalent to DGP<br>    <br><br>  <br><br>Powers from Delhi Spl. Police Est. Act 1946-Not a statutory body though|
-
-  
-
-|   |   |
-|---|---|
- 
-|**Body/ Establishment**|**Functions/Powers**|
-|**Lokpal (Lokpal and Lokayukt act 2013)**|Wide jurisdiction including<br><br>- PM (but 2/3 approval, can't incase of internal/external security, foreign relations, public order, space, atomic energy),<br>    <br>- All union A, B, C, D officers, MP, Union ministers<br>    <br>- autonomous bodies funded by govt.,<br>    <br>- FCRA>10L<br>    <br>- Have extra- territorial powers too!<br>    <br>- Can take up cases that link to PCA 2018<br>    <br><br>  <br><br>**Other features**<br><br>2 wings- Inquiry and prosecution<br><br>Time limits of 60 days in case of inquiry and Special courts for quick actions<br><br>Powers wrt to CBI- Superintendence and direction over any agency (i/c CBI) for cases referred to them by Lokpal i/c transfer of investigating officers<br><br>Attachment of property- for properties acquired via corrupt means even while prosecution is pending<br><br>Complaint: Citizen can do directly but also has provision for prosecution/ punishment for frivolous complaints<br><br>  <br><br>  <br><br>**Key non-inclusions (drawbacks)-**<br><br>Suo-moto enquiry, anonymous enquiries, event >7 yrs old, whistleblower protection, All states do not have Lokayuts and states can even establish weaker organizations.<br><br>  <br><br>Maharashtra first to establish Lokayukta in 1971 by state govt. act|
-|**National (state) Human Right Commission**|Functions- HiJaC of GUC<br><br>Inquire **HR violation (suo-moto, court order, petition),** review safeguards,<br><br>**visit jail s**and detention places for living conditions inspections **(NHRC can w/o state govt. intimation)**<br><br>**Intervene in proceeding before court involving HR violation**<br><br>May **approach SC/ concerned HC directly** for necessary orders, writs and Submits its **report to respective govt**. (which are placed before respective legislatures).<br><br>**Central govt can notify UN conventions to NHRC** (eg. Int, Covenant on civil-political right, Eco, Soc. Cultural rights<br><br>Recommend govt. for such **compensation or initiation of prosecution**<br><br>  <br><br>Limitations-<br><br>While it has the **power of civil court for inquiry** but it itself **can’t issue orders**<br><br>Can **enquire only up to 1 year** of such violation; **limited powers wrt to Armed forces** (can only as report from govt.)<br><br>The reports it presents to govts. **are non- binding** on the respective govt.<br><br>  <br><br>There are **district level courts** also under the act which can be **setup by state govt.** on concurrence with CJ of HC|
-|**CIC (SIC)**|Inquire into **complaint/suo-moto for non-disclosure of info by public authorities**<br><br>- No PIO, info refused, not provided in specified time, incomplete info).<br>    <br><br>While inquiring **CIC/SIC has powers of a civil court**.<br><br>CIC/SIC **has power to secure compliance** of its decision (i.e it can issue orders, impose penalties)<br><br>Submits **annual report to central (state) government**|
-|**CVC**|CVC comprise of a **Chief Technical Examiner Wing and Departmental Inquiry Wing.**<br><br>  <br><br>3 types of inquiry- Under PCA 1998, Lokpal referred, Complaint under PIDPI<br><br>- Inquires under **Prevention of Corruption Act 1988:** AIS serving in union, Group A officers, union govt. referred union employees<br>    <br>- Inquire into **complaints of corruption/ misuse of public office** under Public Interest Disclosure and Protection of Informers’ (PIDPI)/ **Whistle blower resolution.** Only designated agency to take action**s against motivated complainants**<br>    <br>- **Lokpal can refer preliminary inquiry** for Group A-D officers<br>    <br><br>  <br><br>  <br><br>3 types of Appointments<br><br>- Director of **Prosecution (CBI)** - appointed by central govt. on recommendation of CV commission<br>    <br>- Director of Enforcement (**ED,** DoR, FM)- CVC/ 2 VC with Secy. of DoPT, DoR (FM)<br>    <br>- **Officers in CBI** (above SP level except Director CBI)- CVC, Secy Home Affairs, DoPT<br>    <br><br>  <br><br>3 Other vigilance powers<br><br>- Central govt. to consult CVC while making **rules related to vigilance of central services/AIS**<br>    <br>- Superintendence, directions, review progress of **CBI investigation related to the PCA 1988**<br>    <br>- **CVO officers in ministries/departments** link b/w his organization and CVC/CBI<br>    <br><br>  <br><br>Limitations<br><br>- While it has the **power of civil court for inquiry** but it itself **can’t issue orders itself**<br>    <br>- Its recommendations to govt. are **not binding on govt.**<br>    <br><br>  <br><br>Annual **report to president** who then presents it to legislature|
-|**CBI**|CBI **is multi-disciplinary investigation agency**<br><br>- Anti-corruption activities by employees of union, UTs and PSUs<br>    <br>- Other criminal cases like murder, kidnapping on reference by state govt., SC/HC<br>    <br>- Infringement of fiscal and economic laws in consultation/request of concerned department<br>    <br><br>  <br><br>Acts as **National Central Bureau of Interpol** in India- Coordinates investigation request of Indian law enforcement agencies and Interpol member countries.<br><br>  <br><br>SC invalidated special sanction of central govt. for **investigation of JS or above officers**.<br><br>  <br><br>CBI academy in Ghaziabad|
-
-  
-
-  
 
 Non-statutory bodies
 
@@ -2747,9 +2676,3 @@ Oaths
     
 - UPSC chair/CEC/CAG
     
-
-  
-
-  
-
-Civil services board headed by Cabinet secretary makes appointment to officers lower than JS to GoI. Officers above this rank are appointed directly by CCoA by PM.
