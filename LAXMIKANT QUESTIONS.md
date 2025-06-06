@@ -2223,7 +2223,7 @@ _(Yes-SC judge or HC judge qualified to be SC judge, Yes! And that person’s co
 
   
 
-[Rural self- government](https://www.india.gov.in/my-government/constitution-india/amendments/constitution-india-seventy-third-amendment-act-1992)
+## [Rural self- government](https://www.india.gov.in/my-government/constitution-india/amendments/constitution-india-seventy-third-amendment-act-1992)
 
 1. What amendment act gave constitutional status to rural local self-government? What articles and part of Indian constitution talks about rural local self-government?
     
@@ -2271,7 +2271,7 @@ _(Yes-SC judge or HC judge qualified to be SC judge, Yes! And that person’s co
 
   
 
-Schedule areas([link](https://www.drishtiias.com/daily-updates/daily-news-analysis/article-244-a-of-the-constitution))
+## Schedule areas([link](https://www.drishtiias.com/daily-updates/daily-news-analysis/article-244-a-of-the-constitution))
 
 1. Which areas in India are exempted from PRI (i/c municipality) Act?JaCaT NaMeMi
     
@@ -2313,7 +2313,7 @@ _<In Assam, it can be created if both house of parl. approve it with special maj
 18. How is SC/ST declared (By president in consultation with state, for UT no such consultation is required) Art 341/2
     
 
-Urban local government
+## Urban local government
 
 1. What amendment act gave constitutional status to urban local self-government? What articles and part of Indian constitution talks about urban local self-government
     
@@ -2373,22 +2373,6 @@ Urban local government
     
 29. How is metropolitan area defined?– [Art 243P](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/243p.php?Title=Constitution%20of%20India,%201949&STitle=Definitions)(>1Mn population in contiguous districts/ panchayats/ municipalities as specified by governor)
     
-
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-       
-|**Urban body**|**Jurisidiction**|**Nature**|**Composition**|**Nominated / Elected members or both**|**Head**|**Controlling authority**|**Other remarks**|
-|Municipal corpn|Admin of big cities like Delhi, Hyderbad etc|**Statutory** estd by state act in states and Parliament in UT(_same act for multiple corp possible_)|-**Council** comprising elected and nominated members<br><br>-**Standing committees** to deal with specific fields like tax, public works<br><br>-**Commissioner** to implement the council’s decisions|-**Both** in council|-Mayor is head of council slected for 1 year renewable term to preside over council meetings<br><br>-Municipal commissioner is typically IAS and appointed by **state govt** and is main executive authority|State legislature in states and Parliament in UT||
-|Municipality|For towns and smaller cities|**Statutory** estd by state act in states and Parliament in UT(_same act for multiple corp possible_)|-**Council** comprising elected members<br><br>-**Standing committees** to deal with specific fields like tax, public works<br><br>-**Chief executive officer** for general admin of municipality|-Only **elected** members in council|- President or chairman heads council and also enjoys executive powers **unlike Mayor**<br><br>**-CEO** by state govt|State legislature in states and Parliament in UT|Also known as city municiaplity, municipal council, municipal comm, mun. board, borough mun|
-|Notified area committee|For a) fast developing town due to industrial<br><br>b) towns which don’t fulfill conditions for a munciplaity but still imp for state govt|**Non statutory** as estd by gazette notification but functions within framework of state municipal act with only provisions notified in gazette as applicable|Usually same framework as municiaplities or as mentioned in notification|All members including chairman are **nominated** by state govt|||It can be entrusted with powers under any other ACt|
-|Town area committe|For admin of small town|**Statutory** by separate act of state|Governed by the act|Governed by act. **Can be elected, nominated or both**|||Semi-muncipal authority with civic func like drainage, roads, lighting|
-|Township|Provides the civic amenities to the workers and staff in the housing colonies built near the plant|**Non statutory**|Extension of bureaucratic structure of PSU enterprise|**No elected members**|PSU appoints an administrator assisted by engg and tech and non tech staff|PSU enterprise||
-|Cantonment board|Municipal admin of a civic popln in a catonment area|S**tatutory** with cantonmnet board act 2006|The term of office of an elected member of a board is **five years**. A cantonment board consists of **eight elected** members, **three nominated military members by commander**, **three ex-officio members** (station commander, garrison engineer and senior executive medical officer), and one representative of the district magistrate and a CEO of the board (implements all decision of board)|**Both** +ex-offcio members<br><br>Total 16|**President of India** appoints chief executive officer who belon gs to the central cadre<br><br>  <br><br>Military officer commanding the station is ex officio president|Ministry of defence|Classified into 4 types: 1 (>50k)<br><br>2( 10k-50k)<br><br>3(2.5k-10k)<br><br>4(<2.5k)<br><br>  <br><br>Functions divided into obligatory and discretionary by the ACt|
-|Port trust|Estd in port areas like Mumbai, Kolakata, Chennai|**Statutory** as by parliament act||**Both**|Chairman is an offical|Parliament|FUnction to manage and protect ports and provide civic amenities|
-|SPV|Function based not area based|Statutory or by executive resoln as dept. hence **both**||All official members appointed by state||Autonomous bodies independent of urban local bodies. **Not subordinate to Municipality etc**|- known as ‘special purpose’ or ‘single purpose’ agencies or ‘functional local bodies’|
-
-  
-
   
 
 _Note-_
@@ -2399,7 +2383,7 @@ _Wrt to reservation; no specification has been done related to chairmen in ULB u
 
   
 
-Electoral System
+## Electoral System
 
 1. Define star campaigner ([link](https://www.insightsonindia.com/2020/10/31/who-is-a-star-campaigner-3/))
     
