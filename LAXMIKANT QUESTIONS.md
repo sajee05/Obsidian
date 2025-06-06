@@ -419,19 +419,6 @@ _(Max 3 months detentions unless further approved by advisory committee of HC ju
 62. What are various writs of SC? ©Which of these are applicable to private authorities, public administrators, and judicial/quasi- judicial bodies? [(Link)](https://iaskracker.com/types-of-writs-and-scope/)
     
 
-|   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|
-       
-|Writ|Administrative|Legislative|Individual|Judicial|Tribunal|Private bodies|Remarks|
-|Habeas corpus|Y|Y|Y|N||Y|-protection against arbit detention<br><br>-Not issued when a) lawful detention b)contempt of court proceeding c)detention by court d) detention outside court jusridiction|
-|Mandamus|Y|Y|N|N **(yes against inferior court)**|Y|N (but yes against public bodies)|Command a public official to perform his duty. NOT applicable if<br><br>a)duty is discretionary not mandatory<br><br>b) to governor or prez<br><br>c)CJ of high court<br><br>d) to enforce non statutory departmental order<br><br>e) enforce a contractual obligation|
-|Prohibhition|N|N|N|**Y**|**Y**|N|From higher court to lower court or tribunal to stop or prevent from exceeding its jurisdictions<br><br>Asks inactivity|
-|Certiorari|Y|N|N|Y|Y|N|Transfer case pending with lower order or quash their order on grounds of excess of jurisdiction or lack of jurisdiction or error of law<br><br>Both preventive as well as curative|
-|Quo warranto|Y|N|N|N|N|N|To see into legality of claim of person to public office<br><br>Only in case of substantive public office of permament character created by constitution or statute<br><br>-Not for ministerial or private office<br><br>-Unlike other writs, it can also be sought **by non aggrieved**|
-|||||||||
-
-  
-
 63. Can subordinate courts issue writs currently? (no but parliament can allow that to happen)
     
 64. Parliament by law can abridge FRs of which officers? Can there be a judicial review of same? Can state legislature make law under Art 33? (no)
@@ -456,7 +443,7 @@ How can a state claim protection of law under 31A?
 
   
 
-Directive principles of state policy ®
+## Directive principles of state policy ®
 
 1. How does [Art 37](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/37.php?Title=Constitution%20of%20India,%201949&STitle=Application%20of%20the%20principles%20contained%20in%20this%20Part) define utility of DPSP? _<__fundamental in the governance of the country_ _and_ _duty of the State to apply these principles in making laws__>_
     
@@ -489,56 +476,7 @@ Directive principles of state policy ®
 15. Write the DPSPs introduced by 42nd AA, 44th AA, 86th AA, 97th AA
     
 
-|   |   |
-|---|---|
- 
-|DPSP – Socialistic Principles|   |
-|Definition: They are the principles that aim at providing social and economic justice and set the path towards the welfare state. Under various articles, they direct the state to:|   |
-|Article 38|Promote the welfare of the people by securing a social order through justice—social, economic and political—and to minimise inequalities in income, status, facilities and opportunities|
-|Article 39|Secure citizens:<br><br>- Right to adequate means of livelihood for all citizens<br>    <br>- Equitable distribution of material resources of the community for the common good (39b)<br>    <br>- Prevention of concentration of wealth and means of production to common detriment (39c)<br>    <br>- Equal pay for equal work for men and women<br>    <br>- Preservation of the health and strength of workers and children against forcible abuse<br>    <br>- Opportunities for the healthy development of children|
-|Article 39A|Promote equal justice and free legal aid to the poor, disabled , elderly|
-|Article 41|In cases of unemployment, old age, sickness and disablement, secure citizens:<br><br>- Right to work<br>    <br>- Right to education<br>    <br>- Right to public assistance,|
-|Article 42|Make provision for just and humane conditions of work and maternity relief|
-|Article 43|Secure a living wage, a decent standard of living and social and cultural opportunities for all workers|
-|Article 43A|Take steps to secure the participation of workers in the management of industries|
-|Article 47|Raise the level of nutrition and the standard of living of people and to improve public health|
-
-|   |   |
-|---|---|
- 
-|DPSP – Gandhian Principles|   |
-|Definition: These principles are based on Gandhian ideology used to represent the programme of reconstruction enunciated by Gandhi during the national movement. Under various articles, they direct the state to:|   |
-|Article 40|Organise village panchayats and endow them with necessary powers and authority to enable them to function as units of self-government|
-|Article 43|Promote cottage industries on an individual or co-operation basis in rural areas|
-|Article 43B|Promote voluntary formation, autonomous functioning, democratic control and professional management of co-operative societies|
-|Article 46|Promote the educational and economic interests of SCs, STs, and other weaker sections of the society and to protect them from social injustice and exploitation|
-|Article 47|Prohibit the consumption of intoxicating drinks and drugs which are injurious to health|
-|Article 48|Prohibit the slaughter of cows, calves and other milch and draught cattle and to improve their breeds|
-
-|   |   |
-|---|---|
- 
-|DPSP – Liberal-Intellectual Principles|   |
-|Definition: These principles reflect the ideology of liberalism. Under various articles, they direct the state to:|   |
-|Article 44|Secure for all citizens a [uniform civil code](https://byjus.com/free-ias-prep/need-for-a-uniform-civil-code-in-a-secular-india/) throughout the country|
-|Article 45|Provide early childhood care and education for all children until they complete the age of six years|
-
-  
-
-|   |   |
-|---|---|
- 
-|Article 48|Organise agriculture and animal husbandry on modern and scientific lines|
-|Article 48A|protect and improve the environment and to safeguard forests and wildlife|
-|Article 49|Protect monuments, places and objects of artistic or historic interest which are declared to be of national importance|
-|Article 50|Separate the judiciary from the executive in the public services of the State|
-|Article 51|- Promote international peace and security and maintain just and honourable relations between nations<br>    <br>- Foster respect for international law and treaty obligations<br>    <br>- Encourage settlement of international disputes by arbitration|
-
-  
-
-  
-
-Fundamental duties
+## Fundamental duties
 
 1. Enumerate the fundamental duties mentioned in Part 4A of Indian Constitution 51A ®
     
@@ -565,7 +503,7 @@ _Functions and responsibilities of the Union and the States, issues and challeng
 
   
 
-Territory of the Union
+## Territory of the Union
 
 1. Which Part of the constitution deal with issues related to the territory of India? Which Articles does this contain? Which Schedule is relevant here?
     
@@ -590,7 +528,7 @@ _<Even if state passes resolution for name, area, boundary- union will draft a b
 
   
 
-Citizenship
+## Citizenship
 
 1. Who is authorized to make law on citizenship? <Parliament>
     
@@ -642,7 +580,7 @@ _- Migrants to Pakistan after 1 March 1947 no more citizen of India- if they ret
 
   
 
-Structure of Indian polity
+## Structure of Indian polity
 
 1. Define federalism, confederation, union of state, unitary form of government
     
@@ -663,7 +601,7 @@ Structure of Indian polity
 
   
 
-Financial distribution of power[(Link)](https://www.civilsdaily.com/financial-relations-between-centre-and-state-art-268-to-293/)[(Link)](https://www.gktoday.in/gk/constitution-101st-amendment-act-2016/)
+## Financial distribution of power[(Link)](https://www.civilsdaily.com/financial-relations-between-centre-and-state-art-268-to-293/)[(Link)](https://www.gktoday.in/gk/constitution-101st-amendment-act-2016/)
 
 1. Can a tax be collected in India without a law? (Art 265No tax shall be levied/collected except bylaw)
     
@@ -720,21 +658,9 @@ Financial distribution of power[(Link)](https://www.civilsdaily.com/financial-re
 
 _<No Const. right U/A 301. Parliament can make preferential law to counter scarcity of goods in any/whole part of India, state can make such law in public interest with prior approval of president>_
 
-  
+   
 
-|   |   |   |
-|---|---|---|
-  
-|**Tax**|**Levy**|**Collect**|
-|Stamp duty; Excise on medicinal/ toiletry prep (omitted)|Union|State|
-|Service tax(omitted)|Union|State and Union|
-|Taxes on good which are trade inter-state (except newspaper)|Union|Union (assigned to state)|
-|Surcharge/Cess by GoI|Union|Union (not shared with state)|
-|All duties/taxes except above entries in union list|Union|Union (shared with state as prescribed by president based on FC recommendation )|
-
-  
-
-Legislative distribution of power
+## Legislative distribution of power
 
 1. What are ‘extra-territorial legislations’? [(Link)](https://en.wikipedia.org/wiki/Extraterritorial_jurisdiction)
     
@@ -792,7 +718,7 @@ _<Executive power of Union- giving directions to state a) for ensuring implement
 
   
 
-Centre- State relationship©
+## Centre- State relationship©
 
 1. What are the point of contentions between states and centre? (12)
     
@@ -821,7 +747,7 @@ Centre- State relationship©
 
   
 
-Emergency provisions:
+## Emergency provisions:
 
 1. What are 3 types of emergency? It’s inspired from which constitution?
     
@@ -902,7 +828,7 @@ Emergency provisions:
 
   
 
-Special provisions for states
+## Special provisions for states
 
 1. What article of Indian constitution provide special status of J&K? (2)
     
@@ -933,7 +859,7 @@ Special provisions for states
 
   
 
-Administration of UTs
+## Administration of UTs
 
 1. Which constitutional amendment act led to formation of union territories? What were they categorized as before this? P- 40.3
     
@@ -953,31 +879,28 @@ Administration of UTs
         
         1. What about Puducheryy? (Lt. Governor or President)? Same as above
             
-
-  
-
-1. Oath swearing
+	3. Oath swearing
     
-    1. What about Puducheryy? (Lt. Governor or President)? Same as above
+    4. What about Puducheryy? (Lt. Governor or President)? Same as above
         
-2. President rule
+	5. President rule
     
-3. Power distribution b/w COM & administrator
+	6. Power distribution b/w COM & administrator
     
-4. Ordinance promulgation/withdrawal- who, when/when not, whose permission
+	7. Ordinance promulgation/withdrawal- who, when/when not, whose permission
     
 
-5. Can puducherry LG withhold, approve or return money bill? (yes all three unlike in SL and parliament where only withhold and approve option there. Prior reco of LG is neededfor such bills to be introduced)
+7. Can puducherry LG withhold, approve or return money bill? (yes all three unlike in SL and parliament where only withhold and approve option there. Prior reco of LG is neededfor such bills to be introduced)
     
-6. Does LG of delhi have more power than puducherry (yes. He has executive functions)
+8. Does LG of delhi have more power than puducherry (yes. He has executive functions)
     
-7. Under which ministry does the administration of 5 UTs without LA fall? Does the Constn give this power to the Minsitry? Which is the governance bodies in these UTs? (P-40.5)
+9. Under which ministry does the administration of 5 UTs without LA fall? Does the Constn give this power to the Minsitry? Which is the governance bodies in these UTs? (P-40.5)
     
-8. Which UT have HMAC or AAC? What is the composition of AAC or HMAC?
+10. Which UT have HMAC or AAC? What is the composition of AAC or HMAC?
     
-9. Who can establish the High Court in a UT? How many UTs have their own HC? Which HC jurisdiction does other UTs fall under (P-40.5)
+11. Who can establish the High Court in a UT? How many UTs have their own HC? Which HC jurisdiction does other UTs fall under (P-40.5)
     
-10. What provisions are mentioned for the governance of acquired territories?
+12. What provisions are mentioned for the governance of acquired territories?
     
 
   
@@ -986,11 +909,11 @@ Administration of UTs
 
   
 
-Union legislature
+## Union legislature
 
   
 
-Members of the house
+### Members of the house
 
 1. What is the total strength of the house as per constitution and actual? How many elected/nominated?
     
@@ -1053,7 +976,7 @@ Members of the house
 
   
 
-Presiding officer of the house
+### Presiding officer of the house
 
 28. Election, oath, removal and resignation of Speaker and his/her function/powers ©
     
@@ -1100,7 +1023,7 @@ _<Removal by effective majority for speaker, Dy. speaker, Chairman RS, Dy. Chair
 
   
 
-House
+### House
 
 47. What is the tenure of the house? Is this as per constitution or RPA1951? (No tenure is mentioned in constitution Art 83 for upper house)
     
@@ -1135,7 +1058,7 @@ House
 
   
 
-Parliamentary Procedures (General)
+### Parliamentary Procedures (General)
 
 1. Who summons the sessions of the house? On whose recommendation? _(parliamentary affairs committee)_ ( Art 85)
     
@@ -1168,87 +1091,16 @@ Parliamentary Procedures (General)
 15. What are the number of Qs allowed per member? (5Q/day person in LS and 7Q/day per person in RS)
     
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-    
-|**Type**|**Description**|**Supply Qs alwd?**|**Notice prd rqd**|**Number alwd/ day?**|
-|Starred (green color)|Can be answered orally on the floor of the House|Yes|15 days|20 in total|
-|Unstarred (white)|Written answers provided|No|15 days|230|
-|Short Notice questions (light pink- )|Relate to matters of urgent public importance; notice period is shorter than 10 days minimum prescribed for other questions; oral answers provided||<10 days||
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 16. What are ‘motions’? P-22.15 What are 3 types of motion? Define each
     
 
-  
-
-|   |   |   |
-|---|---|---|
-  
-|**Type of Motions**|   |**Description**|
-|Substantive|   |Independent, self-contained proposals, drafted so as to express an opinion of the House; do not depend on, or arise out of, any other motion (e.g.: No-Confidence Motion, **Adjournment Motion**, Motion of Thanks for the President’s Address, all resolutions are substantive motions)|
-|Substitute|   |Introduced **before** discussion starts on a substantive motion; these conform to the subject matter of the original motion, but are drafted differently; if permitted, both the original and substitute motions are debated together, but only the substitute motion is voted upon|
-|Subsidiary|   |Depend on or relate to other motions; have no meaning by themselves|
-|Types|Ancillary|Regular way of proceeding with the House business, such as, bill be passed or taken into consideration etc.|
-|Superseding|Moved in the course of debate on another question, and seek to supersede that question; mostly dilatory in nature eg bill be recommitted to select or joint committee or debate on bill be adjourned sine die|
-|Amendment|Amends part of the question put before the House (unlike Substitute Motions, which completely replace the entire motion) eg amendment to clause of bill|
-|No-day-yet-named<br><br>motion|   |Motions that have been admitted by the Speaker, but date hasn’t been fixed|
-
-  
-
 17. Different types of motions introduced in the house
     
-
-|   |   |   |
-|---|---|---|
-  
-|**Type of ‘Urgent’ Motion**|**Description**|**Procedure**|
-|Closure motion|Motion put forward to cut short a debate. If approved debate is stopped and matter is put to vote- 4 types:<br><br>-Simple closure-<br><br>-Closure by compartments- voting on only a part of the whole debate.<br><br>- Kangaroo Closure- intervening clauses are skipped and taken as passed<br><br>-Guillotine closure- voting of undiscussed ones along with the discussed ones.|Can be moved in both houses|
-|Adjournment|Sets aside normal business of the House for discussing a ‘definite matter of urgent public importance’; cannot be for matters sub-judice, or matters that can be raised under any other motion like priviliege or nay motion already decided. **If an adjournment motion is passed, it amounts to censure of the government- (slightly differ from no confidence-** 1) can be against individual minister 2) COM doesn’t mandatory has to resign 3) should state the reason|**50+ MPs need to support the motion before it is admitted.** If this happens, mover and others speak, then ministers reply, and motion is put to a vote; **Speaker can’t adjourn the House until vote is done** and **min 2.5 hrs discussion** happens<br><br>  <br><br>**Not allowed in Rajya Sabha** as it involves elements of censure against government|
-|Calling Attention Notices|Raising urgent matters, but not urgent enough for adjournment motion. Aim is to ask ministers to make an authoritative statement on an urgent issue.<br><br>  <br><br>No formal motion, debate, or voting; only the mover is allowed one clarifying question|Like zero hour it is an indian innovation **but** mentioned in rules of procedure|
-|Half-an-Hour Discussion|Such discussion is allowed after 5 PM on matters arising out of questions already answered in the House on matter of public importance<br><br>No formal motion or voting|Speaker can allot 3 days in a week for them|
-|Short-duration (2 hr) Discussion|Like calling-attention, but debate is allowed (but member who raises the discussion has no right to reply after Minister speaks; other MPs can speak and discuss)<br><br>It is to raise matters of urgent public interest<br><br>  <br><br>No formal motion, or voting|Speaker’s discretion to allow or not; if they are admitted, they happen after the regular business of the House is dispensed on the same or a later day<br><br>Speaker allots 2 days a week|
-|Point of order question|Raised when procedure of house is being violated. No debate is allowed on this motion<br><br>Usually rasied by an opposition and suspends proceeding of the house|The decision of speaker is final and no discussion is allowed on it. Can be moved in both houses|
-|Privilege Motion|In case of breach of privilege of parliament by a minister by withholding facts. **Its purpose is to censure the minister**|Can be moved in both houses|
-|Notice Mentions under Rule 377|Matters that cannot be raised under any of the above three; **Ministers usually do not make a statement,** but can if they wish to (usually they send a written reply)<br><br>  <br><br>**Equivalent in Rajya Sabha is ‘Special Mention’**||
-
-  
 
 18. What are the 4 devices available to MPs for raising urgent matters of public importance requiring immediate attention of the government/ Parliament? (resoln are for general public interest and not urgent public interest)
     
 19. List 2 differences between motions and resolutions. Discuss different type of resolutions (P-22.17)
     
-
-  
-
-|   |   |
-|---|---|
- 
-|**Type of Resolutions**|**Description**|
-|Private Member Resolution|By a private member. Discussed on alternate Friday|
-|Government Resolution|By a minister. Discussed on Monday to Thursday|
-|Statutory Resolution|May be moved either by government or private members; these are always tabled in pursuance of a provision in the constitution or an Act of Parliament. (e.g.: Impeachment of President, disapproval of an ordinance etc.)<br><br>  <br><br>**If these are adopted, they have the force of law** (unlike motions that only express an opinion of the House; those are not binding on the government)|
-
-  
 
 20. What is no-confidence, confidence motion and vote of thanks motion? What is Rajya Sabha power with respect to introduction of these motions and effect on COM if not approved?
     
@@ -1260,7 +1112,7 @@ _<Vote of thanks after president’s speech at commencement of New Year! Both ho
 
   
 
-Parliamentary Procedures (Finance)
+## Parliamentary Procedures (Finance)
 
 1. Write about the 3 funds of union and state govt. detailing relevant constitution article, source of receipt and process of expenditure approval (i/c any upper limit on expenditure)? ©
     
@@ -1356,7 +1208,7 @@ _It has both receipts and expenditure, vote-on-account is generally for a longer
 
   
 
-Parliamentary Committees
+## Parliamentary Committees
 
 1. What are 4 conditions of a parliamentary committee? (Reports to whom specifically??)
     
@@ -1407,8 +1259,6 @@ Parliamentary Committees
 10. Quroum for parliamentary committees
     
 
-  
-
 11. What are consultative committees- different from parliamentary committees? When can they meet **( session and inter session both)**P-23.9 (3 key)
     
 12. What are the departmental forums and their main functions? How many are formed so far, their names and year of formation, P-24.01 WYCH GDAM
@@ -1420,48 +1270,8 @@ Parliamentary Committees
 15. What is a parliamentary friendship group? Who constitutes it? Compostion?
     
 
-  
 
-|   |   |   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-            
-|**Committee Type**|**Committee Name**|   |**Duration**|   |**Election**|**Key function**|   |   |**LS members**|   |**RS members**|**Joint**|
-|**DSRC**||   |1 yr|   |LS members nominated by speaker and RS members by Chairman|Chairman of committees under RS are nominated by Chairman of RS ;<br><br>Chairman of committees under LS are nominated by Speaker of LS|   |   |21|   |10|Yes|
-|**Inquiry-**|Petitions|   |1 yr|   |Nominated by speaker|1. Examines **petitions on bills** and on matters of general public importance  <br>2. Entertains representations **from individual & associations** on matters pertaining to **union subjects**|   |   |15|   |10||
-|Privileges|   |Not fixed|   |Nominated by speaker|1. Examines cases of **breach of privileges** of house and its members  <br>2. Recommends appropriate action- **quasi- judicial work**|   |   |15|   |10||
-|Ethics|   |1 yr|   ||1. Examines cases of **misconduct**2. Recommends appropriate action  <br>3. Engaged in maintaining **decorum & discipline**|   |   |N/A|   |N/A|Not quasi judicial and formed first in RS|
-|**Scrutinize and control**|Govt. assurances|   |1 yr|   |Nominated by speaker|1. Examines **assurances, promises** and undertakings given by **ministers and reports**|   |   |15|   |10||
-|Subordinate legislation|   |1 yr|   |Nominated by speaker|1. Examines and reports to house whether **delegated legislation to executives** is being properly exercised|   |   |15|   |15||
-|Papers laid on table|   |1 yr|   |Nominated by speaker|1. Examines papers on whether they **comply with constitution, related act or rule**.  <br>2. **Doesn't examine** notifications under above committee|   |   |15|   |10||
-|Welfare of SC & ST|   |1 yr|   |RS/LSElected by members of RS /LS|1. Considers **report** of National commission for SC & ST  <br>2. Examines all **matters** relating to welfare of SCs & STs- implementation of schemes etc.|   |   |20|   |10|Propn repn and Single transferable vote<br><br>Yes<br><br>Chairperson appointed by the **speaker**|
-|Empowerment of women|   |1 yr|   |LS members nominated by speaker and RS members by Chairman|1. Considers **report** of National commission for women  <br>2. Examines **measures** taken by Union govt**.** to secure status, dignity, equality|   |   |20|   |10|Yes<br><br>Chairperson appointed by the **speaker**|
-|Office of profit|   |5 yr|   |RS/LSElected by members of RS /LS|1. Examines **composition and character** of committees and bodies by various govt. (center, state, UT etc.)  <br>2. Recommends on **disqualification** of persons in the office for election of MP|   |   |10|   |5|[Official source](http://loksabhaph.nic.in/writereaddata/Abstract/joint_committee_of%20_offices_of_%20profit.pdf):<br><br>Prop repn, single trabsferable vote for members<br><br>  <br><br>But chairman by speaker from LS members of committee|
-|**Day-to-Day business**|Business Advisory|   |No specific term of office|   |Members nominated by speaker/ Chairman **in propn of parties’ repn**|1. Regulates program and **time table** of house|   |   |15|   |11|Presiding officer as chairman/speaker<br><br>  <br><br>If deputy presiding **officer is not nominated then he is a special invitee**|
-|Private members’ bill & resolutions|   |1 yr|   |Nominated by speaker|1. **Classifies bills and allocate time** for discussion on bill by private members|   |   |15|   |Done by business advisory|**Dy speaker is presiding officer**|
-|Rules Committee|   |1 yr|   |Nominated by speaker|1. Considers the **matters of procedure and conduct of business** in house  <br>2. Recommends amendments/additions to rule of house|   |   |15|   |16|Presiding officer is chairman/Speaker|
-|Absence of members|   |1 yr|   |Nominated by speaker|1. **Absence for >60days** without permission  <br>2. Accepts **application on LoA** from all members|   |   |15|   |No committee||
-|**House Keeping**|General purposes|   |NA|   ||1. Considers and advices on **matters related house affairs** not in jurisdiction of other parliamentary committees|   |   |Speaker, Deputy speaker, panel of chairperson, chairperson of LS affiliated DSRC, leader of recognized parties in house and other members nominated by speaker|   |Similar as LS but with RS members|Presiding officer as chairman|
-|House Committee|   |1 yr|   |   ||1. Deals with **residential accommodation , food, medical aid** etc. accord to MPs in houses and hostels of Delhi|12|Has it but membership NA|   |   |
-|Library Committee|   |1 yr|   ||1. Considers all matters relating to library of parliament  <br>2. Assist members in utilizing library's service|   |   |6 including Deputy Speaker|   |3|Yes<br><br>Dy Speaker is Chairman|
-|Salaries & Allowance of members|   |1 yr|   |Nominated by respective presding officers of House|1. Constituted under Salary, Allowance and Pension of MP act 19542. Frames **rules for regulating payment of salaries, allowances, pensions to MPs**<br><br>3. Does not lay its report to the house|   |   |10|   |5|Yes<br><br>Members select their own Chairman|
-
-  
-
-|   |   |   |   |
-|---|---|---|---|
-   
-||**Public Account**|**Estimates**|**Public Undertaking**|
-|Setup|1921 (GoI Act 1919)|1921 (GoI Act 1919)|1964|
-|Members|22 (LS-15, RS-7)- Joint|30 (LS-30, RS-0)- Only LS|22 (LS-15, RS-7)- Joint|
-|Term|1 year|1 year|1 year|
-|Election|1. Proportional representation  <br>2. Single transferrable vote system  <br>3. Minister can't be elected to this committee|   |   |
-|Chairman|1. Chosen by Speaker LS from all members  <br>2. Opposition chairman is convention|1. Chosen by Speaker LS (all) from LS members  <br>2. Ruling party is convention|Chosen by Speaker LS from LS members|
-|Functions|1. Examine **appropriation and finance accounts based on CAG** reports- involves comparison of estimated v/s actual<br><br>2. Examine A/Cs **of state corp**., autonomous bodies, stores & stocks (**except PSU**)  <br>3. Examine the **expenditure** confirms to the **right authority**<br><br>4. Rules adherence in **re-appropriation  <br>**5. Examine money spent in **excess of amount** granted by LS|1. Report **estimates that can be affected to bring economies**, improvement in efficiency, admin reform  <br>2. **Suggest alternatives** to achieve the objectives  <br>3. Examine if **money laid out within limits of policy** implied in estimates  <br>4. Suggest **form in which estimates are to be presented** to Parliament|1**. Examine reports and A/Cs of PSU**2. **Examine reports of CAG** on PSU  <br>3. Examine **efficiency, business practices** and autonomy adherence  <br>4. Other functions vested by speaker to PAC, EC applicable on PSU|
-|Effectiveness limited by|1**. Post-mortem** work  <br>2. Not related to policy by Parliament  <br>3. **Advisory body, recommendations** not binding  <br>4. **Can't issue order** (for eg. disallowance of expenses)  <br>5. Can't intervene in day-to-day admin|1. Examines budget only after vote by Parliament (**Post-mortem** work)  <br>2. Cannot question policy by Parliament  <br>3. **Advisory body**, recommendations not binding  <br>4. Examines only **select few ministries’ in a year by rotation**  <br>5. Lacks assistance from CAG|1. **Only 10-12 PSUs per year**2. Work is **post-mortem**3. Absence of **technical experts**4. **Advisory body**, recommendations not binding|
-
-  
-
-Cabinet Committees (Chapter21)
+## Cabinet Committees (Chapter21)
 
 1. Are CC constitutional, statutory, and extra-constitutional in nature? Who set up the CCs?
     
@@ -1472,7 +1282,7 @@ Cabinet Committees (Chapter21)
 
   
 
-State Legislature
+## State Legislature
 
 1. Which _part_ of the constitution contains the provisions for governance of states?
     
@@ -1613,7 +1423,7 @@ Entitled to vote only in the first instance on such resolution or on any other m
 
   
 
-Official language of business conduct (Ch-61)
+## Official language of business conduct (Ch-61)
 
 1. How many languages are included in the 8th schedule of the constitution? (1967, 1992, 2003)
     
@@ -1621,18 +1431,17 @@ Official language of business conduct (Ch-61)
     
 3. List provisions regarding use of languages in:
     
-
-- Official business of the parliament (are Devanagari numerals also allowed?)
+	- Official business of the parliament (are Devanagari numerals also allowed?)
     
-- Official business of the state (are they limited to Schedule 8 languages +English)
+	- Official business of the state (are they limited to Schedule 8 languages +English)
     
-- Communication between union and states- both English and Hindi
+	- Communication between union and states- both English and Hindi
     
-- Communication between states
+	- Communication between states
     
-- Language to be used in SC, HCs? (In which cases use of state official language allowed)
+	- Language to be used in SC, HCs? (In which cases use of state official language allowed)
     
-- Language to be used for Acts, Bills of state etc. – _English translation is must_
+	- Language to be used for Acts, Bills of state etc. – _English translation is must_
     
 
 4. Who declares the official language of a state
@@ -1650,7 +1459,7 @@ _President, post which a committee of the house will be formed (20 LS, 10 RS and
 
   
 
-Parliamentary v/s Presidential form of government
+## Parliamentary v/s Presidential form of government
 
 1. Compare key features of parliamentary and presidential form of government P-12.6 ®
     
@@ -1663,7 +1472,7 @@ Parliamentary v/s Presidential form of government
 
   
 
-President elections, vacancy, removal
+## President elections, vacancy, removal
 
 1. Describe how the President of India is elected. (beware of MCQ saying all members of parliament as it is elected members of parliament)
     
@@ -1733,7 +1542,7 @@ _(Note- If total vote of each MLA exceeds 500, it be increased 1, and vote of ea
 
 President is the only officer who’s impeached, rest all are removed!!
 
-Vice-President
+## Vice-President
 
 1. Describe the procedure for election of the VP. Is it any way different from the election of President? Who’s the presiding officer of elections? ©
     
@@ -1766,7 +1575,7 @@ Vice-President
 
 *Election time, ground of removal, salary, successor in absence omitted in constn
 
-Powers and duties of the President
+## Powers and duties of the President
 
 1. Write the content of Art 53 of Indian constitution?
     
@@ -1836,7 +1645,7 @@ _<Parliament can make law if a contingency happens that’s not mentioned in con
 
   
 
-Council of Ministers
+## Council of Ministers
 
 1. How many ministers can a government have?
     
@@ -1953,7 +1762,7 @@ _*All headed by PM except accommodation and parliamentary affairs_
 
   
 
-Attorney General of India (Refer to notes)
+## Attorney General of India (Refer to notes)
 
 1. What is the role of the Attorney General of India?©
     
@@ -1974,7 +1783,7 @@ Attorney General of India (Refer to notes)
 
   
 
-Comptroller and Auditor General
+## Comptroller and Auditor General
 
 1. What is the appointment etc. of the CAG? _<Refer to table below>_ ©
     
@@ -2004,7 +1813,7 @@ _CAG audits Consolidated find of India/State/UT (with legislature), Public accou
 
   
 
-Public Service Commission
+## Public Service Commission
 
 1. How can joint commissions of two or more states be set up? (Both houses of the states approve and parliament will set up by law) [Art 315(2)](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/315.php?Title=Constitution%20of%20India,%201949&STitle=Public%20Service%20Commissions%20for%20the%20Union%20and%20for%20the%20States)
     
@@ -2019,7 +1828,7 @@ Public Service Commission
 
   
 
-Governor
+## Governor
 
 1. Can parliament/state legislature by law confer the powers of governor to anyone else or powers of other authority to governor? [Art 154](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/154.php?Title=Constitution%20of%20India,%201949&STitle=Executive%20power%20of%20State) (No, obviously unless one do a constitutional amendment)
     
@@ -2087,7 +1896,7 @@ _<It’s specifically written in constitution that same person can be appointed 
 
   
 
-State executive (Union art +89)
+## State executive (Union art +89)
 
 1. Discuss 3 sub articles of Art 163 related to COM aid and advice to governor? 2 ways it is different from Union COM advice to President? [Art 163](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/163.php?Title=Constitution%20of%20India,%201949&STitle=Council%20of%20Ministers%20to%20aid%20and%20advise%20Governor)
     
@@ -2128,7 +1937,7 @@ _(Bound is not explicitly mentioned, governor doesn’t need COM advice where he
 
   
 
-Supreme Court
+## Supreme Court
 
 1. Which article provides for establishment of Supreme Court? Which body did SC replace?Art 124
     
@@ -2173,19 +1982,6 @@ Check page 25.4
     
 18. How does the constitution secure the independence of the SC judges? (6)©
     
-
-|   |
-|---|
-|Appointment of judges 124|
-|Fixed service conditions 125|
-|Security of tenure (124, 217)|
-|Separation from executive 50|
-|Expenditure charged on CFI|
-|Ban on practice after retirement|
-|Conduct of judges cant be discussed in court 121/211|
-|Power to punish for contempt of court 129/215 &142(2)|
-|Jurisdiction cant be curtailed by Parliament or legilsature|
-
   
 
 19. Who all are eligible for being an ad-hoc judge of SC? Whose appoints and whose approval is needed?_(CJI in consultation with president & CJ of HC, appoint current HC judge whose’ eligible for being SC judge if there’s no quorum to conduct a SC session)_[(Art 127)](https://www.advocatekhoj.com/library/bareacts/constitutionofindia/127.php?Title=Constitution%20of%20India,%201949&STitle=Appointment%20of%20ad%20hoc%20Judges)
@@ -2260,7 +2056,7 @@ _(Yes-SC judge or HC judge qualified to be SC judge, Yes! And that person’s co
 
   
 
-High Court
+## High Court
 
 1. Which HC in India has the largest territorial jurisdiction? Mention the territorial extent.
     
@@ -2323,7 +2119,7 @@ High Court
 
   
 
-Subordinate Courts
+## Subordinate Courts
 
 1. What is the structure of civil and criminal courts at district level?
     
@@ -2390,20 +2186,7 @@ Subordinate Courts
 32. Do these follow civil court procedures strictly? (No- but power of civil courts in inquiry etc. but follow natural justice principles)
     
 
-|   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|
-      
-|**Court name**|**Composition**|**Jurisdiction**|**Powers of civil/criminal court**|**Appeal**|**Nature of proceedings**|**Comment**|
-|Lok Adalats<br><br>(can be org. by State LSA, DLSA, SCLSC, HCLSC or TLSC)|- Typically consist of such no of retired or serving judicial officers as provided by org. authority<br><br>- generally, A judicial officer as chairman, a lawyer and a social worker as members|-Cases pending in court or at pre-litigation stage<br><br>- **Compoundable criminal cases**, family disputes, labor disputes, pension cases, house taxes, comsumer grievance, electricity bills<br><br>-No non compoundable cases under any law|Civil court|No appeal after award is made and hence binding<br><br>-However decision is given only after parties arrive at a settlement failing which no award is given and case transferred to court of law|-Informal and LA specifies own procdure for dispute resolution<br><br>-No strict applicability of Evidnece act or CPC<br><br>- **Free of cost and any previous paid fee is refunded**<br><br>**-**Directly interact with judge through counsel|-Informal, cheap, expeditious<br><br>-First such camp was organized in Gujarat in 1982<br><br>-**Statutory status from LSAA 1987**<br><br>-Pending cases in court can be brought if any one of : a) both parties agree to settle in LA or b) one party makes appln to court for LA and c) court is satisfied that case should be refereed to LA|
-|Permanent Lok adalats|-Chairman who is a serving or retired district judge or addn DJ or held judicial office higher in rank than DJ<br><br>-two other person having adequate experience in public utilities|-Public utility service disputes<br><br>-Pecuniary jurisdn. Increased by Centre from **10lac amount to 1** **cr**<br><br>**- No non compoundable cases under any law**|Civil court|No appeal|-First it shall try to see if parties settle and pass award based on that<br><br>-In case of no settlement, PLA award based on merit of case|- LSAA amendt 2002<br><br>-to remove defects of LA, after parties make appln to settle dispute in PLA, no party should invokle jurisdiction of any other court in the case|
-|Family courts|-Estd by State Govt in consultation with HC|_Family disputes such as divorce, property, maintenance, guardianship etc. (both civil and criminal nature)|Civil court|-Only one right of appeal to HC|-Informal during the conciliatory phase with association of social welfare agencies, counselors at this stage<br><br>-No entitlement to a represented by a legal practicioner|-Family courts Act 1984<br><br>-Mandatory in towns with million+ popln|
-|Gram Nyayalayas|-Court of Judicial Magistrate of 1st class and its presiding officer be appointed by the State government in consultation with HC<br><br>-To be estd by State govt in consultaion with HC|-Estd for every Panchayat at intermediate level or in a district<br><br>-Try criminal cases, civil suits, claims or disputes **specified in first and second schedule** of Act<br><br>-Central and state govt can modify jurisdirction|Both civil and criminal courts|Appeals lie to Sessions and District courts whre they will be disposed off within **6 months**<br><br>**-Accussed may file for plea bargain**|-Summary procedure in criminal court<br><br>-Not bound by evidences act, follow natural justice principles<br><br>- It shall try to bring conciliation through c**onciliators and social agencies**<br><br>**-Summary procedure for execution of orders**|-Gram nayayalas act 2008<br><br>**A mobile court** that will have seat at HQ of intermediate and they will go to villages to dispose of cases<br><br>Central govt to bear non- recurring expenses upto 18lac (10L for construction, 5 L for vehicles and 3 for office equipment)|
-
-  
-
-  
-
-Local self-government
+## Local self-government
 
 1. What are the 3 key reasons that necessitate local self-government ©
     
