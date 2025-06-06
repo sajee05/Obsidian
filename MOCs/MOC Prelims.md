@@ -10,9 +10,9 @@
 |                   | [[International Relations Prelims\|International Relations]] - AM/M Puri |
 |                   | [[Social Justice - सामाजिक न्याय\|Social Justice]]                       |
 | [[MOC GS3\|GS 3]] | [[Economics - अर्थशास्त्र]]                                              |
-|                   |                                                                          |
-|                   |                                                                          |
-|                   |                                                                          |
+|                   | [[Agriculture and Planning]]                                             |
+|                   | [[Environment - पर्यावरण]] - Shivin                                      |
+|                   | [[Science and Tech]] - Shivin                                            |
 |                   |                                                                          |
 |                   |                                                                          |
 |                   |                                                                          |
