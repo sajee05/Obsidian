@@ -1,4 +1,8 @@
-*   **Chapters as per Sriram IAS**
+
+```table-of-contents
+```
+ 
+* **Chapters as per Sriram IAS**
     *   Chapter - 1 Economy and Economics
     *   Chapter - 2 Economic Growth and its Measures
     *   Chapter - 3 Growth and Development: Alternative Measures
@@ -28,24 +32,25 @@
     *   Chapter - 27 Indian Agriculture
     *   Chapter- 28 Land Reforms
 
-| Topic | Sub-Topic |
-| :--- | :--- |
-| POVERTY | |
-| Inequality | |
-| UNEMPLOYMENT | |
-| NATIONAL INCOME ACCOUNTING | |
-| INFLATION | |
-| BANKING IN INDIA (6:30 PM): | |
+| Topic                                        | Sub-Topic        |
+| :------------------------------------------- | :--------------- |
+| POVERTY                                      |                  |
+| Inequality                                   |                  |
+| UNEMPLOYMENT                                 |                  |
+| NATIONAL INCOME ACCOUNTING                   |                  |
+| INFLATION                                    |                  |
+| BANKING IN INDIA (6:30 PM):                  |                  |
 | Money, Monetary policy and Banking (5:13 pm) | Insurance sector |
-| Govt Budgeting and Fiscal Policy | |
-| Financial Markets (5:23:00PM) | |
-| VARIOUS STOCK EXCHANGES (5:43 PM): | |
-| International economics | |
-| Institutions | |
-| Infrastructure | |
-| Investment Models | |
+| Govt Budgeting and Fiscal Policy             |                  |
+| Financial Markets (5:23:00PM)                |                  |
+| VARIOUS STOCK EXCHANGES (5:43 PM):           |                  |
+| International economics                      |                  |
+| Institutions                                 |                  |
+| Infrastructure                               |                  |
+| Investment Models                            |                  |
+|                                              |                  |
 
-**Plan of the lecture:**
+**Plan of the lecture:
 *   Poverty
 *   Unemployment
 *   National income accounting
@@ -2915,4 +2920,1108 @@
 *   **Bonds of money market (CT).**
     *   They are regulated by RBI.
     *   In the money market they are issued for a time span of less than a year in the following ways:
-    *   **If issued by government/Treasury Bills** - Treasury Bills are the securities issued by central government only for a period of 91 days, 182 days or 364 days. They are issued at discount. For example: if the face value of a treasury bill is Rs 100, it may be sold in Rs 98 and at
+    *   **If issued by government/Treasury Bills** - Treasury Bills are the securities issued by central government only for a period of 91 days, 182 days or 364 days. They are issued at discount. For example: if the face value of a treasury bill is Rs 100, it may be sold in Rs 98 and at maturity Rs 100 is redeemed(hence a profit of Rs 2). As in such bonds, no coupons/interests is given, they are also called **zero-coupon bonds**.
+    *   In 2010, for less than 91 days **Cash Management Bills (CMBs)** have been introduced which are issued at a discount on face value. (Earlier there used to be 14 days ad-hoc treasury bills also, but they are discontinued now since 1997) to meet the temporary cash flow of the government, they are issued by Central government.
+*   **If issued by a Company, they are called commercial paper.** As these commercial papers are non secured(without any guarantee), the credit rating needs to be very good of the issuer.
+    *   Issued for up to 1 yr. to cover short term receivables and meet short term financial obligations.
+    *   They are issued in denominations of 5 lakhs.
+    *   रिटेल निवेशकों की औक़ात के बाहर है
+*   **If it is issued by banks, it is called a certificate of deposits.** However, some other financial institutions can issue certificates of deposits for up to 3 years.
+    *   **Certificate of Deposit (CD)** is a negotiable money market instrument and can be issued in dematerialised form for a specified time period.
+    *   negotiable/tradable, unsecured money market instruments
+*   These Certificate of Deposits are different from the 'deposit certificate' that we individuals get while doing Fixed Deposit in the bank. Our 'deposit certificates' are not tradable.
+
+### Debt instruments in capital market
+*   Regulated by SEBI
+*   In the capital market, they can be issued by the central government, state governments and companies.
+*   If issued by the central government called **Dated securities**.
+*   If issued by state government called **SDLs - State Development Loans**.
+*   If issued by companies, they are known as **Corporate bonds or Debentures**.
+*   They can be of the following 3 types in case of dated securities and SDLS:
+    *   1. **Fixed coupon bonds** where the rate of interest is fixed.
+    *   2. **Floating coupon bonds** where the rate of interest or coupon is flexible and is notified at certain intervals by the issuer.
+    *   3. **Inflation-indexed coupon bonds** - They were introduced in 2013 at the onset of the taper tantrum of the USA. (Taper tantrum refers to that exercise of altering the bond market to contain inflation). As a result of the taper tantrum, In India also inflation increased and investors moved to gold. To balance that inflation-indexed bonds were issued where the rate of interest/coupon was benchmarked with inflation. Generally, these bonds are for a period of 5 yrs to 40 years.
+    *   However, sometimes there is no maturity period given such bonds are called **perpetual or consol bonds** and as are issued during the war also called as **war bonds**.
+*   **Debentures** may be fixed or floating or attached to external benchmarks. They could be secured or non secured.
+
+### Who can invest in Government securities and how?
+*   These Government bonds and many of the corporate bonds are sold over the counter which means there are certain physical or digital counters where they can be purchased in primary and secondary markets.
+*   However, some of them are available in the Stock market also.
+*   G-secs issued by a government are managed by RBI, be it central govt or SDL.
+*   For this purpose, RBI uses **NDSOM (Negotiated dealing system order matching)** and **Clearing Corporation of India CCI** works as depository participant and clearinghouse.
+*   **Depository participants** refer to that institution that takes care of all the bond share issues as there is no physical transfer.
+*   **Clearinghouse** refers to that institution that clears the debit and credit once trading is done.
+*   Generally, the banks, primary dealers, and big-ticket investors.
+*   Recently in a very revolutionary step this primary security market has been opened to even retail investors (minimum investment is 10000).
+*   Earlier retail investors were only allowed to invest in G-Sec through secondary market (stock market)
+*   For this purpose, the investor can open **RDG (retail direct gilt account)** which is a kind of Demat.
+*   **Advantages**
+    *   **Direct Access:** reduces costs and complexities
+    *   **Democratization:** making it accessible to a wider segment of the population, including small investors.
+    *   **Transparency:** in pricing and yield
+    *   **Diversification:** by including these safe assets
+    *   **Liquidity:**
+    *   **RDG (retail direct gilt account)**
+    *   **Convenience :**
+    *   The online platform offered by NDSOM (Negotiated dealing system order matching) and Clearing Corporation of India CCI.
+
+### Discounting and Finance house of India (DFHI)
+*   It was introduced on the recommendation of the **Vaghul committee 1988** to provide a secondary market for money instruments like treasury bills, commercial papers, etc.
+
+### Equity Market
+*   It refers to that place where equity or shares are issued.
+*   The platform where shares are issues is the stock market. Which dates back to the 18th century in the Netherlands
+*   In India it dates back to 1875 when the Bombay stock exchange was introduced.
+
+### Seeking investment
+*   If a company wants to seek investment has to go through the process of flotation first.
+*   In this whatsoever is the market capital expected is equated in common denomination legal documents to be called as shares
+*   **shares** (also known as stocks or equities) represent units of ownership in a company.
+*   Some of them are authorized and known as authorized shares.
+*   Some of them are restricted and the rest are offered publicly
+
+### Red Herring prospectus.
+*   To issue those shares to the common public the company needs the approval of regulators and in the case of India, it is SEBI.
+*   Before giving the final permission, the regulator needs to cross-examine the credentials of the company.
+*   For this purpose, they ask the company to go through the red herring process.
+*   **Red herring prospectus**, also known as a preliminary prospectus, is a crucial document issued by a company planning to go public through an initial public offering (IPO).
+*   It contain essential information about the company and the proposed offering, but excludes key details like the precise price per share and the total number of shares offered.
+*   **Content**
+    *   **Company information:** company's history, operations, financial performance, future prospects
+    *   **Offering details:** Explains the purpose of the IPO, the intended use of the proceeds
+    *   **Risk factors:** Highlights potential risks and challenges associated with investing in the company.
+    *   **Financial statements:** Includes historical financial statements audited by independent accountants.
+*   **Purpose:**
+    *   Gauging investor interest
+    *   Marketing and education:
+    *   Transparency and compliance:
+*   In which the company hires an underwriter/investment banker who is a legal consultant to provide all consultancies regarding how much of the values should be shared, price of shares, and what the red herring prospectus should look like.
+*   Even in cases of emergency they also work as the buffer to buy the shares if unsold.
+*   **Clause 49 of listing agreement**- this is the rule under which SEBI examines all the details and approves the company to raise funds through public issues.
+
+**NOTE-**
+*   The ownership breaks up the companies.
+*   To start a business, it's highly advisable that individuals should get registered so that their risks are limited because if they are doing it informally, owners' private assets are at risk also.
+*   But once registered the company gets a separate identity. The registration can be done as a Single proprietorship firm, a partnership firm under limited liability partnership 2008, or partnership act 1932.
+*   Moreover, they also can get registered as a company under the companies act 2013.
+*   One who starts a company is called a **promoter**.
+*   If promoters share is 100% is the wholesale.
+*   If the ownership is 76% and new entrant Mr. X which has 26% I in such cases. Then Mr. X is a **strategic partner**
+*   If promoters share is 51% component, still ownership belongs to him but if goes below 50% he is no more owner.
+*   If promoters' shares are reduced to 26%, he is no more owner but a strategic partner.
+
+### IPOs
+*   Once the red herring prospectus is completed and permission is granted the company floats its public offer.
+*   When it is done for the first time by the company (primary market) is called **IPO**.
+*   This IPO can be issued either on a **fixed price** or through the **Book building process** where a cap price (maximum) and floor price (minimum) will be given.
+*   Those who are interested can apply for it by mentioning at what rate they will purchase it between floor and cap prices.
+*   Generally, the range between floor and cap is 20%.
+*   based on responses from the public the cut-off price is decided on which the IPO will be given and once IPO is allotted now the concerned buyer may sell it on the stock market (secondary market)
+*   At what price the secondary market starts is the **listed price**.
+*   After the **Roopal Panchal case**, the stag investors (investors without advance money) are not allowed.
+*   Every application for IPO must be supported with the blocked amount, this is called **ASBA (application supported by blocked amount)** rule
+
+### Follow-up public offer
+*   If another public offer is issued by those who had their IPOs earlier also is called a follow-up public offer.
+
+### Rights issues
+*   It is where a share is preferentially given to already existing shareholders.
+
+### Sweat equity and ESOP (employees stock option plan)
+*   **Sweat equity** refers to that share which is given by the company to its high-rank personnel including directors, executive officers so that company can hold their intellectual and skills and other the other hand **ESOP** is the share given by the companies to its employees of relatively lower rank to hold them as experienced human capital.
+
+### Penny shares.
+*   They are small value shares with higher risk elements.
+
+### Bonus shares
+*   It refereed to those shares' which are given to the shareholders as part of the dividend.
+
+### Share split
+*   It refers to splitting the monetary value of each share into smaller shares which increases the tradability
+
+### Share buyback.
+*   It refers to the process whereby the issuer of the share wants to buy back from the shareholders for this prior approval of SEBI is required.
+*   Share buyback reduces the assets of the company (as company has to pay the existing shareholders for buying their shares)
+
+### Share lot
+*   Refers to a minimum number of shares one has to purchase in the IPO allotments
+
+### Alternative Approaches to raise the funds
+*   **Mutual fund**
+    *   It refers to that fund where instead of investing directly investors give the money to professionals to invest on his behalf.
+    *   However, such investment is subjected to market risks, and by and large investor is not actively participating.
+    *   These mutual funds may or may not have lock-in periods.
+    *   Lock-in period is that tenure before which money can't be withdrawn.
+*   **Small cases**
+    *   They are the new approach of mutual funds with more transparency.
+    *   In cases of this kind of investment the investor is more active and follows where his investment is going.
+*   **Index funds**
+    *   They are more refined mutual funds where the investor highlights clearly that money will be invested as per the given index.
+*   **Equity-linked saving schemes (ELSS)**
+    *   This is another kind of investment where savings are invested in the Stock market by the approval of investors.
+    *   This has a lock-in period of three years but also provides tax benefits.
+*   **Lumpsum payments vs systematic Investment plan (SIP)**
+    *   Lump sum means money is given in one go.
+    *   SIP is where one is investing money of a definite amount at certain intervals.
+*   **Real States Investment trusts (REITs)**
+    *   A real estate investment trust (REIT) is a company that owns, operates, or finances income-producing real estate. They offer investors a way to participate in the real estate market without directly purchasing and managing properties themselves.
+    *   In such kind of investment, a company registered as a trust raises the fund from investors and the money can be utilized in various real estate projects.
+    *   To promote it the government is offering tax deductions.
+*   **Infrastructure investment trust (InVITs)**
+    *   In such kind of trusts funds is raised to be invested in various infra projects.
+    *   They are also subjected to tax benefits.
+*   **Exchange-traded funds (ETF)**
+    *   The concept was introduced in India around 2003-04 but was popularized in 2015-16.
+    *   In such kinds of arrangements more than one company of different sectors comes together and makes the equity in varying proportions.
+    *   For example, ABCD 4 companies of different sectors came together to make a share of 100 Rs. Having their proportions.
+    *   This share will be issued and traded in the secondary market. That's why known as exchange-traded.
+    *   It's considered to be one of the safest options because the risk is calculated as it's highly unlikely that all companies will stop performing.
+    *   In 2015, 10 PSUs came together to make ETF which was sold by reliance mutual.
+    *   Subsequently **Bharat 22 ETF** has been introduced with 22 companies and 15 of them are public sector.
+*   **Chit funds**
+    *   Essentially saving instruments
+    *   Regulated by Central Act of Chit funds Act, 1982
+    *   They are included in definition of NBFC by RBI
+    *   They are prohibited form accepting deposits by RBI
+*   **☆ Alternate investment funds**
+    *   Privately pooled Investment funds that infuse in hedge funds, private equity, venture capital, and other investment types.
+    *   Generally they target HNI, but growingly they are targeting mid sized retail investors.
+    *   **Category 1:** - Infrastructure fund, Venture Capital Funds (VCF), Angel funds, Social venture fund
+    *   **Category 2:** - Debt funds(debt securities of unlisted companies), Funds of funds, Private equity fund
+    *   **Category 3:** - Private Investment in Public Equity Fund (PEF), Hedge funds
+*   **Surety bonds**
+    *   Surety is the promise by one party to take the responsibility for other party's debt if the borrower defaults.
+    *   **Surety bond** - It is a tripartite contract by which one party (the surety) guarantees the performance or obligations of a second party (the principal) to a third party (the obligee).
+    *   *(Diagram shows a tripartite relationship for a Surety Bond between the Principal (who purchases the bond), the Surety (insurance company that guarantees the work), and the Obligee (who requires the bond).)*
+    *   **4 types of surety bonds in general**
+        1.  **Bid Bond:** Provides financial protection to the owner if a bidder is awarded a contract but fails to sign the contract or provide the required performance and payment bonds.
+        2.  **Performance Bond:** Provides an owner with a guarantee that, in the event of a contractor's default, the surety will complete or cause to be completed the contract.
+        3.  **Payment Bond:** Ensures that certain subcontractors and suppliers will be paid for labour and materials incorporated into a construction contract.
+        4.  **Warranty Bond (also called a Maintenance Bond):** Guarantees the owner that any workmanship and material defects found in the original construction will be repaired during the warranty period.
+    *   **Examples**
+        *   Construction Project Completion (Performance Bond):
+        *   Business Contract Fulfillment (Payment Bond)
+
+### Various types of investors and depository participants
+*   For equity investment, one needs a Demat account which can be opened with help of a broker.
+*   There are two types of brokers
+    *   **The full-time broker**- they are those who are not only assisting in opening and maintaining the Demat but at the same time, they also provide fundraising facilities with a wide range of other financial services.
+    *   **Discount broker** - They are those who provide the Demat-related facilities only.
+    *   With the increase of digital transactions these discount brokers are preferred as they are relatively cheaper.
+*   **Depository participants**
+    *   Like the debt market, even in the equity market also Dematerialized accounts are maintained by a repository and custodian who keeps all the shares with them and works as a clearinghouse.
+    *   So whenever any investors are opening Demat the detail is there with DPs and based on buying and selling clearances are given by depository participants.
+    *   Till recently it was done on a **T+2** basis that is trading day plus two working days.
+    *   But now Sebi has reduced it to **T+1**.
+    *   With the help of Demat the investors can purchase IPOs and sells in the secondary market (For MFs Demat account is required)
+    *   If the share is sold and purchased within one day that means between opening and closing of the market it's called **Intraday trade**.
+    *   On the Intraday trade **Security Transaction tax STT is not applicable**
+    *   However, if the share is purchased after the market is closed will be called delivery and finally will be shown into the investor's account.
+    *   In cases of deliveries be it purchase or sells STT is applicable which is 0.1%.
+*   There are two depository participants. One for BSE known as **central depositories services limited CDSL** and another for NSE known as **national Securities deposit limited**
+
+### Various types of Investors
+*   **Qualified institutional Buyers (QIBs)**
+    *   They are the big investors acknowledged and listed by SEBI. Could be individuals or companies.
+    *   50% of any IPOs is reserved for QIBs
+    *   **Anchor investors.** Among the QIBs the most prominent one with the biggest share in IPO is called anchor investor
+*   **Noninstitutional buyers/investors.**
+    *   They are those who invest in more than 2 lakhs in a given IPO.
+    *   15% of the share of IPO is reserved for them.
+*   **Retail investors.**
+    *   They are the small investors and 35% of the IPOs are available to them.
+*   **Stag investors**
+    *   They were those who manipulate the IPO demand with multiple PAN accounts. Like Roopal Panchal case. It is illegal now and the ASBA rule ("Application Supported by Blocked Amount) is there to stop it.
+*   **Bull investors**
+    *   They are those who invest with this opinion that prices will go up and book profit. This is also known as long positioning.
+*   **Bear Investors.**
+    *   They are those who keep a deposit with a broker as a guarantee and first sell the share at a higher price and make the share available within the trading day to the broker by purchasing at a lesser price and this way book profit.
+    *   However, it's a very risky investment.
+    *   This is called short positioning.
+
+### VARIOUS STOCK EXCHANGES
+*   The first recognized stock exchange, paving the way for modern stock markets, is generally considered to be the **Amsterdam Stock Exchange, established in 1611.**
+*   The stock exchange is the platform where primary and secondary market operates in the case of equities.
+*   Historically, it was in Amsterdam where the first stock market was introduced. In India, the first one was the **Bombay Stock Exchange in 1875.**
+*   **Bombay Stock Exchange (BSE):**
+    *   In 1875, it was introduced.
+    *   In 1957, it was recognized by the government of India.
+    *   In 1986, it was accredited by Standards and Poor which is a globally recognized credit rating agency.
+    *   As of now, the BSE is the seventh-largest, and after S&P accreditation, it came up with its own sensitive index called **Sensex** (the term was popularised by Deepak Mohani).
+    *   This sensitive index is an index to figure out the free-floating market capital of the top 30 companies.
+    *   It uses 1979 as the base year equal to 100, which means that whatsoever was the market capitalization of top 30 companies in 1979 was equated with 100.
+    *   Which are these top 30 companies are examined in June and December, at the gap of 6 months.
+    *   A **large capital company** is one more than 20,000 crores market capital.
+    *   A **mid-cap** is between 5000 to 20,000 crores, and a **small-cap** is below 5000 crores.
+    *   In 1995 the BSE got digitalized using satellite-based **Bombay Online Trading Platform (BOLT)**.
+    *   Currently, almost 6000 companies are listed with BSE.
+    *   Since 2012, it is also the part of the **United Nations Sustainable Stock Exchange Initiative.**
+*   **National Stock Exchange (NSE):**
+    *   It was introduced in 1992 and is owned by the government of India.
+    *   More than 2000 companies are listed here.
+    *   Since 1995, they are using **NSE Automated Trading (NEAT)** platform.
+    *   Their sensitive index consists of the top 50 companies called **Nifty50**.
+    *   Additionally, there is **Nifty Next 50** or **Nifty Junior** consisting next 50 companies.
+*   **Multi Commodity Exchange (MCX):**
+    *   It came into existence in 2003 and it deals with non-agricultural commodity derivatives.
+    *   It can be subdivided into- precious metals, base metals, and energy-based derivatives.
+*   **National Commodity Derivative Exchange (NCDEX):**
+    *   It was introduced in 2003.
+    *   Although earlier it was controlled by the Forward Market Commission, after Jignesh Seth Case (2013), it was brought under SEBI.
+    *   NCDEX has its own sensitive index called **Agridex** which consists of 10 crops each of Kharif and Rabi.
+*   **Indian Energy Exchange** for energy which is as of now regulated by the Central Electricity Regulation Commission. (and not SEBI)
+
+### Derivatives
+*   They are identified under securities contracts (regulation) act of 1956
+*   Derivatives are financial contracts whose value derives from the performance of an underlying asset, group of assets, or benchmark.
+*   Derivatives refer to any legal contract which derives its monetary value from an underlying asset.
+*   For example, if Mr. A is having 1 quintal of potatoes in cold storage can make a document of it to be purchased and sold, it will be a derivative.
+*   Derivatives could be tradeable or non-tradeable.
+*   They are of four types:
+*   **Forward derivatives:**
+    *   In such kinds of derivatives, one party makes an agreement with the other, and the contract document works as a derivative.
+    *   For example - Businessman A made a contract with farmer B that he will purchase the crop at a given rate, at the given volume, at a given point of time.
+    *   As the forward derivatives are not tradable and not legally binding, it has counterparty risks (If the other party denies the contract).
+    *   This is why they were made legal and tradable to be called **future derivatives**.
+*   **What are contracts?**
+    *   **Spot contract** - provide real delivery of assets, executed on same day or on future date
+    *   **Ready delivery contract** - executed immediately
+    *   **Forward contracts** - execute the contract on a specified date in future.
+*   **Future Derivatives:**
+    *   They are tradeable and legally binding and are utilized across a wide range of commodities - agriculture, non-agriculture, or even currencies.
+    *   Any dispute in such derivatives is resolved in the framework of the Negotiable Instruments Act.
+*   **Options derivatives:**
+    *   As the name indicates, in such derivatives, one party has the option to withdraw from the deal on the basis of point of reference - whether it is the buyer's option or the seller's option.
+    *   **Options** are a specific type of derivative contract that give the holder the right, but not the obligation, to buy or sell an underlying asset at a predetermined price (strike price) on or before a specific expiration date.
+    *   It could be of two types.
+    *   **Call options:**
+        *   In such derivatives, the buyer makes an agreement with the seller about the future purchases at a given time, at a given rate.
+        *   And when that time arises, it's upon the buyer whether he wants to buy or not, but it is obligatory on the seller's end to sell.
+        *   If the buyer is not buying, the advance given will be confiscated.
+        *   Booking a confirmed train ticket is an example of the Call option.
+    *   **Put option:**
+        *   The seller has the choice of whether to sell or not, but it is obligatory for the buyer to buy.
+        *   If the seller is not selling, he has to return the advance taken, sometimes with interest.
+        *   Putting a household item for sale online is an example of the Put option.
+*   **Swap derivatives:**
+    *   It is where two parties can exchange certain assets between them.
+    *   For example - Mr. A trades at a fixed rate and if Mr. B trades at a floating rate if they feel like they can make a derivative to swap it.
+
+### SEBI
+*   In order to control the Bombay Stock Exchange as early as 1947, a Controller of Capital was issued which used to regulate both debt and equity market.
+*   Subsequently, as the quantum of the capital market increased an independent body was felt needed.
+*   Following that, in 1998, the Securities and Exchange Board of India has been introduced.
+*   Initially, SEBI was not enjoying that much regulating authority, but after **Harshad Mehta Scam**, it was empowered to be a statutory body with quasi-legislative, quasi executive, and quasi judiciary functions.
+*   In terms of the legislative function, it makes rules for companies that are listed or are likely to be listed, for investors, depository participants, brokers, and other institutions like exchanges.
+*   In terms of executive function, it controls and regulates in terms of day-to-day functioning, and in terms of judicial functions, it is the first layer of dispute resolution.
+*   Additionally, SEBI is also a member of the **Financial Stability and Development Council (FSDC)** introduced in 2010 which is headed by the finance minister. SEBI provides necessary inputs regarding financial stability. The RBI Governor is also its member
+*   **Some landmark achievements of SEBI:**
+    *   Insider trading has been banned by SEBI.
+        *   Insider trading refers to the illegal practice of using non-public, material information about a publicly traded company to profit in the stock market.
+    *   Contango has been discontinued. Under it, one party could get extra days for payments.
+    *   T + 1 settlement has been introduced.
+    *   SEBI also ensures that they play important role in terms of funding the climate action.
+    *   For this purpose, SEBI had made a rule that the top 1000 listed companies will provide disclosure regarding physical, **environmental, social, and governance(ESG)** disclosure as a part of the **Business Responsibility and Sustainability Report.**
+    *   Whatsoever, the risks will be mitigated by providing the finances by these companies. It will be mandatory by 2023 and as of now, it is voluntary.
+
+### Miscellaneous
+*   **Viability Gap Funding (VGF)** is designed to provide capital support to PPP projects which would not otherwise be financially viable.
+
+## International economics
+*   Refers to those dimensions of economic activities where more than one country's economic boundaries are involved
+*   Globally with the industrial revolution when the trade increased resulted in the pursuit of new markets and subsequently colonization and imperialism
+*   By the beginning of the 20th century, there were largely two economic powers the UK and USA
+*   However, WWII and great depression resulted in thrashing the world economy
+*   In UK Keynes was trying to figure out what could be the way forward and in the USA its counterpart was Dexter white
+*   In 1944 they came together at the Bretton woods conference along with other representatives (from India CD Deshmukh) popularly called as **Bretton woods conference** which resulted in the following 3 major outcomes -
+    1.  It was realized that many low-income countries are in a vicious trap
+        *   As a solution to this problem, it was advised that there should be an international bank for reconstruction and development to provide concessional loans to these countries
+        *   Later on, called as World bank along with IDA
+    2.  To provide standardization in terms of calculation and national accounting along with guidelines for balance of payments
+        *   For this purpose, IMF was made which also provides loans only in the BOP crisis
+    3.  Most significant point of reference was to develop a general consensus on trade laws
+        *   The committee was of opinion that there should be an institution for it to be named as ITO but it could not be realized
+        *   However general agreement on trade on the tariff(GATT) was introduced
+
+### Balance of Payment(BoP)
+*   Refers to a country's balance sheet that is import and export of a country with rest of the world
+*   Guidelines of maintaining BoP are drawn by IMF and currently, its 6th series is applicable since 2008 (BoP manual)
+*   In India BoP details are maintained by RBI and calculations are done in dollars
+*   As per the BoP manuals, BoP is divided into the following two heads -
+    1.  **Current account -**
+        i.  Balance of Trade
+        ii. Balance of Invisibles
+            1.  Services
+            2.  Transfers (Profit, Interests)
+            3.  Remittances
+        *   *(Diagram shows the components of the Current Account: Trade in goods (exports, imports), Trade in services (net factor income, net non-factor income), and Transfer payments (gifts, remittances, grants).)*
+    2.  **Capital Account -**
+        i.  Investment
+        ii. Debt
+        iii. Banking capital
+        *   *(Diagram shows the components of the Capital Account: Investments (Direct, Portfolio), External borrowings, and External assistance.)*
+*   The general trend of BoP has been negative for India which means there is a trade deficit
+*   However, there is an exception for 2020 for a given quarter it was found positive happened due to lockdown as economic activity was low.
+*   India has maximum exports in petroleum products (roughly 15% of total exports)
+*   Sometimes additional demand also emerged in order to fill **strategic petroleum reservoirs(SPR)**
+    *   SPR refers to that reservoir of crude oil that the country mix as a buffer for unforeseen situations like war, sudden rise in crude oil price, etc.
+    *   In India, it was introduced in 1998
+    *   Under the ministry of petroleum and natural gas, there is a company called **Indian strategic petroleum reservoir limited** which maintains it
+    *   As of now, we have at Padur, Mangalore, Vishakhapatnam, Chandikhole, and Bikaner currently capacity of 550 metric tonnes to fulfil 9 days requirements
+    *   *(Map of India showing existing and upcoming Strategic Petroleum Reserves (SPR) locations and their capacities.)*
+*   Similarly, in terms of gold, our local demand is high and gold is used as raw material in gems and jewellery.
+*   Coal combustion is another concern of import of coal
+
+### World oil reserves
+*   *(A world map distorted to show the size of countries based on their crude oil reserves. Venezuela, Saudi Arabia, Canada, Iran, and Iraq appear largest.)*
+
+### Current Scenario
+*   Currently as per the Economic survey 2021-22 **Balance of Trade** in India is in Deficit but in a controlled fashion.
+*   The reasons for the Deficit are
+    *   Too much dependence on Crude oil (For consumption and as Raw material for Petroleum products and Demand for strategic reserves)
+    *   Import of Gold is Higher
+    *   To overcome this dependence India is trying to Gradually switch over to Renewable energy Resources along with initiatives like Inflation Index bonds, Sovereign Gold Bonds, etc. to reduce the demand for Gold.
+*   The top 5 imported items are :-
+    *   Crude petroleum - approximately 20% of India's total imports
+    *   Gold
+    *   Petroleum products e.g. petroleum gas (LPG)
+    *   Precious, Semiprecious Stones
+    *   Coal, Coke, and Briquettes
+*   In terms of exports Top 5 exports in India is having
+    *   Refined Petroleum products
+    *   Gems and Jewellery
+    *   Iron and Steel
+    *   Pharma
+    *   Gold based Jewelleries
+    *   Rice
+*   As of 2025, India's top five imports and exports reflect its economic structure and trade dynamics. Here's a detailed overview:
+*   **Top Five Imports of India**
+    1.  **Petroleum, Crude & Products:**
+        *   Value: Approximately $179.62 billion.
+        *   Significance: This is the largest import category, driven by India's energy needs.
+    2.  **Coal, Coke & Briquettes:**
+        *   Value: Around $38.89 billion.
+        *   Significance: Essential for power generation and industrial use.
+    3.  **Electronic Goods:**
+        *   Value: About $29.12 billion.
+        *   Significance: Includes telecommunications equipment and consumer electronics.
+    4.  **Transport Equipment:**
+        *   Value: Approximately $26.94 billion.
+        *   Significance: Covers imports of vehicles, machinery, and parts critical for infrastructure development.
+    5.  **Organic & Inorganic Chemicals:**
+        *   Value: Roughly $26.71 billion.
+        *   Significance: Vital for various industries including pharmaceuticals and manufacturing.
+*   **Top Five Exports of India**
+    1.  **Petroleum Products:**
+        *   Value: Estimated at $47.5 billion.
+        *   Significance: India is a major refining hub, exporting significant quantities of refined petroleum.
+    2.  **Gems and Jewelry:**
+        *   Value: Around $41 billion.
+        *   Significance: India is a leading exporter of diamonds and jewelry, known for its craftsmanship.
+    3.  **Pharmaceuticals:**
+        *   Value: Approximately $27.82 billion.
+        *   Significance: India is a key supplier of generic medicines globally, catering to various markets.
+    4.  **Textiles and Garments:**
+        *   Value: About $16.4 billion.
+        *   Significance: India's textile industry is renowned for its quality cotton and garments, with growing international demand.
+    5.  **Rice:**
+        *   Value: Roughly $8.8 billion.
+        *   Significance: India is the largest exporter of rice globally, particularly basmati rice.
+
+#### Export-Import of India (2021)
+
+| Category | Details |
+| :--- | :--- |
+| **Total export in 2021** | $395.47 bn. |
+| **Total import in 2021** | $572.60 bn. |
+| **Export (top countries)** | USA 18%, UAE 6.4%, China 5.8% |
+| **Import (top countries)** | China 15.2%, UAE 7.5%, USA 7.2% |
+| **Top Exports commodities** | Petroleum Products $54.54 bn, Pearl/Precious Stones $26.76 bn, Iron and Steel $21.2 bn, Drug Formulations $19.08 bn, Gold Jewellery $10.6 bn |
+| **Top imports commodities** | Petroleum (Crude) $106.33 bn, Gold $55.78 bn, Petroleum Products $35.95 bn, Pearl/Precious Stones $29.23 bn, Coal/Coke $26.57 bn |
+
+#### Export hubs
+*   *(Map of India highlighting major export hubs like Jamnagar for petroleum, Surat for precious stones, and Kancheepuram for smartphones.)*
+
+| Commodity | District | State | Share |
+| :--- | :--- | :--- | :--- |
+| Petroleum products | Jamnagar | Gujarat | 67% |
+| Precious stones & jewellery | Surat | Gujarat | 36% |
+| Smartphones, electronic parts | Gautam Buddha Nagar | Uttar Pradesh | 26% |
+| Vehicles | Kancheepuram | Tamil Nadu | 21% |
+| Rice, wheat & other cereals | Karnal | Haryana | 17% |
+| Pharmaceutical products | Medchal Malkajgiri | Telangana | 15% |
+
+*   In order to Increase export potential India is continuously striving towards - having mass scale production to make it cost-effective with quality (That's why the slogan of **Zero effect Zero Defect** has been given) which means no detrimental effect on the environment and no compromise on quality.
+*   India is continuously working towards export facilitation by offering all necessary capital availability. This is made sure by bringing export credit into the **Priority Sector Lending (PSL)** quota, **ECGC (export credit guarantee corporation)** takes credit guarantee so that the bank can provide loans to the exporters without hesitation.
+*   Recently, 750 crore capital has been infused in **EXIM bank** to promote export.
+*   The Export can be strengthened with more **Trade agreements**.
+*   **Trade agreements:**
+    *   In India 2021-22 an ambitious target of 400 billion exports was set which has been achieved but Still one of the major concerns is that maximum export is (almost 40%) confined only to 7 countries which focuses on immediate needs of **trade diversification** that means more country should be the trade partners.
+    *   On a positive note last year we have found Belgium as a new entrant in the Top 10. India is continuously striving to foster trade agreements with other countries.
+*   Some of the common trade agreements are -
+    *   *(Diagram shows concentric circles representing different levels of economic integration, from the least integrated (PTA) to the most integrated (Economic Union).)*
+*   **Early harvest schemes** - In this category one country tries its straight partnership with other countries on a pilot basis.
+*   **PTA (Preferential trade agreements)** - In these two countries or multi-trade partners provide concessional tariffs on certain given items and for the rest of the items, it will be generalist. For example - Country A and Country B have PTA on 10 items which means in these 10 items there will be concessional tariffs while on other items it will be normal tariffs.
+*   **FTA (Free trade agreements)** - in this agreement countries develop a consensus that except for a few items on which there will be a normal tariff. The rest of the items will be having concessional tariffs.
+*   **Comprehensive economic cooperation agreement (CECA)** - This is one step better than FTA where countries are not only providing concessional tariffs but also protecting the business, copyright, and investment interests of the trading partners. In such agreements both the countries help each other to promote their trade in their respective territories.
+*   **CEPA (Comprehensive Economic Partnership Agreement)** - In this agreement services are also included so we can say that CECA + Services = CEPA
+    *   E.g. UAE, S. Korea, Japan
+*   **Common Markets**- This is one step better than CEPA where national boundaries are becoming almost irrelevant for trade purposes items and services can move from one place to another with common currencies and connected logistics. For example EU.
+*   Moreover, In order to Promote export from 1st January 2021, **Remission of Duties and Taxes on Exported Products (RODTEP)** Scheme is brought into effect. It is a replacement for the Merchandise Exports from India scheme. Under this, following the WTO compliance, various taxes are returned to ensure that export taxes are not exported.
+*   Additionally, there is an approach of developing **districts as export hubs** and many of the sectors are under PLI.
+*   Moreover, To promote an **export electronic platform** for the preferential certificate of origin has been developed to make it contactless.
+*   Similarly, there is an ongoing export promotion capital goods scheme, SEZ, Trade infrastructure for the export scheme, etc. to promote export.
+
+### BALANCE OF INVISIBLE
+*   **In Terms of Services**
+    *   In India Service sector is characterized by the following three categories -
+        *   **General services** consist of - Transport; Telecommunication; Hospitality and such services.
+        *   **Financial, Real-Estate, and other Professional services.**
+        *   **Public Administration and Defence, etc.**
+*   **☆ On the Other Hand in International trade, as per WTO trade in services are subdivided into the following four categories.**
+    *   **Mode 1** - Services across Borders like BPO
+    *   **Mode 2** - Which is Consumption abroad. For ex- Tourism
+    *   **Mode 3**- Commercial Presence - Services provided by one country will have their commercial presence in the destination country. For example- banking, Hotel, etc.
+    *   **Mode 4** - Where International labour Agreements are highlighted which allows the **movement of labour** from one country to another
+*   Most developing countries want Mode 1 and Mode 4 to be promoted
+*   Developed countries want Mode 2 and 3 to be promoted
+*   In services, India is in **surplus** primarily due to the Software and BPO sector. The Maximum export destination is the USA.
+*   However, COVID has resulted in a negative impact in terms of contact-intensive industry.
+*   Moreover, Financial Services is Now viewed as a Potential Champion sector.
+*   To promote them further, **Safe Harbour Rules** have been introduced.
+    *   The Safe Harbour rules provide certain relaxation in the tax by amending IT Act 1961 to attract those Indian Professionals who are operating from other countries like Singapore.
+    *   *(Diagram explains that a Safe Harbour is a legal provision that protects entities (like employees, executives) from being held liable for decisions made for a project, provided they acted in good faith.)*
+*   **In terms of Remittances since 2008 India Rank 1 in Inflow.**
+*   **The Current Account Position** - To conclude it can be said that the overall Current Account is in Deficit (CAD). Balance of Trade is in Deficit while the Balance of Service is in Surplus.
+
+### Capital Account
+*   *(Diagram repeats the components of the Capital Account: Investments (Direct, Portfolio), External borrowings, and External assistance.)*
+*   The Capital Account is further subdivided into investments, debt and banking capital.
+
+### Foreign Investment
+*   As per RBI, foreign investment refers to any kind of investment done by a **Non-Resident** which could be the repatriable or sometimes non-repatriable basis in any Indian company or LLP(Limited Liability Partnership).
+*   **Repatriability** means that a foreign investor after a given period of time can take back his capital after adjusting and paying various taxes.
+*   This foreign investment could be done in two ways:
+    *   **A. Via Automatic route**
+        *   In such kinds of investments, no prior approval from the government is needed. One can directly invest in the given company provided showing conformity to **Foreign Exchange Management Act(FEMA) Guidelines, 1999**.
+        *   (Earlier it was **Foreign Exchange Regulation Act(FERA)** which was more restrictive and apprehensive towards foreign investments. The rules were rigid and punishments were severe for violations creating a negative atmosphere in terms of investment. However, after the 1991 reforms, we started inviting foreign investments and to facilitate it further, in 1999, the Foreign Exchange Management Act(FEMA) was introduced with a positive outlook towards the promotion of foreign investments).
+    *   **B. Government route**
+        *   In the government route(also called the **Delhi route**), prior approval from the government is needed. It is given by respective departments and ministries.
+        *   Initially, around 2008-09, it was realised that there should be a **Foreign Investment Promotion Board(FIPB)** to promote foreign investments. But around 2017, it was realised that as most of the foreign investment(more than 90%) is now through an automatic route, FIPB should be scrapped and there should be one **Foreign Investment Facilitation Portal** for government approvals.
+*   This foreign investment have the benchmark of 10%, 26%, 49%, 74% and 100%.
+*   **Various types of capital instruments in foreign investment**
+    *   **a. Equity shares** - that is by offering shares to foreign investors
+    *   **b. Debentures** - that is offering debt instruments to foreign investors
+    *   **c. Preferential shares** - it refers to those shares that comes with privileges over common shares in certain aspects like payments liquidation. Unlike common shares they do not carry voting rights.
+    *   **d. Share warrants** - it refers to the documents/legal documents raised against the shares given to foreign investors.
+    *   **e. Convertible notes** - it refers to the instrument of investment of start-ups where initially it is in form of debt but has the option to get converted into shares.
+        *   Primary advantage is share valuation is not required (i.e. this can be issued without the requirement of valuation report)
+        *   They are regulated by RBI.
+    *   **f. Foreign Currency Convertible Bonds(FCCB)**- type of debt instrument that combines features of both bonds and equity.
+        *   where a bond in foreign currency is issued and given to the foreign investor with the options of convertibility of debt into shares. The advantage of issuing an FCCB is that the investor will be immune from exchange rate fluctuation. For example: If Mr A purchases a bond of an Indian Company in rupees, the risks of exchange differences will be on him. On the contrary, if it is issued in the foreign currency exchange rate, risks will be to the company itself.
+    *   **g. Depository receipts**
+        *   Depository receipts (DRs) are unique financial instruments that allow investors to indirectly hold shares in companies listed on foreign stock exchanges. They act as certificates representing a specific number of shares in the underlying foreign company, held by a custodian bank in the investor's home country. This enables easier access to international markets without the complexities of directly trading foreign stocks.
+        *   It refers to that fundraising where a bank is an intermediary. For example, any XYZ Company of India approaches an American Bank that issues depository receipts bought by American investors.
+        *   **ADR - American Depositary Receipts**, refers to all those depository receipts issued by an American Bank which is purchased by their investors and thus provide foreign investment to that Company.
+        *   **GDR- Global Depository Receipts**- refers to depository receipts issued by any European Bank
+        *   **BHDR- Bharat Depository Receipts**- in India around 2011, Standard Chartered Bank introduced IDR(Indian Depository Receipt) which means any given company in a foreign country can raise funds from India with the help of this bank. However, it did not perform well, so on the recommendation of the MS Sahu panel certain improvisation were made and it was reintroduced as BHDR.
+
+### Foreign Direct Investment(FDI)
+*   It refers to any foreign investment having **10% or above stockholding** while **Foreign Portfolio Investment(FPI)** is when it is less than 10%.
+*   RBI very explicitly highlights that there are no other criteria to determine FDI or FPI other than the percentage. However, once FDI is always FDI.
+*   For any country, an increase in FDI symbolises the trust of investors in that country and its fundamentals of the economy in terms of policy interventions, demand, etc.
+*   On the other hand, if FPI is more, it signifies that the country is viewed as a short term destination. And if the proportion of FPI is more than FDI, then such economies are called **hot economies** leaving them vulnerable to inflation shocks. (if in any economy, there is a sudden outflow of main currencies like dollar, yen, euro, etc, the currency starts depreciating resulting in a heated currency so it can be said that FPI is good only if it is supported by a huge quantum of FDI)
+
+### Promoting FDI
+*   India is continuously working on the promotion of FDI by making most of it via automatic route.
+*   During Covid, sensing the opportunity for greater foreign participation, foreign investments are encouraged in the defence sector where it is 74% automatic and 100% under the government route; insurance sector where it has been increased to 74% under the automatic route; in petroleum and natural gas it is 100% under automatic route and Telecom sector it is 100% automatic route.
+*   To promote FDI, there is a dedicated **FDI Monitoring Cell** consisting of an inter-ministerial committee under DPIIT to facilitate whatsoever could be their requirement in terms of foreign investors.
+*   Although, India is promoting FDI but not on the terms and conditions of others. Even necessary steps have been taken to curb any opportunistic takeover.
+
+### Foreign Portfolio Investment(FPI).
+*   As per RBI, FPI inflow has been subjected to vulnerability due to external factors.
+*   In general, this FPI is viewed under the following heads:
+    *   **1. Foreign Institutional Investment(FII)**- It refers to that investment that is done with the help of an authorised investment vehicle (an investment vehicle is an institution allowed to invest as per the guidelines mentioned and it is registered with SEBI or other regulatory agency). This FII can be further subdivided in:
+        *   **a. FII through Participatory Notes(P-notes):** In such investment, the Foreign Portfolio investor does not disclose his identity. On the contrary, it entitles to given investment vehicle to invest on his behalf. This is one of those options which any government takes as a last resort.
+        *   **b. FII through Voluntary Retention Route(VRR)-** In this, if any investor is investing in India for a definite period of time (at least 3 years) then special clearances are provided. In the Covid times, its volume has been doubled.
+    *   **2. Qualified Foreign Investment**
+        *   It was introduced in 2011 that if any foreign investor is coming from a country who is a member of the **Financial Action Task Force (FATF)** or the **International Organisation of Security Commission(IOSC)** get quick clearances of investment.
+
+### Taper Tantrum:
+*   It refers to that tapering that was introduced around 2012-13 in the USA to control their inflation. As the USA has witnessed the 2008 sub-prime crisis, 2009 huge bailout package by the govt. As money inflow increased it resulted in higher inflation and to absorb that inflation the USA federal reserve issued bonds with higher coupon rates.
+*   As a consequence of it, investors were attracted which resulted back home in India in the outflow of FPI. We have witnessed the same tendency in the current financial year (2021-22) is the reason why tapering is witnessed in the USA again, however, back home now our dependence on FPI is way lesser so that outflow is not going to upset the growth trajectory, however, it may adversely impact the exchange value of the currency.
+
+### FPI in Govt Securities:
+*   In govt securities, FPI is allowed and for that RBI notifies accordingly moreover the FPI in govt security is also promoted in the voluntary retention route (VRR) with a locking period of 3 years.
+*   In the 2020 Budget to promote FPIs in govt securities two more options have been introduced
+    *   **1. Fully accessible Route (FAR)** = under this in the given specified securities which are notified by RBI, foreign investments are invited without any restriction which means they can buy as much as they want. However, as of now, it is only applicable on central govt dated securities.
+    *   **2. Medium Term Framework (MTF)** = in this foreign investments are attracted but the given restriction and that too for a given period of time. In this, they can buy both central govt securities and state developmental loans (SDLs).
+
+### Debt
+*   In the capital account of BoP yet another head is Debt, which can be largely sub-divided into sovereign debt and external commercial borrowing (ECB)
+*   Based on data from Department of Economic Affairs (DEA)
+    *   **Total external debt:** US$ 554.8 billion
+    *   **Sovereign (general government) external debt:** US$ 116.5 billion
+    *   **Percentage of sovereign debt in total external debt:** 21.0%
+*   **Sovereign debt** refers to the loan taken by the govt from various financial institutions like World Bank, Asian Development Bank (ADB), etc.
+*   In the case of India, the sovereign debt on govt from the external sector hovers below 10% of the total public debt which provides it a very comfortable situation.
+*   On the other hand, **ECB** refers to that situation where a company in India public or private takes a loan from the outside. It could be done with the help of -
+    *   a) Foreign currency convertible bonds (FCCBs) and
+    *   b) **Masala Bonds** (refer to those bonds which are issued in rupees and purchased by foreign investors because it is supported by IFC (International Finance Corporation, one member of the World Bank Group) which increases its reliability and safety of investment (IFC work as a platform for various countries to raise funds for that any company of a given country can approach IFC and after a thorough examination, they take guarantee of the bond of that company making it AAA and the name of the bond are given on the given characteristics of India, for India it is called as Masala Bond, for China = Dim-Sum bond, Japan =Samurai Bond, and so on.)
+    *   Recently NTPC has raised funds called **Green Masala Bond**.
+
+### Banking Capital
+*   In terms of banking Capital, it refers to the capital at the disposal of the bank (Net value) in form of various assets and Foreign Currency non-resident accounts (FCNRA), this FCNR is divided into the following two -
+*   **FCNR(A)** = was introduced in 1975 but discontinued in 1993 because in this the exchange change risk burden of foreign currency was with RBI. So if RBI promotes FCNR accounts in the same proportion exchange burden also increases. however, since 1993 We have **FCNR(B)** in which the exchange risk is with the banks.
+*   In this FCNR(B) Scheme since 2005 the acceptable currencies are = US$, Pound Sterling, Euro, Japanese Yen, along with Australian and Canadian Dollar
+*   With the help of this capital having the option of currency swaps provide a safe domain.
+*   The overall Capital account balance is in surplus which makes overall the BoP in surplus.
+*   **NRO Account (non resident ordinary)** - Saving account converted to NRO when the resident become non resident indian
+    *   Rupee denominated
+    *   There is limit on repatriation set by RBI
+    *   Interest earned is 30% taxable
+*   **NRE Account (non resident external)** - rupee denominated account for NRI
+    *   There is no limit on repatriation into foreign currency
+    *   interest is not taxable
+    *   Issue is it is in rupee - subject to exchange rate fluctuation.
+
+### Exchange rate
+*   In simple words Exchange rate refers to the value of one currency viz-a-vis other, which means in order to get one unit of another currency how many units of native currency are needed.
+*   It is very important to mention here that the exchange rate of currencies is the product of demand and availability and must not be confused with the strengths and weaknesses of the economy.
+*   This exchange rate is often viewed in the following two dimensions -
+    *   a) in terms of the dollar (dollar-denominated), and
+    *   b) in terms of the effective value of exchange with the currencies of major trading partners
+*   **In terms of Dollars:**
+    *   In the 1930s dollar was considered one of the most trusted currencies as one dollar was pegged with 0.88-gram gold, which means, what will be the value of 0.88 gram of gold against which one dollar will be printed.
+    *   This led to dollar hegemony in the world economy which further intensified with the BoP guideline of calculations in Dollar.
+    *   However, this hegemony was reduced to some extent in 1968 when the dollar was de-pegged with Gold, even in the current scenario several attempts have been made towards de-dollarization.
+    *   It was **Triffin** who highlighted that this pegging is no doubt providing more acceptance of the dollar but on the other hand more demand for the dollar which results in more demand for gold and thus increasing gold price, this explanation is popularly called as **Triffin dilemma**.
+*   **The exchange rate could be of the following 4 types**
+    *   **1. Fixed Exchange Rate** = where how much will be the value of one dollar vis-a-vis native currency is determined by the govt/central bank. If they themself reduce or increase the exchange value is called **devaluation** or **revaluation** respectively
+    *   **Thumb Rule of Exchange Rate:** if the currency depreciates/devaluates it support exports and therefore those countries who are prioritizing export will devaluate the currency so it can be said that currency appreciation is good when the country is importing more and exporting less, while currency depreciation is good when the country is exporting more or want to export more because it will make their product cheaper at the global level.
+    *   **2. Floating Exchange Rate** = refers to that situation where exchange rates are market-driven on the basis of demand and supply. If the native currency, the value gets weaker is called **depreciation**, and if it the stronger is called **appreciation**.
+    *   **3. Managed or Dirty Floating Exchange Rate** = it is wherein a given bandwidth the currencies are allowed to have a floating exchange rate but the moment it is going beyond the threshold central bank intervenes to regulate it. India follows this model. for example, If RBI provides bandwidth of 60-80 that means 1 dollar is between 60 Rs to 80 Rs its fluctuations will be determined by the market but the moment it is going below 80 Rs or above 60 Rs RBI will intervene.
+    *   **4. Manipulative Exchange Rate** = it refers to those countries who deliberately manipulate their exchange rate with the dollar to support export. The USA maintains a list of these manipulators like China, Hong Kong, etc. along with another list of manipulation watchlists regarding potential manipulators.
+
+### Effective exchange rate (EER)
+*   The exchange rate of the rupee can gaze with major trading partners because at the end of the day effective fluctuation in the exchange value of those currencies with whom India is trading is significant.
+*   We calculate this in the following two baskets: the effective exchange rate of the rupee vs 6 currencies with whom India has maximum trade is called **EER 6**.
+*   It is geometric mean.
+*   **2nd Exchange rate:** Effective exchange rates of rupee vis currencies of 40 major trading partners.
+*   Till recently, there were 36 major currencies but in 2021, the RBI has updated it to 40 currencies by adding 8 currencies and deleting 4 currencies.
+*   Both the effective exchange rates are viewed at the nominal price i.e. the current price as well as the real values as well as the constant price.
+*   Earlier the base year was 2004-05 but now has been changed to 2015-16.
+*   The **NEER** measures the average value of a country's currency against a basket of currencies of its major trading partners, weighted by their trade importance.
+*   The **REER** takes the NEER a step further by adjusting it for inflation differences between the home country and its trading partners.
+*   A nation's nominal effective exchange rate (NEER), adjusted for inflation in the home country, equals its real effective exchange rate (REER).
+*   **REER = NEER/Price deflator**
+*   If REER is greater then 100 then currency is **overvalued**
+*   To keep exports competitive RBI generally keep the REER < 100.
+
+### Market sterilization
+*   Market sterilization refers to the attempt of RBI the help of which RBI tries to regulate the exchange rate when it is going beyond the notified bandwidth.
+*   For this, there is a foreign desk at RBI which sell dollar if the rupee is depreciating to commercial and this will make availability of dollar in the system.
+*   On the other hand, if the rupee is appreciating, the RBI purchases dollars from the bank and keeps it aside to have additional demands and thus rupee starts depreciating.
+
+### Reasons for Rupee Depreciation:
+*   Strength of the US Dollar
+*   Current Account Deficit (CAD)
+*   Crude Oil Prices
+*   Inflation Differentials
+*   Global Trade Tensions
+*   Global Risk Aversion
+*   Economic uncertainty or geopolitical tensions, can lead to capital outflows from emerging markets like India, exerting downward pressure on the rupee.
+
+### Currency convertible
+*   It means exchanging one currency for another.
+*   As of now, the current account is convertible in India.
+*   Currency convertibility refers to that situation where one currency can be converted into another currency without the intervention of the central bank which means no prior approval from the central bank will be needed.
+*   In India, after the 1991 reforms when the exchange rate was made market-oriented, it was natural to think of currency convertibility.
+*   In this regard, the famous **Tarapore committee, 2012** has highlighted that currency convertibility symbolizes the openness of the economy. India also should strive for making both current and capital accounts convertible in a phased manner.
+*   In terms of the current account, there are no such challenges but in terms of capital account he talks to be more cautious, because it may result in various complications of legal nature particularly in terms of ownership (he advocated that capital account should be convertible by 2012).
+*   Recently the RBI governor has highlighted again that although our current account is convertible completely, the capital account convertibility must be viewed as a process and not an incident as India's legal framework is improving as more and more relaxations.
+
+## Institutions
+### World Bank
+*   **Mission:** To reduce poverty and promote sustainable development
+*   **Focus:** Long-term development objectives like infrastructure projects, education, healthcare, poverty reduction, and environmental sustainability.
+*   **Target:** Primarily low- and middle-income countries facing development challenges.
+*   **World Bank**- in 1944, at Bretton Woods, it was highlighted that if poor economies are not supported with capital from outside they may collapse which will be adverse to the global economic prospects that is why it was highlighted that there should be one organization to provide loans on the concessional basis to these poor economies or developing economies.
+    *   As a result, IBRD which is International Bank for Reconstruction and Development emerged.
+    *   Later on, called as Development Bank and other three agencies + IDA made it World Bank group.
+*   The **World Bank** means IBRD + IDA while the **world bank group** means World Bank+ 3 other agencies.
+*   A brief introduction of each of them is as follows:
+    *   It consists of 2 organizations IBRD and IDA.
+    *   **Timeline**
+        *   IBRD-1944-45
+        *   IDA-1960-61
+        *   IFC-1956
+        *   MIGA-1988
+        *   ICSID-1966
+*   Finance is provided by IBRD- but it is giving loans only to those countries which have repaying capacity.
+*   There are around 75 countries that are poor. IDA provides loans to these countries. Such loans are given for 30-38 years with an additional grace year period.
+*   Andorra has joined IMF (in 2020 as the 190th member). Soon, it will join the world bank also.
+*   India is not a member of ICSID. It is a dispute resolution mechanism.
+
+#### International Bank for Reconstruction and Development (IBRD)
+*   It was introduced in 1944-45 and currently has 189 members.
+*   They can raise funds with the help of various securities.
+*   Provide financial products to middle-income and creditworthy low-income countries.
+*   Loans come with market-based interest rates and standard repayment terms.
+*   This IBRD provides concessional loans to those countries who are having repayment capabilities.
+*   They provide loans for various development projects like health, education, women empowerment, sanitation, safe drinking water, etc.
+
+#### IDA - International Development Association
+*   It was highlighted that there are 75 countries across the globe that do not save and do not have repayment capability.
+*   There must be some arrangements for them. For this purpose, IDA was introduced.
+*   It offers interest-free loans and grants to the world's poorest countries, facing challenging development constraints.
+*   Highly concessional terms with long maturities and grace periods.
+*   This organization provides loans to these 75 countries for a longer period of 30-38 years with grace periods.
+
+#### IFC- international finance cooperation
+*   This organization works as a platform and facilitated so that various public and private companies of member countries can raise funds in the international market by issuing bonds in their home currencies. E.g. - It is IFC that facilitates Masala Bonds for India.
+*   It was introduced in 1956 and has 184 members.
+
+#### MIGA- Multi-lateral Investment Guarantee Agency
+*   This institution was introduced in 1998 and it takes guarantees investments in various conflict zones and in this way indirectly assists countries to get investors.
+
+#### ICSID- International Centre for Settlement of Investment Disputes
+*   This organization is currently having 154 members and they work as a mediator for various dispute resolutions. India is not a member of it.
+
+#### International Comparison Program of World Bank
+*   The World Bank provides comparative data on per capita income in terms of GDP-PPP by using an SDR deflator. On this basis, it divides countries into the following 4 categories
+    *   Low-income countries have per capita income of up to 1036 USD (PPP)
+    *   Lower middle-income countries from 1036 to 4045.
+    *   Higher middle income from 4046 to 12535 USD.
+    *   High-income countries: above 12535
+*   World Bank also provides the famous international debt statistics along with an ease of doing business index.
+*   This ease of doing business index is an index of 10 indicators that differ in how easy or difficult is doing business in a given country from registration to getting facilities like electricity, finances, insolvency processes, etc.
+*   As of now, this index is being discontinued because of the discrepancy in 2018-19 data, particularly in respect of China, Saudi Arabia, UAE, and Azerbaijan.
+
+### ☆International Monetary Fund
+*   **Mission:** To promote global financial stability and economic cooperation
+*   **Focus:** Short-term macroeconomic stability and crisis management through loans
+*   **Target:** All member countries, with a focus on those facing balance of payments problems, high debt, or financial crises.
+*   It came into existence in 1944 along with IBRD which is why they together are called twin organizations.
+*   While IBRD is for developmental loans, IMF provides loans only in the BOP crisis.
+*   The key function which IMF performs is developing the standard calculation methodology in economics, to take care of global financial stability (for the purpose they issue the Global Financial Stability Report), along with preparing BOP manual and low resistance for BOP crisis. It also publishes World Economic Outlook.
+*   The IMF has 190 members. The latest entrant is Andorra.
+
+#### The fund and the quota:
+*   In IMF, every country makes a contribution to make a fund which they can utilise as part of a loan in the BOP Crisis. On one hand And, on the other hand, every country makes a contribution to a general pool to help other countries in their BOP Crisis in order to have a stable global economy
+*   Whatever proportion of the fund will be contributed by a country is called the **Quota** of that country
+*   **This Quota is decided on the basis of the following 4 parameters:**
+    *   1. GDP of the economy with 50% of weightage (60% market exchange rate, 40% PPP)
+    *   2. Openness of the economy with 30% weightage
+    *   3. Economic viability with 15% weightage
+    *   4. Forex with 5% weightage
+*   *(Diagram shows the IMF Quota Formula: GDP 50%, Openness 30%, Economic variability 15%, International reserves 5%.)*
+*   The quota of a country will be deciding factor in the voting rights of that country
+    *   For example, as India's Quota is 2.7% of the fund, her voting right is roughly 2.6%
+    *   India's position is 8th, the maximum quota in IMF is of USA, almost 17%; therefore voting rights are almost equal to it.
+    *   This provides an advantageous position in the USA because, at IMF, no decision can be taken without 85% of support
+    *   Practically de facto veto power
+    *   I.e. why countries are demanding an IMF reform by revising the quota so that no single country has a dominance)
+*   This can be done either by changing the formula of Quota allocation or reducing the consensus % below the existing 85%
+
+#### How the Quota is deposited:
+*   Whatever the quota of a country is deposited in the following breakups:
+    *   1. 25% of the Quota has to be deposited in form of Gold and therefore is called a **Gold tranche**
+        *   This was the provision till 1978, after that instead of gold, the dollar can also be deposited
+    *   2. Rest of the 75% will be deposited in form of native currencies plus foreign currencies as directed by IMF
+    *   This 100% together is called **Safe Tranche**
+*   Any country can take an unconditional loan from IMF, equal to their Gold Tranche without any interest rate and equal to a safe tranche with some interest rates
+*   However, yet another 100% (equal to Quota), also can be taken as a loan called a **Credit Tranche**
+    *   Beyond this Credit Tranche, the country is taking loans than will be with the condition of reforms; for example, India did it in 1991; Sri Lanka is trying now
+*   For example, if India's Quota is 100 $; then 25$ deposited in gold will be called Gold Tranche; the entire 100$ will be called safe tranche; 100$+100S will be called credit tranche
+
+#### Reserve Tranche Position (RTP)
+*   The RTP is SDR that a country is having to be used at their disposal without an interest rate
+*   For any given country, it is initially equal to the Gold Tranche but it may increase if:
+    *   1. Country's Quota is revised
+    *   2. Country is giving affiliated loans to other countries
+*   I.e. why the Forex of the country consists of Gold, Foreign Currency and RTP
+
+#### Rapid Financing Instrument(RFI).
+*   Provide rapid, low-access financial assistance to countries facing urgent balance of payments needs that, if not addressed, would result in an immediate and severe economic disruption.
+*   **Rapid Credit Facility (RCF)** - provides fast concessional financial assistance to low-income countries (LICs) facing an urgent balance of payments need. The RCF is one of the facilities under the Poverty Reduction and Growth Trust (PRGT).
+
+#### Non concessional lending by IMF
+*   Extended fund facility
+*   Rapid financing instrument
+*   Precautionary and liquidity line
+*   Flexible credit line
+*   Standby arrangement
+
+#### Concessional lending by IMF
+*   The poverty reduction and growth facility (PRGF) - interest free
+
+#### Special Drawing Rights (SDRS)
+*   The SDR was created as a supplementary international reserve asset
+*   The SDR is neither a currency nor a claim on the IMF.
+*   The Special Drawing Right (SDR) is an interest-bearing international reserve asset
+*   SDRI is the interest paid
+*   The value of SDR is decided daily based on market exchange rates
+*   Upto 1968, as the US dollar was pegged with Gold, IMF used US Dollar as its currency
+*   But after de-pegging, IMF introduced its own currency called SDR in 1969
+*   Initially, it was having more than 18 currencies into it but after the interaction of the Euro, it was reduced to 4
+*   They were, US Dollar, Pound Sterling, Japanese Yen and Euro
+*   However, in 2016, Chinese Renminbi also joined it
+*   The highest weightage in SDR is of US Dollar, followed by Euro, Renminbi, Yen and Sterling
+*   SDR is also called **Paper Gold**
+*   In IMF, different kinds of loans are available i.e.
+    1.  **Affiliated loan** - country provides loan on behalf of IMF
+    2.  **Precautionary lending** - When as a precautionary measure, a country is taking a loan
+    3.  **Standby loans** - When a country is of the opinion that a BOP Crisis may happen
+    4.  **Extended Facility Loan** - Where a country is provided with an extra loan on the guarantee of the other country
+
+#### IMF Reports:
+*   IMF also comes up with some of its flagships publications regarding the global economy:
+    1.  **World Economic Outlook** - It comes in two volumes
+    2.  **Global Financial Stability Report**
+
+#### IMF Facilities
+
+| Purpose | Facility | Financing | Duration | Conditionality |
+| :--- | :--- | :--- | :--- | :--- |
+| Present, prospective, or potential balance of payments need | SBA | GRA | Up to 3 years but usually 12-18 months | Ex-post, and ex-ante (prior actions) if needed |
+| | SCF | PRGT | 1 to 3 years | |
+| Protracted balance of payments need/medium-term assistance | EFF | GRA | Up to 4 years | Ex-post, with focus on structural reforms. and ex-ante (prior actions) if needed |
+| | ECF | PRGT | 3 to 4 years, extendable to 5 years | |
+| Urgent balance of payments need/emergency financing assistance | RFI | GRA | Outright purchase | No reviews /ex-post conditionality, but ex-ante (prior actions) possible |
+| | RCF | PRGT | Outright disbursement | |
+| Present, prospective, or potential balance of payments need (very strong fundamentals and policies) | FCL | GRA | 1 or 2-year | Ex-ante (qualification criteria) and annual reviews for the 2-year arrangements |
+| Potential moderate short-term balance of payments needs arising due to capital account pressures (very strong fundamentals and policies) | SLL | GRA | Approved for a period of 12 months with successor SLLS possible | Ex-ante (qualification criteria) |
+| Present, prospective, or potential balance of payments need (sound fundamentals and policies) | PLL | GRA | 6-month (liquidity window) or 1 or 2-year | Ex-ante (qualification criteria) and ex-post |
+| Longer-term prospective balance of payments need or balance of payment need created with policies | RSF | RST | Minimum duration 18 months, cannot exceed the concurrent UCT-quality program | Ex-post, concurrent IMF UCT-quality program required |
+| Non-financial/signaling instruments | SMP (incl. PMB) | NA | 6 to 18 months, longer durations not precluded | Ex-post, and ex-ante (prior actions) if needed |
+| | PSI | NA | 1 to 4 years, extendable to 5 years | Ex-post, and ex-ante (prior actions) if needed |
+| | PCI | NA | 6 months to 4 years | |
+
+### World Trade Organization (WTO)
+*   WTO is one of the most important institutions to foster international trade
+*   Since, the 1950s, when the concept of **"Global Village"** was popularised, it was well thought that the Global economy or the world trade can foster only when distortion-free international trade is allowed
+*   That means various tangibles and intangibles barriers to trade are withering away or disappearing
+*   In this regard, **General agreement on Trade and Tariff (GATT)** was an important development that tried to address various trade barriers be tariff barriers; technical barriers; lack of trade facilitation; subsidy issues; trade-in services (1982 onwards); trade-related investment barriers, etc
+*   One of the biggest achievements was in 1964 when the **United Nations Conference on Trade and Development(UNCTD)** came into existence, this UNCTAD has, later on, introduced the concept of the **Generalised System of Preferences (GSP)**, where a country provides overall Favourable Treatment by lowering Tariffs on imports from a particular country
+*   This way, a developed country started helping developing countries
+*   Later on in 1986 at **Uruguay Round**, once again an attempt was made to develop an international organisation to facilitate World Trade and subsequently, in 1994, the **Marrakesh Agreement** has opened resulting in the formation of WTO.
+*   WTO consists of a **General Council** for routine policy-making and administrative functions
+*   This consists of various representatives from the member countries and at the apex level, it holds **Ministerial Conference** where ministers from member countries meet once in two years, popularly called as Ministerial conference
+*   As of now, there are 164 members (Director General) of the WTO
+*   On the other hand, there is a **Dispute Resolution Body** to take the disputes
+*   However, it is important to mention that at WTO, disputes are resolved with the principles of negotiation
+*   Some of the ministerial conferences are - Singapore (1995); Doha - 2001; Bali - 2013 and Geneva - 2021
+
+#### Achievements of WTO
+1.  **General Agreement on Tariffs and Trade (GATT)**
+2.  **Agreement on Agriculture (AoA)**
+3.  **Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS)**
+4.  **General Agreement on Trade in Services (GATS):**
+5.  **Agreement on Trade-Related Investment Measures (TRIMS):**
+
+*   **In terms of Tariff**
+    *   At WTO, a consensus was made that there will be **bound rates** in terms of tariffs, which means the uppermost limit of duties one country can impose upon other
+    *   Within these bound rates, countries can offer different tariffs to different countries depending upon their trade agreements
+    *   However, there are some exceptions like anti-dumping duty and countervailing duty
+*   **Anti-dumping duty:**
+    *   Anti-Dumping duties refers to the protectionist measures imposed by a country to foreign imports believed to be priced below the fair market value.
+    *   This clearly indicates that the country is getting hostile and therefore to protect the interest of local manufacturers importing country can apply additional duty called as Anti-Dumping duty
+*   **Countervailing duty:**
+    *   Action taken by the importing country, usually in the form of increased duties to offset subsidies given to producers or exporters in the exporting country they are also called is anti-subsidy duties.
+    *   In WTO, the term **binding coverage** is very significant which refers to the compliance with the laws expressed by countries.
+    *   **Tariff binding** - Commitment not to increase a rate of duty beyond an agreed level. Once a rate of duty is bound, it may not be raised without compensating the affected parties.
+*   **In terms of Agriculture:**
+    *   Green Box
+    *   Amber Box
+    *   Blue Box
+    *   Development Box (S&D Box)
+    *   *(Diagram explains the WTO's 'boxes' for agricultural subsidies: Green Box (permitted), Amber Box (to be reduced), and Blue Box (permitted with conditions).)*
+*   **Technical barriers to trade**
+    *   **SPS Agreement** - sanitary and phytosanitary measures
+    *   It concerns the application of food safety and animal and plant health regulations.
+
+#### GATS Services
+*   **Mode 1 Service** - Example BPO. In this serving abroad by staying in the domestic area. Offering services abroad.
+*   **Mode 2 service** - Those services where service takers coming to the exporter country ex tourism (consumption abroad)
+*   **Mode 3**- exporters countries' institutions going abroad to give services. Also known as commercial presence. E.g. DB in India
+*   **Mode 4** - international labour Movement. Labour mobility (Movement of natural persons)
+*   The above modes were discussed in the DOHA round of WTO.
+*   **GENEVA 2021**- binding coverage under service domestic regulations SDR and covers 67 countries having a share of 90 % of services.
+*   Due to dysfunctional appellate Tribunal because of non appointment of arbitrators by US. EU among other members you has created another mechanism under WTO **Multi-Party Interim Appeal Arbitration Arrangement (MPIA)**. However, India is not a party to this.
+
+### Intellectual Property Rights
+*   **Trade-related to IPR (TRIPS)**
+*   **What is IPR?**
+    *   These are rights given to persons over the creation of their minds. They usually give the creator an exclusive right over the use of his/her creation for a certain period.
+*   **Types of IPR**
+    *   **Patent** - Is granted for an invention that is a new product or process that meets conditions of novelty, non-obvious and industrial use.
+        *   **Novelty** means an inventive step that is it involves technical advancement as compared to existing knowledge.
+        *   **Non obvious** means invention is not obvious to common people.
+        *   **Industrial use** means that an invention is capable of being made or being used in industry.
+    *   **Copyright**
+        *   It is given to the creation of literary, dramatic, musical, and artistic work and producers of cinematographic films and sound recordings.
+        *   This right allows its creator the rights of reproduction, communication to the public, adaptation, and translation of work.
+    *   **Trademark**
+        *   It means a mark capable of being represented graphically distinguishing the goods and services of one company from another.
+        *   It can be a sign, word, letter, number, drawing, a combination of colour, shape of a good, or signature. Etc
+    *   **Industrial design.**
+        *   An industrial design consists of a shape, configuration, combination of patterns and colours containing the aetheric value.
+    *   **Geographic Indication Tags.**
+        *   It is a sign used on agricultural, natural, or manufactured goods originating in a particular region of a country.
+        *   In WTO at DOHA 2002 discussion on TRIPS compliance to be effective from 2005 but Developing countries demanded the TRIPS flexibilities (certain relaxation in cases of emergencies) example COVID-19 case.
+*   **TRIPS-plus**- it's about the protection of data. known as data exclusivity.
+*   **Pharma and IPR**
+    *   **Compulsory licensing** - no IPR application under TRIPS example
+    *   **TRIPS-plus**-research data is also protected under IPR.
+*   **Trade-related Investment measure TRIMS**
+    *   Talks about rules of investment measures and domestic restrictions on investors.
+    *   As of now, it happens through bilateral agreements.
+
+#### Certification Marks in India:
+
+| Certification Mark | Purpose | Issued by |
+| :--- | :--- | :--- |
+| **ISI Mark** (Mandatory for certain products) | Certifies industrial products comply with Indian Standards | Bureau of Indian Standards (BIS) |
+| **BIS Hallmark** (Voluntary) | Certifies purity of gold and silver jewellery | Bureau of Indian Standards (BIS) |
+| **AGMARK** (Voluntary) | Certifies agricultural products conform to approved standards | Directorate of Marketing and Inspection, Department of Agriculture, Cooperation and Farmers Welfare, Ministry of Agriculture & Farmers Welfare under the Agricultural Produce Act, 1937 |
+| **FPO Mark** (Mandatory) | Certifies processed fruit products were made in a hygienic 'food-safe' environment and are fit for consumption | Fruit Products Order, 1955 |
+| **Green and Brown Dot** | Indicates whether the food item is vegetarian or non-vegetarian | - |
+| **India Organic Certification** (Voluntary) | Certifies organic farm products meet National Standards for Organic Products | Testing centers accredited by the Agricultural and Processed Food Products Export Development Authority (APEDA) under the National Program for Organic Production of the Government of India |
+| **Eco mark** (Voluntary) | Certifies products meet standards to cause the least impact on the ecosystem | Bureau of Indian Standards (BIS) |
+| **Non-Polluting Vehicle Mark** (Mandatory) | Certifies motor vehicles conform to relevant Bharat Stage emission standards | Bharat Stage emission standards |
+
+## Infrastructure
+*   Railways
+*   Roadways
+*   Ports
+*   Infrastructure has a multiplier effect and thus gives a boost to the economy.
+*   It improves the quality of life.
+*   Important sectors covered under infrastructure are- Energy, railways, roads, ports and Civil Aviation.
+*   **National Infrastructure Pipeline**
+    *   Explained with the help of a slide
+    *   **Funding structure:**
+        *   The total outlay for the scheme is Rs 111 lakh Crore.
+        *   As of now, it consists of more than 9000 projects across 34 sub-sectors out of the total cost, **39% from the centre; 40% from the state and 21% from the private sector**
+        *   Almost **24%** of the total investments will go into the energy sector.
+*   **India Investment Grid** has been developed by the Ministry of Commerce and Industry to attract investments.
+*   Additionally, **Alternative Investment Fund(AIFs)** and the reintroduction of **DFIs** will also ensure fund availability.
+    *   Registered under SEBI
+*   **National Monetization Pipeline**
+    *   It aims to unlock value from brownfield infrastructure assets across various sectors by attracting private sector participation through various models like concessions, leases, and partnerships.
+    *   The framework for core asset monetisation under the NMP has three key imperatives:
+    *   The focus is on the **brownfield de-risked assets with stable revenue streams**.Brownfield assets are those assets which are already in existence and can be upgraded and modified.
+    *   The monetisation happens through the **monetisation of rights and not ownership**. Hence, the primary owner of the assets under these structures continues to be the public authority
+    *   **Structured partnerships under transparent competitive bidding and defined contractual frameworks.** Partners will have to abide by strict key performance indicators and performance standards.
+    *   **Objectives:**
+        *   Mobilize private sector investments to fund infrastructure development.
+        *   Enhance infrastructure efficiency of existing infrastructure assets.
+        *   Unlock asset value and reinvest it in new infrastructure projects.
+    *   **Monetization Models:**
+        *   **Concessions:** Private entities operate and maintain assets for a specified period and collect user charges.
+        *   **Leases:** Long-term leases give private operators control over assets for operational and revenue generation.
+        *   **Sale of assets:** Certain underutilized assets might be sold outright to private players.
+        *   **Infrastructure Investment Trusts (InvITs):** Funds hold and invest in infrastructure assets, offering investors regular returns.
+
+### ☆ Energy sector
+*   As of now, India is the third-largest producer and consumer of energy in the world. As a promising economy, India is bound to have higher energy demands in future.
+*   In India, the problem of the energy sector can be identified under the two various heads
+    *   **a. Technical challenges**
+        *   In India, the maximum energy is generated by the thermal plant.
+        *   Major problems involve the import of coal, particularly anthracite.
+        *   Lack of technological advancements (due to Coal India monopoly) so no deep mining.
+        *   The problem of **captive power plants** - It refers to the private power plants of big industries to ensure uninterrupted power supply; For that, they book the coal mining in advance
+        *   **Payload factor** - It refers to the power generation capacity of the plant and if any plant is not using its potential the generation results in underutilisation.
+        *   Lack of promotion of schemes like rooftop solar plants, etc
+*   **Challenges plaguing the energy sector**
+    *   **Heavy reliance on imported fossil fuels:** India imports around 80% of its oil and 50% of its gas
+    *   **Financial Health of Distribution Companies (DISCOMS):**
+        *   **High aggregate technical and commercial losses (AT&C):** Inefficient distribution systems and energy theft lead to significant revenue losses for DISCOMS.
+        *   **Accumulated debt:** Most DISCOMs are burdened with high debt, hindering their ability to invest in network upgrades and improve efficiency.
+        *   **Cross-subsidies:** Subsidies for certain consumer segments create distortions and financial stress for DISCOMs.
+    *   **Transmission infrastructure:** Grid infrastructure needs to be modernized to efficiently integrate and transmit renewable energy from diverse locations.
+    *   **Land acquisition and environmental concerns:** Siting and permitting of renewable energy projects can be challenging due to land acquisition hurdles and environmental concerns.
+*   **Transmission/Mid-streaming**
+    *   The major issue is transmission loss which is as high as 34%.
+    *   This transmission loss is primarily because Power Grid Corporation of India is not up to the mark for technological up - gradation to off-grid storage of the surplus energy
+*   **Distribution/Downstreaming**
+    *   In terms of distribution, the biggest challenge is with Distribution companies i.e. DISCOMS
+    *   The problem of DISCOMS is high debts and its interest
+    *   Moreover, electricity theft and lack of separate feeders for subsidised and commercial energy and
+    *   Also, massive corruption at the state level is a major challenge for the inefficiency of these discoms
+*   **Some of the major initiatives taken to fix technological problems are:**
+    1.  **Ujjwal Discoms Assurance Yojana (UDAY)**- In this, the distribution companies are provided, financial assistance to ensure that they meet their Aggregate Technical and Commercial (AT&C) losses.
+    2.  **PM KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan)** - This is to empower farmers with a focus on renewable energy with three clear cut objectives:
+        *   To develop solar plants on the barren land and the generated energy can be transferred to the grid
+        *   To distribute off-grid water pumps connected with solar plants for sustained irrigation and additional energy can be transferred to the Grid
+        *   To provide a solar Grid plus electricity-based water pumps
+    3.  **Deendayal Upadhyay Gram Jyoti Yojana (DDU-GJY)** - A separate feeder for subsidised energy distribution
+    4.  Under **SAUBHAGYA** and rooftop solar plants ensuring electricity for all i.e. SDG 7
+    5.  In **Atmanirbhar Bharat**, 90 thousand crores has been provided to Discoms to reduce their NPAs/Bad loans
+*   **Conventional and non conventional sources**
+    *   *(Diagram shows Sources of energy split into Conventional (Commercial and Non-Commercial) and Non-conventional sources.)*
+
+#### Installed GENERATION CAPACITY(FUELWISE) AS ON 31.05.2023
+
+| CATEGORY | FUEL | INSTALLED GENERATION CAPACITY(MW) | % of SHARE IN Total |
+| :--- | :--- | :--- | :--- |
+| **Fossil Fuel** | | **2,37,269** | **56.8%** |
+| | Coal | 205,235 | 49.1% |
+| | Lignite | 6,620 | 1.6% |
+| | Gas | 24,824 | 6.0% |
+| | Diesel | 589 | 0.1% |
+| **Non-Fossil Fuel** | | | |
+| | RES (Incl. Hydro) | 173,619 | 41.4% |
+| | Hydro | 46,850 | 11.2% |
+| | Wind, Solar & Other RE | 125,692 | 30.2% |
+| | Wind | 42,868 | 10.3% |
+| | Solar | 67,078 | 16.1% |
+| | BM Power/Cogen | 10,248 | 2.5% |
+| | Waste to Energy | 554 | 0.1% |
+| | Small Hydro Power | 4,944 | 1.2% |
+| | Nuclear | 6,780 | 1.6% |
+| | **Total Non-Fossil Fuel** | **179,322** | **43.0%** |
+| **Total Installed Capacity** | **(Fossil Fuel & Non-Fossil Fuel)** | **4,17,668** | **100%** |
+
+*   **Other Initiatives:**
+    *   **National Hydrogen Mission**
+        *   Aim: to reduce 12 lakh crore energy import annually
+        *   As an alternative to fossil fuels, India is working on developing Green Hydrogen.
+    *   **Administrative Reforms**
+        *   Kelkar committee and NITI Aayog have highlighted that the Energy sector ministries like the Ministry of Power, Ministry of Petroleum and Natural Gas, Ministry of New and Renewable Energy, Ministry of Coal, Department of Nuclear Energy, etc must be clubbed under **one ministry**
+        *   NITI Aayog has proposed that there should be one ministry having separate agencies within it one for research, one as a regulator, one for technical matters, one for distribution and one for subsidised PDS, along with one for policymaking.
+    *   *(Diagram shows different types of hydrogen (Grey, Blue, Green, Black, Pink, Turquoise, Yellow) based on the energy source and process used for its production.)*
+
+### Nuclear Energy
+*   कुमार ना रोड़ा भाटो कक्कड़ो से मार खाने पर (KNRK)
+*   भीम थारी जय करा (4) (BHMTJKKKK)
+*   *(Map of India showing the locations of existing and proposed nuclear power plants like Rawatbhata, Kakrapar, Tarapur, Kudankulam, etc.)*
+*   *(Map legend indicates projects under operation, ongoing projects, and proposed projects.)*
+
+### Railways, Ports, Road Transport and Civil Aviation
+*   **Railways**
+    *   Railway has been the backbone of the economy in the British time.
+    *   In terms of railways, India is having more than 68,000 km of railway track administered by the Ministry of Railway.
+    *   **The major challenges of the Indian railway today can be summed up as follows:**
+        *   a. Not up to the mark technological degradation
+        *   b. Limited track development since British time
+        *   c. Considering freight secondary over passengers
+        *   d. The issue of cross-subsidisation i.e. the losses occurred in railway passenger trains were compensated with freight
+    *   **Bibek Debroy Committee recommended Railway reforms:**
+        *   Commercial operating and minimising subsidies.
+        *   To focus on freight corridors.
+        *   Non-core sectors should be outsourced.
+        *   There should be an independent regulator.
+        *   Investment in modernisation, etc.
+    *   To promote freight, **Dedicated Freight Corridors (DFCs)** are being developed such as Eastern i.e. From Sahnewal to Dankuni; Western between Dadri/Greater Noida to Jawahar Lal Nehru Port; East from Kharagpur to Vijayawada; West From Mumbai to Kolkata; Western Ghats from Goa to Chennai and between Delhi and Chennai i.e. South.
+    *   For enhancing safety in the Railway **KAVACH** system has been introduced which is indigenous RFID to sense and apply emergency breaks.
+    *   Additionally, there are **Kisan rails** and special parcel trains which started from Guntur to Benapole in Bangladesh, etc
+    *   There is a **NEW RAIL PLAN 2030** with the objectives of doubling logistics (making it more than 40%) by 2030 and getting complete electrification by 2023.
+*   **Ports**
+    *   India is having more than 7500 Km of coastal line.
+    *   There are 12 major ports and 200 minor ports - major ports are governed by Central Government.
+    *   In India, the biggest challenge in terms of ports is the turnaround time which is almost 3 times higher than the developed ports.
+    *   Additionally, the post is getting older and is aged with not much technological development.
+    *   Moreover, as exports are increasing, the burden on these ports is going to increase.
+    *   To develop infrastructure for ports following two major initiatives are significant:
+        *   1. **Sagarmala Project** - It focuses on port modernisation, connectivity enhancement through Coastal Economic Zone (CEZ), Port linked industrialisation and community Development Programmes in Coastal Areas
+        *   2. **Port Authorities Act, 2020** - This act replaced the Port Trust Act of 1963 and is characterised by more autonomy to the board in matters of finance and funding, charges, fine, and adjudication in their jurisdiction.
+*   **Road Transport**
+    *   India has a road network (National and State Highways, District, Rural, Urban and Project Roads) of over 63.71 lakh km of roads as of March 2019, the second-largest in the world, after the United States.
+    *   **Recent developments:**
+        *   Increase in the pace of road construction in 2020-21 to 36.5 km per day from 28 km per day in 2019-20 (a rise of 30.4 per cent).
+        *   Increase in public expenditure by 29.5 per cent in 2020-21 compared to the previous year.
+*   **Civil Aviation:**
+    *   India is one of the fastest-growing aviation markets in the world.
+    *   Domestic traffic more than doubled from around 61 million in 2013-14 to around 137 million in 2019-20, registering a growth of over 14 per cent per annum.
+    *   **Initiatives to boost the aviation sector:**
+        *   Introduction of air transport bubbles or air travel arrangements with specific countries,
+        *   Disinvestment of Air India,
+        *   Privatization and modernization
+        *   Expansion of airports,
+        *   Boost the regional connectivity
+        *   Scheme - UDAN.
+
+## Investment Models
+*   **Investment**
+    *   Investment refers to the process of channelizing the capital to increase income with fixed asset formations, and adding machinery and valuables.
+*   **Investment Models:**
+    *   In terms of models, an investment could be:
+        *   i. **Public Investment**- whereby raising savings and advancing sovereign loans government tries to invest (classical Harrod -Domar, Mahalanobis Approach)
+        *   ii. **Private Investment**- to facilitate the private sector locally and via foreign investments (FDI and FPI) which facilitate credit flow, increase in demand and money multiplier impact
+        *   iii. **Public-Private Partnership** - In such investment models both the public sector and private sectors come together for
+            *   a. Risk sharing
+            *   b. Technological collaboration
+            *   c. Financing the project and ensuring VGF (viability gap funding refers to the funding of those pending projects which are likely to be profitable and near completion but due to financial crunch are on standby)
+*   **Viability Gap Funding (VGF)** refers to financial assistance provided to support projects that are considered economically justified but commercially unviable. In other words, these projects have the potential to create positive benefits for society or the economy, but they may not be able to generate enough revenue on their own to be financially sustainable.
+*   **Different types of PPP models:**
+    *   **EPC**
+        *   EPC is an acronym for Engineering, Procurement and Construction in connection with projects such as roads railways etc.
+        *   It is a standard term that refers to a special form of project execution and contract design.
+        *   It obliges the contractor to hand over the completed construction such as a road to the client.
+        *   Normally, the EPC service provider is obliged to complete the construction project within a given time and budget - such agreements are also known as **lump-sum turnkey (LSTK) contracts**.
+        *   In this type of contract, the contractor is responsible for all engineering services, the procurement and production of all necessary construction materials and parts, as well as construction and commissioning.
+    *   **BOT-built Operate and Transfer**
+        *   The private sector finances, builds, operates, and transfers (BOT) the asset to the public sector after a concession period.
+        *   Suitable for high-cost infrastructure projects like toll roads or power plants.
+        *   Example: A private company builds and operates a toll road over 25 years before transferring it to the government.
+    *   **BOOT - built operate own and transfer**
+        *   Similar to concessions, but the private sector retains ownership of the asset and leases it to the public sector for a period.
+        *   Can be used for assets with potential future commercial value.
+        *   Example: A private company builds and leases a government office building for 30 years.
+    *   **BOT - ANNUITY**-in such models after commercialization of the projected annuity will be given
+        *   In this model, the private sector finances, builds, operates, and maintains the asset for a concession period before transferring it to the government. However, under the Annuity variant, the government pays the private sector a fixed annual payment based on the project cost throughout the concession period, regardless of the actual revenue generated.
+    *   **BOT-TOLL**-in such models built operate toll and transfer
+*   **Hybrid annuity**
+    *   In India, the HAM is a combination of **BOT Annuity** and **EPC** models.
+    *   As per the design, the government will contribute 40% of the project cost in the first five years through annual payments (annuity). The remaining payment will be made on the basis of the assets created and the performance of the developer.
+    *   **How it works**
+        *   **Government Contribution:** The government provides 40% of the project cost in upfront installments based on achieving predetermined milestones during construction. This reduces the financial burden on the private sector compared to other BOT models.
+        *   **Private Sector Contribution:** The private sector finances the remaining 60% of the project cost, typically through a combination of equity and debt. They are responsible for designing, procuring, constructing, operating, and maintaining the asset throughout the concession period.
+        *   **Annuity Payments:** Once construction is complete, the government starts making annual payments to the private sector based on a pre-determined formula that considers the project cost, interest rate, and concession period. These payments cover both the cost of operating and maintaining the asset as well as a return on the private sector's investment.
+    *   Here, a hybrid annuity means the first 40% payment is made as a fixed amount in five equal instalments whereas the remaining 60% is paid as a variable annuity amount after the completion of the project depending upon the value of assets created.
+    *   As the government pays only 40%, during the construction stage, the developer should find the money for the remaining amount.
+    *   Here, he has to raise the remaining 60% in the form of equity or loans.
+    *   **Advantages of HAM:**
+        *   The advantage of HAM is that it gives enough liquidity to the developer and the financial risk is shared by the government. While the private partner continues to bear the construction and maintenance risks as in the case of the BOT (toll) model, he is required only to partly bear the financing risk. The government's policy is that the HAM will be used in installed projects where other models are not applicable.
+*   **Swiss challenge**
+    *   The Swiss challenge method is a process of giving contracts where any proponent with credentials can submit a development proposal to the government. That proposal will be made available online, and a second proponent can give suggestions to improve and beat that proposal."
+    *   There are two different patterns which the commissioning entity may adopt:
+        *   The government may purchase the intellectual property rights for a project concept from the proponent or then award the project through a competitive bidding process in which no bidder has a predefined advantage.
+        *   The government can offer the original proponent an advantage in a competitive bidding process In this case the government should create rewards that satisfy the original proponent while still allowing a truly competitive process.
+*   **Private Finance Initiative**
+    *   Under a private finance initiative, the private company handles the up-front costs instead of the government.
+    *   The project is then leased to the public and the government authority makes annual payments to the private company. These contracts are typically given to construction firms and can last as long as 30 years or more.
+    *   Private finance initiatives were first implemented in the United Kingdom in 1992 and became more popular after 1997.
+    *   They are used to fund major public works projects such as schools, prisons, hospitals, and infrastructure.
+    *   Instead of funding these projects upfront from taxpayers, private firms are hired to design, finance, manage, and complete the projects.
+    *   The government of India is now using it primarily in health infrastructure.
+*   **Vijay Kelkar Committee:**
+    *   **Key challenges:**
+        *   Lack of institutional arrangements for financial risks mitigation
+        *   Lack of institutional arrangements for long-term financing
+        *   Policy and regulatory gap
+        *   Project delays resulting in an overcasting burden
+    *   **Recommendations:**
+        *   A three-dimensional approach to “ governance, institutions and capacity building"
+        *   To develop PPP laws and an independent regulator and facilitator
+        *   Special amendments in the Prevention of corruption act 1988 regarding investment-related corruption.
+        *   More organized and professional dispute resolution mechanism.
+*   A **Concession agreement(CA)** is a legal contract that forms the basis of the public-private partnership(PPP). It contains the terms and conditions of liabilities and responsibilities of the stakeholders and the revenue model for the development of a project.
+*   *(Diagram shows a negative feedback loop: Increased national wealth is not distributed, creating enclaves of prosperity. This leads to the majority remaining in poverty and lacking the benefits of growth, resulting in no holistic development.)*
+*   **Goods**
+    1.  **Final Goods**
+        a.  Will not further undergo economic transformation.
+        i.  Consumption goods -
+            1.  FMCG
+            2.  Consumer durables
+        ii. Capital goods
+            3.  Investment costs
+            4.  Deprecation costs
+    2.  **Intermediate goods**
+
+#### Who owns India Inc.? NSE-listed in Dec'21
+*   *(Pie chart showing ownership of NSE-listed companies in Dec'21: Pvt. promoters 45.1%, FIIs 19.7%, Retail 9.7%, Others 8.0%, DMFs 7.4%, Govt. 5.7%, Banks, FIs & Insurance 4.4%.)*
+
+#### FII ownership in NSE-listed companies
+*   *(Line graph showing FII share in NSE-listed universe and FII share ex-Financials from Dec-01 to Dec-21. Both lines show a fluctuating but generally stable trend over the two decades, hovering between 10% and 25%.)*
