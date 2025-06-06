@@ -14,7 +14,12 @@ sr-ease: 410
 
 ---
 
-  - 🏢 [[MOC Prelims|CORE]] - [[Polity]] 
+  - 🏢 [[MOC Prelims|CORE]] - 
+
+| [[Polity - राजनीति]] |     |
+| -------------------- | --- |
+|                      |     |
+
  - 🔢 [[MOC - CSAT|CSAT]]
  - 🧠 [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
  - ❓ [[Active Recall Questions]] 🤔🤔
@@ -22,10 +27,11 @@ sr-ease: 410
 ---
 - [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]
 - [[MOC Essay|Essay]]
-- [[MOC Topper Notes|Topper Notes]]
+- [[MOC Topper Notes|GS Topper Notes]]
 ---
 -  📺 [[Lecture Notes|Socio Lecture Notes]]
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
+- [[MOC Socio Topper Notes|Socio Toppers Notes]]
 ---
 -  [[GS Spaced Repetition]] 🃏
 - [[Socio Spaced Repetition]] 🃏
