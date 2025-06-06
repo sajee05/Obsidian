@@ -16,8 +16,8 @@ sr-ease: 410
 
   - 🏢 [[MOC Prelims|CORE]] - [[Polity]] 
  - 🔢 [[MOC - CSAT|CSAT]]
- -  [[Mock Test Prelims||MCQ Mocks Test Learnings]] 
- - [[Active Recall Questions]]
+ -  [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
+ - [[Active Recall Questions]] 🤔🤔
 
 ---
 - [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]
