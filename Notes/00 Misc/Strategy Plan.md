@@ -9,7 +9,7 @@ includeLinks: true # Make headings clickable
 hideWhenEmpty: false # Hide TOC if no headings are found
 debugInConsole: false # Print debug info in Obsidian console
 ```
-
+### CHECK AIR 16 MAINS NOTES
 # TODO
 
 ## Monthly AT ANY COST Targets
