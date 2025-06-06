@@ -6,8 +6,14 @@
 | [[MOC GS2\|GS2]]  | [[Polity - राजनीति]]                                                     |
 |                   | [[Governance]]                                                           |
 |                   | [[International Relations Prelims\|International Relations]] - AM/M Puri |
-|                   | [[Social Justice]]                                                       |
+|                   | [[Social Justice - सामाजिक न्याय\|Social Justice]]                       |
 | [[MOC GS3\|GS 3]] |                                                                          |
+|                   |                                                                          |
+|                   |                                                                          |
+|                   |                                                                          |
+|                   |                                                                          |
+|                   |                                                                          |
+|                   |                                                                          |
 | [[MOC GS4\|GS 4]] |                                                                          |
 
 ### Paper I - (200 marks) Duration: Two hours
