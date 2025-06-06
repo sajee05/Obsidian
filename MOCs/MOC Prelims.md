@@ -14,8 +14,7 @@
 |                   | [[Environment - पर्यावरण]] - Shivin                                      |
 |                   | [[Science and Tech]] - Shivin                                            |
 |                   | [[Basic Science - 12 वीं Fail]]                                          |
-|                   |                                                                          |
-|                   |                                                                          |
+|                   | [[Internal Security - आंतरिक सुरक्षा]]                                   |
 | [[MOC GS4\|GS 4]] |                                                                          |
 
 ### Paper I - (200 marks) Duration: Two hours
