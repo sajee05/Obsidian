@@ -1,6 +1,3 @@
-## Economics
-Thursday, 6 October 2022 7:46 PM
-
 *   **Chapters as per Sriram IAS**
     *   Chapter - 1 Economy and Economics
     *   Chapter - 2 Economic Growth and its Measures
