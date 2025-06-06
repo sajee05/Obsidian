@@ -1,5 +1,7 @@
 ### Foundation
 
+*(keep OneNote notes OR Google open with you for taking out pictures)*
+
 | **GS**            | **Subject**                                                              |
 | ----------------- | ------------------------------------------------------------------------ |
 | [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                                              |
