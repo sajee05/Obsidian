@@ -13,7 +13,7 @@
 |                   | [[Agriculture and Planning]]                                             |
 |                   | [[Environment - पर्यावरण]] - Shivin                                      |
 |                   | [[Science and Tech]] - Shivin                                            |
-|                   |                                                                          |
+|                   | [[Basic Science - 12 वीं Fail]]                                          |
 |                   |                                                                          |
 |                   |                                                                          |
 | [[MOC GS4\|GS 4]] |                                                                          |
