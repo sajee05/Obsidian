@@ -186,13 +186,3 @@ PYQ: Disha UPSC Topicwise question book by Murnal Sir.
 
 
 ---
-
-## Ethics Strategies
-
-[[MEDHA ANAND-SCORE-140..pdf]]
-[[Saumya Sharma 1.pdf]]
-[[KUNAL RASTOGI GS-4.pdf]]
-[[Animesh Pradhan Gs-4.pdf]]
-[[MUSKAN DAGAR-GS4..pdf]]
-[[PRATEEK MISHRA GS4.pdf]]
-[[LAGHIMA TIWARI GS4 1.pdf]]
