@@ -14,7 +14,7 @@ sr-ease: 410
 
 ---
 
-  - 🏢 [[MOC Prelims|CORE]]
+  - 🏢 [[MOC Prelims|CORE]] - [[Polity]] 
  - 🔢 [[MOC - CSAT|CSAT]]
  -  [[Mock Test Prelims]] 
 
