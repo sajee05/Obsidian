@@ -13,13 +13,17 @@ sr-ease: 410
 [[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || 📜 [[Z9 Clippings]] 
 
 ---
-  - [[Lecture Notes]]
+
+  - 🏢 [[MOC Prelims|CORE]]
+ - 🔢 [[MOC - CSAT|CSAT]]
+ -  [[Mock Test Prelims]] 
+
+---
 - [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]
 - [[MOC Essay|Essay]]
-- [[MOC Prelims|Prelims and CSAT]]
-- [[Mock Test Prelims]] 
 ---
--  [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
+-  📺 [[Lecture Notes|Socio Lecture Notes]]
+- [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
 ---
 -  [[GS Spaced Repetition]] 🃏
 - [[Socio Spaced Repetition]] 🃏
