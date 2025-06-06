@@ -36,32 +36,7 @@
       "key": "T"
     }
   ],
-  "global-search:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
-  "omnisearch:show-modal-infile": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "omnisearch:show-modal": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "F"
-    }
-  ],
+  "global-search:open": [],
   "editing-toolbar:toggle-highlight": [
     {
       "modifiers": [
@@ -95,7 +70,25 @@
   "editor:open-search": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "omnisearch:show-modal": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "F"
     }

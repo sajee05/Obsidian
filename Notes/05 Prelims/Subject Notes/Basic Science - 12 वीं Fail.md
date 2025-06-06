@@ -44,7 +44,8 @@
 ## 2. PROTEINS
 - Proteins are nitrogenous compounds that are composed of one or more long-chain amino acids joined together by an *amide bond* or *Peptide linkage*.
 
-![Amino Acid Structure](placeholder.png)
+![Amino Acid Structure](placeholder.png
+
 H-N Variable R-group H H H Amine α-Carbon Carboxylic Acid
 
 - Protein is also called Polypeptide
@@ -63,7 +64,7 @@ H-N Variable R-group H H H Amine α-Carbon Carboxylic Acid
     - Alpha keratin - found in hair, nails, claws, horns
     - Myosin - found in Muscles
 
-![Fibrous vs Globular Proteins](placeholder.png)
+![Fibrous vs Globular Proteins](placeholder.-attach image hereach image here
 *Fibrous*
 Little or no tertiary structure.
 Long parallel polypeptide chains.
@@ -185,14 +186,14 @@ H C OH H C -OCH3 ester bond ester
 | Cell division takes place by fission or budding. | Cell division takes place by mitosis and meiosis. |
 
 ## STRUCTURE OF EUKARYOTIC CELL
-![Eukaryotic Cell Diagram](placeholder.png)
+![Eukaryotic Cell Diagram](placeholder.-attach image here
 *Eukaryotic Cell*
 Endoplasmic reticulum
 Rough endoplasmic reticulum
 Smooth endoplasmic reticulum
 Peroxisome
 
-![Detailed Eukaryotic Cell Diagram](placeholder.png)
+![Detailed Eukaryotic Cell Diagram](placeholder.-attach image here
 Microfilament, Lysosome, Microtubule, Cytoplasm, Intermediate filaments, Ribosome, Cell (Plasma) membrane, Mitochondria, Vacuole, Golgi apparatus, Nuclear envelope, Chromatin (DNA), Nucleoplasm, Nucleolus, Nucleus
 
 - **Cell Membrane**
@@ -246,12 +247,12 @@ Microfilament, Lysosome, Microtubule, Cytoplasm, Intermediate filaments, Ribosom
 - **Animal Cell** - Cell membrane; multiples small vacuole; Nucleus in the centre; no plastids; storage of glucose as Glycogen etc
 
 ## Kingdom Classification
-![Kingdom Classification Diagram](placeholder.png)
+![Kingdom Classification Diagram](placeholder.-attach image here
 Organisms
 Prokaryotic -> Monera (Unicellular)
 Eukaryotic -> Unicellular / Multicellular
 
-![Kingdom Classification - Protista, Fungi, Plantae, Animalia](placeholder.png)
+![Kingdom Classification - Protista, Fungi, Plantae, Animalia](placeholder.-attach image here
 Protista (with cell wall -> Phototrophic -> Plantae / Heterotrophic -> Fungi) (without cell wall -> Animalia)
 
 - **Monera**- Prokaryotic; unicellular; bacteria; cyanobacteria etc
@@ -260,7 +261,7 @@ Protista (with cell wall -> Phototrophic -> Plantae / Heterotrophic -> Fungi) (w
 - **Plants and Animals**- multicellular; eukaryotes
 
 ## Animalia Kingdom Classification
-![Animalia Kingdom Classification Flowchart](placeholder.png)
+![Animalia Kingdom Classification Flowchart](placeholder.-attach image here
 KINGDOM: ANIMALIA
 Level of organisation: Cellular (Porifera) / Tissue
 Tissue level: No coelom (Coelentrata - Body radial / Platyhelminthes - Body bilateral) / Pseudocoelom (Nematoda) / True coelom
@@ -268,7 +269,7 @@ True coelom: Mesodermal cells from single cell (Annelida, Arthropoda, Mollusca) 
 Chordata: Notochord present in larval forms (Protochordata) / Notochord replaced by vertebral column (Vertebrata)
 Vertebrata: Pisces, Amphibia, Reptilia, Aves, Mammalia
 
-![Broad classification of Kingdom Animalia](placeholder.png)
+![Broad classification of Kingdom Animalia](placeholder.-attach image here
 Kingdom Animalia (multicellular)
 Levels of Organisation: Cellular level (Phylum Porifera) / Tissue/Organ/Organ system
 Symmetry: Radial (Phylum Coelenterata (Cnidaria), Ctenophora) / Bilateral
@@ -437,7 +438,7 @@ Broad classification of Kingdom Animalia based on common fundamental features
 
 ## Immunity
 - Immunity is the balanced state of organisms having adequate biological defences to fight infection and having adequate tolerance to avoid allergy.
-![Types of Immunity](placeholder.png)
+![Types of Immunity](placeholder.-attach image here
 ACTIVE IMMUNITY (Natural - Infection / Artificial - Vaccination)
 PASSIVE IMMUNITY (Natural - Maternal antibodies / Artificial - Monoclonal antibodies)
 
@@ -557,7 +558,7 @@ PASSIVE IMMUNITY (Natural - Maternal antibodies / Artificial - Monoclonal antibo
   - RBCs have haemoglobin.
     - It attaches to the oxygen and takes oxygen along with it to each and every part of the body.
   - Blood containing carbon dioxide is brought back to the alveoli and is exhaled out through the lungs.
-![Respiratory System Diagram](placeholder.png)
+![Respiratory System Diagram](placeholder.-attach image here
 Nasal cavity, Nostril, Oral cavity, Pharynx, Larynx, Trachea, Right main bronchus, Left main bronchus, Right lung, Left lung, Diaphragm
 
 ## Excretory system
@@ -619,7 +620,7 @@ Nasal cavity, Nostril, Oral cavity, Pharynx, Larynx, Trachea, Right main bronchu
     - thin-walled
     - carry deoxygenated blood except for the pulmonary vein.
     - Double circulation in the heart mechanism
-![Double Circulation in Heart](placeholder.png)
+![Double Circulation in Heart](placeholder.-attach image here
 Lungs, Pulmonary artery, Pulmonary vein, Right atrium, Right ventricle, Vena cava, Left atrium, Aorta, Systemic circulation, Blood tissues
 
 - It is called double circulation because blood goes through the heart twice.
@@ -628,7 +629,7 @@ Lungs, Pulmonary artery, Pulmonary vein, Right atrium, Right ventricle, Vena cav
 - It is made up of two components:
   - Plasma (55%) and
   - Cells (45%)
-![Blood Components](placeholder.png)
+![Blood Components](placeholder.-attach image here
 Plasma (55% - Water, Salts/Minerals, Proteins), Buffy Coat (1% - White blood cells, Platelets), Red Blood Cells (45%)
 
 - **Plasma**:
@@ -703,7 +704,7 @@ Plasma (55% - Water, Salts/Minerals, Proteins), Buffy Coat (1% - White blood cel
   - Antibodies can not be produced against one's own antigen.
   - That is why someone with blood group A can not produce antibody A.
   - He will always produce antibodies B.
-![Your child's blood type inheritance chart](placeholder.png)
+![Your child's blood type inheritance chart](placeholder.-attach image here
 
 ## Hormones and Genetics
 ## GLANDS IN THE HUMAN BODY
@@ -712,7 +713,7 @@ Plasma (55% - Water, Salts/Minerals, Proteins), Buffy Coat (1% - White blood cel
 2.  **Endocrine Gland**: ductless glands that secrets their products and hormones directly into blood.
     - The secretions of endocrine glands are called hormones.
     - The endocrine system is meant for internal communication and regulation of the human body.
-![Location of endocrine glands](placeholder.png)
+![Location of endocrine glands](placeholder.-attach image here
 Hypothalamus, Pineal, Pituitary, Thyroid and Parathyroid, Thymus, Pancreas, Adrenal, Ovary (in female), Testis (in male)
 
 3.  **Hypothalamus**: stimulates secretions from the Pituitary gland, inhibiting hormone.
@@ -745,7 +746,7 @@ Hypothalamus, Pineal, Pituitary, Thyroid and Parathyroid, Thymus, Pancreas, Adre
   - The nitrogenous base is further divided into two parts. - Purines and pyrimidines.
     - Purines - adenine(A) and guanine(G)
     - Pyrimidines - thymine(T), uracil(U), and cytosine(C).
-![Difference between DNA and RNA](placeholder.png)
+![Difference between DNA and RNA](placeholder.-attach image here
 DNA (Cytosine, Guanine, Adenine, Thymine, Base Pair, Helix of Sugar-Phosphates, Deoxyribonucleic Acid) vs RNA (Cytosine, Guanine, Adenine, Uracil, Nucleobases, Ribonucleic Acid)
 
 - **DNA** has a sugar called deoxyribose sugar.
@@ -793,7 +794,7 @@ DNA (Cytosine, Guanine, Adenine, Thymine, Base Pair, Helix of Sugar-Phosphates, 
 - **Haploid**: Single set of unpaired chromosomes. It is represented as N.
   - Gametes and sex cells like sperm and egg contain a haploid set of chromosomes. Also called germ cells.
 - **Diploid** - Two sets of chromosomes one coming from each parent. It is represented as 2N.
-![Haploid vs Diploid](placeholder.png)
+![Haploid vs Diploid](placeholder.-attach image here
 Diploid (2N) vs. Haploid (N) - Having half of the complete set of chromosomes
 
 - Somatic cells - all cells other than sex cells or gametes. They are diploid in nature.
@@ -811,7 +812,7 @@ Diploid (2N) vs. Haploid (N) - Having half of the complete set of chromosomes
 - **Phenotype** - observable characteristic in an organism.
 - The Genetic makeup of an organism is the **Genotype**.
 - Sex determination: XY is male and XX is female etc.
-![Mendel's Monohybrid Cross](placeholder.png)
+![Mendel's Monohybrid Cross](placeholder.-attach image here
 Tall (TT) x Dwarf (tt) -> F1: All tall (Tt) -> F2: TT (25%), Tt (25%), Tt (25%), tt (25%) (75% tall, 25% dwarf, ratio 3:1)
 
 ## Chapters to read -
@@ -827,7 +828,7 @@ Tall (TT) x Dwarf (tt) -> F1: All tall (Tt) -> F2: TT (25%), Tt (25%), Tt (25%),
     - The individual is male with the development of feminine characteristics
   - **Turner's Syndrome(XO)**
     - These are sterile females.
-![Turner's Syndrome and Klinefelter's Syndrome](placeholder.png)
+![Turner's Syndrome and Klinefelter's Syndrome](placeholder.-attach image here
 
 - **Gene Abnormalities**:
   - **Autosomal Recessive Disease**
@@ -906,7 +907,7 @@ Tall (TT) x Dwarf (tt) -> F1: All tall (Tt) -> F2: TT (25%), Tt (25%), Tt (25%),
       - There are 2 parts to it:
         - Guidance molecule: It is called Single guided RNA (SgRNA).
         - CAS 9 Enzyme: It will cut the DNA from the particular site.
-![CRISPR-Cas9 system](placeholder.png)
+![CRISPR-Cas9 system](placeholder.-attach image here
 CRISPR-Cas9 is a unique technology that enables editing parts of the genome by removing, adding or altering sections of the DNA. Guide RNA (gRNA) guides Cas9 to the right part of the genome. Enzyme Cas9 (acts as a pair of 'molecular scissor'). Target DNA. CRISPR molecule. SEARCH: A CRISPR molecule finds a precise location in the target DNA. CUT: The CRISPR enzyme cuts the target DNA at the point found by the guide. EDIT: A new custom sequence can be added when the DNA is repaired.
     - Casgevy and Lyfgenia - gene therapy to treat sickle cell anaemia
       - Lyfgenia uses a disabled lentivirus as a vector
@@ -923,7 +924,7 @@ CRISPR-Cas9 is a unique technology that enables editing parts of the genome by r
   - The nucleus of the somatic cell is kept.
   - Thereafter somatic cell nuclear transfer technique is adopted to produce an embryo.
   - After the stimulation of the embryo, it is transplanted into the uterus of another or the same female.
-![Animal Cloning SCNT process](placeholder.png)
+![Animal Cloning SCNT process](placeholder.-attach image here
 Somatic cell -> SCNT embryo -> Production of elite farm animals / Nuclear-transfer stem cell lines for basic research
 Transgenic/edited somatic cell -> SCNT embryo -> Conservation of endangered breed or species / Xenotransplantation to develop human organs / Production of genetically modified/edited animals
 
@@ -978,15 +979,15 @@ Transgenic/edited somatic cell -> SCNT embryo -> Conservation of endangered bree
     - Gene editing
   - Tissue culture
   - Field testing
-![GM Crop Creation Process](placeholder.png)
+![GM Crop Creation Process](placeholder.-attach image here
 Agrobacterium tumefaciens -> Ti Plasmid (Site where restriction enzyme cuts) + DNA Containing the gene of interest -> Recombinant Ti plasmid -> Inserted T DNA carrying new gene -> Plant with new trait
 
 - Introducing an alien gene in the seeds to get the desired effects
 - The regulatory system for GM Crops:
-![Regulatory framework for GM crops in India](placeholder.png)
+![Regulatory framework for GM crops in India](placeholder.-attach image here
 Government of India -> Ministry of Science and Technology - DBT / Ministry of Environment, Forest and Climate Change
 
-![GM Crop Regulatory Bodies in India](placeholder.png)
+![GM Crop Regulatory Bodies in India](placeholder.-attach image here
 RCGM, MEC, GEAC, RDAC, IBSC, SBCC, Applicant, DLC
 DBT - Department of Biotechnology, RCGM - Review Committee on Genetic Manipulation, RDAC - Recombinant DNA Advisory Committee, MEC - Monitoring cum Evaluation Committee, GEAC - Genetic Engineering Appraisal Committee, SBCC - State Biotechnology Coordination Committee, DLC - District Level Committee, IBSC - Institutional Bio-safety Committee
 
@@ -1021,7 +1022,7 @@ DBT - Department of Biotechnology, RCGM - Review Committee on Genetic Manipulati
   - The wave nature of light helps us in understanding phenomenon like refraction, light as an energy carrier, etc.
 - **Light as a particle**:
   - Einstein in his Photoelectric effect experiment proved light as a particle.
-![Einstein's Equation for Photoelectric Effect](placeholder.png)
+![Einstein's Equation for Photoelectric Effect](placeholder.-attach image here
 EINSTEIN EQUATION'S FOR PHOTOELECTRIC EFFECT
 E = Φ + KE
 hv = hv₀ + ½mv²
@@ -1066,21 +1067,21 @@ hv = hv₀ + ½mv²
   - It involves the interaction of electromagnetic waves with particles whose size is smaller when compared to the wavelength of electromagnetic waves.
   - It is elastic scattering, where the incident and scattered photon share the same frequency.
   - The sky appears blue because of Rayleigh scattering.
-![Rayleigh Scattering Sky Blue](placeholder.png)
+![Rayleigh Scattering Sky Blue](placeholder.-attach image here
 Rayleigh scattering from air molecules. I ∝ 1/λ⁴. The strong wavelength dependence of Rayleigh scattering enhances the short wavelengths, giving us the blue sky. Observer. The scattering at 400 nm is 9.4 times as great as that at 700 nm for equal incident intensity.
 
 - **Raman Scattering**:
   - It is scattering from atom or molecule this happens because of excited electrons.
   - It is inelastic scattering, it helps in understanding the structure of Atoms, etc.
   - https://www.youtube.com/watch?v=SsIYDEma_cU
-![Raman Spectroscopy Basics](placeholder.png)
+![Raman Spectroscopy Basics](placeholder.-attach image here
 Raman Spectroscopy Basics and Principles. Sample, Excitation, Molecule, Detector, Raman Spectroscopy. Intensity vs Frequency graph showing Stokes lines (Vs < Vi), Rayleigh scattering (Vs = Vi), Anti-stokes lines (Vs > Vi).
 
 ## TOTAL INTERNAL REFRACTION
 - The light should come from a denser to a rarer medium.
 - The angle of incidence must be greater than the critical angle.
 - The critical angle is the angle of incidence at which refracted ray coincides with the medium interface.
-![Total Internal Reflection Diagram](placeholder.png)
+![Total Internal Reflection Diagram](placeholder.-attach image here
 Air (n2), Water (n1). Incident Ray, Reflected Ray. Critical angle, Total Internal reflection.
 
 ## OPTICAL FIBER
@@ -1088,21 +1089,21 @@ Air (n2), Water (n1). Incident Ray, Reflected Ray. Critical angle, Total Interna
 - The density of the core is more than the density of a clad.
 - A signal is transported via core.
 - It works upon the total internal reflection.
-![Optical Fiber Structure](placeholder.png)
+![Optical Fiber Structure](placeholder.-attach image here
 OPTICAL FIBER. Jacket, Core, Cladding, Buffer.
 
 ## MIRAGE
 - It happens in hot places.
 - It is an optical illusion where the object appears to be inverted.
 - Refraction and total internal reflection are responsible for this phenomenon.
-![Mirage Formation](placeholder.png)
+![Mirage Formation](placeholder.-attach image here
 Formation of an inferior image. cold air, hot air.
 
 ## Looming
 - It is an optical illusion happening in a colder climate.
 - The object is erect and appears to be suspended in the air.
 - Refraction and total internal refraction are the responsible phenomena.
-![Looming Phenomenon](placeholder.png)
+![Looming Phenomenon](placeholder.-attach image here
 Virtual Image of ship. Warm air (Rarer medium), Cold air (denser medium). Looming caused by total internal reflection.
 
 ## RAINBOW
@@ -1112,10 +1113,10 @@ Virtual Image of ship. Warm air (Rarer medium), Cold air (denser medium). Loomin
   - Sometimes in nature, we may find a secondary rainbow where the outer circle is violet and the inner circle is red.
   - It is rarer than the primary rainbow and more blur comparatively.
   - It happens if more than two total internal reflections are involved.
-![Primary and Secondary Rainbow](placeholder.png)
+![Primary and Secondary Rainbow](placeholder.-attach image here
 Secondary Rainbow, Primary Rainbow.
 
-![Rainbow Formation Angles](placeholder.png)
+![Rainbow Formation Angles](placeholder.-attach image here
 Sunlight. Rainbow (secondary) 53.4°, 50.4°. Rainbow (primary) 42.4°, 40.7°. Angle of sunlight.
 
 ## TWINKLING OF STARS.
@@ -1138,7 +1139,7 @@ Sunlight. Rainbow (secondary) 53.4°, 50.4°. Rainbow (primary) 42.4°, 40.7°. 
 - At dusk and dawn, the sun appears to be slightly bigger than normal.
 - We are able to see Sun 2 minutes before sunrise and 2 minutes after sunset because of refraction
 - Also, on the horizon, Sun appears to be slightly bigger than normal.
-![Sun at horizon optical illusion](placeholder.png)
+![Sun at horizon optical illusion](placeholder.-attach image here
 
 ## Mirror.
 - **Plane mirror**:
@@ -1149,7 +1150,7 @@ Sunlight. Rainbow (secondary) 53.4°, 50.4°. Rainbow (primary) 42.4°, 40.7°. 
   - Lateral inversion.
 - **Spherical Mirror**:
   - There are two types of the spherical mirror- Convex and Concave.
-![Reflection from Concave and Convex Mirrors](placeholder.png)
+![Reflection from Concave and Convex Mirrors](placeholder.-attach image here
 Concave spherical mirror (Incident paraxial rays, Focal point, Principal axis, Converging mirror, Pole/vertex). Convex spherical mirror (Incident paraxial rays, Focal point, Diverging mirror).
 Reflection from Concave and Convex Mirrors: Object, Image (Concave Mirror - Center of Curvature, Focal Point). Object, Virtual Image (Convex Mirror - Focal Point, Center of Curvature).
 
@@ -1160,7 +1161,7 @@ Reflection from Concave and Convex Mirrors: Object, Image (Concave Mirror - Cent
   - A convex mirror is used when we want to make any large object to appear small, for example, a surveillance mirror, telescope, sunglasses, rear-view mirrors in vehicles.
 
 ## Lens
-![Convex and Concave Lens Ray Diagrams](placeholder.png)
+![Convex and Concave Lens Ray Diagrams](placeholder.-attach image here
 Convex lens or Converging lens (Parallel rays of light, Principal axis, Focus (F), Focal length (f), Light rays converging). Concave lens or Diverging lens (Parallel rays of light, Principal axis, Focus (F), Focal length (f), Light rays diverging).
 
 - **Concave lens**:
@@ -1232,7 +1233,7 @@ Convex lens or Converging lens (Parallel rays of light, Principal axis, Focus (F
   - Electroplating is plating one metal with another.
   - An anode is a metal to be deposited.
   - The cathode is the metal on which anode metal is deposited.
-![Electroplating Process](placeholder.png)
+![Electroplating Process](placeholder.-attach image here
 Anode (Plating Material, Oxygen is generated), Cathode (Metal part to be plated, Hydrogen is generated). Metal ions transfer and deposited on the surface.
 
 - **Applications of electroplating**:
@@ -1279,7 +1280,7 @@ Anode (Plating Material, Oxygen is generated), Cathode (Metal part to be plated,
       - 3D reconstruction of internal structures.
     - High Resolution
       - allowing for detailed visualization of small anatomical structures.
-![MRI Machine Components](placeholder.png)
+![MRI Machine Components](placeholder.-attach image here
 Control equipment, Drive equipment, Data collection/processing equipment, Superconducting magnet, Console, Receiver coils, Whole body coil, Gradient coil.
 
 ## LATENT HEAT
@@ -1344,12 +1345,12 @@ Control equipment, Drive equipment, Data collection/processing equipment, Superc
   - Protons - positively charged.
 - So, an atom is made up of Electrons and Nucleons.
 - Electrons are made up of Leptons and Nucleons are made up of Quarks.
-![Atomic Structure of Lithium - Leptons and Quarks](placeholder.png)
+![Atomic Structure of Lithium - Leptons and Quarks](placeholder.-attach image here
 Atomic structure of a lithium atom. Electron (Example of a charged lepton). Proton and neutrons are composed of quarks. Leptons and Quarks.
 
 - **Standard Model of Elementary Particles**
   - three generations of matter (fermions)
-![Standard Model of Elementary Particles Chart](placeholder.png)
+![Standard Model of Elementary Particles Chart](placeholder.-attach image here
 QUARKS (up, charm, top, down, strange, bottom), LEPTONS (electron, muon, tau, electron neutrino, muon neutrino, tau neutrino), GAUGE BOSONS (gluon, photon, Z boson, W boson), SCALAR BOSONS (Higgs)
 
 - **Quarks**:
@@ -1390,7 +1391,7 @@ QUARKS (up, charm, top, down, strange, bottom), LEPTONS (electron, muon, tau, el
   - It happens in bigger nuclei, for example, Uranium.
 - **Beta-decay**:
   - occurs when, in a nucleus with too many protons or too many neutrons, one of the protons or neutrons is transformed into the other
-![Beta Decay](placeholder.png)
+![Beta Decay](placeholder.-attach image here
 Beta Decay is radioactive decay that either releases an electron (beta minus) or positron (beta plus).
 Carbon-14 -> Nitrogen-14 + antineutrino + electron (β-)
 Carbon-10 -> Boron-10 + neutrino + positron (β+)
@@ -1401,7 +1402,7 @@ Carbon-10 -> Boron-10 + neutrino + positron (β+)
   - It happens naturally due to an excited state, for example, the Barium nucleus.
   - It can also happen after alpha-decay.
   - Radioactivity is measured by three counters = Geiger Muller counter; Scintillation counter; Semiconductor device.
-![Decay Types Model](placeholder.png)
+![Decay Types Model](placeholder.-attach image here
 Decay Type, Radiation Emitted, Generic Equation, Model (Parent -> Daughter + Particle)
 Alpha decay (α), Beta decay (β), Gamma emission (γ)
 
@@ -1639,7 +1640,7 @@ Alpha decay (α), Beta decay (β), Gamma emission (γ)
 ## Asteroids
 - Rocky objects, revolve around the sun, found between Mars and Jupiter.
 - Some asteroids are found beyond Jupiter also, known by the name Trojan.
-![Solar System with Asteroid Belt and Trojan Asteroids](placeholder.png)
+![Solar System with Asteroid Belt and Trojan Asteroids](placeholder.-attach image here
 Main asteroid belt, Mars, Venus, Mercury, Earth, Jupiter, Trojan asteroid.
 
 - Some of the asteroids are also found beyond Mars, known as Near-Earth Objects (NEOs).
@@ -1658,9 +1659,9 @@ Main asteroid belt, Mars, Venus, Mercury, Earth, Jupiter, Trojan asteroid.
 - There are many gases, dust, and ice in the nucleus.
 - They are flammable gases like ammonia, methane.
 - Comets are evolved from the Kuiper belt (short-period comets) and the Oort cloud(long-period comets)
-![Comet Structure and Origin](placeholder.png)
+![Comet Structure and Origin](placeholder.-attach image here
 
-![Kuiper Belt and Oort Cloud Diagram](placeholder.png)
+![Kuiper Belt and Oort Cloud Diagram](placeholder.-attach image here
 Earth (1 AU), Jupiter (5 AU), Saturn (10 AU), Uranus (20 AU), Neptune (30 AU), Pluto (40 AU), Asteroid belt, Kuiper Belt, Oort Cloud. Kuiper belt and scattered disk region (10 AU, 100 AU, 1,000 AU). Oort cloud region (becomes spherical beyond about 5,000 AU) (10,000 AU, 100,000 AU).
 
 - When they reach near the Sun, the tail develops, as these gases catch fire.
@@ -1682,7 +1683,7 @@ Earth (1 AU), Jupiter (5 AU), Saturn (10 AU), Uranus (20 AU), Neptune (30 AU), P
   - They are responsible for the extinction of dinosaurs.
 
 ## Mars
-![Comparing Atmospheres of Mars and Earth](placeholder.png)
+![Comparing Atmospheres of Mars and Earth](placeholder.-attach image here
 MARS: ARGON 1.9%, NITROGEN 1.9%, CARBON DIOXIDE 96%. TRACE GASES...
 EARTH: OXYGEN 20.9%, NITROGEN 78.1%. TRACE GASES...
 
@@ -1727,7 +1728,7 @@ EARTH: OXYGEN 20.9%, NITROGEN 78.1%. TRACE GASES...
   - Helium, after billions of years, is also almost over.
   - Star collapses at the Iron core which gives **Supernova** an explosion.
   - Medium size star gives a **Neutron star**, whereas, Big size star gives a **Blackhole**.
-![Life Cycle of a Star Diagram](placeholder.png)
+![Life Cycle of a Star Diagram](placeholder.-attach image here
 Giant Gas Cloud/Nebula -> Protostar -> (Low & Medium Mass Stars -> Red Giant -> Planetary Nebula -> White Dwarf -> Black Dwarf) OR (High Mass/Massive Star -> Red Supergiant -> Supernova -> Neutron Star OR Black Hole). T-Tauri Phase. Birth, Main Sequence, Old Age, Death & Remnants.
 
 ## CHANDRASHEKHAR LIMIT
@@ -1792,14 +1793,14 @@ Giant Gas Cloud/Nebula -> Protostar -> (Low & Medium Mass Stars -> Red Giant -> 
 - It is the unclaimed area of the universe
 - It is the part of space (unclaimed) that exists between the stars. (Vacant space)
 - It is a hard vacuum i.e. the presence of dust, gases, plasma (lonised gases), cosmic radiations.
-![Heliosphere and Interstellar Medium](placeholder.png)
+![Heliosphere and Interstellar Medium](placeholder.-attach image here
 Sun, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto, Asteroid Belt, Kuiper Belt, Termination Shock, Heliopause, Bow Shock, Hydrogen Wall, Oort Cloud, Edge of Local Cloud?, Edge of G Cloud?, α-Centauri. Heliosphere, Interstellar Medium.
 
 ## GOLDILOCKS ZONE
 - Search for the Earth-like planets in outer space.
 
 ## FORCE CARRIERS
-![The Four Fundamental Forces of Nature](placeholder.png)
+![The Four Fundamental Forces of Nature](placeholder.-attach image here
 The Four Fundamental Forces of Nature: Electromagnetism, Weak Interaction, Strong Interaction, Gravitation.
 
 - **Strong**:
@@ -1812,7 +1813,7 @@ The Four Fundamental Forces of Nature: Electromagnetism, Weak Interaction, Stron
   - It works within the nucleus.
   - Force carrier = W and Z.
   - Application= Beta decay and Neutron decay.
-![Weak Interaction Diagram](placeholder.png)
+![Weak Interaction Diagram](placeholder.-attach image here
 Electron (e-) + Electron neutrino (Ve) -> W- boson. Electron (e-) + Electron (e-) -> Z0 boson. The W- carries away the negative charge and transforms the electron to an electron neutrino. The Z0 transforms neither charge nor mass.
 
 - **Electromagnetic**:
@@ -1910,7 +1911,7 @@ Electron (e-) + Electron neutrino (Ve) -> W- boson. Electron (e-) + Electron (e-
 - Massive matters like galaxies, black holes, etc. create stronger gravitational fields which cause light rays to pass close to that matter.
 - In this process, light is slightly bent or refocused somewhere else.
 - This phenomenon also acts as a cosmic telescope.
-![Gravitational Lensing Diagram](placeholder.png)
+![Gravitational Lensing Diagram](placeholder.-attach image here
 Observer, lensed image seen of background galaxy, background galaxy, foreground galaxy. Hubble Measures Deflection of Starlight by a Foreground Black Hole.
 
 ## EXPANSION OF UNIVERSE
@@ -1922,7 +1923,7 @@ Observer, lensed image seen of background galaxy, background galaxy, foreground 
   - Rubidium atomic clock in IRNSS
 - **What is a second?**
   - In the International System of Units (SI), a second is the base unit of time. It is defined as the duration of 9,192,631,770 periods of the radiation corresponding to the transition between the two hyperfine levels of the ground state of the caesium-133 atom.
-![Atomic Clock Diagram](placeholder.png)
+![Atomic Clock Diagram](placeholder.-attach image here
 Digital display, servomechanism (for feedback), oscillator, frequency divider, cesium atom beam, cesium oven, magnets, microwave cavity, magnets, detector.
 
 - **How Atomic Clocks Work**:
