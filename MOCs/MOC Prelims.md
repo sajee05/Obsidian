@@ -1,14 +1,14 @@
 ### Foundation
 
-| **GS**            | **Subject**                                                  |
-| ----------------- | ------------------------------------------------------------ |
-| [[MOC GS1\|GS 1]] |                                                              |
-| [[MOC GS2\|GS2]]  | [[Polity - राजनीति]]                                         |
-|                   | [[Governance]]                                               |
-|                   | [[International Relations Prelims\|International Relations]] |
-|                   | [[Social Justice]]                                           |
-| [[MOC GS3\|GS 3]] |                                                              |
-| [[MOC GS4\|GS 4]] |                                                              |
+| **GS**            | **Subject**                                                              |
+| ----------------- | ------------------------------------------------------------------------ |
+| [[MOC GS1\|GS 1]] |                                                                          |
+| [[MOC GS2\|GS2]]  | [[Polity - राजनीति]]                                                     |
+|                   | [[Governance]]                                                           |
+|                   | [[International Relations Prelims\|International Relations]] - AM/M Puri |
+|                   | [[Social Justice]]                                                       |
+| [[MOC GS3\|GS 3]] |                                                                          |
+| [[MOC GS4\|GS 4]] |                                                                          |
 
 ### Paper I - (200 marks) Duration: Two hours
 
