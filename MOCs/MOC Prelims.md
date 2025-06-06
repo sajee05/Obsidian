@@ -26,7 +26,7 @@
 	- Indian and World Geography-Physical, Social, Economic Geography of India and the World.
 - 👩‍⚖️ [[Polity - राजनीति]]
 	- Indian Polity and Governance-Constitution, Political System, Panchayati Raj, Public Policy, Rights Issues, etc.
-- 💹 Economics
+- 💹 [[Economics - अर्थशास्त्र]]
 	- Economic and Social Development-Sustainable Development, Poverty, Inclusion, Demographics, Social Sector Initiatives, etc.
 - 🐧 Environment
 	- General issues on Environmental ecology, Bio-diversity and Climate Change - that do not require subject specialization.
