@@ -14,12 +14,7 @@ sr-ease: 410
 
 ---
 
-  - 🏢 [[MOC Prelims|CORE]] - 
-
-| [[Polity - राजनीति]] |     |
-| -------------------- | --- |
-|                      |     |
-
+  - 🏢 [[MOC Prelims|CORE]] 
  - 🔢 [[MOC - CSAT|CSAT]]
  - 🧠 [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
  - ❓ [[Active Recall Questions]] 🤔🤔
