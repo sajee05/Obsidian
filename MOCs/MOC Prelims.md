@@ -1,4 +1,4 @@
-### Foundation
+### Foundation 
 
 *(keep OneNote notes OR Google open with you for taking out pictures)*
 
@@ -24,7 +24,8 @@
 |                   | [[Science and Tech]] - Shivin                                            |
 |                   | [[Basic Science - 12 वीं Fail]]                                          |
 |                   | [[Internal Security - आंतरिक सुरक्षा]]                                   |
-| [[MOC GS4\|GS 4]] |                                                                          |
+| [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                                                  |
+|                   |                                                                          |
 
 ### Paper I - (200 marks) Duration: Two hours
 

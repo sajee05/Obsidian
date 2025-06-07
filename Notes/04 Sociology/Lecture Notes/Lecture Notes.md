@@ -19,9 +19,11 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     position: 0
-    isHidden: false
-    sortIndex: -1
+    isHidden: true
+    sortIndex: 2
     width: 130
+    isSorted: true
+    isSortedDesc: false
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -116,7 +118,7 @@ config:
   font_size: 16
   enable_js_formulas: false
   formula_folder_path: /
-  inline_default: false
+  inline_default: true
   inline_new_position: last_field
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
