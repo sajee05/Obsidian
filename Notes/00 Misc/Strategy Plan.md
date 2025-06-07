@@ -209,8 +209,13 @@ Every weekend in the prelims prep. = 1 flt.
 - diagram = self-explanatory. = should add meaning. 
 - Geography = proper labelling., small small diagrams. 
 - **schemes and committees = solutions to problems.** (nps me problems, states solution = committee and schemes)
-- 
 #### Current affairs : 
 - add to mains notes.
 - remove old arguments and examples, add new ones. 
 - [[Active Recall Questions]] -> use these.
+
+#### Planning:
+- Macro - Buffer days. 
+- 60% time for second revision. 
+- 80% = achieved on the road. 
+- 
