@@ -51,3 +51,5 @@ You are a specialized note-taking assistant with expertise in Obsidian markdown 
 
 Here is the markdown content to reformat:
 ```
+
+#### FOR PDF, Convert PDF to MHT, and repeat the above process.
