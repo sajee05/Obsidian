@@ -43,4 +43,3 @@
 	- General issues on Environmental ecology, Bio-diversity and Climate Change - that do not require subject specialization.
 - 🔍 Science and Tech
 	- General Science.
-
