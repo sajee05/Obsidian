@@ -4,7 +4,6 @@
   "edit-history",
   "obsidian-enhancing-export",
   "various-complements",
-  "omnisearch",
   "smart-composer",
   "obsidian-vault-changelog",
   "file-explorer-note-count",
@@ -33,5 +32,6 @@
   "obsidian-style-settings",
   "rss-board",
   "automatic-table-of-contents",
-  "obsidian-importer"
+  "obsidian-importer",
+  "omnisearch"
 ]
