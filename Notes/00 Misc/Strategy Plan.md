@@ -189,6 +189,22 @@ PYQ: Disha UPSC Topicwise question book by Murnal Sir.
 
 ## AIR 16
 - Vision classnotes -> base for mains notes. 
-#### prelims: 
+#### Prelims: 
 - search and research options of PYQs.
+- **MOCK TEST** = PRACTICE.
+- 75-80= low range of attempt 
+- 80-85 = mid
+- 85-90 = high
+	- take coloured pen = mark questions. and judge difficulty to attempt = low/high/mid.
+##### CSAT
+Every weekend in the prelims prep. = 1 flt.
+#### Mains: 
+- dont be afraid of answer. 
+- once notes ready -> write answers. 
+- **Rahul bhai:** ELI5 + Etymology -> when making notes. dont get into the perfection loop. 
+
+#### Current affairs : 
+- add to mains notes.
+- remove old arguments and examples, add new ones. 
+- [[Active Recall Questions]] -> use these.
 - 
