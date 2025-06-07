@@ -206,6 +206,9 @@ Every weekend in the prelims prep. = 1 flt.
 - GS 1 = very static. = mock papers = readymade model answers. = brainstorm. 
 - GS 3 = Data centric. *(Take a compilation of committees and use it at different places)*
 - improve presentation 
+- diagram = self-explanatory. = should add meaning. 
+- Geography = proper labelling., small small diagrams. 
+- **schemes and committees = solutions to problems.** (nps me problems, states solution = committee and schemes)
 - 
 #### Current affairs : 
 - add to mains notes.
