@@ -204,6 +204,9 @@ Every weekend in the prelims prep. = 1 flt.
 - **Rahul bhai:** ELI5 + Etymology -> when making notes. dont get into the perfection loop. 
 - work on weakness = Weak subject in paper. 
 - GS 1 = very static. = mock papers = readymade model answers. = brainstorm. 
+- GS 3 = Data centric. *(Take a compilation of committees and use it at different places)*
+- improve presentation 
+- 
 #### Current affairs : 
 - add to mains notes.
 - remove old arguments and examples, add new ones. 
