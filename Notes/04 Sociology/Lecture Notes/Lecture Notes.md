@@ -19,7 +19,7 @@ columns:
     isDragDisabled: false
     csvCandidate: true
     position: 0
-    isHidden: true
+    isHidden: false
     sortIndex: 2
     width: 130
     isSorted: true
