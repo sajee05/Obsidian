@@ -186,3 +186,9 @@ PYQ: Disha UPSC Topicwise question book by Murnal Sir.
 
 
 ---
+
+## AIR 16
+- Vision classnotes -> base for mains notes. 
+#### prelims: 
+- search and research options of PYQs.
+- 
