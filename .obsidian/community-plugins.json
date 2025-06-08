@@ -38,5 +38,6 @@
   "obsidian-folder-index",
   "obsidian-tagfolder",
   "tag-page-md",
-  "table-of-contents-automatic-but-compatible-with-publish"
+  "table-of-contents-automatic-but-compatible-with-publish",
+  "folder-file-splitter"
 ]
