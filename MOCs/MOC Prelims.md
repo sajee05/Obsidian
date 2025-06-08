@@ -18,7 +18,7 @@
 |                   | [[Governance]]                                   |          |                      |
 |                   | [[Social Justice --- सामाजिक न्याय]]             |          |                      |
 |                   | International Relationns                         |          |                      |
-| [[MOC GS3\|GS 3]] |                                                  |          |                      |
+| [[MOC GS3\|GS 3]] | [[Agriculture and Planning]]                     |          |                      |
 |                   |                                                  |          |                      |
 |                   |                                                  |          |                      |
 |                   |                                                  |          |                      |
