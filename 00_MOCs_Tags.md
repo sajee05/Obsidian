@@ -4,6 +4,9 @@ tag-page-query: "#00_MOCs"
 ## Tag Content for #00_MOCs
 ## Files with #00_MOCs in frontmatter
 - [[temporary-dump]]
+- [[AIR 28 MAINS]]
+- [[AIR 16 Madhav Agarwal]]
+- [[07 Topper]]
 - [[Notes]]
 - [[06 Answer Writing Fodder]]
 - [[05 Prelims]]

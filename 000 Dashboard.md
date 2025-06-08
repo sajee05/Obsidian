@@ -6,7 +6,7 @@ sr-interval: 365
 sr-ease: 410
 ---
 
-### [[MOCs]] - [[AIR 16 Madhav Agarwal| AIR 16 Mains]]
+### [[MOCs]] - [[AIR 16 Madhav Agarwal| AIR 16 Mains]] - [[AIR 28 MAINS]]
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] 
 
 ---
