@@ -9,15 +9,15 @@
 |                   | [[Modern Indian History - आधुनिक भारतीय इतिहास]] |          |                      |
 |                   | [[Post- Independence India]]                     |          |                      |
 |                   | [[Indian Geography -- भारतीय भूगोल]]             |          |                      |
-|                   | wo                                               |          |                      |
+|                   | World History                                    |          |                      |
 |                   | [[Physical Geography - भौतिक भूगोल]]             |          |                      |
 |                   | [[Human Geography - मानव भूगोल]]                 |          |                      |
 |                   | [[Mapping]]                                      |          |                      |
 |                   | [[Society - समाज]]                               |          |                      |
 | [[MOC GS2\|GS2]]  | [[Polity]]                                       |          |                      |
 |                   | [[Governance]]                                   |          |                      |
-|                   |                                                  |          |                      |
-|                   |                                                  |          |                      |
+|                   | [[Social Justice --- सामाजिक न्याय]]             |          |                      |
+|                   | International Relationns                         |          |                      |
 | [[MOC GS3\|GS 3]] |                                                  |          |                      |
 |                   |                                                  |          |                      |
 |                   |                                                  |          |                      |
