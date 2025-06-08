@@ -6,7 +6,8 @@ tags: []
 ---
 
 ### [[MOCs]] - [[AIR 16 Madhav Agarwal| AIR 16 Mains]] - [[AIR 28 MAINS]]
-🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] 
+---
+🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
 ---
  
