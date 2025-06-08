@@ -21,7 +21,7 @@
 | [[MOC GS3\|GS 3]] | [[Agriculture and Planning]]                     |          |                      |             |
 |                   | [[Basic Science]]                                |          |                      |             |
 |                   | [[Disaster Management]]                          |          |                      |             |
-|                   |                                                  |          |                      |             |
+|                   | [[Economics]]                                    |          |                      |             |
 |                   |                                                  |          |                      |             |
 |                   |                                                  |          |                      |             |
 | [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                          |          |                      |             |
