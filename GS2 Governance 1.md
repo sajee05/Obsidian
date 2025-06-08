@@ -1,5 +1,5 @@
 
-#### Syllabus
+## Syllabus
 
 1. Government policies and interventions for development in various sectors and issues arising out of their design and implementation.na
 2. Important aspects of governance, transparency and accountability,
@@ -11,7 +11,7 @@ e-governanceapplications, models, successes, limitations, and potential; citizen
 
 ## Dimensions & Common Points
 
-#### Definitions:
+### Definitions:
 
 - - - Governance=**Process of d**ecision making, **i**mplementing those decision and **m**onitoring
         - Welfare state: way of governing in which the state provides basic economic security for its citizens
@@ -19,14 +19,14 @@ e-governanceapplications, models, successes, limitations, and potential; citizen
         - As per **2nd ARC 11th Report**, eG is **associated with** carrying out the functions and achieving the results of governance **through the** utilization of ICT (**11th Report** Name-Promoting e-Governance - The **Smart** Way Forward)
         - **CC** is a document that outlines commitment of org towards standard, quality and timeframe of service delivery. Based on the premise that Citizen is King
 
-#### Development is the removal of unfreedoms that leave ppl with little choice in exercising their reasonsedagency - AS
+### Development is the removal of unfreedoms that leave ppl with little choice in exercising their reasonsedagency - AS
 
 - - - **SA** involves measuring, understanding, reporting and improving organisation’s performance; Helps to bridge gap b/w vision and reality
         - **Dev Industry**: Combined set of various inst & agencies
         - **NGO**: Bridge b/w ppl and state, type of civil society which is organised in structure & specialised in fx
         - **SHG**: Informal group with similar background with a desire to work collectively
 
-#### Fodder Points: (collected from notes itself)
+### Fodder Points: (collected from notes itself)
 
 - - - **Terms:**
             - Public service delivery-PSD, Rule of law (impartial police + strong judiciary is needed), Corruption perception, Inter-dependent partnerships b/w 3 stakeholder of governance, Citizen Centric Administration (12th Report), Citizen friendliness, Citizen engagement & interface, Bureaucracy as a tool for social reconstruction, principle of “Reform, Perform, Transform”, India’s Techade
@@ -52,7 +52,7 @@ e-governanceapplications, models, successes, limitations, and potential; citizen
         - As per the 7th Pay Commission (SPC) report, for every lakh of population, India had a total of 139 central government employees in 2014, while the comparative number for the USA is 668 (666 yaad kr lo :p)
             - Wahan police wala data tha 137 vs 222 (UN)
 
-#### Conclusion:
+### Conclusion:
 
 - - - Former UN Secretary-General Kofi Annan said - “Good Governance is perhaps the single most important factor in eradicating poverty and promoting development”
         - The pandemic has exposed the benefits of a stronger, flexible and more responsive civil service which is able to incorporate risk management and has access to contingencies in an emergency
@@ -64,7 +64,7 @@ e-governanceapplications, models, successes, limitations, and potential; citizen
         - **Conclusion**: The need for cooperation among various service sectors has been an inherent component of development discourse. Partnership bridges the gap among the sectors. It also sets in motion a culture of ‘collaboration’ and ‘team spirit’.
             - **Micro-Finance as an anti-poverty vaccine, is aimed at asset creation and income security** of the rural poor in India
 
-#### Global Best Practices:
+### Global Best Practices:
 
 - - - 2nd ARC 4th Report-Way to tackle bureaucratic delays: The principle of ‘positive silence’ should generally be used - where after time limit for processing of the same after which permission, if not already given, should be deemed to have been granted
         - Singapore has ‘SINGAPORE ONE’, an e-Governance suite that offers very comprehensive services to its citizens
@@ -77,7 +77,7 @@ roll-out (also be used to make schemes better)
 
 1. 2023 - Imp themes based on PYQs
 
-#### Themes:
+### Themes:
 
 - - 1. Public private coordination (was asked in context of GATI Shakti), Has govt system responded adeq to demands of LPG?
         2. Policy contradictions between sectors and stakeholders
@@ -88,14 +88,14 @@ roll-out (also be used to make schemes better)
         7. Environment and governance - policy contradictions, How can role of NGOs be strengthened for env work - discuss major constraints
         8. Read some model answers for circled question in Only IAS PYQ printed
 
-#### Quotes:
+### Quotes:
 
 - - 1. CS - Institutional quality is a crucial driver for economic performance
         2. CC is an instrument of organisational transparency and accountability
         3. Emergence of SHG points to slow but steady withdrawal of state from developmental activities; Legitimacy and accountability of SHGs and micro finance outfits need systematic assessment for their sustained success
         4. A National Lokpal/xyz however strong cannot resolve the problem of immorality in public affaris
 
-#### High Fire Topics (for 2024)
+### High Fire Topics (for 2024)
 
 - - 1. **(be more focused on value addition for these areas)**
         2. Last question on corruption in 2016
@@ -132,7 +132,7 @@ Reasons
 
 1. **Important Aspects of Governance**
 
-#### e-Governance
+### e-Governance
 
 - - 2019: Factors and measures to effectively implement ICT based projects/programmes (Implementation of Information and Communication technology (ICT) based projects/programmes usually suffers in terms of certain vital factors. Identify these factors and suggest measures for their effective implementation)
     - 2018: Importance of the ‘use value’ of information (data) in e-gov
@@ -142,32 +142,32 @@ Reasons
     - 2004: Utility of e-governance in the Indian context
     - 2020: “The emergence of Fourth Industrial Revolution (Digital Revolution) has initiated e-Governance as an integral part of government”. Discuss.
 
-#### Transparency, Accountability, Corruption
+### Transparency, Accountability, Corruption
 
 - - 2016: Legal, political, economic, social and cultural factors that have caused the decline of public morality in India (in light of low rankings at integrity index of Transparency International)
     - 2015: In the light of the Satyam Scandal (2009), discuss the changes brought in corporate governance to ensure transparency, accountability
     - 2013: ‘A national Lokpal, however strong it may be, cannot resolve the problems of immorality in public affairs’ Discuss
     - Media Reforms: Current status? Issues? Reforms? Cover recent changes in OTT space
 
-#### Good Governance
+### Good Governance
 
 - - 2016: “**Effectiveness** of the government system at various levels and people’s **participation** in the governance system are inter-dependent.” Discuss their relationship with each other in context of India (12.5 m)
 
-#### Citizens Charters
+### Citizens Charters
 
 - - Basic principles of citizens’ charter movement and bring out its importance?
     - Limitations? Measures? Examples? Has it improved citizens’ satisfaction and quality of services?
 
 1. **Development processes and the development industry —the role of NGOs, SHGs, various groups and associations, donors, charities, institutional and other stakeholders**
 
-#### General
+### General
 
 - - - 2016: In Indian governance system, role of non-state actors has been marginal. Critically examine
         - 2019: The need for cooperation among various service sectors has been an inherent component of development discourse. Partnership bridges the gap among the sectors. It also sets in motion a culture of ‘collaboration’ and ‘team spirit’. In the light of statements above examine India’s **development process**
         - 2019: ‘In the context of neo-liberal paradigm of developmental planning, **multilevel planning** is expected to make operations cost-effective and remove many implementation blockages’- Discuss
         - Examine the issues that make balanced and inclusive development elusive (in context of high growth and low human development rankings)
 
-#### NGOs
+### NGOs
 
 - - - How can the role of NGOs be strengthened in India for development works relating to protection of the environment? Major constraints?
         - FCRA Act 1976: Aim? Amendments? Criticism?
