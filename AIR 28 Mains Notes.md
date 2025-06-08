@@ -1,4 +1,4 @@
-# [GS Topic-wise](onenote:https://d.docs.live.net/9B24B3FB5359B984/Documents/Mains%20Notes/GS%20Topic-wise.one#section-id={1C1DB737-FF9F-F242-A084-E9A2D8EE28F5}&end) (LINK TO ONENOTE)
+
 # Frameworks
 
 Sunday, 11 September 2022
