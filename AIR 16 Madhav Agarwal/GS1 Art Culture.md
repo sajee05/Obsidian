@@ -1,49 +1,4 @@
 
-
-![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture.jpeg>)
-
-
-
-**Index**
-
-[GS-1 Art & Culture 3](#_TOC_250017)
-
-[Common Points 3](#_TOC_250016)
-
-[PYQs 5](#_TOC_250015)
-
-[Timeline 8](#_TOC_250014)
-
-[Art and Architecture 10](#_TOC_250013)
-
-[Temple Architecture (with other dynasties) 35](#_TOC_250012)
-
-[Medieval Indian Architecture 43](#_TOC_250011)
-
-[Paintings 50](#_TOC_250010)
-
-[Classical Dances 53](#_TOC_250009)
-
-[Indian music 54](#_TOC_250008)
-
-[Indian Theatre 55](#_TOC_250007)
-
-[Indian Philosophy 56](#_TOC_250006)
-
-[Bhakti and Sufi Movement 58](#_TOC_250005)
-
-[Numismatics 63](#_TOC_250004)
-
-[Literature 65](#_TOC_250003)
-
-[Foreign Travellers 70](#_TOC_250002)
-
-[UNESCO Sites (40 sites) + ICH 73](#_TOC_250001)
-
-[Miscellaneous 74](#_TOC_250000)
-
-**Note:** These notes are the result of a group effort over the past few years. You'll find pink (or other coloured) highlights at the start of many topics—these usually mark key terms, definitions, quotes, etc., based on our memory cues at the time. While most content is updated, some sections—especially in GS3—may contain older material, so do cross-check and update where needed. Don’t get confused by the highlights; use what’s useful and feel free to build your own notes from them.
-
 **GS-1 Art & Culture**
 
 Syllabus: Indian culture will cover the salient aspects of Art Forms, literature and Architecture from ancient to modern times
