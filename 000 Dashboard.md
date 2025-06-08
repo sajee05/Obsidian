@@ -2,8 +2,7 @@
 sr-interval: 365
 sr-ease: 410
 sr-due: 2026-06-01
-tags:
-  - habit/5 Salah 🤲
+tags: []
 ---
 
 ### [[MOCs]] - [[AIR 16 Madhav Agarwal| AIR 16 Mains]] - [[AIR 28 MAINS]]
