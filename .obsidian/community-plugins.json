@@ -37,5 +37,6 @@
   "obsidian-folder-index",
   "tag-page-md",
   "table-of-contents-automatic-but-compatible-with-publish",
-  "table-checkboxes"
+  "table-checkboxes",
+  "obsidian-linter"
 ]
