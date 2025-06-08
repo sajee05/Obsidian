@@ -1,31 +1,30 @@
 ### Foundation 
 
-*(keep OneNote notes OR Google open with you for taking out pictures)*
-
-| **GS**            | **Subject**                                                              |
-| ----------------- | ------------------------------------------------------------------------ |
-| [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                                              |
-|                   | [[Ancient India --- प्राचीन इतिहास]]                                     |
-|                   | [[Art and Culture --- कला और संस्कृति]]                                  |
-|                   |                                                                          |
-|                   |                                                                          |
-|                   | [[Human Geography - मानव भूगोल]]                                         |
-|                   |                                                                          |
-|                   |                                                                          |
-|                   |                                                                          |
-|                   |                                                                          |
-| [[MOC GS2\|GS2]]  | [[Polity - राजनीति]]                                                     |
-|                   | [[Governance]]                                                           |
-|                   | [[International Relations Prelims\|International Relations]] - AM/M Puri |
-|                   | [[Social Justice - सामाजिक न्याय\|Social Justice]]                       |
-| [[MOC GS3\|GS 3]] | [[Economics - अर्थशास्त्र]]                                              |
-|                   | [[Agriculture and Planning]]                                             |
-|                   | [[Environment - पर्यावरण]] - Shivin                                      |
-|                   | [[Science and Tech]] - Shivin                                            |
-|                   | [[Basic Science - 12 वीं Fail]]                                          |
-|                   | [[Internal Security - आंतरिक सुरक्षा]]                                   |
-| [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                                                  |
-|                   |                                                                          |
+| **GS**            | **Subject**                                      | **READ** | **Passive Revision** |
+| ----------------- | ------------------------------------------------ | -------- | -------------------- |
+| [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                      | %        |                      |
+|                   | [[Art and Culture --- कला और संस्कृति]]          |          |                      |
+|                   | [[Ancient India --- प्राचीन इतिहास]]             |          |                      |
+|                   | [[Medieval Indian History --- मध्यकालीन इतिहास]] |          |                      |
+|                   | [[Modern Indian History - आधुनिक भारतीय इतिहास]] |          |                      |
+|                   | [[Post- Independence India]]                     |          |                      |
+|                   | [[Indian Geography -- भारतीय भूगोल]]             |          |                      |
+|                   | [[Physical Geography - भौतिक भूगोल]]             |          |                      |
+|                   | [[Human Geography - मानव भूगोल]]                 |          |                      |
+|                   | [[Mapping]]                                      |          |                      |
+|                   | [[Society - समाज]]                               |          |                      |
+| [[MOC GS2\|GS2]]  |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+| [[MOC GS3\|GS 3]] |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+|                   |                                                  |          |                      |
+| [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                          |          |                      |
+|                   |                                                  |          |                      |
 
 ### Paper I - (200 marks) Duration: Two hours
 
