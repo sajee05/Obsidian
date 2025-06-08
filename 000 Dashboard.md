@@ -6,6 +6,7 @@ sr-interval: 365
 sr-ease: 410
 ---
 
+### [[MOCs]]
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] 
 
 ---
