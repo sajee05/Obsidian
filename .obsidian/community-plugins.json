@@ -31,12 +31,12 @@
   "enhanced-annotations",
   "obsidian-style-settings",
   "rss-board",
-  "automatic-table-of-contents",
   "omnisearch",
   "surfing",
   "docxer",
   "substitutions",
   "obsidian-folder-index",
   "obsidian-tagfolder",
-  "tag-page-md"
+  "tag-page-md",
+  "table-of-contents-automatic-but-compatible-with-publish"
 ]

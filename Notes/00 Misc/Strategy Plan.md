@@ -1,14 +1,34 @@
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 0 # Include headings from the specified level
-maxLevel: 0 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
+<!-- Table of Contents default-->
+# Table of Contents
+1. [[Strategy Plan# TODO|TODO]]
+	1. [[Strategy Plan## Monthly AT ANY COST Targets|Monthly AT ANY COST Targets]]
+2. [[Strategy Plan# Current Affairs |Current Affairs ]]
+3. [[Strategy Plan# Mapping|Mapping]]
+4. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
+	1. [[Strategy Plan## Saturation|Saturation]]
+	2. [[Strategy Plan## Lectures |Lectures ]]
+	3. [[Strategy Plan## Updated strategy and mindset.|Updated strategy and mindset.]]
+		1. [[Strategy Plan### #### Prelims: |#### Prelims: ]]
+			1. [[Strategy Plan#### Prelims: |Prelims: ]]
+			2. [[Strategy Plan#### Mains (workflow not set on stone but in general:)|Mains (workflow not set on stone but in general:)]]
+			3. [[Strategy Plan#### Socio|Socio]]
+				1. [[Strategy Plan##### Paper 1:|Paper 1:]]
+				2. [[Strategy Plan##### Paper 2: |Paper 2: ]]
+				3. [[Strategy Plan##### Extra: |Extra: ]]
+5. [[Strategy Plan# Topper's Advice:|Topper's Advice:]]
+	1. [[Strategy Plan## AIR 28: |AIR 28: ]]
+		1. [[Strategy Plan### WHAT TO REMEMBER (Anki)|WHAT TO REMEMBER (Anki)]]
+		2. [[Strategy Plan### PRELIMS SOURCES|PRELIMS SOURCES]]
+	2. [[Strategy Plan## AIR 16|AIR 16]]
+		1. [[Strategy Plan### #### Prelims: |#### Prelims: ]]
+			1. [[Strategy Plan#### Prelims: |Prelims: ]]
+				1. [[Strategy Plan##### CSAT|CSAT]]
+			2. [[Strategy Plan#### Mains: |Mains: ]]
+			3. [[Strategy Plan#### Current affairs : |Current affairs : ]]
+			4. [[Strategy Plan#### Planning:|Planning:]]
+
+<!-- End of TOC -->
+
 ### CHECK AIR 16 MAINS NOTES - all 4 GS: Convert to Docx --> copy paste topic by topic following [[Mains Notes]] template.
 # TODO
 
@@ -218,4 +238,4 @@ Every weekend in the prelims prep. = 1 flt.
 - Macro - Buffer days. 
 - 60% time for second revision. 
 - 80% = achieved on the road. 
-- 
+-
