@@ -1,4 +1,3 @@
-# {{date:YYYY-MM-DD}}
 
 ## Targets achieved
 **in %**= 
