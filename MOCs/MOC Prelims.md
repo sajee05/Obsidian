@@ -9,12 +9,13 @@
 |                   | [[Modern Indian History - आधुनिक भारतीय इतिहास]] |          |                      |
 |                   | [[Post- Independence India]]                     |          |                      |
 |                   | [[Indian Geography -- भारतीय भूगोल]]             |          |                      |
+|                   | wo                                               |          |                      |
 |                   | [[Physical Geography - भौतिक भूगोल]]             |          |                      |
 |                   | [[Human Geography - मानव भूगोल]]                 |          |                      |
 |                   | [[Mapping]]                                      |          |                      |
 |                   | [[Society - समाज]]                               |          |                      |
-| [[MOC GS2\|GS2]]  |                                                  |          |                      |
-|                   |                                                  |          |                      |
+| [[MOC GS2\|GS2]]  | [[Polity]]                                       |          |                      |
+|                   | [[Governance]]                                   |          |                      |
 |                   |                                                  |          |                      |
 |                   |                                                  |          |                      |
 | [[MOC GS3\|GS 3]] |                                                  |          |                      |
