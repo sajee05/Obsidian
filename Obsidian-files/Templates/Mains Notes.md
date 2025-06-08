@@ -3,19 +3,18 @@ tags:
   - linker-exclude
 ---
 * {{date}}
-### Inter-linkages
+#### Inter-linkages
 * (relevant syllabus pointers here- prelims, mains, socio)
-### Topics To-do: 
+#### Topics To-do: 
 - [x] PYQ Topics / headings / Themes / Static.
 
-### Notes
-#### Topic 1
-##### Subtopic
-**Introduction
+---
+## Topic 1
+### Subtopic
+#### Introduction
 
+#### Body
 
-**Body**
+#### Conclusion
 
-**Conclusion**
-
-**Important Keywords**
+#### Important Keywords
