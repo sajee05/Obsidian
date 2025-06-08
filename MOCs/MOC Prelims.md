@@ -1,31 +1,31 @@
 ### Foundation 
 
-| **GS**            | **Subject**                                      | **READ** | **Passive Revision** |
-| ----------------- | ------------------------------------------------ | -------- | -------------------- |
-| [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                      | %        |                      |
-|                   | [[Art and Culture --- कला और संस्कृति]]          |          |                      |
-|                   | [[Ancient India --- प्राचीन इतिहास]]             |          |                      |
-|                   | [[Medieval Indian History --- मध्यकालीन इतिहास]] |          |                      |
-|                   | [[Modern Indian History - आधुनिक भारतीय इतिहास]] |          |                      |
-|                   | [[Post- Independence India]]                     |          |                      |
-|                   | [[Indian Geography -- भारतीय भूगोल]]             |          |                      |
-|                   | World History                                    |          |                      |
-|                   | [[Physical Geography - भौतिक भूगोल]]             |          |                      |
-|                   | [[Human Geography - मानव भूगोल]]                 |          |                      |
-|                   | [[Mapping]]                                      |          |                      |
-|                   | [[Society - समाज]]                               |          |                      |
-| [[MOC GS2\|GS2]]  | [[Polity]]                                       |          |                      |
-|                   | [[Governance]]                                   |          |                      |
-|                   | [[Social Justice --- सामाजिक न्याय]]             |          |                      |
-|                   | International Relationns                         |          |                      |
-| [[MOC GS3\|GS 3]] | [[Agriculture and Planning]]                     |          |                      |
-|                   | [[Basic Science]]                                |          |                      |
-|                   | [[Disaster Management]]                          |          |                      |
-|                   |                                                  |          |                      |
-|                   |                                                  |          |                      |
-|                   |                                                  |          |                      |
-| [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                          |          |                      |
-|                   |                                                  |          |                      |
+| **GS**            | **Subject**                                      | **READ** | **Passive Revision** | **Remarks** |
+| ----------------- | ------------------------------------------------ | -------- | -------------------- | ----------- |
+| [[MOC GS1\|GS 1]] | [[Modern History Timeline]]                      | %        |                      |             |
+|                   | [[Art and Culture --- कला और संस्कृति]]          |          |                      |             |
+|                   | [[Ancient India --- प्राचीन इतिहास]]             |          |                      |             |
+|                   | [[Medieval Indian History --- मध्यकालीन इतिहास]] |          |                      |             |
+|                   | [[Modern Indian History - आधुनिक भारतीय इतिहास]] |          |                      |             |
+|                   | [[Post- Independence India]]                     |          |                      |             |
+|                   | [[Indian Geography -- भारतीय भूगोल]]             |          |                      |             |
+|                   | World History                                    |          |                      |             |
+|                   | [[Physical Geography - भौतिक भूगोल]]             |          |                      |             |
+|                   | [[Human Geography - मानव भूगोल]]                 |          |                      |             |
+|                   | [[Mapping]]                                      |          |                      |             |
+|                   | [[Society - समाज]]                               |          |                      |             |
+| [[MOC GS2\|GS2]]  | [[Polity]]                                       |          |                      |             |
+|                   | [[Governance]]                                   |          |                      |             |
+|                   | [[Social Justice --- सामाजिक न्याय]]             |          |                      |             |
+|                   | International Relationns                         |          |                      |             |
+| [[MOC GS3\|GS 3]] | [[Agriculture and Planning]]                     |          |                      |             |
+|                   | [[Basic Science]]                                |          |                      |             |
+|                   | [[Disaster Management]]                          |          |                      |             |
+|                   |                                                  |          |                      |             |
+|                   |                                                  |          |                      |             |
+|                   |                                                  |          |                      |             |
+| [[MOC GS4\|GS 4]] | [[Ethics - Piyush sir]]                          |          |                      |             |
+|                   |                                                  |          |                      |             |
 
 ### Paper I - (200 marks) Duration: Two hours
 
