@@ -29,6 +29,7 @@ sr-ease: 410
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
 - [[MOC Socio Topper Notes|Socio Toppers Notes]]
 ---
+ - ❓ [[Active Recall Questions]] 🤔🤔
 -  [[GS Spaced Repetition]] 🃏
 - [[Socio Spaced Repetition]] 🃏
 ---
