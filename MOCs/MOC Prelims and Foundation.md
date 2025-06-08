@@ -1,5 +1,7 @@
 ### Foundation 
 
+*[Prelims जुगाड़](onenote:https://d.docs.live.net/9B24B3FB5359B984/Documents/Prelims%20Notes/Prelims%20जुगाड़.one#section-id={565E5879-76FB-854F-AF60-6391814FD094}&end)  (AIR 28's Personal Prelims - factual notes - for what he was forgetting / found imp)*
+
 | **General Studies** | **Subject**                                                                       | **READ** | **Passive Revision** | **Remarks**                                                           | **EXTRA REMARKS**                                                                                                                             |
 | ------------------- | --------------------------------------------------------------------------------- | -------- | -------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[MOC GS1\|GS 1]]   | [[Modern History Timeline]]                                                       | %        |                      | ***topper notes*** = timeline -> aid understanding.                   |                                                                                                                                               |
