@@ -14,7 +14,7 @@ sr-ease: 410
 
 ---
 
-### - 🏢 [[MOC Prelims|CORE]] *prelims GS, lectures and foundation*
+### - 🏢 [[MOC Prelims and Foundation|CORE]] *prelims GS, lectures and foundation*
  - 🔢 [[MOC - CSAT|CSAT]]
  - 🧠 [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
  - ❓ [[Active Recall Questions]] 🤔🤔
