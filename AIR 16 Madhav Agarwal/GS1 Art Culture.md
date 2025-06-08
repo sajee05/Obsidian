@@ -1,30 +1,8 @@
-![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture.png>)
+
 
 ![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture.jpeg>)
 
-# GS1: Art & Culture
 
-June 2025
-
-### Prepared together by:
-
-#### Madhav Agarwal ([https://t.me/madhavagrawalair16](https://t.me/madhavagrawalair16))
-
-#### Ratnesh Agrrwal (Insta: [https://www.instagram.com/ratnesh13/](https://www.instagram.com/ratnesh13/))
-
-**Disclaimer:** These notes are for guidance & reference only, based on our study, experience, & memory. Some fun mnemonics/terms may be included just to aid recall—no offence is intended. Please use your judgment and keep them updated over time.
-
-![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture 1.jpeg>)**About Us**
-
-![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture 2.jpeg>)![GS1 Art Culture](<Z9 Obsidian-files/Media/DOCX/GS1 Art Culture 3.jpeg>)
-
-**_Madhav Agarwal and Ratnesh Agrawal_** _— two friends, one mission, and a bond forged through shared dreams. From school classrooms to college corridors, their journey was always side by side. United by a common goal of cracking the UPSC, they spent over 300 hours on video calls — dissecting concepts, solving doubts, and building the notes that would become the backbone of their preparation._
-
-_Madhav went on to secure AIR 211 in CSE-2023 and then soared to_ **_AIR 16 in CSE-2024_**_. Now set to join the_ **_Indian Administrative Service_**_, he is living proof that quiet determination, when sustained with laser focus, can turn even the toughest dreams into destiny._
-
-_Ratnesh, who reached the_ **_UPSC interview stage in CSE-2023_**_, chose a different but equally powerful path. With the same intensity and sharp thinking that marked his preparation, he stepped into the world of real estate. Today, he’s a_ **_dynamic builder in Indore_** _— shaping skylines and lives with a vision rooted in public purpose and entrepreneurial fire._
-
-_These notes are a result of their shared struggle, deep friendship, and uncompromising pursuit of excellence — a_ **_gift to future aspirants_**_, from two dreamers who refused to settle for average, each leaving a mark in his own way._
 
 **Index**
 
