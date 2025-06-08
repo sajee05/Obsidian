@@ -135,7 +135,7 @@ Introductory discussion about the Subject
 - | John Marshall | Dayaram Sahni | RD Banerjee | 
 
 
-| --- | --- | --- | | ![[ANC_1.jpg]] | ![[ANC_2.jpg]] | ![[ANC_3.jpg|200x248]] |
+| --- | --- | --- | | ![[ANC_1.jpg|204x248]] | ![[ANC_2.jpg]] | ![[ANC_3.jpg|200x248]] |
 
 - Dayaram Sahni 1921 excavated the first site of Harappa.
 - In 1922, secondsite namely Mohonjdaro discovered by R D Banerjee.
