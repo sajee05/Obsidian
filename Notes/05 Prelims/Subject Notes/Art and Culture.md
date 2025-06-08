@@ -135,7 +135,7 @@ Introductory discussion about the Subject
 - | John Marshall | Dayaram Sahni | RD Banerjee | 
 
 
-| --- | --- | --- | | !![[ANC_1.jpg]] | !![[ANC_2.jpg]] | !![[ANC_3.jpg]] |
+| --- | --- | --- | | ![[ANC_1.jpg]] | ![[ANC_2.jpg]] | ![[ANC_3.jpg|200x248]] |
 
 - Dayaram Sahni 1921 excavated the first site of Harappa.
 - In 1922, secondsite namely Mohonjdaro discovered by R D Banerjee.
@@ -155,7 +155,7 @@ Introductory discussion about the Subject
   wereinstances ofseals made from silver, gold, copper, bronze, etc.
 - Seals werepictographic(pictures and symbols) in nature.
 
-    - !![[ANC_4.jpg]]
+    - ![[ANC_4.jpg]]
 
 
 Purpose of seals.
@@ -194,7 +194,7 @@ Salient features
 - Central place for granaries or city place
 
 
-!![[ANC_5.png]]
+![[ANC_5.png]]
 
 
 - Generally,
@@ -216,7 +216,7 @@ Salient features
   roomswere created.
 
 
-!![[ANC_6.png]]
+![[ANC_6.png]]
 
 
 - The lower town was the largest part of the town.
@@ -236,7 +236,7 @@ Salient features
   bricks of the same size and shape.
 
 
-!![[ANC_7.png]]
+![[ANC_7.png]]
 
 
 - Thesize of bricks was 4:2:1(length:width:height).
@@ -285,7 +285,7 @@ Stone sculptureswere created withsoft river stonesteatite.
   there is a headband on his head.
 
 
-!![[ANC_8.png]]
+![[ANC_8.png]]
 
 Theterracottasculptureis made from clay and baked on fire.
 
@@ -301,7 +301,7 @@ Theterracottasculptureis made from clay and baked on fire.
   on it is said that she was the goddess of fertility.
 
 
-!![[ANC_9.png]]
+![[ANC_9.png]]
 
 Bronze(Tin + copper) sculpture.
 
@@ -319,14 +319,14 @@ Bronze(Tin + copper) sculpture.
   and refined from outside.
 
 
-!![[ANC_10.png]]
+![[ANC_10.png]]
 
 
 - Dancing
   girl from Mohenjdaro. - made from bronze
 
 
-!![[ANC_11.png]]
+![[ANC_11.png]]
 
 ### IVC Ornaments and cosmetics
 
@@ -376,7 +376,7 @@ Shramana(श्रवण) tradition
 
 ### Mauryan Caves.
 
-!![[ANC_12.png]]
+![[ANC_12.png]]
 
 
 - Perhaps
@@ -421,21 +421,21 @@ Shramana(श्रवण) tradition
   Bihar and the crowning animal wasLion.
 
 
-!![[ANC_13.png]]
+![[ANC_13.png]]
 
 
 - Rampurva pillarfrom Bihar and
   crowing animal isbull.
 
 
-!![[ANC_14.png]]
+![[ANC_14.png]]
 
 
 - Sarnath Pillar and crowing animal
   arefour back-to-back lions.
 
 
-!![[ANC_15.png]]
+![[ANC_15.png]]
 
 
 - Four lions represents power,
@@ -456,7 +456,7 @@ Shramana(श्रवण) tradition
   (UP)and the crowning animal was anelephant
 
 
-!![[ANC_16.png]]
+![[ANC_16.png]]
 
 Purpose of pillars
 
@@ -494,15 +494,15 @@ Purpose of pillars
 - Shalbhanjika Yakshini was depicted holding a branch of the Sal tree.
 
 
-!![[ANC_17.png]]
+![[ANC_17.png]]
 
 Didarganj Yakshini
 
-!![[ANC_18.png]]
+![[ANC_18.png]]
 
 Yakshya sculpture from Sanchi Stupa
 
-!![[ANC_19.png]]
+![[ANC_19.png]]
 
 ### Mauryan Pottery
 
@@ -576,7 +576,7 @@ Yakshya sculpture from Sanchi Stupa
    represents Mahaparinirvana (death of Buddha) at Kushinagar
 
 
-!![[ANC_20.png]]
+![[ANC_20.png]]
 
 
 - Medhiis the circular
@@ -607,9 +607,9 @@ Yakshya sculpture from Sanchi Stupa
   yasti and chatri represents the head of buddha.
 
 
-!![[ANC_21.png]]
+![[ANC_21.png]]
 
-!![[ANC_22.png]]
+![[ANC_22.png]]
 
 ## Post Mauryan Art
 
@@ -668,7 +668,7 @@ It tells the previous life story of Buddha. |
     as in Ajanta, Karle, Bhaja -in Maharashtra
 
 
-!![[ANC_23.png]]
+![[ANC_23.png]]
 
 
 - Apsidal
@@ -687,7 +687,7 @@ It tells the previous life story of Buddha. |
 - POST-MAURYAN STUPAS
 
 
-!![[ANC_24.png]]
+![[ANC_24.png]]
 
 
 - In
@@ -928,7 +928,7 @@ Second Stage
 - Third Stage
 
 
-!![[ANC_25.png]]
+![[ANC_25.png]]
 
 
 - In
@@ -946,7 +946,7 @@ Second Stage
 
 ### Nagara Temple:
 
-!![[ANC_26.png]]
+![[ANC_26.png]]
 
 
 - Generally,
@@ -970,7 +970,7 @@ Second Stage
   is garbh graha)
 
 
-!![[ANC_27.png]]
+![[ANC_27.png]]
 
 
 - Some
@@ -991,7 +991,7 @@ Sub styles of Nagara Temples:
         
     - Theinterior walls of the temple were kept plain.
         
-    - The speciality of the Odissa temple is the presence ofDeul(देउल)Shikhara, which is almost vertical and it suddenly starts to curve near the top. !![[ANC_28.png]]
+    - The speciality of the Odissa temple is the presence ofDeul(देउल)Shikhara, which is almost vertical and it suddenly starts to curve near the top. ![[ANC_28.png]]
         
     - The prayer hall in Odissa style is calledJagmohan.
         
@@ -1002,7 +1002,7 @@ Sub styles of Nagara Temples:
     - Examples:Jagannathpuri temple, Lingaraja temple of Bhubaneshwar, Sun temple of Konark. 2.Khajuraho Temple(Also known as Chandela temple)
         
 
-!![[ANC_29.png]]
+![[ANC_29.png]]
 
 
 - It
@@ -1033,7 +1033,7 @@ Sub styles of Nagara Temples:
   temple of Kahjurao, Jain temples: Parsvanath temple, Ghantai temple.
 
 
-!![[ANC_30.png]]
+![[ANC_30.png]]
 
 3.Solanki style of Temple:
 
@@ -1064,7 +1064,7 @@ Sub styles of Nagara Temples:
   Dilwara Jaintemple of Mt. Abu, Bhadreswar Jain temple.
 
 
-!![[ANC_31.png]]
+![[ANC_31.png]]
 
 ## South Indian Architecture
 
@@ -1082,7 +1082,7 @@ Stage I (Mahendravarman Stage):
   worship. This initial structure was calledmandapa.
 
 
-!![[ANC_32.png]]
+![[ANC_32.png]]
 
 Stage II (Narsimhavarman stage):
 
@@ -1102,7 +1102,7 @@ Stage II (Narsimhavarman stage):
   Mahabalipuram, is a group of 6 raths all 5 brothers and Draupadi).
 
 
-!![[ANC_33.png]]
+![[ANC_33.png]]
 
 Stage III (Rajsimhavarman stage):
 
@@ -1115,20 +1115,20 @@ Stage III (Rajsimhavarman stage):
   temple of Kanchi.
 
 
-!![[ANC_34.png]]
+![[ANC_34.png]]
 
 Stage IV (Nandivarman stage):In this stage, the emphasis was not on creating big temples butpopularising the Dravida styleof the temple in South India.
 
 
 - Examples:Vaikunth Perumal temple of Kanchipuram
-- !![[ANC_35.png]]
+- ![[ANC_35.png]]
 
 
 # Art and Culture Class 06
 
 ### Dravida Style of Temple:
 
-!![[ANC_36.png]]
+![[ANC_36.png]]
 
 
 - The
@@ -1157,7 +1157,7 @@ Stage IV (Nandivarman stage):In this stage, the emphasis was not on creating big
   this style is known asCupola.
 
 
-!![[ANC_37.png]]
+![[ANC_37.png]]
 
 Chola Temple (Brihadeshwar Temple):
 
@@ -1177,7 +1177,7 @@ Chola Temple (Brihadeshwar Temple):
   on the top of vimana is 8 ton
 
 
-!![[ANC_38.png]]
+![[ANC_38.png]]
 
 
 - Airavatesvara Temple in Darasuram was built by the
@@ -1208,7 +1208,7 @@ Sub styles of Dravida temple
 - Examples:VirupekshaTemple ofHampi,Veerbhadratemple ofLepakshi.
 
 
-!![[ANC_39.png]]
+![[ANC_39.png]]
 
 
 - Nayaka Temple:It was
@@ -1229,9 +1229,9 @@ Sub styles of Dravida temple
   Prakram.
 
 
-!![[ANC_40.png]]
+![[ANC_40.png]]
 
-!![[ANC_41.png]]
+![[ANC_41.png]]
 
 Other temple styles of South India:
 
@@ -1270,7 +1270,7 @@ Other temple styles of South India:
   of Somnathpura.
 
 
-!![[ANC_42.png]]
+![[ANC_42.png]]
 
 ## The Medieval Architecture
 
@@ -1287,7 +1287,7 @@ Other temple styles of South India:
   announcements.
 
 
-!![[ANC_43.png]]
+![[ANC_43.png]]
 
 Features of Indo-Islamic Architecture:
 
@@ -1401,7 +1401,7 @@ TUGHLAQ PERIOD (1320-1414)
   example- Tughlaqabad fort; Firoz shah Kotla fort; Jahapanah fort
 
 
-!![[ANC_44.jpg]]
+![[ANC_44.jpg]]
 
 SAYYID PERIOD (1414-1451)
 
@@ -1416,7 +1416,7 @@ SAYYID PERIOD (1414-1451)
 - Example-
   Mohammad shah Sayyid tomb of Delhi
 
-    - !![[ANC_45.jpg]]
+    - ![[ANC_45.jpg]]
 
 
 LODI PERIOD (1451-1526)
@@ -1435,7 +1435,7 @@ LODI PERIOD (1451-1526)
   started planting gardens around their buildings
 - Ex-Lodhi Garden and Lodhi tomb
 
-    - !![[ANC_46.jpg]]
+    - ![[ANC_46.jpg]]
 
 
 ### PROVINCIAL ARCHITECTURE OF DELHI SULTANATE
@@ -1453,7 +1453,7 @@ BENGAL ARCHITECTURE
 - Ex:Kadam Rasool
   Mosqueof Gaur andAdhina Masjidof Pandua
 
-    - !![[ANC_47.jpg]]
+    - ![[ANC_47.jpg]]
 
 
 JAUNPUR ARCHITECTURE
@@ -1472,7 +1472,7 @@ JAUNPUR ARCHITECTURE
   Example - Atalla Masjid Of Jaunpur
 
 
-!![[ANC_48.jpg]]
+![[ANC_48.jpg]]
 
 MALWA ARCHITECTURE
 
@@ -1502,7 +1502,7 @@ MALWA ARCHITECTURE
   Mandu Fort;Rani Rupmati Pavillion;
   Hindola mahal, etc
 
-    - !![[ANC_49.jpg]]
+    - ![[ANC_49.jpg]]
 
 
 BIJAPUR ARCHITECTURE
@@ -1519,7 +1519,7 @@ BIJAPUR ARCHITECTURE
   Masjid(means place for Friday prayer) of Bijapur
 
 
-!![[ANC_50.jpg]]
+![[ANC_50.jpg]]
 
 ### MUGHAL ARCHITECTURE
 
@@ -1545,7 +1545,7 @@ BIJAPUR ARCHITECTURE
   planted.
 
 
-!![[ANC_51.png]]
+![[ANC_51.png]]
 
 ARCHITECTURE DURING AKBAR'S PERIOD
 
@@ -1564,7 +1564,7 @@ ARCHITECTURE DURING AKBAR'S PERIOD
   Fatehpur Sikri complex is welcomed by a Grand Gateway Known asBuland Darwazain whichTudor Archwas created.
 
 
-!![[ANC_52.png]]
+![[ANC_52.png]]
 
 
 - Panch Mahalis another
@@ -1573,7 +1573,7 @@ ARCHITECTURE DURING AKBAR'S PERIOD
   includesLintel roof, hanging balcony's and usage of pillars
 
 
-!![[ANC_53.png]]
+![[ANC_53.png]]
 
 
 - Salim
@@ -1652,7 +1652,7 @@ AURANGAZEB PERIOD(1658-1707)
   createdBiwi Ka Maqbara at Aurangabadwhich is
   considered a poor imitation of Taj mahal
 
-    - !![[ANC_54.jpg]]
+    - ![[ANC_54.jpg]]
 
 
 # Art and Culture Class 08
@@ -1665,7 +1665,7 @@ AURANGAZEB PERIOD(1658-1707)
         
     - Theyborrowed the concept of thedomefromMughalarchitecture.
         
-    - But some modifications were made in the dome and it looked like afluted dome. !![[ANC_55.png]]
+    - But some modifications were made in the dome and it looked like afluted dome. ![[ANC_55.png]]
         
     - Gurudwarasalso have multiplicities ofChhatrisorKiosks.
         
@@ -1683,7 +1683,7 @@ AURANGAZEB PERIOD(1658-1707)
         
     - Rajput also borrowed a few elements from Mughal architecture like adomebut many times they alsomodifiedthe dome structure in aconcaveshape.
         
-    - They createdhanging balconiesof carved cornice of half bowed sides. !![[ANC_56.png]]
+    - They createdhanging balconiesof carved cornice of half bowed sides. ![[ANC_56.png]]
         
     - Rajput rulers particularlyRaja Jai Singhcreated manyastronomicalobservatorieslikeJantarMantar.
         
@@ -1778,7 +1778,7 @@ Awadh Architecture:
   manziletc.
 
 
-!![[ANC_57.png]]
+![[ANC_57.png]]
 
 # Religion and Philosophy
 
@@ -1892,7 +1892,7 @@ Ashtangika Marg (Eightfold Paths):
   Samadhi (Right deep Meditation)
 
 
-!![[ANC_58.png]]
+![[ANC_58.png]]
 
 
 - After
@@ -1904,7 +1904,7 @@ Ashtangika Marg (Eightfold Paths):
 
 ### Buddhist Councils:
 
-!![[ANC_59.png]]
+![[ANC_59.png]]
 
 First Buddhist Council:
 
@@ -2031,9 +2031,9 @@ The concept of Bodhisattva(in Mahayana Buddhism)
    Sanskrit (The Lord of the World)
 
 
-!![[ANC_60.png]]
+![[ANC_60.png]]
 
-!![[ANC_61.jpg]]
+![[ANC_61.jpg]]
 
 
 - Manjusri - depicted with a
@@ -2042,26 +2042,26 @@ The concept of Bodhisattva(in Mahayana Buddhism)
     - Symbol of wisdom
 
 
-!![[ANC_62.png]]
+![[ANC_62.png]]
 
 
 - Vajrapani, a sterner Bodhi¬
   sattva like the god Indra, bears a thunderbolt in his hand.
 
 
-!![[ANC_63.jpg]]
+![[ANC_63.jpg]]
 
 
 - Maitreya, the future Buddha,
   is worshipped as a Bodhisattva
 
-    - !![[ANC_64.png]]
+    - ![[ANC_64.png]]
 
 - Ksitigarbha- governor of a model prison. Show empathy for inmates.
 - Amitabha(amitayus) - primary divine buddha (Mahayana as well as
   Vajrayana)
 
-    - !![[ANC_65.jpg]]
+    - ![[ANC_65.jpg]]
 
 
 Early Buddhist sects which emerged between 3rd and 4th Buddhist councils
@@ -2179,7 +2179,7 @@ Tri Ratnaof Jainism -KFC
   Conduct
 
 
-!![[ANC_66.png]]
+![[ANC_66.png]]
 
 Five pledges or vows of Jainism
 
@@ -2509,7 +2509,7 @@ Five pledges or vows of Jainism
     - Mimansa and Vedanta are considered Yugma.
         
 
-3. !![[ANC_67.png]]
+3. ![[ANC_67.png]]
     
     - Madhav -दोगला
     - वल्लभभाईशुद्धAमूलकेदेसीघीसेपेड़ेबनतेहै
@@ -2769,7 +2769,7 @@ Features
   Bharatnatyam where by dancer combines the first 3 fingers to Symbolise
   OM.
 
-    - !![[ANC_68.jpg]]
+    - ![[ANC_68.jpg]]
 
 - There
   are many popular solo performances in Bharatnatyam which
@@ -2891,7 +2891,7 @@ Features
 - Elements-
   Kathakali depicts the element of Sky or Ether in Body
 
-    - !![[ANC_69.jpg]]
+    - ![[ANC_69.jpg]]
 
 
 ### MOHINIATTAM(मोहिनीअत्तम)
@@ -2936,7 +2936,7 @@ Features-
   Madhuri Amma, etc.
 
 
-!![[ANC_70.png]]
+![[ANC_70.png]]
 
 # Art and Culture Class 12
 
@@ -2981,14 +2981,14 @@ Features:
   three places- Neck, Torso and Knee.
 
 
-!![[ANC_71.png]]
+![[ANC_71.png]]
 
 
 - Chowk: This is themasculine postureof dance in which dancers tries to create the shape
   of a square with the help of their legs.
 
 
-!![[ANC_72.png]]
+![[ANC_72.png]]
 
 
 - Many
@@ -3045,7 +3045,7 @@ Features
   ballad singing fromManipur using
   Dholak (drum)
 
-    - !![[ANC_73.jpg]]
+    - ![[ANC_73.jpg]]
 
 
 ### SATTARIYAसत्तरिया
@@ -3111,12 +3111,12 @@ Features:-
   numerous sounds , ankle bellsघुँघरूalso create rythmic sounds
 - Following
   are the element of recital in Kathak -Toraतोड़ा, Tukdaटुकड़ा, Kramalayaक्रमालय, Padhantपधांत, Taranaतराना, Gat bhavगतभाव, Jugal Bandiजुगलबंदी.
-- !![[ANC_74.png]]
+- ![[ANC_74.png]]
 
-- !![[ANC_75.png]]
+- ![[ANC_75.png]]
 
 
-!![[ANC_76.png]]
+![[ANC_76.png]]
 
 
 - Jugal
@@ -3619,7 +3619,7 @@ text of the Veda:
         
     - They were source of inspiration for Buddhism and Jainism
         
-        - !![[ANC_77.png]]
+        - ![[ANC_77.png]]
 
 ### Purana:
 
@@ -4124,7 +4124,7 @@ painting)
   famous Painting is" Bani- Thani".Considered as the Fashion lady of India.
 
 
-!![[ANC_78.png]]
+![[ANC_78.png]]
 
 ### Pahadi Paintings
 
@@ -4175,7 +4175,7 @@ painting)
   most popular theme of Thang-ka is the Mandala Art
 
 
-!![[ANC_79.png]]
+![[ANC_79.png]]
 
 ### Popular paintings from South India
 
@@ -4247,7 +4247,7 @@ painting)
 - It
   has UNESCO heritage status.
 
-    - !![[ANC_80.jpg]]
+    - ![[ANC_80.jpg]]
 
 
 #### 2. Patana Kalam (company style)
@@ -4259,7 +4259,7 @@ painting)
   terms of technique, it is quite closer to the Mughal style of Painting.
   They highlighted the subaltern approach (The hardships of the poor,
   impoverished and marginalised people) of painting.
-- !![[ANC_81.jpg]]
+- ![[ANC_81.jpg]]
 
 
 #### 3. Manjusha painting
@@ -4270,7 +4270,7 @@ painting)
 - The
   speciality of this painting is the depiction of snakes and their
   association with human society
-- !![[ANC_82.jpg]]
+- ![[ANC_82.jpg]]
 
 
 #### 4. Madhubani Painting
@@ -4286,7 +4286,7 @@ painting)
     1. Aripanअरिपन- based on Hindu religious themes created on Entrance and
    Prayer Rooms.
 
-        1. !![[ANC_83.jpg]]
+        1. ![[ANC_83.jpg]]
 
 1. KohabarकोहबरMadhubani: Created on
   inside bedrooms based on Erotic love theme
@@ -4317,7 +4317,7 @@ painting)
   around the paintings
 - Generally, there are no
   landscapes, perspectives, and distant views.
-- !![[ANC_84.jpg]]
+- ![[ANC_84.jpg]]
 
 
 #### 6. Warli painting
@@ -4334,7 +4334,7 @@ painting)
 - In
   recent times the worli theme became very popular and it can be seen on
   the textiles also apart from painting.
-- !![[ANC_85.jpg]]
+- ![[ANC_85.jpg]]
 
 
 #### 7. Pabuji Ki Phad
@@ -4344,7 +4344,7 @@ painting)
   painting is based on the legend of theRajasthaniwarrior -
   Pabuji. As such in this painting, there is also a depiction of Elephants,
   horses, etc.
-- !![[ANC_86.jpg]]
+- ![[ANC_86.jpg]]
 
 
 #### 8.Pithora painting
@@ -4352,7 +4352,7 @@ painting)
 
 - Rathva
   Bhils ofPanchmahal regionofGujarat and Jhabua.
-- !![[ANC_87.png]]
+- ![[ANC_87.png]]
 
 1. Saura Tribal Art
 
@@ -4370,7 +4370,7 @@ painting)
 
 <<41567_classroom_0__saints.pdf>>
 
-!![[ANC_88.jpg]]
+![[ANC_88.jpg]]
 
 
 - The
@@ -4660,7 +4660,7 @@ Theatres of India
   theme - Hindu Mythology
 
 
-!![[ANC_89.jpg]]
+![[ANC_89.jpg]]
 
 
 1. Koothiyattamकूथियत्तम-Kerela. It is the oldest surviving traditional theatre of India
@@ -4673,7 +4673,7 @@ Theatres of India
 
 ### Puppetry
 
-!![[ANC_90.jpg]]
+![[ANC_90.jpg]]
 
 
 - Gombeyatta, Karnataka
@@ -4689,4 +4689,4 @@ Theatres of India
   Centres for trade and artisanal production in central and south India
 
 
-!![[ANC_91.jpg]] Created with OneNote.
+![[ANC_91.jpg]] Created with OneNote.
