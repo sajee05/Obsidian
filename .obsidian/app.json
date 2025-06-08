@@ -1,9 +1,11 @@
 {
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "focusNewTab": true,
   "newLinkFormat": "shortest",
   "strictLineBreaks": true,
-  "attachmentFolderPath": "Z9 Obsidian-files/Media"
+  "attachmentFolderPath": "Z9 Obsidian-files/Media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "temporary-dump"
 }
