@@ -5,5 +5,5 @@
   "focusNewTab": true,
   "newLinkFormat": "shortest",
   "strictLineBreaks": true,
-  "attachmentFolderPath": "./attachments"
+  "attachmentFolderPath": "./media"
 }
