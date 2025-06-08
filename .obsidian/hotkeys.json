@@ -36,7 +36,15 @@
       "key": "T"
     }
   ],
-  "global-search:open": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
   "editing-toolbar:toggle-highlight": [
     {
       "modifiers": [
