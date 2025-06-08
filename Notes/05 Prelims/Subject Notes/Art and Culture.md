@@ -1,8 +1,4 @@
---- START OF FILE Art and Culture.md ---
-
-Art and Culture ---कलाऔरसंस्कृति Tuesday, 26 July 2022
-
-2:09 AM Art is theexpression or applicationof human creative skill and imagination like painting, sculpture, music, dance, architecture
+ Art is the expression or application of human creative skill and imagination like painting, sculpture, music, dance, architecture
 
 - There is no generally agreed definition of what constitutes art, its interpretation has varied greatly throughout history and across cultures.The three classical branches ofvisual artare[painting](https://en.wikipedia.org/wiki/Painting),[sculpture](https://en.wikipedia.org/wiki/Sculpture), and[architecture](https://en.wikipedia.org/wiki/Architecture).
 - [Theatre](https://en.wikipedia.org/wiki/Theatre),[dance](https://en.wikipedia.org/wiki/Dance), and other[performing arts](https://en.wikipedia.org/wiki/Performing_arts), as well as[literature](https://en.wikipedia.org/wiki/Literature),[music](https://en.wikipedia.org/wiki/Music),[film](https://en.wikipedia.org/wiki/Film)and other media such as[interactive media](https://en.wikipedia.org/wiki/Interactive_media), are included in a broader definition of[the arts](https://en.wikipedia.org/wiki/The_arts).
@@ -10,7 +6,7 @@ Art and Culture ---कलाऔरसंस्कृति Tuesday, 26 July 2022
 - In modern usage after the 17th century, where aesthetic considerations are paramount, the[fine arts](https://en.wikipedia.org/wiki/Fine_art)are separated and distinguished from acquired skills in general, such as the[decorative](https://en.wikipedia.org/wiki/Decorative_arts)or[applied arts](https://en.wikipedia.org/wiki/Applied_arts).
 - The nature of art and related concepts, such as creativity and[interpretation](https://en.wikipedia.org/wiki/Aesthetic_interpretation), are explored in a branch of philosophy known as[aesthetics](https://en.wikipedia.org/wiki/Aesthetics). The resulting[artworks](https://en.wikipedia.org/wiki/Artworks)are studied in the professional fields of[art criticism](https://en.wikipedia.org/wiki/Art_criticism)and the[history of art](https://en.wikipedia.org/wiki/Art_history).
 
-## Culture isthecustoms, arts, socialinstitutions,and achievements
+## Culture is the customs, arts, social institutions, and achievements
 of group of people regarded collectively
 
 - Cultureis an umbrella term which encompasses the[social behaviours](https://en.wikipedia.org/wiki/Social_behavior),[institutions](https://en.wikipedia.org/wiki/Institution), and[norms](https://en.wikipedia.org/wiki/Social_norm)found in[human](https://en.wikipedia.org/wiki/Human)[societies](https://en.wikipedia.org/wiki/Society), as well as the[knowledge](https://en.wikipedia.org/wiki/Knowledge),[beliefs](https://en.wikipedia.org/wiki/Belief),[arts](https://en.wikipedia.org/wiki/Art),[laws](https://en.wikipedia.org/wiki/Law),[customs](https://en.wikipedia.org/wiki/Social_norm), capabilities, and[habits](https://en.wikipedia.org/wiki/Habit)of the individuals in these groups.
