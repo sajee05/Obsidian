@@ -1,0 +1,1 @@
+[[Economics#NATIONAL INCOME ACCOUNTING|nationalincome]]
