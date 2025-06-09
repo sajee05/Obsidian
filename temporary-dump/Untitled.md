@@ -1167,5 +1167,103 @@ Friday, 14 October 2022
         - Shalbhanjika Yakshini, Didarganj Yakshini
         - Yaksha of Sanchi Stupa
 
+## VISUAL ART
 
+### Introduction
+
+- Sculptures serve as a visual record of the social life and culture.
+
+### What does it represent
+
+- Values, beliefs, social life, activities, social stratification etc
+
+### Sculptures of Harappan Civilization
+
+- **Stone sculptures**: were created with soft river stone steatite.
+  - Bearded priest
+- **The terracotta sculpture**: is made from clay and baked on fire.
+  - mother goddess
+- **Bronze (Tin + copper) sculpture**:
+  - Lost wax techniques were used for creating bronze sculptures.
+  - Dancing girl from MOHENJDARO.
+
+### Sculptures of the Mauryan Age
+
+- **Yaksha and Yakshini**
+  - SHALBHANJIKA YAKSHINI, DIDARGANJ YAKSHINI
+  - YAKSHA OF SANCHI STUPA
+
+### Post-Mauryan Period
+
+**Introduction** - which developed during KUSHANA and SUNGA period and reached it's climax during the GUPTA'S.
+
+| Basis of classification | Gandhara | Mathura | Amravati |
+| :--- | :--- | :--- | :--- |
+| **Area** | Northwest frontier province | Mathura | Lowe Krishna Godavari valley ⭐ (Should likely be 'Lower') |
+| **Material** | Grey color sandstone | Red color sandstone | White marble |
+| **Influence** | Greco-Roman and Bactrian influence. | No outside influence | |
+| **Religions associated** | Buddhism | Buddhism, Jainism and Hinduism | Buddhism. |
+| **patronization** | KUSHANA | KUSHANA | SATVAHAN and IKSHAVAKU. ⭐ (Common spelling is 'Satavahana') |
+| **Features** | | | |
+| **Images** | Spiritual images of the buddha. Wavey hair, unshaven face, half-closed eyes, fewer ornaments, optimal clothing, lean body, etc. | Delighted images of Buddha. Combed hair, shaven face, fully open eyes, more ornaments, maximum cloth, round body. | |
+| **Influence** | 1. The grace of Gandhara sculpture as inspired by Greek god APOLLO and ZEUS<br><br>2. masculinity of image was inspired from Greek characters ATLAS and HERCULES<br><br>3. Roman features. Large forehead, large earlobe, broad shoulders and chest, tall body, and realism in depiction.<br><br>4. Bactrian features (central Asia)-Image with headgear, mustaches, and depiction of weapons. | 1. Jaina sculpture. Sculptures of 24 TIRTHANKARAS were depicted and images of VARDHMAN MAHAVIR were often depicted in the naked form in natural surroundings.<br><br>2. Hinduism- a sculpture of Lord VISHNU was created and he was depicted with his Ayudh (arms with weapons).<br><br>Lord SHIVA was also created in the form of SHIVALINGA and MUKHALINGA. | In Amaravati instead of creating a single dominating image, they preferred panel sculpture.<br><br>Panel Sculpture were based on JATAKA KATHA (folk narratives).<br><br>It tells the previous life story of Buddha. |
+
+- Thus, MATHURA & GANDHARA Art cross-fertilized in due course of time, The result of this synthesis refined and purified the Buddha image that later became model for sculpture development in south-east Asia.
+  - Central
+
+### Jain Sculptures
+
+- images depicting Tirthankars (RISHABHDEV, PARSHVANATH, MAHAVIR)
+  - AKOTA BRONZE of Gujarat
+  - CHAUSA BRONZE of Bihar
+  - MATHURA SCHOOL
+
+### Buddhist Sculpture
+
+### Gupta Sculpture
+
+- Seated buddha emerged during Gupta period from SARNATH school of art.
+- **Sultanganj Buddha**
+
+### Medieval School of Sculpture
+
+- **Chola** - NATRAJ STATUE
+
+### Modern Indian Sculpture
+
+### Represent social life of those days
+
+- **Depict economic activities** like agricultural practices, market scene, trading
+- **Festivals and Rituals are shown**
+  - Religious ceremonies, and processions were vividly portrayed
+  - Example: The MEENAKSHI TEMPLE in Madurai portraying CHITHIRAI festival.
+- provide details on contemporary clothing and ornaments
+- Features musical and dance traditions
+- Role of women
+- Depict social hierarchies
+- Centrality and powers of king
+
+### Conclusion
+
+- The style of sculpture developed under the GUPTAS is often referred by scholars as "the International Style." , cosmopolitan
+
+## NUMISMATICS
+
+### Gupta period demonstrated level of excellence
+
+- **Artistic excellence**: detailed engravings, aesthetic appeal
+  - Example: The gold dinars of CHANDRAGUPTA II
+- **Standards and uniformity in coinage**: highlight advance minting technology
+  - Example: The consistency in weight, size, and purity of GUPTA gold coins is unmatched
+- **Features cultural and religious symbols**
+  - Example: The depiction of the goddess LAKSHMI on GUPTA coins
+
+### Decline in later period
+
+- **Shift in priorities**: less on artistic detail and more on mass production
+- **Change in material**: greater use of less precious metals like copper
+- **Political instability**
+- **Economic constraints**
+
+However, this is a generalization and there would be certainly examples of exceptional coinage being produced even after the GUPTA era.
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
