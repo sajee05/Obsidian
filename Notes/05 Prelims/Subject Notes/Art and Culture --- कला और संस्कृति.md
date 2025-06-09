@@ -1,8 +1,4 @@
-**Art and Culture --- कला और संस्कृति**
 
-Tuesday, 26 July 2022
-
-2:09 AM
 
 Art is the expression or application of human creative skill and imagination like painting, sculpture, music, dance, architecture
 
