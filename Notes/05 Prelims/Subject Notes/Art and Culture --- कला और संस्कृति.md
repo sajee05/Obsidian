@@ -1,1176 +1,1150 @@
+## Art
+is the expression or application of human creative skill and imagination like painting, sculpture, music, dance, architecture
 
+- There is no generally agreed definition of what constitutes art, its interpretation has varied greatly throughout history and across cultures.
+  - The three classical branches of visual art are [painting](https://en.wikipedia.org/wiki/Painting), [sculpture](https://en.wikipedia.org/wiki/Sculpture), and [architecture](https://en.wikipedia.org/wiki/Architecture).
+  - [Theatre](https://en.wikipedia.org/wiki/Theatre), [dance](https://en.wikipedia.org/wiki/Dance), and other [performing arts](https://en.wikipedia.org/wiki/Performing_arts), as well as [literature](https://en.wikipedia.org/wiki/Literature), [music](https://en.wikipedia.org/wiki/Music), [film](https://en.wikipedia.org/wiki/Film) and other media such as [interactive media](https://en.wikipedia.org/wiki/Interactive_media), are included in a broader definition of [the arts](https://en.wikipedia.org/wiki/The_arts).
+  - Until the 17th century, _art_ referred to any skill or mastery and was not differentiated from [crafts](https://en.wikipedia.org/wiki/Craft) or [sciences](https://en.wikipedia.org/wiki/Sciences).
+  - In modern usage after the 17th century, where aesthetic considerations are paramount, the [fine arts](https://en.wikipedia.org/wiki/Fine_art) are separated and distinguished from acquired skills in general, such as the [decorative](https://en.wikipedia.org/wiki/Decorative_arts) or [applied arts](https://en.wikipedia.org/wiki/Applied_arts).
+  - The nature of art and related concepts, such as creativity and [interpretation](https://en.wikipedia.org/wiki/Aesthetic_interpretation), are explored in a branch of philosophy known as [aesthetics](https://en.wikipedia.org/wiki/Aesthetics). The resulting [artworks](https://en.wikipedia.org/wiki/Artworks) are studied in the professional fields of [art criticism](https://en.wikipedia.org/wiki/Art_criticism) and the [history of art](https://en.wikipedia.org/wiki/Art_history).
 
-Art is the expression or application of human creative skill and imagination like painting, sculpture, music, dance, architecture
+## CULTURE
+IS THE CUSTOMS, ARTS, SOCIAL INSTITUTIONS, AND ACHIEVEMENTS OF GROUP OF PEOPLE REGARDED COLLECTIVELY
 
-- - There is no generally agreed definition of what constitutes art, its interpretation has varied greatly throughout history and across cultures. The three classical branches of visual art are [painting](https://en.wikipedia.org/wiki/Painting), [sculpture](https://en.wikipedia.org/wiki/Sculpture), and [architecture](https://en.wikipedia.org/wiki/Architecture).
-    - [Theatre](https://en.wikipedia.org/wiki/Theatre), [dance](https://en.wikipedia.org/wiki/Dance), and other [performing arts](https://en.wikipedia.org/wiki/Performing_arts), as well as [literature](https://en.wikipedia.org/wiki/Literature), [music](https://en.wikipedia.org/wiki/Music), [film](https://en.wikipedia.org/wiki/Film) and other media such as [interactive media](https://en.wikipedia.org/wiki/Interactive_media), are included in a broader definition of [the arts](https://en.wikipedia.org/wiki/The_arts).
-    - Until the 17th century, _art_ referred to any skill or mastery and was not differentiated from [crafts](https://en.wikipedia.org/wiki/Craft) or [sciences](https://en.wikipedia.org/wiki/Sciences).
-    - In modern usage after the 17th century, where aesthetic considerations are paramount, the [fine arts](https://en.wikipedia.org/wiki/Fine_art) are separated and distinguished from acquired skills in general, such as the [decorative](https://en.wikipedia.org/wiki/Decorative_arts) or [applied arts](https://en.wikipedia.org/wiki/Applied_arts).
-    - The nature of art and related concepts, such as creativity and [interpretation](https://en.wikipedia.org/wiki/Aesthetic_interpretation), are explored in a branch of philosophy known as [aesthetics](https://en.wikipedia.org/wiki/Aesthetics). The resulting [artworks](https://en.wikipedia.org/wiki/Artworks) are studied in the professional fields of [art criticism](https://en.wikipedia.org/wiki/Art_criticism) and the [history of art](https://en.wikipedia.org/wiki/Art_history).
+- **Culture**: an umbrella term which encompasses the [social behaviours](https://en.wikipedia.org/wiki/Social_behavior), [institutions](https://en.wikipedia.org/wiki/Institution), and [norms](https://en.wikipedia.org/wiki/Social_norm) found in [human](https://en.wikipedia.org/wiki/Human) [societies](https://en.wikipedia.org/wiki/Society), as well as the [knowledge](https://en.wikipedia.org/wiki/Knowledge), [beliefs](https://en.wikipedia.org/wiki/Belief), [arts](https://en.wikipedia.org/wiki/Art), [laws](https://en.wikipedia.org/wiki/Law), [customs](https://en.wikipedia.org/wiki/Social_norm), capabilities, and [habits](https://en.wikipedia.org/wiki/Habit) of the individuals in these groups.
+  - CULTURE is often originated from or attributed to a specific region or location.
+  - Humans acquire CULTURE through the [learning](https://en.wikipedia.org/wiki/Learning) processes of [enculturation](https://en.wikipedia.org/wiki/Enculturation) and [socialization](https://en.wikipedia.org/wiki/Socialization), which is shown by the diversity of cultures across societies.
 
-# Culture is the customs, arts, social institutions, and achievements of group of people regarded collectively
+A [cultural norm](https://en.wikipedia.org/wiki/Cultural_norm) codifies acceptable conduct in society; it serves as a guideline for behaviour, dress, language, and demeanour in a situation, which serves as a template for expectations in a social group.
 
-- - **Culture** is an umbrella term which encompasses the [social behaviours](https://en.wikipedia.org/wiki/Social_behavior), [institutions](https://en.wikipedia.org/wiki/Institution), and [norms](https://en.wikipedia.org/wiki/Social_norm) found in [human](https://en.wikipedia.org/wiki/Human) [societies](https://en.wikipedia.org/wiki/Society), as well as the [knowledge](https://en.wikipedia.org/wiki/Knowledge), [beliefs](https://en.wikipedia.org/wiki/Belief), [arts](https://en.wikipedia.org/wiki/Art), [laws](https://en.wikipedia.org/wiki/Law), [customs](https://en.wikipedia.org/wiki/Social_norm), capabilities, and [habits](https://en.wikipedia.org/wiki/Habit) of the individuals in these groups.
-    - Culture is often originated from or attributed to a specific region or location.
-    - Humans acquire culture through the [learning](https://en.wikipedia.org/wiki/Learning) processes of [enculturation](https://en.wikipedia.org/wiki/Enculturation) and [socialization](https://en.wikipedia.org/wiki/Socialization), which is shown by the diversity of cultures across societies.
+- Thus in military culture, [valour](https://en.wikipedia.org/wiki/Courage) is counted a typical behaviour for an individual and duty, honour, and loyalty to the social group are counted as virtues or functional responses in the [continuum of conflict](https://en.wikipedia.org/wiki/Continuum_of_conflict).
+- In the practice of religion, analogous attributes can be identified in a social group.
 
-A [cultural norm](https://en.wikipedia.org/wiki/Cultural_norm) codifies acceptable conduct in society; it serves as a guideline for behaviour, dress, language, and demeanour in a situation, which serves as a template for expectations in a social group.
+CULTURAL change, or repositioning, is the reconstruction of a CULTURAL concept of a society. CULTURES are internally affected by both forces encouraging change and forces resisting change. CULTURES are externally affected via contact between societies.
 
-- - Thus in military culture, [valour](https://en.wikipedia.org/wiki/Courage) is counted a typical behaviour for an individual and duty, honour, and loyalty to the social group are counted as virtues or functional responses in the [continuum of conflict](https://en.wikipedia.org/wiki/Continuum_of_conflict).
-    - In the practice of religion, analogous attributes can be identified in a social group.
+Organizations like [UNESCO](https://en.wikipedia.org/wiki/UNESCO) attempt to preserve CULTURE and CULTURAL heritage.
 
-Cultural change, or repositioning, is the reconstruction of a cultural concept of a society. Cultures are internally affected by both forces encouraging change and forces resisting change. Cultures are externally affected via contact between societies.
+## ART AND CULTURE CLASS 01
 
-Organizations like [UNESCO](https://en.wikipedia.org/wiki/UNESCO) attempt to preserve culture and cultural heritage.
+### INTRODUCTORY DISCUSSION ABOUT THE SUBJECT
 
-# Art and Culture Class 01
+- CULTURE is a way of life such as custom, tradition, belief system, language, etc.
+- ART is a manifestation of human aesthetic expression.
+- CULTURE is evolving phenomenon.
 
-**Introductory discussion about the Subject**
+### SYLLABUS OF ART & CULTURE. [AR-DMPL]
 
-- - Culture is a way of life such as custom, tradition, belief system, language, etc.
-    - Art is a manifestation of human aesthetic expression.
-    - Culture is evolving phenomenon.
+- ARCHITECTURE and sculpture.
+- RELIGION and philosophy (Orthodox and heterodox)
+- CLASSICAL DANCE.
+- CLASSICAL MUSIC.
+- LANGUAGE and literature.
+- INDIAN PAINTING.
+- BHAKTI and SUFI tradition.
 
-## Syllabus of Art & culture. [AR-DMPL]
+### ARCHITECTURE AND SCULPTURE
 
-- - Architecture and sculpture.
-    - Religion and philosophy (Orthodox and heterodox)
-    - Classical dance.
-    - Classical music.
-    - Language and literature.
-    - Indian painting.
-    - Bhakti and Sufi tradition.
+#### ANCIENT INDIA.
 
-# Architecture and sculpture
+- The INDUS VALLEY CIVILIZATION (2600 to 1800 BC).
+- MAURYA ART (321 to 185 BC).
+- POST-MAURYA ART (185 BC to 250 AD).
+- GUPTA ART (319 AD to 550 AD).
+- SOUTH INDIAN CULTURE (600 AD to 1100 AD).
 
-### Ancient India.
+#### MEDIEVAL INDIA
 
-- - The Indus valley civilization (2600 to 1800 BC).
-    - Maurya art (321 to 185 BC).
-    - Post-Maurya art (185 BC to 250 AD).
-    - Gupta art (319 AD to 550 AD).
-    - South Indian culture (600 AD to 1100 AD).
+- **DELHI SULTANATE**.
+  - Imperial**-** SLAVE/MAMLUK (1206-1290), KHILJI (1290-1320), TUGHLAQ (1320 to 1414), SAYYID PERIOD(1414 to 1451), LODHI PERIOD(1451 to 1456) ⭐ (The LODHI period is stated as 1451 to 1456, but historical records indicate it lasted until 1526.)
+  - **Provincial -** BENGAL ART, JAUNPUR ART, MALWA ART, BIJAPUR ART
+- **MUGHAL PERIOD.**
+  - AKBAR (1556-1605)
+  - JAHANGIR (1605-1627)
+  - SHAH JAHAN (1627-1659)
+  - AURANGZEB (1659 to 1707)
+  - **Provincial** (SIKH and RAJPUT ARCHITECTURE)
+- **MODERN**
+  - BRITISH INITIATION (INDO GOTHIC STYLE OF ARCHITECTURE) and NEO ROMAN STYLE.
+  - INDIAN INITIATIVE (AWADH ARCHITECTURE**)**
 
-### Medieval India 
+### INDUS VALLEY CIVILIZATION
 
-- - **Delhi sultanate**.
-    - Imperial**-** Slave/mamluk (1206-1290), Khilji (1290-1320), Tughlaq (1320 to 1414), Sayyid period(1414 to 1451), Lodhi period(1451 to 1456)
-    - **Provincial -**Bengal art, Jaunpur art, Malwa Art, Bijapur art
-
-- - **Mughal period.**
-    - Akbar (1556-1605)
-    - Jahangir (1605-1627)
-    - Shah Jahan (1627-1659)
-    - Aurangzeb (1659 to 1707)
-    - **Provincial** (Sikh and Rajput architecture)
-
-- - **Modern** 
-    - British Initiation (Indo gothic style of architecture) and Neo roman style.
-    - Indian Initiative (Awadh Architecture**)**
-
-## Indus valley civilization
-
-- - Archaeological Survey of India head John Marshall entrusted the task of excavating IVC sites with two Indian Archaeologists Dayaram Sahni and RD Banerjee.
+- ARCHAEOLOGICAL SURVEY OF INDIA head JOHN MARSHALL entrusted the task of excavating IVC sites with two INDIAN ARCHAEOLOGISTS DAYARAM SAHNI and RD BANERJEE.
 
 |   |   |   |
 |---|---|---|
-|John Marshall|Dayaram Sahni|RD Banerjee|
+|JOHN MARSHALL|DAYARAM SAHNI|RD BANERJEE|
 |![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति.jpeg>)|![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 1.jpeg>)|![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 2.jpeg>)|
 
-- - Dayaram Sahni 1921 excavated the first site of Harappa.
-    - In 1922, second site namely Mohonjdaro discovered by R D Banerjee.
-    - With the discovery of IVC, it became the world's most advanced civilization.
-    - Its first civilization started to use a burned brick of the same size and shape. Pyramid of Egypt made from unburnt bricks.
-    - The Next advanced feature of IVC was immaculate urban planning.
+- DAYARAM SAHNI 1921 excavated the first site of HARAPPA.
+- In 1922, second site namely MOHONJDARO discovered by R D BANERJEE.
+- With the discovery of IVC, it became the world's most advanced CIVILIZATION.
+- Its first CIVILIZATION started to use a burned brick of the same size and shape. PYRAMID OF EGYPT made from unburnt bricks.
+- The Next advanced feature of IVC was immaculate urban planning.
 
-**IVC seals.**
+#### IVC SEALS.
 
-- - One of the important artefacts found in Indus towns.
-    - It is one of the most important sources of information about the Indus valley civilization.
-    - It is a geometrically shaped object mainly made up of soft river stones 'Steatite'.
-    - There were instances of seals made from silver, gold, copper, bronze, etc.
-    - Seals were pictographic (pictures and symbols) in nature.
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 3.jpeg>)
+- One of the important artefacts found in INDUS towns.
+- It is one of the most important sources of information about the INDUS VALLEY CIVILIZATION.
+- It is a geometrically shaped object mainly made up of soft river stones 'STEATITE'.
+- There were instances of SEALS made from silver, gold, copper, bronze, etc.
+- SEALS were pictographic (pictures and symbols) in nature.
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 3.jpeg>)
 
-**Purpose of seals.**
+#### PURPOSE OF SEALS.
 
-- - Seals were considered as a stamp of the IVC authority.
-    - Perhaps it was the first type of coinage that facilitated trade.
-    - Seals also provide important information about the socio-religious practices of that time for example Pasupathi seal. It was considered as an Image of proto-Siva.(_Check images In the ancient history handout)_
-    - In the image, the person has depicted seating in a yogic posture which indicates that meditative practices were prevalent during the IVC period.
-    - The images are further surrounded by many animals which are indicative of nature worship.
-    - The Pipal leaf seal indicates 'nature worship'.
-    - The unicorn seal is the most abundant seal found in Indus towns.
-    - Seals were also used as an Amulate(ताबीज़) to ward off evil.
-    - Cow, camel, horse and lion were not depicted on seals or no evidence yet found thereof.
+- SEALS were considered as a stamp of the IVC authority.
+- Perhaps it was the first type of coinage that facilitated trade.
+- SEALS also provide important information about the socio-religious practices of that time for example PASUPATHI SEAL. It was considered as an Image of PROTO-SIVA. (_Check images In the ancient history handout)_
+- In the image, the person has depicted seating in a yogic posture which indicates that meditative practices were prevalent during the IVC period.
+- The images are further surrounded by many animals which are indicative of nature worship.
+- The PIPAL LEAF SEAL indicates 'nature worship'.
+- The UNICORN SEAL is the most abundant SEAL found in INDUS towns.
+- SEALS were also used as an AMULATE(ताबीज़) to ward off evil.
+- Cow, camel, horse and lion were not depicted on SEALS or no evidence yet found thereof.
 
-**Urban Planning of IVC**
+#### URBAN PLANNING OF IVC
 
-**Salient features**
+##### SALIENT FEATURES
 
-- - **Roads cut each other at right angles**
-    - **Drainage system**
-    - **Central place for granaries or city place**
+- **Roads cut each other at right angles**
+- **Drainage system**
+- **Central place for granaries or city place**
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति.png>)
 
-- - Generally, Indus towns were divided into two parts that are upper towns and lower towns.
-    - **Upper town** was created on an upraised platform and it was generally known as citadel area.
-    - This part of town was mainly meant for administrative buildings. Then specific feature of this part of the town was the presence of granary and provision of public bath.
-    - Granary means for storage of grains and common bath was for a ritual bath
-    - The great bath of Mohenjo-Daro is the best example of a common bath in which staircases were created from bricks in the North and south direction.
-    - In the east and west direction changing rooms were created.
+- Generally, INDUS towns were divided into two parts that are upper towns and lower towns.
+- **Upper town** was created on an upraised platform and it was generally known as CITADEL area.
+- This part of town was mainly meant for administrative buildings. Then specific feature of this part of the town was the presence of granary and provision of public bath.
+- Granary means for storage of grains and common bath was for a ritual bath
+- The GREAT BATH OF MOHENJO-DARO is the best example of a common bath in which staircases were created from bricks in the North and south direction.
+- In the east and west direction changing rooms were created.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 1.png>)
 
-- - The lower town was the largest part of the town.
-    - It was divided into various sectors and there was a very good network of roads.
-    - Roads used to cut each other at a right angle.
-    - On both, sides of roads drains were created and they were covered with stone slabs or brick slabs.
-    - In the drains, there were provisions of the manhole which made the job of cleaning the drains easier and at the same point of time, filtered water was discharged into the ground.
-    - Inside the structure, houses were created with burned bricks of the same size and shape.
+- The lower town was the largest part of the town.
+- It was divided into various sectors and there was a very good network of roads.
+- Roads used to cut each other at a right angle.
+- On both, sides of roads drains were created and they were covered with stone slabs or brick slabs.
+- In the drains, there were provisions of the manhole which made the job of cleaning the drains easier and at the same point of time, filtered water was discharged into the ground.
+- Inside the structure, houses were created with burned bricks of the same size and shape.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 2.png>)
 
-- - The size of bricks was 4:2:1(length:width:height).
-    - There were instances of single-story, double-story, and triple-story houses.
-    - All the houses were connected with the main drain.
-    - In the houses, there were the provision of a bedroom, separate kitchen, and washrooms.
-    - In a few of the houses, there were private wells.
-    - The Houses in the Town were generally created facing inner lanes rather than the main road.
-    - Perhaps it was done to safeguard their privacy.(there were gates but no doors in their houses)
+- The size of bricks was 4:2:1(length:width:height).
+- There were instances of single-story, double-story, and triple-story houses.
+- All the houses were connected with the main drain.
+- In the houses, there were the provision of a bedroom, separate kitchen, and washrooms.
+- In a few of the houses, there were private wells.
+- The Houses in the Town were generally created facing inner lanes rather than the main road.
+- Perhaps it was done to safeguard their privacy.(there were gates but no doors in their houses)
 
-# Art and Culture Class 02
+## ART AND CULTURE CLASS 02
 
-**IVC Pottery**
+### IVC POTTERY
 
-- - General pottery of IVC was red.
-    - It was clay-shaped, baked on fire.
-    - They were used for the storage of grains, water, and also as utensils.
-    - Perforated(छोटे छोटे छेद) pottery meant for straining liquor.
-    - Miniature vessels were narrow and elongated vessels and were meant for purpose of decoration.
-    - It had generally beautiful designs in black colour.
+- General POTTERY of IVC was red.
+- It was clay-shaped, baked on fire.
+- They were used for the storage of grains, water, and also as utensils.
+- PERFORATED(छोटे छोटे छेद) POTTERY meant for straining liquor.
+- MINIATURE VESSELS were narrow and elongated vessels and were meant for purpose of decoration.
+- It had generally beautiful designs in black colour.
 
-### IVC Sculptures
+### IVC SCULPTURES
 
-**Stone sculptures** were created with soft river stone steatite.
+#### STONE SCULPTURES were created with soft river stone STEATITE.
 
-- - The best example is the bearded priest. In the Image, he is wearing a shawl with a trefoil(तीन पत्ति) pattern and there is a headband on his head.
+- The best example is the **bearded priest**. In the Image, he is wearing a shawl with a TREFOIL(तीन पत्ति) pattern and there is a headband on his head.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 3.png>)
 
-**The terracotta sculpture** is made from clay and baked on fire.
+#### THE TERRACOTTA SCULPTURE is made from clay and baked on fire.
 
-- - In terracotta tradition, they created clay carts, toys and the most important was the mother goddess.
-    - A mother goddess is the most abundant image found in Indus towns.
-    - In one of the depictions, she has been shown a plant encircling her body.
-    - based on it is said that she was the goddess of fertility.
+- In TERRACOTTA tradition, they created clay carts, toys and the most important was the **mother goddess**.
+- A MOTHER GODDESS is the most abundant image found in INDUS towns.
+- In one of the depictions, she has been shown a plant encircling her body.
+- based on it is said that she was the goddess of fertility.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 4.png>)
 
-**Bronze (Tin + copper) sculpture**.
+#### BRONZE (Tin + copper) SCULPTURE.
 
-- - Lost wax techniques were used for creating bronze sculptures.
-    - In the very first step, they create a wax figure which was quoted with clay then it was baked on fire.
-    - After baking it on fire the molten rock wax was removed and molten bronze was transferred into the structure and sealed and left for cooling purposes.
-    - In the final step, the hardened clay was removed and bronze culture polished and refined from outside.
+- LOST WAX TECHNIQUES were used for creating BRONZE SCULPTURES.
+- In the very first step, they create a wax figure which was quoted with clay then it was baked on fire.
+- After baking it on fire the molten rock wax was removed and molten BRONZE was transferred into the structure and sealed and left for cooling purposes.
+- In the final step, the hardened clay was removed and BRONZE CULTURE polished and refined from outside.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 5.png>)
 
-- - Dancing girl from Mohenjdaro. - made from bronze
+- **Dancing girl from MOHENJDARO**. - made from BRONZE
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 6.png>)
 
-### IVC Ornaments and cosmetics
+### IVC ORNAMENTS AND COSMETICS
 
-- - Indus valley people had good fashion sense and they were wearing different types of ornaments which includes necklaces, pendants, finger rings, waistbands, bangles.
-    - These ornaments were created from coloured stones, semi-precious stones like Amethyst, carnelian, and lapis lazuli.
-    - There was a well-established bead industry at Chanudaro and bangle industry at Kalibangan
-    - In terms of cosmetics in the Indus valley, people were using soap, kajal, and sindoor, lipstick.
-    - They were also using a tincture as a disinfectant for healing the wound. Chemical used in disinfectant was chemical Hg2Cl(calomel)
+- INDUS VALLEY people had good fashion sense and they were wearing different types of ORNAMENTS which includes necklaces, pendants, finger rings, waistbands, bangles.
+- These ORNAMENTS were created from coloured stones, semi-precious stones like AMETHYST, CARNELIAN, and LAPIS LAZULI.
+- There was a well-established bead industry at CHANUDARO and bangle industry at KALIBANGAN
+- In terms of COSMETICS in the INDUS VALLEY, people were using soap, kajal, and sindoor, lipstick.
+- They were also using a tincture as a disinfectant for healing the wound. Chemical used in disinfectant was chemical HG2CL (CALOMEL)
 
-**Shramana(श्रवण) tradition**
+### SHRAMANA(श्रवण) TRADITION
 
-- - Shramana tradition its Sanskrit word means the one who strives for enlightenment
-    - In the later part of the Vedic period, the shaman tradition started to emerge.
-    - It was against some of the Vedic practices such as the dominance of brahmins, complex Vedic rituals, varna system, animal sacrifice, and deteriorating position of women[patriarchy] and backward.
-    - It is said that Buddhism and Jainism were two branches of Shramana tradition. It also inspired the Ajaivika.
+- SHRAMANA TRADITION its SANSKRIT word means the one who strives for enlightenment
+- In the later part of the VEDIC PERIOD, the SHAMAN TRADITION started to emerge.
+- It was against some of the VEDIC practices such as the dominance of BRAHMINS, complex VEDIC RITUALS, VARNA SYSTEM, animal sacrifice, and deteriorating position of women[patriarchy] and backward.
+- It is said that BUDDHISM and JAINISM were two branches of SHRAMANA TRADITION. It also inspired the AJAIVIKA.
 
-## Mauryan Art and culture
+### MAURYAN ART AND CULTURE
 
-- - After the foundation of Maurya in India, they started to patronize the Shramana tradition and they begin architectural initiatives associated with different branches of shaman
+- After the foundation of MAURYA in INDIA, they started to patronize the SHRAMANA TRADITION and they begin architectural initiatives associated with different branches of SHAMAN
 
-### Mauryan Caves.
+#### MAURYAN CAVES.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 7.png>)
 
-- - Perhaps the first man-made cave, at the entrance semi-circular façade was created with intricate reticular design.
-    - Elephant images were common in reticular panels.
-    - From Inside the caves were highly polished and it was meant for shelter for Ajivika Monks
-    - The majority of these caves were created by Ashoka and his grandson Dashrath
-    - **Examples** are Lomas rishi caves in the Barabar hills of Gaya Bihar.
-    - Sudama caves in Nagarjuni hills Gaya Bihar.
-    - Dhauli caves of Odisha. In front of Dhauli caves, an elephant sculpture was created during the Maurya times.
+- Perhaps the first man-made CAVE, at the entrance semi-circular façade was created with intricate reticular design.
+- Elephant images were common in reticular panels.
+- From Inside the CAVES were highly polished and it was meant for shelter for AJIVIKA MONKS
+- The majority of these CAVES were created by ASHOKA and his grandson DASHRATH
+- **Examples** are LOMAS RISHI CAVES in the BARABAR HILLS of GAYA BIHAR.
+- SUDAMA CAVES in NAGARJUNI HILLS GAYA BIHAR.
+- DHAULI CAVES of ODISHA. In front of DHAULI CAVES, an elephant sculpture was created during the MAURYA times.
 
-### Mauryan pillars
+#### MAURYAN PILLARS
 
-- - Mauryan pillars were monolith and created from a single stone.
-    - The average height of the Mauryan pillar was 40 feet.
-    - It included a shaft, a bell capital, and an abacus sometimes with Ashoka chakra.
-    - At the top crowing animal was created.
-    - At this point of time pillars were also created in Achaemenian(close to Iran) but Achaemenian pillars were not a monolith and average height was around 20-25 feet though were polished like Mauryan pillars but the craftsman skills of Mauryan pillars were much higher than Achaemenian pillars.
-    - Example Lauriya Nandangarh pillar which is in Bihar and the crowning animal was Lion.
+- MAURYAN PILLARS were monolith and created from a single stone.
+- The average height of the MAURYAN PILLAR was 40 feet.
+- It included a shaft, a bell capital, and an abacus sometimes with ASHOKA CHAKRA.
+- At the top crowing animal was created.
+- At this point of time PILLARS were also created in ACHAEMENIAN(close to IRAN) but ACHAEMENIAN PILLARS were not a monolith and average height was around 20-25 feet though were polished like MAURYAN PILLARS but the craftsman skills of MAURYAN PILLARS were much higher than ACHAEMENIAN PILLARS.
+- Example LAURIYA NANDANGARH PILLAR which is in BIHAR and the crowning animal was LION.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 8.png>)
 
-- - Rampurva pillar from Bihar and crowing animal is bull.
+- RAMPURVA PILLAR from BIHAR and crowing animal is bull.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 9.png>)
 
-- - Sarnath Pillar and crowing animal are four back-to-back lions.
+- SARNATH PILLAR and crowing animal are four back-to-back lions.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 10.png>)
 
-- - Four lions represents power, courage, pride, confidence.
-    - The wheel at the base of the sculpture is the Dharmachakra, a symbol of righteousness and moral order. It signifies India's commitment to justice and its foundation upon the principles of Dharma.
-    - Four animals - elephant(conception of siddhartha), bull(youth), horse(renounciation for enlightenment), lion(mahaparinirvana).
-        - Progress: The bull, the elephant, and the horse depicted on the abacus (circular base) represent progress and movement forward for the nation.
+- Four lions represents power, courage, pride, confidence.
+- The wheel at the base of the sculpture is the DHARMACHAKRA, a symbol of righteousness and moral order. It signifies INDIA'S commitment to justice and its foundation upon the principles of DHARMA.
+- Four animals - elephant(conception of SIDDHARTHA), bull(youth), horse(renounciation for enlightenment), lion(MAHAPARINIRVANA).
+  - Progress: The bull, the elephant, and the horse depicted on the abacus (circular base) represent progress and movement forward for the nation.
 
-- - Sankrissa pillar Farrukhabad (UP)and the crowning animal was an elephant
+- SANKRISSA PILLAR FARRUKHABAD (UP)and the crowning animal was an elephant
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 11.png>)
 
-**Purpose of pillars**
+##### PURPOSE OF PILLARS
 
-- - Meant celebrating the victory.
-    - It was also meant for serving imperial commands and sermons
-    - To celebrate important events of the life of Buddha.
-    - To spread dhamma (moral and ethical code of conduct) or doctrine of Buddhism.
+- Meant celebrating the victory.
+- It was also meant for serving imperial commands and sermons
+- To celebrate important events of the life of BUDDHA.
+- To spread DHAMMA (moral and ethical code of conduct) or doctrine of BUDDHISM.
 
-### Mauryan Sculpture
+#### MAURYAN SCULPTURE
 
-- - Yaksha and Yakshini(folk god and goddesses - लोक देवता और लोक देवी) were respected figures in all the religions of India.
-    - In Jainism, there is a concept of 24 Yakshini who were revered and worshipped.
-    - In Hinduism Yaksha is a revered figure and mentioned in Mahabharat.
-    - One of the very popular worships in Hinduism was Saptamatrika Puja which involved the worship of seven Yakshini.
-    - In Buddhism, yaksha and Yakshini were highly revered figures.
-    - Particularly Yakshini’s image was considered very auspicious in Buddhism.
-    - Their sculpture(particularly Yakshini's) was often created on the gateways of Stupas.
-    - Shalbhanjika Yakshini was depicted holding a branch of the Sal tree.
+- YAKSHA and YAKSHINI(folk god and goddesses - लोक देवता और लोक देवी) were respected figures in all the religions of INDIA.
+- In JAINISM, there is a concept of 24 YAKSHINI who were revered and worshipped.
+- In HINDUISM YAKSHA is a revered figure and mentioned in MAHABHARAT.
+- One of the very popular worships in HINDUISM was SAPTAMATRIKA PUJA which involved the worship of seven YAKSHINI.
+- In BUDDHISM, YAKSHA and YAKSHINI were highly revered figures.
+- Particularly YAKSHINI’S image was considered very auspicious in BUDDHISM.
+- Their sculpture(particularly YAKSHINI'S) was often created on the gateways of STUPAS.
+- SHALBHANJIKA YAKSHINI was depicted holding a branch of the SAL TREE.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 12.png>)
 
-Didarganj Yakshini
+DIDARGANJ YAKSHINI
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 13.png>)
 
-Yakshya sculpture from Sanchi Stupa
+YAKSHYA SCULPTURE from SANCHI STUPA
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 14.png>)
 
-### Mauryan Pottery
+#### MAURYAN POTTERY
 
-- - The characteristic pottery of this time was northern Black polished ware.
-    - It was the climax of pottery making in India.
-    - They used filtered and very fine particles of clay as such with one change very good quality pottery was created which can be polished from outside.
-    - Since the pottery was created on a speedy running wheel and the outcome was very smooth and even pottery
+- The characteristic POTTERY of this time was NORTHERN BLACK POLISHED WARE.
+- It was the climax of POTTERY making in INDIA.
+- They used filtered and very fine particles of clay as such with one change very good quality POTTERY was created which can be polished from outside.
+- Since the POTTERY was created on a speedy running wheel and the outcome was very smooth and even POTTERY
 
-# Art and Culture Class 03
+## ART AND CULTURE CLASS 03
 
-### Mauryan Stupa
+### MAURYAN STUPA
 
-- - Stupa is a Sanskrit word that means a heap of sand.
-    - In the Vedic age the rishis with divine knowledge were cremated in stupa formation.(heap of sand use to form around them when they mediate in open for very long)
-    - When buddha achieved Nirvana and after his death, his followers also cremated him in stupa formation.
-    - Later when Ashoka accepted Buddhism, he decided to create a bigger stupa on the remains of Buddha.
-    - Ashoka divided Buddha’s remains into nine parts and created nine early big stupas.
-    - The early nine stupas were created at the following places (AKRPV - अक्षय कुमार रोज़ पी के vomit करता है)
-        - Alakappa
-        - Kapilvastu
-        - Kushinagar
-        - Ramagrama
-        - Rajgir
-        - Pava
-        - Pippal Vina
-        - Vethapidu
-        - Vaishali
-    - The outer structure in stupa is its boundary wall known as Vedica.
-    - On Vedica Jataka(जातक) Katha or folk narratives were created, they are based on the previous birth of Buddha.
-    - In Stupa four gateways were created known as Toran.
-    - The torans highlight four important life events of Buddha.
-    - Which are
-        - East toran represents the birth of Buddha at Lumbini.
-        - South toran represents Buddha’s nirvana at Bodhgaya.
-        - West Toran represents Dharma chakra Parivartan (1st preaching of Buddha) at Sarnath.(part of Varanasi)
-        - North Toran represents Mahaparinirvana (death of Buddha) at Kushinagar
+- STUPA is a SANSKRIT word that means a heap of sand.
+- In the VEDIC AGE the RISHIS with divine knowledge were cremated in STUPA formation.(heap of sand use to form around them when they mediate in open for very long)
+- When BUDDHA achieved NIRVANA and after his death, his followers also cremated him in STUPA formation.
+- Later when ASHOKA accepted BUDDHISM, he decided to create a bigger STUPA on the remains of BUDDHA.
+- ASHOKA divided BUDDHA’S remains into nine parts and created nine early big STUPAS.
+- The early nine STUPAS were created at the following places (AKRPV - अक्षय कुमार रोज़ पी के vomit करता है)
+  - ALAKAPPA
+  - KAPILVASTU
+  - KUSHINAGAR
+  - RAMAGRAMA
+  - RAJGIR
+  - PAVA
+  - PIPPAL VINA
+  - VETHAPIDU
+  - VAISHALI
+- The outer structure in STUPA is its boundary wall known as VEDICA.
+- On VEDICA JATAKA(जातक) KATHA or folk narratives were created, they are based on the previous birth of BUDDHA.
+- In STUPA four gateways were created known as TORAN.
+- The TORANS highlight four important life events of BUDDHA.
+- Which are
+  - East TORAN represents the birth of BUDDHA at LUMBINI.
+  - South TORAN represents BUDDHA’S NIRVANA at BODHGAYA.
+  - West TORAN represents DHARMA CHAKRA PARIVARTAN (1st preaching of BUDDHA) at SARNATH.(part of VARANASI)
+  - North TORAN represents MAHAPARINIRVANA (death of BUDDHA) at KUSHINAGAR
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 15.png>)
 
-- - Medhi is the circular wall of the stupa which is a permanently closed structure inside which relics of Buddha.
-    - Stupa can be accessed through a circular path created outside it known as Pradakshinapath.
-    - Anda is an oval topmost structure on which Harmika is created.
-    - Harmika represents the most sacred space of the Stupa as it is in line with relics.
-    - Vertical spire rises from Harmika known as Yasti. In Buddhism, it is considered as an axis to the earth.
-    - The three chhatri (horizontal discs) are considered as three jewels of Buddhism (Buddha, dhamma, and sangha).
-    - Buddha means awakened one
-    - Dhamma is the doctrine of Buddhism
-    - Sangha is a monastic order of Buddhism
-    - Medhi represents meditating legs of Buddha.
-    - Anda represents the middle body of buddha
-    - Harmika, yasti and chatri represents the head of buddha.
+- MEDHI is the circular wall of the STUPA which is a permanently closed structure inside which relics of BUDDHA.
+- STUPA can be accessed through a circular path created outside it known as PRADAKSHINAPATH.
+- ANDA is an oval topmost structure on which HARMIKA is created.
+- HARMIKA represents the most sacred space of the STUPA as it is in line with relics.
+- Vertical spire rises from HARMIKA known as YASTI. In BUDDHISM, it is considered as an axis to the earth.
+- The three CHHATRI (horizontal discs) are considered as three jewels of BUDDHISM (BUDDHA, DHAMMA, and SANGHA).
+- BUDDHA means awakened one
+- DHAMMA is the doctrine of BUDDHISM
+- SANGHA is a monastic order of BUDDHISM
+- MEDHI represents meditating legs of BUDDHA.
+- ANDA represents the middle body of BUDDHA
+- HARMIKA, YASTI and CHATRI represents the head of BUDDHA.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 16.png>)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 17.png>)
 
-## Post Mauryan Art
+### POST MAURYAN ART
 
-- - **Post Mauryan Sculpture**
+#### POST MAURYAN SCULPTURE
 
 |   |   |   |   |
 |---|---|---|---|
-|**Basis of classification**|**Gandhara**|**Mathura**|**Amravati**|
-|**Area**|Northwest frontier province|Sonkh konkali tila, Mathura(western UP and Eastern Rajasthan)|Lowe Krishna Godavari valley(KG Basin)|
+|**Basis of classification**|**GANDHARA**|**MATHURA**|**AMRAVATI**|
+|**Area**|Northwest frontier province|SONKH KONKALI TILA, MATHURA(western UP and Eastern Rajasthan)|Lowe KRISHNA GODAVARI VALLEY(KG BASIN)|
 |Material|Grey color sandstone|Red color sandstone|White marble|
-|Influence|Greco-Roman and Bactrian influence.||No outside influence|
-|Religions associated|Buddhism|Buddhism, Jainism and Hinduism|Buddhism.|
-|patronization|Kushana|Kushana|Satvahan and Ikshavaku.|
+|Influence|GRECO-ROMAN and BACTRIAN influence.||No outside influence|
+|Religions associated|BUDDHISM|BUDDHISM, JAINISM and HINDUISM|BUDDHISM.|
+|patronization|KUSHANA|KUSHANA|SATVAHAN and IKSHAVAKU.|
 |**Features**||||
-|Images|Spiritual images of the buddha. Wavey hair, unshaven face, half-closed eyes, fewer ornaments, optimal clothing, lean body, etc.|Delighted images of Buddha. Combed hair, shaven face, fully open eyes, more ornaments, maximum cloth, round body.||
-|Influence|1. The grace of Gandhara sculpture as inspired by Greek god Apollo and Zeus<br><br>2. masculinity of image was inspired from Greek characters Atlas and Hercules<br><br>3. Roman features. Large forehead, large earlobe, broad shoulders and chest, tall body, and realism in depiction.<br><br>4. Bactrian features (central Asia)-Image with headgear, mustaches, and depiction of weapons.|1. Jaina sculpture. Sculptures of 24 Tirthankaras were depicted and images of Vardhman Mahavir were often depicted in the naked form in natural surroundings.<br><br>2. Hinduism- a sculpture of Lord Vishnu was created and he was depicted with his Ayudh (arms with weapons).<br><br>Lord Shiva was also created in the form of Shivalinga and Mukhalinga.|In Amaravati instead of creating a single dominating image, they preferred panel sculpture.<br><br>Panel Sculpture were based on Jataka Katha (folk narratives).<br><br>It tells the previous life story of Buddha.|
+|Images|Spiritual images of the BUDDHA. Wavey hair, unshaven face, half-closed eyes, fewer ornaments, optimal clothing, lean body, etc.|Delighted images of BUDDHA. Combed hair, shaven face, fully open eyes, more ornaments, maximum cloth, round body.||
+|Influence|1. The grace of GANDHARA SCULPTURE as inspired by GREEK GOD APOLLO and ZEUS<br><br>2. masculinity of image was inspired from GREEK characters ATLAS and HERCULES<br><br>3. ROMAN features. Large forehead, large earlobe, broad shoulders and chest, tall body, and realism in depiction.<br><br>4. BACTRIAN features (central ASIA)-Image with headgear, mustaches, and depiction of weapons.|1. JAINA SCULPTURE. Sculptures of 24 TIRTHANKARAS were depicted and images of VARDHMAN MAHAVIR were often depicted in the naked form in natural surroundings.<br><br>2. HINDUISM- a sculpture of LORD VISHNU was created and he was depicted with his AYUDH (arms with weapons).<br><br>LORD SHIVA was also created in the form of SHIVALINGA and MUKHALINGA.|In AMARAVATI instead of creating a single dominating image, they preferred PANEL SCULPTURE.<br><br>PANEL SCULPTURE were based on JATAKA KATHA (folk narratives).<br><br>It tells the previous life story of BUDDHA.|
 
-# Art and Culture Class 04
+#### POST MAURYAN CAVES
 
-- - **Post Mauryan CAVES**
-        - **On the basis of structure:**
-            - **Apsidal vault cave With Pillars: as in Ajanta, Karle, Bhaja -in Maharashtra**
+- **On the basis of structure:**
+  - **Apsidal vault cave With Pillars**: as in AJANTA, KARLE, BHAJA -in MAHARASHTRA
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 18.png>)
 
-- - Apsidal vault cave without pillars: as in Thana Nadsur cave.
-    - Quadrangular Hall Flat Roof Cave: as in Mahakali Kondivite cave.
-    - **On the basis of purpose:**
-        - **Chaitya(चैत्य): It was meant for Worship or it was a Prayer hall for the monks.**
-        - **Vihara(विहार): It served as Shelter for the monks during monsoon season.**
+- APSIDAL VAULT CAVE without pillars: as in THANA NADSUR CAVE.
+- QUADRANGULAR HALL FLAT ROOF CAVE: as in MAHAKALI KONDIVITE CAVE.
+- **On the basis of purpose:**
+  - **Chaitya(चैत्य)**: It was meant for Worship or it was a Prayer hall for the monks.
+  - **Vihara(विहार)**: It served as Shelter for the monks during monsoon season.
 
-- - **POST-MAURYAN STUPAS**
+#### POST-MAURYAN STUPAS
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 19.png>)
 
-- - In Post Mauryan period many new developments happened on the front of the stupa
-    - The wooden Vedika of the Previous period was now replaced with stone balustrade
-    - Inside the premise of the stupa, a humane sculpture of buddha was installed popularly known as Manushi Buddha
-    - At the upper level of Medhi one additional Pradhakshinapath was introduced
-    - The lower Pradhakshinapath emphasised the Hinayana path of Buddhism.
-    - The upper Pradhakshinapath emphasised the Mahayana path of Buddhism.
-    - From this time onwards the number of Chhatris started to increase in odd numbers
-    - It Emphasises the importance of odd numbers in Buddhism and the further growth of Buddhism
+- In POST MAURYAN period many new developments happened on the front of the STUPA
+- The wooden VEDIKA of the Previous period was now replaced with stone balustrade
+- Inside the premise of the STUPA, a humane sculpture of BUDDHA was installed popularly known as MANUSHI BUDDHA
+- At the upper level of MEDHI one additional PRADHAKSHINAPATH was introduced
+- The lower PRADHAKSHINAPATH emphasised the HINAYANA path of BUDDHISM.
+- The upper PRADHAKSHINAPATH emphasised the MAHAYANA path of BUDDHISM.
+- From this time onwards the number of CHHATRIS started to increase in odd numbers
+- It Emphasises the importance of odd numbers in BUDDHISM and the further growth of BUDDHISM
 
-## THE GUPTA AGE ART
+### THE GUPTA AGE ART
 
-- - Gupta period is considered as the Golden Age of Indian Art and Architecture
-    - Cave Making reached its climax during this period.
-    - Not only the temple was created at this time, but also the manuscript regarding the construction of the temple was also written.
-    - Seated buddha emerged during Gupta period from Sarnath school of art.
+- GUPTA PERIOD is considered as the GOLDEN AGE OF INDIAN ART AND ARCHITECTURE
+- CAVE MAKING reached its climax during this period.
+- Not only the temple was created at this time, but also the manuscript regarding the construction of the temple was also written.
+- SEATED BUDDHA emerged during GUPTA PERIOD from SARNATH SCHOOL OF ART.
 
-### CAVE ARCHITECTURE
+#### CAVE ARCHITECTURE
 
-**Ajanta caves:**
+- **AJANTA CAVES:**
+  - Located in AURANGABAD in MAHARASHTRA
+  - There are a total of 29 CAVES- 25 VIHARAS and 4 CHAITYA - almost took 600 years to be completed.
+  - These CAVES were based on BUDDHIST TRADITION.
+  - AJANTA CAVES were created on the steep side of the hill. As such it didn't have any courtyards
+  - Inside AJANTA, there are instances of single storey and double storey CAVES
+  - Inside the AJANTA CAVES, one can find paintings and sculptures based on BUDDHISM.
+  - The Most Popular of which is FRESCO MURAL PAINTING
 
-- - Located in Aurangabad in Maharashtra
-    - There are a total of 29 caves- 25 Viharas and 4 Chaitya - almost took 600 years to be completed.
-    - These caves were based on Buddhist tradition.
-    - Ajanta caves were created on the steep side of the hill. As such it didn't have any courtyards
-    - Inside Ajanta, there are instances of single storey and double storey caves
-    - Inside the Ajanta caves, one can find paintings and sculptures based on Buddhism.
-    - The Most Popular of which is Fresco Mural Painting
+##### FRESCO MURAL PAINTING
 
-**FRESCO MURAL PAINTING**
+- Painting created on the wall on a very bigger scale or larger scale is known as MURAL PAINTING
+- FRESCO is a category of MURAL PAINTING widely popular in INDIAN TRADITION
+- In this water-based colours were used for Painting
+- **The technique of FRESCO**
+  - In the very first step - a mixture of clay, cow dung, and rice husk was mixed thoroughly to be applied to the wall
+  - In the Next step, A lime plaster is coated on Mixture
+  - In the final step, Images were created to be filled with colours
+- **Importance of FRESCO**
+  - The initial mixture was meant for absorbing the colour and moisture, also the paint on mixture further imprinting the image on the wall of the CAVE.
+  - With the absorption of moisture, the painting looks freshly created.
+  - Examples- PADMAPANI (BODDHISATTVA holding the LOTUS), VAJRAPANI (BODHISATTVA holding the VAJRA(thunderbolt)), MAITREYA (FUTURE BUDDHA), MANJUSHRI(BUDDHA of wisdom), FLYING APSARA and DYING PRINCESS.
 
-- - Painting created on the wall on a very bigger scale or larger scale is known as Mural painting
-    - Fresco is a category of Mural painting widely popular in Indian Tradition
-    - In this water-based colours were used for Painting
-    - **The technique of Fresco**
-    - In the very first step - a mixture of clay, cow dung, and rice husk was mixed thoroughly to be applied to the wall
-    - In the Next step, A lime plaster is coated on Mixture
-    - In the final step, Images were created to be filled with colours
+- **ELLORA CAVES:**
+  - Located in AURANGABAD in MAHARASHTRA - 105 kms from AJANTA CAVES
+  - There are 34 CAVES-17 are HINDU, 12 BUDDHIST and 5 JAIN
+  - CAVES created on the slope side of the hill because it had courtyards in ELLORA
+  - There are instances of Single storey, Double storey and triple-storey CAVES in ELLORA
+  - Premise number 16 of ELLORA is popularly known as the KAILASHANATHA TEMPLE. It is considered one of the architectural wonders of INDIA. it is a monolithic temple created from a single stone
+    - The TOP-DOWN APPROACH was followed in the construction of the temple.
+    - It was created by RASHTRAKUTA ruler - KRISHNA I
+    - It follows the DRAVIDA STYLE of TEMPLE ARCHITECTURE
+  - FRESCO MURAL PAINTING was also created In the ELLORA particularly during the RASHTRAKUTA PERIOD and the most popular example is LORD VISHNU riding on GARUDA
 
-- - **Importance of Fresco**
-    - The initial mixture was meant for absorbing the colour and moisture, also the paint on mixture further imprinting the image on the wall of the cave.
-    - With the absorption of moisture, the painting looks freshly created.
-    - Examples- Padmapani (Boddhisattva holding the Lotus), Vajrapani (Bodhisattva holding the vajra(thunderbolt)), Maitreya (Future Buddha), Manjushri(Buddha of wisdom), Flying apsara and Dying Princess.
+- **ELEPHANTA CAVES**
+  - Located off coast MUMBAI(on a island)
+  - Initially, BUDDHIST TRADITION also existed in this CAVE but in the later time only HINDU TRADITION is prevalent at this place
+  - The most popular specimen in the ELEPHANTA is the TRIMURTI SCULPTURE of MAHESH, UMA, and BHAIRAV.
 
-**Ellora Caves:** 
+- **NASIK CAVES:**
+  - 24 sandstone CAVES were created at this place.
+  - they all were VIHARAS and belong to the HINAYANA TRADITION of BUDDHISM.
+  - NASIK is also a sacred HINDU religious place which is known for KHUMBA MELA and SHIV JYOTIRLINGA.
+  - 12 SHIVA JYOTIRLINGA - Maximum in MAHARASHTRA
+  - The 12 JYOTIRLINGAS are :- BMKSTRONG
+    - BHIMASHANKAR JYOTIRLINGA in MAHARASHTRA
+    - BAIDYANATH JYOTIRLINGA in DEOGHAR, JHARKHAND
+    - MALLIKARJUNA JYOTIRLINGA in SRISAILAM, ANDHRA PRADESH
+    - MAHAKALESHWAR JYOTIRLINGA in UJJAIN, MADHYA PRADESH
+    - KASHI VISHWANATH JYOTIRLINGA in VARANASI, UTTAR PRADESH
+    - KEDARNATH JYOTIRLINGA in RUDRAPRAYAG, UTTARAKHAND
+    - SOMNATH JYOTIRLINGA in GIR, GUJARAT
+    - TRIMBAKESHWAR JYOTIRLINGA in NASIK, MAHARASHTRA
+    - RAMANATHASWAMY JYOTIRLINGA in RAMESHWARAM, TAMIL NADU
+    - OMKARESHWAR JYOTIRLINGA in KHANDWA, MADHYA PRADESH
+    - GHRISHNESHWAR JYOTIRLINGA in AURANGABAD, MAHARASHTRA
+    - NAGESHWAR JYOTIRLINGA in DWARKA, GUJARAT
 
-- - Located in Aurangabad in Maharashtra - 105 kms from Ajanta caves
-    - There are 34 caves-17 are Hindu, 12 Buddhist and 5 Jain
-    - caves created on the slope side of the hill because it had courtyards in Ellora
-    - There are instances of Single storey, Double storey and triple-storey caves in Ellora
-    - Premise number 16 of Ellora is popularly known as the Kailashanatha temple. It is considered one of the architectural wonders of India. it is a monolithic temple created from a single stone
-        - The top-Down approach was followed in the construction of the temple.
-        - It was created by Rashtrakuta ruler - Krishna I
-        - It follows the Dravida style of temple Architecture
-    - Fresco Mural Painting was also created In the Ellora particularly during the Rashtrakuta period and the most popular example is Lord Vishnu riding on garuda
+- **BAGH CAVE**
+  - In MADHYA PRADESH there are 9 sandstone BUDDHIST CAVES at BAGH out of which CAVE NO:4 is known as RANG MAHAL-beautiful FRESCOS based on BUDDHISM
+    - MURAL of BODHISATTVA - PADMAPANI
 
-**Elephanta caves**
+- **JUNAGARH CAVES**
+  - Located in GIRNAR HILLS of GUJARAT; Also known as UPARKOT CAVES which means that CAVE chambers in the upper layers connected through stairs
+  - Specimen related to both BUDDHIST and HINDU TRADITIONS found at this place
 
-- - Located off coast Mumbai(on a island)
-    - Initially, Buddhist tradition also existed in this cave but in the later time only Hindu tradition is prevalent at this place
-    - The most popular specimen in the Elephanta is the Trimurti sculpture of Mahesh, Uma, and Bhairav.
+- **UDAYIGIRI-KHANDGIRI CAVES:**
+  - Located in ODISHA
+  - It is a JAIN premise patronised by JAIN KING KHARVELA.
+  - In this CAVE, one can find the sculptures based on JAINISM and ODISSI DANCE FORM.
 
-**Nasik Caves:**
+#### TEMPLE ARCHITECTURE IN NORTH INDIA
 
-- - 24 sandstone caves were created at this place.
-    - they all were viharas and belong to the Hinayana tradition of Buddhism.
-    - Nasik is also a sacred Hindu religious place which is known for Khumba Mela and Shiv Jyotirlinga.
-    - 12 shiva jyotirlinga - Maximum in Maharashtra
-    - The 12 Jyotirlingas are :- BMKSTRONG
-        - Bhimashankar Jyotirlinga in Maharashtra
-        - Baidyanath Jyotirlinga in Deoghar, Jharkhand
-        - Mallikarjuna Jyotirlinga in Srisailam, Andhra Pradesh
-        - Mahakaleshwar Jyotirlinga in Ujjain, Madhya Pradesh
-        - Kashi Vishwanath Jyotirlinga in Varanasi, Uttar Pradesh
-        - Kedarnath Jyotirlinga in Rudraprayag, Uttarakhand
-        - Somnath Jyotirlinga in Gir, Gujarat
-        - Trimbakeshwar Jyotirlinga in Nasik, Maharashtra
-        - Ramanathaswamy Jyotirlinga in Rameshwaram, Tamil Nadu
-        - Omkareshwar Jyotirlinga in Khandwa, Madhya Pradesh
-        - Ghrishneshwar Jyotirlinga in Aurangabad, Maharashtra
-        - Nageshwar Jyotirlinga in Dwarka, Gujarat
+- TEMPLE creation in INDIA is started in GUPTA PERIOD.
 
-**Bagh Cave**
+##### EVOLUTION OF TEMPLE IN NORTH
 
-- - In Madhya Pradesh there are 9 sandstone Buddhist caves at Bagh out of which Cave no:4 is known as Rang Mahal-beautiful frescos based on Buddhism
-        - Mural of bodhisattva - padmapani
+- **First Stage**
+  - In the very first stage flat roof square temple was created on the grounded platform with a shallow pillar
+  - An example is TEMPLE NO. 17 at SANCHI
 
-**Junagarh Caves**
+- **Second Stage**
+  - In this stage, the temples were created on an upraised platform. They continued with a square temple flat roof approach with the introduction of the second floor at some places
+  - An example of it is PARAVATI TEMPLE in NACHNA KUTHARA, MADHYA PRADESH
 
-- - Located in Girnar hills of Gujarat; Also known as Uparkot caves which means that cave chambers in the upper layers connected through stairs
-    - Specimen related to both Buddhist and Hindu traditions found at this place
-
-**Udayigiri-Khandgiri Caves:**
-
-- - Located in Odisha
-    - It is a Jain premise patronised by Jain king Kharvela.
-    - In this cave, one can find the sculptures based on Jainism and Odissi dance form.
-
-## TEMPLE ARCHITECTURE IN NORTH INDIA
-
-- - Temple creation in India is started in Gupta period.
-
-**EVOLUTION OF TEMPLE IN NORTH**
-
-**First Stage**
-
-- - In the very first stage flat roof square temple was created on the grounded platform with a shallow pillar
-    - An example is Temple No. 17 at Sanchi
-
-**Second Stage**
-
-- - In this stage, the temples were created on an upraised platform. They continued with a square temple flat roof approach with the introduction of the second floor at some places
-    - An example of it is Paravati Temple in Nachna Kuthara, Madhya Pradesh
-    - **Third Stage**
+- **Third Stage**
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 20.png>)
 
-- -  In this stage, the upraised platform and In-depth pillar and square chamber approach continued with the introduction of the curvilinear tower known as Shikara
-    - It is believed that this stage gave rise to the Nagara Style of temple(Khajuraho, Orissa, Solanki)
-    - An example of it is Bhitargaon temple (Kanpur, UP), Dashavatar Temple (Deogarh, Jhansi)
+- In this stage, the upraised platform and IN-DEPTH PILLAR and SQUARE CHAMBER approach continued with the introduction of the curvilinear tower known as SHIKARA
+- It is believed that this stage gave rise to the NAGARA STYLE of temple(KHAJURAHO, ORISSA, SOLANKI)
+- An example of it is BHITARGAON TEMPLE (KANPUR, UP), DASHAVATAR TEMPLE (DEOGARH, JHANSI)
 
-# Art and Culture Class 05
+## ART AND CULTURE CLASS 05
 
-### Nagara Temple:
+### NAGARA TEMPLE:
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 21.png>)
 
-- - Generally, the Nagara temples do not have boundary walls.
-    - The characteristic feature of the Nagara is the presence of curvilinear tower **Shikhara**.
-    - At the top of the shikhara horizontal disc, Amalak is created on which finial(कुछ भी like झंडा, क्रॉस या क़ोई और वैसी चीज़) is placed.
-    - The upraised platform of the temple is known as **Jagati**.
-    - Generally, a water tank is absent in Nagara temples.
-    - The Mandap of the temple embodies in-depth pillars.
-    - Around **Garba Griha**, there is a concept of the ambulatory passageway for the circumambulation around the deity(परिक्रमा).
-    - Generally, temples were created in crucified ground plan.(Top view mentioned in below image - circle is garbh graha)
+- Generally, the NAGARA TEMPLES do not have boundary walls.
+- The characteristic feature of the NAGARA is the presence of curvilinear tower **Shikhara**.
+- At the top of the SHIKHARA horizontal disc, **Amalak** is created on which finial(कुछ भी like झंडा, क्रॉस या क़ोई और वैसी चीज़) is placed.
+- The upraised platform of the temple is known as **Jagati**.
+- Generally, a water tank is absent in NAGARA TEMPLES.
+- The **Mandap** of the temple embodies in-depth pillars.
+- Around **Garba Griha**, there is a concept of the ambulatory passageway for the circumambulation around the deity(परिक्रमा).
+- Generally, temples were created in crucified ground plan.(Top view mentioned in below image - circle is garbh graha)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 22.png>)
 
-- - Some of the Nagara temples practised Panchayatan style, which is a 1 + 4 arrangement. In which 1 main god was placed along with 4 subsidiary gods. E.g. Kashi Vishwanath temple of Varanasi.
+- Some of the NAGARA TEMPLES practised **Panchayatan** style, which is a 1 + 4 arrangement. In which 1 main god was placed along with 4 subsidiary gods. E.g. KASHI VISHWANATH TEMPLE of VARANASI.
 
-**Sub styles of Nagara Temples:**
+#### SUB STYLES OF NAGARA TEMPLES:
 
-**1. Odissa Temple:**
-
-- - Generally, a boundary wall is present in the Odissa temple.
+1.  **ODISSA TEMPLE:**
+    - Generally, a boundary wall is present in the ODISSA TEMPLE.
     - The exterior wall of the temple was lavishly decorated with intricate carvings.
     - The interior walls of the temple were kept plain.
-    - The speciality of the Odissa temple is the presence of Deul(देउल) Shikhara, which is almost vertical and it suddenly starts to curve near the top.
+    - The speciality of the ODISSA TEMPLE is the presence of **Deul**(देउल) SHIKHARA, which is almost vertical and it suddenly starts to curve near the top.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 23.png>)
 
-- - The prayer hall in Odissa style is called Jagmohan.
+- The prayer hall in ODISSA STYLE is called **Jagmohan**.
+- VOGA MANDIRA It is meant for prasad distribution and **Nartya Mandira** is for musical performances.
+- e.g. In some of the temples of ODISSA, the image of the deity is created from wood.
+- **Examples:** JAGANNATHPURI TEMPLE, LINGARAJA TEMPLE of BHUBANESHWAR, SUN TEMPLE of KONARK**.**
 
-- - Voga Mandira It is meant for prasad distribution and Nartya Mandira is for musical performances.
-    - e.g. In some of the temples of Odissa, the image of the deity is created from wood.
-    - **Examples:** Jagannathpuri temple, Lingaraja temple of Bhubaneshwar, Sun temple of Konark**.**
-
-**2.Khajuraho Temple(Also known as Chandela temple)**
+2.  **KHAJURAHO TEMPLE(Also known as CHANDELA TEMPLE)**
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 24.png>)
 
-- - It is considered as the climax of Nagara style.
-    - It is created on a relatively very high platform.
-    - The exterior and interior walls of the temple were lavishly decorated with intricate carvings.
-    - A special feature of this temple is the presence of multiple Shikhar.
-    - The multiplicity of Shikharas gives an impression of a mountain range.
-    - The chambers of the temples were connected with each other in the east to west direction.
-    - The sculptures on some walls of the temples were based on an erotic love theme inspired by Kamasutra written by Vatsayana(वात्स्यायन).
-    - Not only Hindu temples but also Jain temples were created in this style.
-    - In this style, the circular temple was also created in many places.
-    - It is believed that the circular chandella(चंदेल्ला) temple was the inspiration behind the Parliament building of India.
-    - **Examples:** Kanderia Mahadev temple of Khajurao, Lakshmana temple of Kahjurao, Jain temples: Parsvanath temple, Ghantai temple.
+- It is considered as the climax of NAGARA STYLE.
+- It is created on a relatively very high platform.
+- The exterior and interior walls of the temple were lavishly decorated with intricate carvings.
+- A special feature of this temple is the presence of multiple SHIKHAR.
+- The multiplicity of SHIKHARAS gives an impression of a mountain range.
+- The chambers of the temples were connected with each other in the east to west direction.
+- The sculptures on some walls of the temples were based on an erotic love theme inspired by KAMASUTRA written by VATSAYANA(वात्स्यायन).
+- Not only HINDU TEMPLES but also JAIN TEMPLES were created in this style.
+- In this style, the circular temple was also created in many places.
+- It is believed that the circular CHANDELLA(चंदेल्ला) TEMPLE was the inspiration behind the PARLIAMENT BUILDING OF INDIA.
+- **Examples:** KANDERIA MAHADEV TEMPLE of KHAJURAO, LAKSHMANA TEMPLE of KAHJURAO, JAIN TEMPLES: PARSVANATH TEMPLE, GHANTAI TEMPLE.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 25.png>)
 
-**3.Solanki style of Temple:**
-
-- - This style was developed by the Solanki rulers of Gujarat.
+3.  **SOLANKI STYLE OF TEMPLE:**
+    - This style was developed by the SOLANKI RULERS of GUJARAT.
     - The outer walls of the temple were optimally decorated.
     - Very lavish intricate decoration was there on internal walls of the temple.
-    - The majority of the temples in this style were created facing east direction.
-    - Another important feature is the presence of water tanks in some temples.
+    - The majority of the temples in this style were created facing east direction.
+    - Another important feature is the presence of water tanks in some temples.
     - On the steps of the water tank, small replicas of temples were also created.
-    - Not only Hindu but Jain temples were also created in this style.
-    - Solanki rules also created step-wells with the same type of sculpture and intricate design as found in Rani kI Vaw in Patan.
-    - **Examples:** Modhera sun temple of Gujarat is a dysfunctional temple, Ambaji temple in Gujrat . Jain temple: Dilwara Jain temple of Mt. Abu, Bhadreswar Jain temple.
+    - Not only HINDU but JAIN TEMPLES were also created in this style.
+    - SOLANKI rules also created step-wells with the same type of sculpture and intricate design as found in RANI KI VAW in PATAN.
+    - **Examples:** MODHERA SUN TEMPLE of GUJARAT is a dysfunctional temple, AMBAJI TEMPLE in GUJRAT . JAIN TEMPLE: DILWARA JAIN TEMPLE of MT. ABU, BHADRESWAR JAIN TEMPLE.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 26.png>)
 
-## South Indian Architecture
+### SOUTH INDIAN ARCHITECTURE
 
-- - The temple architecture developed in south India under Pallava rulers in the following four stages:
+- The temple architecture developed in south INDIA under PALLAVA rulers in the following four stages:
 
-**Stage I (Mahendravarman Stage):**
-
-- - In this stage, rock-cut cave architecture was created. Inside the chamber, the images of the deity were placed for worship. This initial structure was called mandapa.
+1.  **STAGE I (MAHENDRAVARMAN STAGE):**
+    - In this stage, rock-cut cave architecture was created. Inside the chamber, the images of the deity were placed for worship. This initial structure was called **mandapa**.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 27.png>)
 
-**Stage II (Narsimhavarman stage):** 
-
-- - In this stage, the big rocks were cut from outside to give an aesthetically pleasing shape to the rock inside which chambers were created, where the deity was placed. This rock-cut structure came to be known as **Rath**.
-    - Varaha cave temple of mahabalipuram
-    - Called as Mamalla style of architecture.
-    - **Examples:** Dharmaraj Rath (part of Pandav Rath, Mahabalipuram, is a group of 6 raths all 5 brothers and Draupadi).
+2.  **STAGE II (NARSIMHAVARMAN STAGE):**
+    - In this stage, the big rocks were cut from outside to give an aesthetically pleasing shape to the rock inside which chambers were created, where the deity was placed. This rock-cut structure came to be known as **Rath**.
+    - VARAHA CAVE TEMPLE of MAHABALIPURAM
+    - Called as MAMALLA STYLE OF ARCHITECTURE.
+    - **Examples:** DHARMARAJ RATH (part of PANDAV RATH, MAHABALIPURAM, is a group of 6 RATHS all 5 brothers and DRAUPADI).
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 28.png>)
 
-**Stage III (Rajsimhavarman stage):**
-
-- - In this stage, real structural temples were created. The speciality of this stage was the creation of an inclining pyramidal tower known as **Vimana**. It is believed that this stage gave rise to the **Dravida** style of a temple in south India.
-    - **Examples:** Shore temples of Rameswaram, Kailashnath temple of Kanchi.
+3.  **STAGE III (RAJSIMHAVARMAN STAGE):**
+    - In this stage, real structural temples were created. The speciality of this stage was the creation of an inclining pyramidal tower known as **Vimana**. It is believed that this stage gave rise to the **Dravida** style of a temple in south INDIA.
+    - **Examples:** SHORE TEMPLES of RAMESWARAM, KAILASHNATH TEMPLE of KANCHI.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 29.png>)
 
-**Stage IV (Nandivarman stage):** In this stage, the emphasis was not on creating big temples but popularising the Dravida style of the temple in South India.
+4.  **STAGE IV (NANDIVARMAN STAGE):** In this stage, the emphasis was not on creating big temples but popularising the DRAVIDA STYLE of the temple in SOUTH INDIA.
 
-- - **Examples:** Vaikunth Perumal temple of Kanchipuram
-    - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 30.png>)
+- **Examples:** VAIKUNTH PERUMAL TEMPLE of KANCHIPURAM
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 30.png>)
 
-# Art and Culture Class 06
+## ART AND CULTURE CLASS 06
 
-### Dravida Style of Temple:
+### DRAVIDA STYLE OF TEMPLE:
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 31.png>)
 
-- - The characteristic feature of the Dravida temple is the presence of Vimana.
-    - Vimanas were not only created on the Garbhagriha but also on the gateways called Gopuram.
-    - Water Tank is a necessary feature of Dravida style, so are the enclosure walls.
-    - The entrance porch of the temple is known as Ardhamandap in which they place the image of either Nandi or the flag of the temple ‘dhwaj’.
-    - The Garbhagriha is connected through a narrow passage known as Antaral.
-    - On the entrance of Garbhagriha, sculptures of guards of the temples Dwarapala were created. (In some of the Nagara temples(north India), they created images of Mithun or river goddess Ganga and Yamuna)
-    - Generally, Nartamandapa and Bhogmandap are also present in Dravida temples.
-    - In some of the Dravida temples, the Panchayatan style is also followed.
-    - Moreover, some of the temples also follow the crucified ground plan.
-    - The finial in this style is known as Cupola.
+- The characteristic feature of the DRAVIDA TEMPLE is the presence of **Vimana**.
+- **Vimanas** were not only created on the GARBHAGRIHA but also on the gateways called **Gopuram**.
+- **Water Tank** is a necessary feature of DRAVIDA STYLE, so are the enclosure walls.
+- The entrance porch of the temple is known as **Ardhamandap** in which they place the image of either **Nandi** or the flag of the temple ‘DHWAI’.
+- The GARBHAGRIHA is connected through a narrow passage known as ANTARAL.
+- On the entrance of GARBHAGRIHA, sculptures of guards of the temples **Dwarapala** were created. (In some of the NAGARA TEMPLES(north INDIA), they created images of **Mithun** or river goddess **Ganga** and **Yamuna**)
+- Generally, **Nartamandapa** and **Bhogmandap** are also present in DRAVIDA TEMPLES.
+- In some of the DRAVIDA TEMPLES, the **Panchayatan** style is also followed.
+- Moreover, some of the temples also follow the **crucified** ground plan.
+- The **finial** in this style is known as **Cupola**.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 32.png>)
 
-**Chola Temple (Brihadeshwar Temple):**
+### CHOLA TEMPLE (BRIHADESHWAR TEMPLE):
 
-- - It is a Dravida-style temple. It was built by Chola ruler Raja Raja I which started in 1011 AD.
-    - This temple is considered the climax temple art of Dravida.
-    - In the construction of the temple, there was no usage of the cementing agent, and the puzzle technique was used for the construction of the temple (interlocking pattern).
-    - 60 m was the height of the tower of this temple, cupola on the top of vimana is 8 ton
+- It is a DRAVIDA-STYLE TEMPLE. It was built by CHOLA ruler **Raja Raja I** which started in 1011 AD.
+- This temple is considered the climax temple art of DRAVIDA.
+- In the construction of the temple, there was no usage of the cementing agent, and the **puzzle** technique was used for the construction of the temple (interlocking pattern).
+- 60 m was the height of the tower of this temple, CUPOLA on the top of VIMANA is 8 ton
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 33.png>)
 
-- - **Airavatesvara Temple in Darasuram was built by the renowned Chola king Rajaraja Chola II.**
+- **AIRAVATESVARA TEMPLE in DARASURAM was built by the renowned CHOLA KING RAJARAJA CHOLA II.**
 
-**Sub styles of Dravida temple**
+#### SUB STYLES OF DRAVIDA TEMPLE
 
-- - **Vijayanagar Temple**: It was initiated by the Vijayanagar rulers particularly Krishnadevaraya.
-    - The special feature of this style is the presence of the Amman shrine(2nd garbh graha) which is dedicated to the chief wife of the main god.
-    - They also introduced Kalyana mandapam inside the premise of the temple mean for marriages.
-    - The sculptures of supernatural horses were also created on the enclosure walls of the temple.
-    - They also created flat rectangular platforms known as “Dibba” for ritual sacrifices.
-        - E.g. mahanavmi dibba
-    - **Examples**: Virupeksha Temple of Hampi, Veerbhadra temple of Lepakshi.
+- **VIJAYANAGAR TEMPLE**: It was initiated by the VIJAYANAGAR RULERS particularly **Krishnadevaraya**.
+  - The special feature of this style is the presence of the **Amman shrine**(2nd garbh graha) which is dedicated to the chief wife of the main god.
+  - They also introduced **Kalyana mandapam** inside the premise of the temple mean for marriages.
+  - The sculptures of supernatural horses were also created on the enclosure walls of the temple.
+  - They also created flat rectangular platforms known as “DIBBA” for ritual sacrifices.
+    - E.g. MAHANAVMI DIBBA
+  - **Examples**: VIRUPEKSHA TEMPLE of HAMPI, VEERBHADRA TEMPLE of LEPAKSHI.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 34.png>)
 
-- - **Nayaka Temple:** It was developed by the Nayaka rulers of Madurai.
-    - They continued the tradition of creating the Amman shrine.
-    - In this style, they created many Gopurams with very high vimanas on them.
-    - Another specialty of Nayak temple is the presence of huge corridors known as “**Parakram**”.
-    - The water tank in this style is created inside the boundary of the temple and it is known as "Pushkaram".
-    - **Examples:**  Sri Ranganath Swamy temple of Srirangam, Meenakshi sundereshwar temple of Prakram.
+- **NAYAKA TEMPLE:** It was developed by the NAYAKA RULERS of MADURAI.
+  - They continued the tradition of creating the AMMAN SHRINE.
+  - In this style, they created many **Gopurams** with very high **vimanas** on them.
+  - Another specialty of NAYAK TEMPLE is the presence of huge corridors known as “**Parakram**”.
+  - The water tank in this style is created inside the boundary of the temple and it is known as "**Pushkaram**".
+  - **Examples:** SRI RANGANATH SWAMY TEMPLE of SRIRANGAM, MEENAKSHI SUNDERESHWAR TEMPLE of PRAKRAM.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 35.png>)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 36.png>)
 
-**Other temple styles of South India:**
+#### OTHER TEMPLE STYLES OF SOUTH INDIA:
 
-- - **Vesara Style:** it is derived from the Sanskrit word Vishra meaning taking a long path.
-    - These temples were created far from habitation.
-    - It was created by the **Chalukya** rulers of Karnataka
-    - It is considered a mixture of Nagara and Dravida temples.
-    - The Vimana of the temple is said to be inspired by Dravida and like Nagara style they incorporated the concept of the covered ambulatory passageway.
-    - They also incorporated a Buddhist-style semi-circular chaitya hall.
-    - **Examples**: Durga temple of Aihole, Lakhan temple of Aihole.
+- **VESARA STYLE:** it is derived from the SANSKRIT word **Vishra** meaning taking a long path.
+  - These temples were created far from habitation.
+  - It was created by the **Chalukya** rulers of KARNATAKA
+  - It is considered a **mixture** of NAGARA and DRAVIDA TEMPLES.
+  - The VIMANA of the temple is said to be inspired by DRAVIDA and like NAGARA STYLE they incorporated the concept of the covered ambulatory passageway.
+  - They also incorporated a BUDDHIST-STYLE semi-circular CHAITYA HALL.
+  - **Examples**: DURGA TEMPLE of AIHOLE, LAKHAN TEMPLE of AIHOLE.
 
-- - **Hoysala Style:** It emerged from the Vessara style and was developed by the Hoysala rulers of Karnataka.
-    - The unique feature of this style is the stellate or star-shaped ground plan.
-    - They used many varieties of stones for example Grey sandstone and black stone.
-    - The intricate and lavish decoration was created on both sides of the wall.
-    - On these walls, the Hindu mythology was engraved i.e. the Mahabharat and the Ramayana.
-    - **Examples**: Hoysaleswar temple of Halebid, Channa Keshava temple of Somnathpura.
+- **HOYSALA STYLE:** It emerged from the VESSARA STYLE and was developed by the **Hoysala** rulers of KARNATAKA.
+  - The unique feature of this style is the **stellate or star-shaped** ground plan.
+  - They used many varieties of stones for example GREY SANDSTONE and BLACK STONE.
+  - The intricate and lavish decoration was created on both sides of the wall.
+  - On these walls, the **HINDU MYTHOLOGY** was engraved i.e. the MAHABHARAT and the RAMAYANA.
+  - **Examples**: HOYSALESWAR TEMPLE of HALEBID, CHANNA KESHAVA TEMPLE of SOMNATHPURA.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 37.png>)
 
-## The Medieval Architecture
+### THE MEDIEVAL ARCHITECTURE
 
-- - **Trabeate Architecture**: Ancient Indian architecture is also known as trabeated architecture. **Lintel’s method** of construction was followed. Major construction material used was stone. The towers in this style are either shikhara or vimana.
+- **TRABEATE ARCHITECTURE**: Ancient INDIAN ARCHITECTURE is also known as TRABEATED ARCHITECTURE. **Lintel’s method** of construction was followed. Major construction material used was stone. The towers in this style are either **shikhara** or **vimana**.
 
-- - **Arcuade Architecture**: All the architectural things introduced in the medieval period are clubbed under Arcuade architecture. Arch and dome method of construction was followed. Brick, Limestone, and mortar was major construction material. The towers in this are Minar and Minaret. Minarets are long and elongated towers meant for morning prayer announcements.
+- **ARCUADE ARCHITECTURE**: All the architectural things introduced in the MEDIEVAL PERIOD are clubbed under ARCUADE ARCHITECTURE. **Arch and dome** method of construction was followed. Brick, Limestone, and mortar was major construction material. The towers in this are **Minar** and **Minaret**. MINARETS are long and elongated towers meant for morning prayer announcements.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 38.png>)
 
-**Features of Indo-Islamic Architecture:**
+#### FEATURES OF INDO-ISLAMIC ARCHITECTURE:
 
-- - They followed the arch and dome method of construction.
-    - They used red sandstone, grey sandstone, and white marble in construction.
-    - Initially, the Delhi Sultanate rulers converted existing Hindu and Jain premises into Islamic buildings.
-    - They avoided humane sculptural representation on their buildings.
-    - Different geometrical designs and patterns were used for decoration.
-    - They started using calligraphy for writing Quranic verses on the buildings.
-    - To make the Persian script aesthetically more appealing they angularised the Persian script which came to be known as **Kufi**.
-    - Arabesque(अरबेसक्यू) method of decoration was also used. It Is identified with a continuous running stem and similar identical leafy structures on both sides of the stem.
-    - Another method of decoration is the usage of intricate jali work in the buildings.
-    - It also highlights the importance of sunlight in Islam.
-    - Another very beautiful method of decoration is **Pietra-dura** in which coloured stones, marbles, semi-precious stones were pasted on the walls in a particular design.
-    - To further increase the aesthetic appeal of the building, many water bodies like fountains, small stepped water tanks were created.
-    - They also started planting gardens around their buildings. The climax was **Chahar bagh (Char Bagh)**, where four similar identical gardens were created around the building.
+- They followed the **arch and dome** method of construction.
+- They used **red sandstone, grey sandstone, and white marble** in construction.
+- Initially, the DELHI SULTANATE rulers converted existing HINDU and JAIN premises into ISLAMIC buildings.
+- They avoided humane sculptural representation on their buildings.
+- Different **geometrical** designs and patterns were used for decoration.
+- They started using calligraphy for writing QURANIC VERSES on the buildings.
+- To make the PERSIAN SCRIPT aesthetically more appealing they **angularised** the PERSIAN SCRIPT which came to be known as **Kufi**.
+- **Arabesque**(अरबेसक्यू) method of decoration was also used. It Is identified with a continuous running stem and similar identical leafy structures on both sides of the stem.
+- Another method of decoration is the usage of **intricate jali work** in the buildings.
+- It also highlights the importance of sunlight in ISLAM.
+- Another very beautiful method of decoration is **Pietra-dura** in which coloured stones, marbles, semi-precious stones were pasted on the walls in a particular design.
+- To further increase the aesthetic appeal of the building, many water bodies like fountains, small stepped water tanks were created.
+- They also started planting gardens around their buildings. The climax was **Chahar bagh (Char Bagh)**, where four similar identical gardens were created around the building.
 
-# Art and Culture Class 07
+## ART AND CULTURE CLASS 07
 
 ### DELHI SULTANATE
 
-**IMPERIAL ARCHITECTURE**
+#### IMPERIAL ARCHITECTURE
 
-- - In this stage, the existing Hindu and Jain premises were converted to Islamic premise 
-    - They were using Red colour sandstone with the introduction of Minars in India. E.g. Qutub Minar. It was constructed on the memory of Sufi saint Qutub-ud-din Bakhtiyar Kaki
-    - E.g.: Arhai din ka Jhopra (Ajmer); Quwwat ul Islam Mosque- Delhi
+- In this stage, the existing HINDU and JAIN premises were converted to ISLAMIC premise
+- They were using **Red colour sandstone** with the introduction of MINARS in INDIA. E.g. QUTUB MINAR. It was constructed on the memory of SUFI SAINT QUTUB-UD-DIN BAKHTIYAR KAKI
+- E.g.: ARHAI DIN KA JHOPRA (AJMER); QUWWAT UL ISLAM MOSQUE- DELHI
 
-**KHILJI PERIOD (1290-1320)** 
+#### KHILJI PERIOD (1290-1320)
 
-- - This period is considered the true beginning of the arch and dome method of construction. Ex: Alai Darwaja in Delhi
-    - They continued using red colour sandstone
-    - Alauddin Khilji led the foundation of one of the precursor cities of Delhi i.e. Siri
+- This period is considered the true beginning of the arch and dome method of construction. Ex: ALAI DARWAJA in DELHI
+- They continued using red colour sandstone
+- ALAUDDIN KHILJI led the foundation of one of the precursor cities of DELHI i.e. SIRI
 
-- - PRECURSOR CITIES OF DELHI-
-        - Indraprastha
-        - Lal Kot - Anangpal Tomar's
-        - Qila Rai Pithora - Prithviraj Chauhan
-        - Siri - Alauddin Khilji
-        - Tughlaqabad - By Giyasuddin Tughlaq
-        - Jahapanah - By Mohd. Bin Tughlaq
-        - Feroz shah kotla - By Firoz shah Tughlaq
-        - Shergarh - by sher shah Suri
-        - Shahjahanabad - by shah Jahan
+##### PRECURSOR CITIES OF DELHI-
 
-**TUGHLAQ PERIOD (1320-1414)**
+- INDRAPRASTHA
+- LAL KOT - ANANGPAL TOMAR'S
+- QILA RAI PITHORA - PRITHVIRAJ CHAUHAN
+- SIRI - ALAUDDIN KHILJI
+- TUGHLAQABAD - By GIYASUDDIN TUGHLAQ
+- JAHAPANAH - By MOHD. BIN TUGHLAQ
+- FEROZ SHAH KOTLA - By FIROZ SHAH TUGHLAQ
+- SHERGARH - by SHER SHAH SURI
+- SHAHJAHANABAD - by SHAH JAHAN
 
-- - Many a time this period is referred to as the Crisis period of architecture as the rulers were fearful of the weak buildings
-    - They wanted to create strong and resilient buildings 
-    - They started using Grey sandstone instead of Red sandstone. Grey was cheaper and stronger than Red sandstone and it was easily available
-    - They also introduced the battar method of construction whereby the walls of the building slanted a little bit and at the base, they were reinforced with the concrete structure
-    - For example- Tughlaqabad fort; Firoz shah Kotla fort; Jahapanah fort
+#### TUGHLAQ PERIOD (1320-1414)
+
+- Many a time this period is referred to as the CRISIS PERIOD OF ARCHITECTURE as the rulers were fearful of the weak buildings
+- They wanted to create strong and resilient buildings
+- They started using **Grey sandstone** instead of Red sandstone. Grey was cheaper and stronger than Red sandstone and it was easily available
+- They also introduced the BATTAR METHOD of construction whereby the walls of the building slanted a little bit and at the base, they were reinforced with the concrete structure
+- For example- TUGHLAQABAD FORT; FIROZ SHAH KOTLA FORT; JAHAPANAH FORT
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 4.jpeg>)
 
-**SAYYID PERIOD (1414-1451)**
+#### SAYYID PERIOD (1414-1451)
 
-- - Sayyid ruler introduced Guldasta form of decoration and for the first time in India blue enameled tiles were introduced
-    - They also introduced Octagonal Tombs in India
-    - Example - Mohammad shah Sayyid tomb of Delhi
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 5.jpeg>)
+- SAYYID RULER introduced GULDASTA FORM of decoration and for the first time in INDIA **blue enameled tiles** were introduced
+- They also introduced OCTAGONAL TOMBS in INDIA
+- Example - MOHAMMAD SHAH SAYYID TOMB of DELHI
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 5.jpeg>)
 
-**LODI PERIOD (1451-1526)**
+#### LODI PERIOD (1451-1526)
 
-- - In this period also rulers were not happy with the strength of the buildings but they did not compromise with the strength of buildings.
-    - They introduced the double dome structure which was not only stronger and more resilient but also beautiful
-    - They also incorporated the Indian concept of Verandah in their buildings
-    - They started planting gardens around their buildings
-    - Ex- Lodhi Garden and Lodhi tomb
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 6.jpeg>)
+- In this period also rulers were not happy with the strength of the buildings but they did not compromise with the strength of buildings.
+- They **introduced the double dome structure** which was not only stronger and more resilient but also beautiful
+- They also incorporated the INDIAN concept of VERANDAH in their buildings
+- They started planting gardens around their buildings
+- Ex- LODHI GARDEN and LODHI TOMB
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 6.jpeg>)
 
 ### PROVINCIAL ARCHITECTURE OF DELHI SULTANATE
 
-**BENGAL ARCHITECTURE**
+#### BENGAL ARCHITECTURE
 
-- - Brick and Black colour stone was major construction material
-    - They also used thin terracotta tiles or bricks
-    - Another specialty of Bengal architecture was the creation of Sloping Bangla Roof
-    - Ex: Kadam Rasool Mosque of Gaur and Adhina Masjid of Pandua
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 7.jpeg>)
+- Brick and Black colour stone was major construction material
+- They also used thin terracotta tiles or bricks
+- Another specialty of BENGAL ARCHITECTURE was the creation of **Sloping Bangla Roof**
+- Ex: KADAM RASOOL MOSQUE of GAUR and ADHINA MASJID of PANDUA
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 7.jpeg>)
 
-**JAUNPUR ARCHITECTURE**
+#### JAUNPUR ARCHITECTURE
 
-- - It is also referred to as the Sharqui style of architecture
-    - In this style, big imposing structures were created
-    - They did not create Minarets in their Mosque
-    - The specialty of Jaunpur Architecture was the construction of Propylon Gateways
-    - For Example - Atalla Masjid Of Jaunpur
+- It is also referred to as the SHARQUI STYLE OF ARCHITECTURE
+- In this style, big imposing structures were created
+- They did not create MINARETS in their MOSQUE
+- The specialty of JAUNPUR ARCHITECTURE was the construction of PROPYLON GATEWAYS
+- For Example - ATALLA MASJID OF JAUNPUR
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 8.jpeg>)
 
-**MALWA ARCHITECTURE** 
+#### MALWA ARCHITECTURE
 
-- - Mandu area of M.P.
-    - Mandu architecture is regarded as too close to the structures of Imperial Delhi.
-    - Salient features - marble, jali work, porticos, court and tower
-    - A Wide Variety of stones was used in the construction
-    - They created Well proportion staircases
-    - Large windows were created and there was the provision of cross ventilation also(jalis)
-    - Some of the buildings were created in the middle of water bodies
-    - They also created Arched halls and high rising pavilions
-    - Wall Mats were used for decorating the interior walls of the buildings
-    - E.g.- Jahaj Mahal; Ashrafi Mahal; Mandu Fort; Rani Rupmati Pavillion; Hindola mahal, etc
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 9.jpeg>)
+- MANDU area of M.P.
+- MANDU ARCHITECTURE is regarded as too close to the structures of IMPERIAL DELHI.
+- Salient features - marble, jali work, porticos, court and tower
+- A Wide Variety of stones was used in the construction
+- They created Well proportion staircases
+- Large windows were created and there was the provision of cross ventilation also(jalis)
+- Some of the buildings were created in the middle of water bodies
+- They also created Arched halls and high rising pavilions
+- WALL MATS were used for decorating the interior walls of the buildings
+- E.g.- JAHAJ MAHAL; ASHRAFI MAHAL; MANDU FORT; RANI RUPMATI PAVILLION; HINDOLA MAHAL, etc
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 9.jpeg>)
 
-**BIJAPUR ARCHITECTURE**
+#### BIJAPUR ARCHITECTURE
 
-- - It was developed by the Adil Shahi dynasty of Bijapur (Karnataka)
-    - They introduced Three Facade Arch
-    - They started creating Cornices in the buildings and their domes were almost spherical
-    - E.g.- Gol Gumbaz; Adil Shah Mosque; Jama Masjid(means place for Friday prayer) of Bijapur
+- It was developed by the **Adil Shahi dynasty of Bijapur** (KARNATAKA)
+- They introduced **Three Facade Arch**
+- They started creating **Cornices** in the buildings and their domes were almost spherical
+- E.g.- GOL GUMBAZ; ADIL SHAH MOSQUE; JAMA MASJID(means place for Friday prayer) of BIJAPUR
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 10.jpeg>)
 
 ### MUGHAL ARCHITECTURE
 
-- - Neither Babar Nor Humayun had enough time in India to construct landmark building
-    - Though Babar was successful in creating Two Mosque। - One at Panipat And second at Sambhal
-    - Humayun led the Foundation of the City of Din Panah in Delhi but unfortunately, it could not be completed.
-    - After the Death of Humayun, his wives Begha Begum and Hamida Begum constructed the first landmark building of Mughals i.e. **Humayun's tomb at Delhi**
-    - This place was the beautiful fusion of white marble with red sandstone
-    - The Arch and Dome buildings complement to each other and the result was a Masterpiece(Humayun's tomb)
-    - This was the very first building in which Chahar bagh was planted.
+- Neither BABAR Nor HUMAYUN had enough time in INDIA to construct landmark building
+- Though BABAR was successful in creating Two MOSQUE - One at PANIPAT And second at SAMBHAL
+- HUMAYUN led the Foundation of the CITY OF DIN PANAH in DELHI but unfortunately, it could not be completed.
+- After the Death of HUMAYUN, his wives BEGHA BEGUM and HAMIDA BEGUM constructed the first landmark building of MUGHALS i.e. **HUMAYUN'S TOMB at DELHI**
+- This place was the beautiful fusion of white marble with red sandstone
+- The ARCH AND DOME buildings complement to each other and the result was a MASTERPIECE(HUMAYUN'S TOMB)
+- This was the very first building in which CHAHAR BAGH was planted.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 39.png>)
 
-**ARCHITECTURE DURING AKBAR'S PERIOD**
+#### ARCHITECTURE DURING AKBAR'S PERIOD
 
-- - Akbar's period is remembered for the true fusion of Indian and Islamic tradition of Architecture
-    - In the beginning, he created Red Fort at Agra But later he decided to create a separate capital complex at Fatehpur Sikri
-    - In the reverence of Sufi saint Salim Chisti
-    - The Fatehpur Sikri complex is welcomed by a Grand Gateway Known as **Buland Darwaza** in which Tudor Arch was created.
+- AKBAR'S PERIOD is remembered for the true fusion of INDIAN and ISLAMIC TRADITION OF ARCHITECTURE
+- In the beginning, he created RED FORT at AGRA But later he decided to create a separate capital complex at FATEHPUR SIKRI
+- In the reverence of SUFI SAINT SALIM CHISTI
+- The FATEHPUR SIKRI complex is welcomed by a GRAND GATEWAY Known as **BULAND DARWAZA** in which TUDOR ARCH was created.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 40.png>)
 
-- - **Panch Mahal** is another standout building inside Fatehpur Sikri complex which was created in Trabeate Rajput style which includes Lintel roof, hanging balcony's and usage of pillars
+- **PANCH MAHAL** is another standout building inside FATEHPUR SIKRI complex which was created in TRABEATE RAJPUT STYLE which includes LINTEL roof, hanging balcony's and usage of pillars
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 41.png>)
 
-- - Salim Chisti's Tomb is the perfect example of Beautiful Intricate Jali work
-    - Inside the Sikri complex, Akbar created many buildings which are as follows Panchmahal, Jodha Palace, Birbal Palace, Jahangir Mahal, Ibadatkhana
-    - Ibadatkhana was meant for discussion and deliberation happened with the representative of different religions.
-    - Diwan-I-aam was for meeting with the common public to address their grievances
-    - Diwan-I-Khas was meant for meeting with Important people
-    - Akbar also funded the construction of Govind Dev Temple at Mathura, Vrindavan
+- SALIM CHISTI'S TOMB is the perfect example of Beautiful Intricate JALI WORK
+- Inside the SIKRI complex, AKBAR created many buildings which are as follows PANCHMAHAL, JODHA PALACE, BIRBAL PALACE, JAHANGIR MAHAL, IBADATKHANA
+- IBADATKHANA was meant for discussion and deliberation happened with the representative of different religions.
+- DIWAN-I-AAM was for meeting with the common public to address their grievances
+- DIWAN-I-KHAS was meant for meeting with Important people
+- AKBAR also funded the construction of GOVIND DEV TEMPLE at MATHURA, VRINDAVAN
 
-**JAHANGIR'S PERIOD**
+#### JAHANGIR'S PERIOD
 
-- - Jahangir was mainly interested in painting though he took some architectural initiatives
-    - Akbar's tomb at Sikandara and Moti Masjid at Lahore
-    - The majority of the Architectural initiatives were taken by Nur Jahan
-    - Nur Jahan(wife of Jahangir) constructed her Father's Tomb known as Itmad-ud-Daulah tomb Agra
-    - It was the first Mughal building which was created with pure white marble and also the first building where extensive Pietra Duara decoration was made
-    - Nur Jahan also planted the famous Shalimar Bagh and Nishat Bagh of Srinagar
+- JAHANGIR was mainly interested in painting though he took some architectural initiatives
+- AKBAR'S TOMB at SIKANDARA and MOTI MASJID at LAHORE
+- The majority of the Architectural initiatives were taken by **Nur Jahan**
+- NUR JAHAN(wife of JAHANGIR) constructed her FATHER'S TOMB known as **ITMAD-UD-DAULAH TOMB AGRA**
+- It was the first MUGHAL building which was created with pure white marble and also the first building where extensive PIETRA DUARA decoration was made
+- NUR JAHAN also planted the famous **SHALIMAR BAGH and NISHAT BAGH of SRINAGAR**
 
-**SHAH JAHAN PERIOD** 
+#### SHAH JAHAN PERIOD
 
-- - It was the climax of Indo-Islamic architecture and all the features of the Indo-Islamic period reached their zenith stage in this period
-    - Shahjahan constructed the City of Shahjahanabad and following buildings in Shahjahanabad -
-        - Red Fort, Delhi
-        - Jama Masjid, Delhi
-        - Fatehpuri Masjid, Delhi
-        - Chandni Chowk, Delhi
-        - Meena Bazar, Delhi
-    - The climax building of Mughal architecture was Taj-mahal created in the memory of Beloved wife Anjuman Bano Begum or Mumtaz mahal
-    - In Taj Mahal Fore-sighting effect is created which creates an illusion of varying sizes
-    - He also completed Red Fort of Agra
+- It was the **climax of INDO-ISLAMIC ARCHITECTURE** and all the features of the INDO-ISLAMIC PERIOD reached their zenith stage in this period
+- SHAHJAHAN constructed the CITY OF SHAHJAHANABAD and following buildings in SHAHJAHANABAD -
+  - RED FORT, DELHI
+  - JAMA MASJID, DELHI
+  - FATEHPURI MASJID, DELHI
+  - CHANDNI CHOWK, DELHI
+  - MEENA BAZAR, DELHI
+- The climax building of MUGHAL ARCHITECTURE was TAJ-MAHAL created in the memory of Beloved wife ANJUMAN BANO BEGUM or MUMTAZ MAHAL
+- In TAJ MAHAL **FORE-SIGHTING EFFECT** is created which creates an illusion of varying sizes
+- He also completed RED FORT of AGRA
 
-**AURANGAZEB PERIOD (1658-1707)**
+#### AURANGAZEB PERIOD (1658-1707)
 
-- - At the time of Aurangzeb, the patronized to art and architecture declined but he constructed some of the famous mosques of that time i.e. Moti Masjid inside Red Fort Delhi, Badshahi Mosque at Lahore(The largest mosque in the world at that point in time)
-    - Aurangzeb created Biwi Ka Maqbara at Aurangabad which is considered a poor imitation of Taj mahal
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 11.jpeg>)
+- At the time of AURANGAZEB, the patronized to art and architecture declined but he constructed some of the famous mosques of that time i.e. MOTI MASJID inside RED FORT DELHI, BADSHAHI MOSQUE at LAHORE(The largest mosque in the world at that point in time)
+- AURANGAZEB created BIWI KA MAQBARA at AURANGABAD which is considered a poor imitation of TAJ MAHAL
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 11.jpeg>)
 
-# Art and Culture Class 08
+## ART AND CULTURE CLASS 08
 
-### Contemporary architecture to Mughals:
+### CONTEMPORARY ARCHITECTURE TO MUGHALS:
 
-**1. Sikh’s Architecture**
-
-- - Sikh Gurudwaras are the best example of Sikh Architecture.
-    - They borrowed the concept of the dome from Mughal architecture.
-    - But some modifications were made in the dome and it looked like a fluted dome.
+1.  **SIKH’S ARCHITECTURE**
+    - SIKH **Gurudwaras** are the best example of SIKH ARCHITECTURE.
+    - They borrowed the concept of the **dome** from MUGHAL ARCHITECTURE.
+    - But some modifications were made in the DOME and it looked like a **fluted dome**.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 42.png>)
 
-- - Gurudwaras also have multiplicities of Chhatris or Kiosks.
-    - In some of the Gurudwaras stepped water tanks were also created.
-    - **Examples**: Golden Temple of Amritsar, Huzur Sahib in Nanded Maharashtra, Patna Sahib in Patna.
+- GURUDWARAS also have multiplicities of **Chhatris** or **Kiosks**.
+- In some of the GURUDWARAS **stepped water tanks** were also created.
+- **Examples**: GOLDEN TEMPLE of AMRITSAR, HUZUR SAHIB in NANDED MAHARASHTRA, PATNA SAHIB in PATNA.
 
-**2. Rajput's Architecture**
-
-- - Rajputs were one of the finest fort makers of the World.
-    - They created many forts in the difficult terrains of India.
-    - **Examples:** Amer Fort, Jai sing Fort, Nahargarh Fort, Mehrangarh, Ranthambhor Fort, Jaisalmer Fort, Gwalior Fort, Bhangarh Fort.
-    - Rajput also borrowed a few elements from Mughal architecture like a dome but many times they also modified the dome structure in a concave shape.
-    - They created hanging balconies of carved cornice of half bowed sides.
+2.  **RAJPUT'S ARCHITECTURE**
+    - RAJPUTS were one of the finest fort makers of the World.
+    - They created many forts in the difficult terrains of INDIA.
+    - **Examples:** AMER FORT, JAI SING FORT, NAHARGARH FORT, MEHRANGARH, RANTHAMBHOR FORT, JAISALMER FORT, GWALIOR FORT, BHANGARH FORT.
+    - RAJPUT also borrowed a few elements from MUGHAL ARCHITECTURE like a **dome** but many times they also **modified** the DOME structure in a **concave** shape.
+    - They created **hanging balconies** of carved cornice of half bowed sides.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 43.png>)
 
-- - Rajput rulers particularly Raja Jai Singh created many astronomical observatories like Jantar Mantar.
-    - They also tried to create simple maze structures and some of the buildings were known for a large number of windows and immense natural lighting.
-    - **Examples**: The Hawa Mahal, Udai Vilas Palace, Umed Bhawan, City palace of Jaipur, Jantar Mantar of Jaipur.
+- RAJPUT RULERS particularly **Raja Jai Singh** created many **astronomical observatories** like **Jantar Mantar**.
+- They also tried to create simple **maze** structures and some of the buildings were known for a large number of **windows** and **immense natural lighting**.
+- **Examples**: The HAWA MAHAL, UDAI VILAS PALACE, UMED BHAWAN, CITY PALACE of JAIPUR, JANTAR MANTAR of JAIPUR.
 
-## Modern period British Architecture
+### MODERN PERIOD BRITISH ARCHITECTURE
 
-**Indo- Gothic style of Architecture**
+#### INDO- GOTHIC STYLE OF ARCHITECTURE
 
-- - St. Fort George in Madras and St. fort William in Kolkata were the first notable British architectural initiative in India. But the real beginning of Indo- Gothic style was from 1800 with the following features:
-    - With the introduction of the Gothic style in India, advanced British structural engineering tools were also introduced in India.
-    - They started using steel and iron rod in construction.
-    - They created thinner walls without compromising their strength as the walls were enforced with iron rods.
-    - They started using poured concrete in construction.
-    - They created pointed arches in many of the buildings.
-    - And large windows were created in this style.
-    - The buildings were decorated with Victorian deco-art.
-    - **Examples:** Paul’s cathedral, Writer’s building, Victoria Memorial are examples of Kolkata. Church gate, Fort, Fountain, Gateway of India, Victoria Terminus, CST are examples of Mumbai and Rippon building of Chennai. 
+- ST. FORT GEORGE in MADRAS and ST. FORT WILLIAM in KOLKATA were the first notable BRITISH ARCHITECTURAL INITIATIVE in INDIA. But the real beginning of INDO- GOTHIC STYLE was from 1800 with the following features:
+- With the introduction of the GOTHIC STYLE in INDIA, advanced BRITISH STRUCTURAL ENGINEERING TOOLS were also introduced in INDIA.
+- They started using **steel** and **iron** rod in construction.
+- They created **thinner** walls without compromising their strength as the walls were enforced with **iron** rods.
+- They started using **poured** concrete in construction.
+- They created pointed **arches** in many of the buildings.
+- And **large windows** were created in this style.
+- The buildings were decorated with **VICTORIAN DECO-ART**.
+- **Examples:** PAUL’S CATHEDRAL, WRITER’S BUILDING, VICTORIA MEMORIAL are examples of KOLKATA. CHURCH GATE, FORT, FOUNTAIN, GATEWAY OF INDIA, VICTORIA TERMINUS, CST are examples of MUMBAI and RIPPON BUILDING of CHENNAI.
 
-**Neo Roman style of Architecture**
+#### NEO ROMAN STYLE OF ARCHITECTURE
 
-- - This new style of architecture began after 1911 when the capital of British India was transferred from Calcutta to New Delhi.
-    - Two British architects Edwin Lutyens and Herbert Baker were entrusted with developing the new architecture at Delhi. But later, Edwin Lutyens single-headedly managed the task. Its features are:
-    - Due to fusions of many styles anonymous structures were created.
-    - Though some of the building was quite grand, beautiful, and elegant but in a majority of them, utility and convenience were compromised.
-    - A good number of buildings were created in the circular plan.
-    - The pink sandstone was chosen as the major construction material.
-    - They also continued the tradition of making a double dome structure in buildings.
-    - One of the very good aspects of Neo-Roman architecture was the provision of a good number of green belts in the newly created city.
-    - **Examples:** Old Parliament building, Rashtrapati Bhawan, Secretariate, North block and South block, Old Supreme Court building, etc.
+- This new style of architecture began after 1911 when the capital of BRITISH INDIA was transferred from CALCUTTA to NEW DELHI.
+- Two BRITISH ARCHITECTS **Edwin Lutyens** and **Herbert Baker** were entrusted with developing the new architecture at DELHI. But later, EDWIN LUTYENS single-headedly managed the task. Its features are:
+- Due to fusions of many styles anonymous structures were created.
+- Though some of the building was quite grand, beautiful, and elegant but in a majority of them, utility and convenience were compromised.
+- A good number of buildings were created in the **circular** plan.
+- The **pink sandstone** was chosen as the major construction material.
+- They also continued the tradition of making a **double dome structure** in buildings.
+- One of the very good aspects of NEO-ROMAN ARCHITECTURE was the provision of a good number of **green belts** in the newly created city.
+- **Examples:** OLD PARLIAMENT BUILDING, RASHTRAPATI BHAWAN, SECRETARIATE, NORTH BLOCK and SOUTH BLOCK, OLD SUPREME COURT BUILDING, etc.
 
-**Awadh Architecture:**
+#### AWADH ARCHITECTURE:
 
-- - In this style, they created big floral arches gateways.
-    - They created the true labyrinth (Bhul Bhulaiya).
-    - Brick and stone were major construction materials and at no place marble was used in construction.
-    - Huge domes were created without any apparent support.
-    - Some places, domes were created in an umbrella shape. Example: Rumi Darwaza, Bada Imambara, Chhattar manzil etc.
+- In this style, they created **big floral arches gateways**.
+- They created the true **labyrinth** (BHUL BHULAIYA).
+- Brick and stone were major construction materials and at no place marble was used in construction.
+- Huge domes were created without any apparent support.
+- Some places, domes were created in an **umbrella shape**. Example: RUMI DARWAZA, BADA IMAMBARA, CHHATTAR MANZIL etc.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 44.png>)
 
-# Religion and Philosophy
+## RELIGION AND PHILOSOPHY
 
-## Buddhism
+### BUDDHISM
 
-- - Founder: Siddhartha Gautam
-    - Birth: 563 BC at Lumbini
-    - Principality: Kapilvastu
-    - Father: Sudodhana
-    - Mother: Mahamayadevi
-    - Varna: Ksatriya
-    - Clan: Shakya
-    - Wife: Yasodhara
-    - Son: Rahul
-    - Mahaparinirvana (Death): 483 BC at Kushinagar
+- **Founder**: SIDDHARTHA GAUTAM
+- **Birth**: 563 BC at LUMBINI
+- **Principality**: KAPILVASTU
+- **Father**: SUDODHANA
+- **Mother**: MAHAMAYADEVI
+- **Varna**: KSATRIYA
+- **Clan**: SHAKYA
+- **Wife**: YASODHARA
+- **Son**: RAHUL
+- **Mahaparinirvana (Death)**: 483 BC at KUSHINAGAR
 
-- - **4 signs of Life:** 
-
-Signs of Despair:
-
-- - An old man 
-    - A sick Person, and 
+- **4 signs of Life:**
+  - **Signs of Despair:**
+    - An old man
+    - A sick Person, and
     - A dead body
+  - **Sign of Hope:**
+    - Yellow-robed monk.
+- At the age of **29**, SIDDHARTHA left his home.
+- This event of leaving home in BUDDHISM is known as **Mahavinishkram** which means great going forth (left home for a great cause and is also known as a renunciation of home).
+- He became a **Parivrajak** (a homeless wanderer).
+- After some point in time, he found a teacher **Alara Kalam** who was an early **Sankhya**
+- After he learned many things from him, he left and started to wander.
+- At the age of **35**, he reached the village of **Uruvella** where on the banks of river NIRANJANA under a PEEPAL tree he meditated for 49 days.
+- In the midnight of the 49th day, he achieved **Nirvana**.
+- **Nirvana** means extinguishment of the flame of desire. After achieving NIRVANA, one is free from the cycle of death and birth.
+- After achieving NIRVANA, SIDDHARTA gave his **first sermon** at a DEER PARK in SARNATH. This event in BUDDHISM is known as **Dharmachakra Parivartan** which means turning of wheels of religion.
+- In his first address, he talked about **4 Noble truths** and **Eightfold paths (Ashtangik Marg)**.
 
-Sign of Hope:
+#### FOUR NOBLE TRUTHS:
 
-- - Yellow-robed monk.
-    - At the age of **29**, Siddhartha left his home.
-    - This event of leaving home in Buddhism is known as Mahavinishkram which means great going forth (left home for a great cause and is also known as a renunciation of home).
-    - He became a Parivrajak (a homeless wanderer).
-    - After some point in time, he found a teacher Alara Kalam who was an early Sankhya
-    - After he learned many things from him, he left and started to wander.
-    - At the age of 35, he reached the village of Uruvella where on the banks of river Niranjana under a Peepal tree he meditated for 49 days.
-    - In the midnight of the 49th day, he achieved Nirvana.
-    - Nirvana means extinguishment of the flame of desire. After achieving Nirvana, one is free from the cycle of death and birth.
-    - After achieving Nirvana, Siddharta gave his first sermon at a Deer Park in Sarnath. This event in Buddhism is known as **Dharmachakra Parivartan** which means turning of wheels of religion.
-    - In his first address, he talked about 4 Noble truths and Eightfold paths (Ashtangik Marg).
+- Life is full of misery (**Dukkha**).
+- There is a cause of misery i.e. desire (**Samudaya** - समुदय).
+- Misery can be overcome (**Nirodha**).
+- There is a path (**Magga**).
 
-**Four Noble Truths:**
+#### ASHTANGIKA MARG (EIGHTFOLD PATHS):
 
-- - Life is full of misery (Dukkha).
-    - There is a cause of misery i.e. desire (Samudaya - समुदय).
-    - Misery can be overcome (Nirodha). 
-    - There is a path (Magga).
-
-**Ashtangika Marg (Eightfold Paths):**
-
-- - Samyak Drishti (Right Vision)
-    - Samyak Vacha (Right Speech)
-    - Samyak Kammanta (Right Conduct)
-    - Samyak Ajivana (Right means of Livelihood)
-    - Samyak Vyayama (Right Exercises)
-    - Samyak samkalp (Right Awareness)
-    - Samyak Dhyan (Right Concentration)
-    - Samyak Samadhi (Right deep Meditation)
+- **Samyak Drishti** (Right Vision)
+- **Samyak Vacha** (Right Speech)
+- **Samyak Kammanta** (Right Conduct)
+- **Samyak Ajivana** (Right means of Livelihood)
+- **Samyak Vyayama** (Right Exercises)
+- **Samyak samkalp** (Right Awareness)
+- **Samyak Dhyan** (Right Concentration)
+- **Samyak Samadhi** (Right deep Meditation)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 45.png>)
 
-- - After preaching for many years Buddha took his last breath in 483 BC at Kushinagar.
-    - The event of his death is considered as Mahaparinirvana (Final blow out).
+- After preaching for many years BUDDHA took his last breath in 483 BC at KUSHINAGAR.
+- The event of his death is considered as **Mahaparinirvana** (Final blow out).
 
-### Buddhist Councils:
+#### BUDDHIST COUNCILS:
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 46.png>)
 
-**First Buddhist Council:**
+##### FIRST BUDDHIST COUNCIL:
 
-- - In 483 BC, followers of Buddha conducted the 1st Buddhist council at Rajgriha which was patronised by King Ajatshatru and was presided by Buddhist monk Mahakahsyap.
-    - The major development of this council was a compilation of two holy texts of Buddhism.
-    - **Sutta Pitaka**: It contained the original teachings of Buddha which were elaborated by his cousin Anand.
-    - **Vinaya Pitaka**: It contained the rules to be followed by the monks and it was elaborated by one of the favorite disciples of Buddha Upali.
+- In 483 BC, followers of BUDDHA conducted the 1st BUDDHIST COUNCIL at RAJGRIHA which was patronised by KING **Ajatshatru** and was presided by BUDDHIST MONK **Mahakahsyap**.
+- The major development of this council was a compilation of two holy texts of BUDDHISM.
+- **Sutta Pitaka**: It contained the original teachings of BUDDHA which were elaborated by his cousin ANAND.
+- **Vinaya Pitaka**: It contained the rules to be followed by the monks and it was elaborated by one of the favorite disciples of BUDDHA UPALI.
 
-**Second Buddhist Council:**
+##### SECOND BUDDHIST COUNCIL:
 
-- - Second Buddhist council was held in 383 BC at Vaishali.
-    - It was patronised by contemporary king Kalahoska and presided by a Buddhist monk Sabakami.
-    - Major development of this council was the division of Buddhism into two sects:
-        - **Sthavirvadins** also known as Thervadas, were orthodox followers of Buddhism.
+- SECOND BUDDHIST COUNCIL was held in 383 BC at VAISHALI.
+- It was patronised by contemporary king **Kalahoska** and presided by a BUDDHIST MONK **Sabakami**.
+- Major development of this council was the division of BUDDHISM into two sects:
+  - **Sthavirvadins** also known as **Thervadas**, were orthodox followers of BUDDHISM.
+    - THERAVADA BUDDHISM is followed in SRI LANKA - they follow many of the teachings of BUDDHA as it is.
+  - **Mahasamghika**: They were the liberal followers of BUDDHISM.
 
-Theravada Buddhism is followed in Sri Lanka - they follow many of the teachings of buddha as it is.
+## ART AND CULTURE CLASS 09
 
-- - **Mahasamghika:** They were the liberal followers of Buddhism.
+### THIRD BUDDHIST COUNCIL
 
-# Art and Culture Class 09
+- It was held in 250 BC at PATALIPUTRA.
+- It was patronized by ASHOKA and presided by BUDDHIST MONK **Mogaliputta Tissa**.
+- In this council, ASHOKA removed all the heretics (deviations) from BUDDHISM.
+- He recognized THERAVADA(थेरवद) as the original version of BUDDHISM.
+- Another important achievement of this council was the compilation of ABHIDHAMMPITAKA(अभिधम्मपिटक) which is a philosophical interpretation of BUDDHA’S teachings.
+- After the Council, ASHOKA started to take initiative to spread BUDDHISM outside INDIA.
+- He sent his son MAHENDRA and daughter SANGHAMITRA to SRI LANKA to spread BUDDHISM.
+- He also sent BUDDHIST MISSIONS to EAST ASIA and CENTRAL ASIA.
 
-**Third Buddhist Council**
+### FOURTH BUDDHIST COUNCIL
 
-- - It was held in 250 BC at Pataliputra.
-    - It was patronized by Ashoka and presided by Buddhist monk Mogaliputta Tissa.
-    - In this council, Ashoka removed all the heretics (deviations) from Buddhism.
-    - He recognized Theravada(थेरवद) as the original version of Buddhism.
-    - Another important achievement of this council was the compilation of Abhidhammpitaka(अभिधम्मपिटक) which is a philosophical interpretation of Buddha’s teachings.
-    - After the Council, Ashoka started to take initiative to spread Buddhism outside India.
-    - He sent his son Mahendra and daughter Sanghamitra to Sri Lanka to spread Buddhism.
-    - He also sent Buddhist missions to East Asia and Central Asia.
-
-**Fourth Buddhist Council**
-
-- - It was convened in 78 AD at Kundalvana(कुंडलवन) in Kashmir.
-    - It was patronized by contemporary king Kanishka.
-    - It was presided by Buddhist monk Vasumitra and sub-presided by Aswaghosh.
-    - The initial important development of the council was the compilation of an encyclopaedia of Buddhism **Mahavibhasha**.
-    - Moreover, in the later stages of the council, Buddhism got divided into two formal sects - Hinayana and Mahayana.
+- It was convened in 78 AD at KUNDALVANA(कुंडलवन) in KASHMIR.
+- It was patronized by contemporary king KANISHKA.
+- It was presided by BUDDHIST MONK VASUMITRA and sub-presided by ASWAGHOSH.
+- The initial important development of the council was the compilation of an encyclopaedia of BUDDHISM **Mahavibhasha**.
+- Moreover, in the later stages of the council, BUDDHISM got divided into two formal sects - HINAYANA and MAHAYANA.
 
 |   |   |
 |---|---|
-|**Hinayana**|**Mahayana**|
-|- - - It was an orthodox sect of Buddhism.<br>        - They did not believe in idol worship.<br>        - There was no such concept as the bodhisattva.<br>        - They used Pali language for the propagation of language.<br>        - They believed Nirvana as an individual phenomenon.|- - - It was a liberal sect of Buddhism<br>        - They started doing idol worship. <br>        - They came up with the concept of Bodhisattva<br>        - They started using the Sanskrit language also.<br>        - They believed that Nirvana is both individual and group phenomenon.|
+|**HINAYANA**|**MAHAYANA**|
+|- It was an orthodox sect of BUDDHISM.<br>- They did not believe in idol worship.<br>- There was no such concept as the BODHISATTVA.<br>- They used PALI language for the propagation of language.<br>- They believed NIRVANA as an individual phenomenon.|- It was a liberal sect of BUDDHISM<br>- They started doing idol worship.<br>- They came up with the concept of BODHISATTVA<br>- They started using the SANSKRIT language also.<br>- They believed that NIRVANA is both individual and group phenomenon.|
 
-**The concept of Bodhisattva(in Mahayana Buddhism)**
+#### THE CONCEPT OF BODHISATTVA(IN MAHAYANA BUDDHISM)
 
-- - Bodhisattvas were considered as the previous birth of Buddha.
-    - They are capable of achieving nirvana but they postpone their own nirvana.
-    - To help, there is a large number of sentient beings on planet earth.
-    - After many lifetimes bodhisattvas progresses to the path of Buddhahood.
-        - Avalokiteshwar ("The Lord who Looks Down"), also called Padmapani ("The Lotus-Bearer") also called Lokesvara in Sanskrit (The Lord of the World)
+- BODHISATTVAS were considered as the previous birth of BUDDHA.
+- They are capable of achieving NIRVANA but they postpone their own NIRVANA.
+- To help, there is a large number of sentient beings on planet earth.
+- After many lifetimes BODHISATTVAS progresses to the path of BUDDHAHOOD.
+  - AVALOKITESHWAR ("The Lord who Looks Down"), also called PADMAPANI ("The Lotus-Bearer") also called LOKESVARA in SANSKRIT (The Lord of the World)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 12.jpeg>)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 13.jpeg>)
 
-- - Manjusri - depicted with a naked sword in one hand and a book in the other
-        - Symbol of wisdom
+- MANJUSRI - depicted with a naked sword in one hand and a book in the other
+  - Symbol of wisdom
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 14.jpeg>)
 
-- - Vajrapani, a sterner Bodhi¬ sattva like the god Indra, bears a thunderbolt in his hand.
+- VAJRAPANI, a sterner BODHI¬ SATTVA like the god INDRA, bears a thunderbolt in his hand.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 15.jpeg>)
 
-- - Maitreya, the future Buddha, is worshipped as a Bodhisattva
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 16.jpeg>)
+- MAITREYA, the future BUDDHA, is worshipped as a BODHISATTVA
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 16.jpeg>)
 
-- - Ksitigarbha - governor of a model prison. Show empathy for inmates.
-    - Amitabha (amitayus) - primary divine buddha (Mahayana as well as Vajrayana)
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 17.jpeg>)
+- KSITIGARBHA - governor of a model prison. Show empathy for inmates.
+- AMITABHA (AMITAYUS) - primary divine BUDDHA (MAHAYANA as well as VAJRAYANA)
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 17.jpeg>)
 
-**Early Buddhist sects which emerged between 3rd and 4th Buddhist councils**
+#### EARLY BUDDHIST SECTS WHICH EMERGED BETWEEN 3RD AND 4TH BUDDHIST COUNCILS
 
-- - Samittiya
-    - Sravastivadin
-    - Sautrantika
-    - Madhyamika (Vaibhashika)
+- SAMITTIYA
+- SRAVASTIVADIN
+- SAUTRANTIKA
+- MADHYAMIKA (VAIBHASHIKA)
 
-- - Vajrayana Buddhism is followed in Tibet and is something like a tantric version of Buddhism.
+- VAJRAYANA BUDDHISM is followed in TIBET and is something like a tantric version of BUDDHISM.
 
-**Metaphysical thoughts of Buddhism**
+#### METAPHYSICAL THOUGHTS OF BUDDHISM
 
-- - **On Origin of Universe -** They thought that the universe was created based on the laws of nature.(धम्मा)
-    - **On Veda -** Buddhists refuted the divine origin and divine authority of Veda.
-    - **On God -** On the question of God, Buddhists were agnostic.
-    - **On Rebirth -** They believed in rebirth.
-    - **On Soul -** Buddhists did not believe in the concept of a permanent or eternal soul.
-    - In this scenario, the question is if they do not believe in the soul, then what takes rebirth?
-    - To which the Buddhists replied that it is Karmik memory and consciousness (Panch Skandha) which takes the rebirth.
-        - Rupa (Form)
-        - Vedana (Sensation/Feeling)
-        - Samjna (Perception)
-        - Sankhara (Mental Formations)
-        - Vijnana (Consciousness)
+- **On Origin of Universe -** They thought that the universe was created based on the laws of nature.(धम्मा)
+- **On Veda -** BUDDHISTS refuted the divine origin and divine authority of VEDA.
+- **On God -** On the question of GOD, BUDDHISTS were agnostic.
+- **On Rebirth -** They believed in rebirth.
+- **On Soul -** BUDDHISTS did not believe in the concept of a permanent or eternal soul.
+- In this scenario, the question is if they do not believe in the SOUL, then what takes rebirth?
+- To which the BUDDHISTS replied that it is KARMIK MEMORY and CONSCIOUSNESS (**Panch Skandha**) which takes the rebirth.
+  - RUPA (Form)
+  - VEDANA (Sensation/Feeling)
+  - SAMJNA (Perception)
+  - SANKHARA (Mental Formations)
+  - VIJNANA (Consciousness)
 
-## Jainism
+### JAINISM
 
-- - Jainism is an ancient creed that came to reality due to the contribution of 24 personalities known as Tirthankars.
-    - The 1st Tirthankar was Adinath (Rishabhdev)
-    - 23rd was Parsvanath
-    - 24th was Vardhaman Mahavir
+- JAINISM is an ancient creed that came to reality due to the contribution of 24 personalities known as TIRTHANKARS.
+- The 1st TIRTHANKAR was ADINATH (RISHABHDEV)
+- 23rd was PARSVANATH
+- 24th was VARDHAMAN MAHAVIR
 
-**Parshvanath**
+#### PARSHVANATH
 
-- - Parshvanath was the son of the king of Kashi **Aswasen**
-    - He left his home in search of enlightenment and it is said that he achieved Kaivalya on Parshvanath hill.
+- PARSHVANATH was the son of the king of KASHI **Aswasen**
+- He left his home in search of enlightenment and it is said that he achieved KAIVALYA on PARSHVANATH HILL.
 
-**Mahavir**
+#### MAHAVIR
 
-- - It was Vardhman Mahavir who gave formal shape to Jainism.
-    - Birth - 540 BC
-    - Place - Kundagram, Vaishali
-    - Father - Siddharth
-    - Mother - Trishala (sister of Licchavi king Chetak)
-    - Varna - Kshatriya
-    - Clan - Jnatri(गयंत्रि)
-    - Principality - Jnatrika(गयंत्रिका)
-    - Wife - Yashoda
-    - Daughter - Arnojya
-    - Mahavir left his home at the age of 30 and became a Parivrajak.
-    - At the age of 40 he reached Jhimbak village, Rhijupalika, under a Sal tree he started meditation and achieved Kaivalya Jnan. which means absolute knowledge.
-    - After achieving Kaivalya, Mahavir came to be known as Jina (conqueror) and his followers came to be known as Jain.
-    - Anekantavada, (Sanskrit: “non-one-sidedness” or “many-sidedness”) in Jainism, the ontological assumption that any entity is at once enduring but also undergoing change that is both constant and inevitable.
+- It was VARDHMAN MAHAVIR who gave formal shape to JAINISM.
+- **Birth** - 540 BC
+- **Place** - KUNDAGRAM, VAISHALI
+- **Father** - SIDDHARTH
+- **Mother** - TRISHALA (sister of LICCHAVI king CHETAK)
+- **Varna** - KSHATRIYA
+- **Clan** - JNATRI(गयंत्रि)
+- **Principality** - JNATRIKA(गयंत्रिका)
+- **Wife** - YASHODA
+- **Daughter** - ARNOJYA
+- MAHAVIR left his home at the age of 30 and became a **Parivrajak**.
+- At the age of 40 he reached JHIMBAK village, RHIJUPALIKA, under a SAL TREE he started meditation and achieved **Kaivalya Jnan**. which means absolute knowledge.
+- After achieving KAIVALYA, MAHAVIR came to be known as JINA (conqueror) and his followers came to be known as JAIN.
+- **Anekantavada**, (SANSKRIT: “non-one-sidedness” or “many-sidedness”) in JAINISM, the ontological assumption that any entity is at once enduring but also undergoing change that is both constant and inevitable.
 
-### Beliefs of Jaina
+#### BELIEFS OF JAINA
 
-**Tri Ratna of Jainism -KFC**
+##### TRI RATNA OF JAINISM -KFC
 
-- - Right Knowledge
-    - Right faith
-    - Right Conduct
+- Right Knowledge
+- Right faith
+- Right Conduct
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 47.png>)
 
-**Five pledges or vows of Jainism**
+##### FIVE PLEDGES OR VOWS OF JAINISM
 
-- - Do not speak lie. (Amrusha)
-    - Do not commit violence (Ahimsa) - the Jaina concept of non-violence is believed to be a bit extreme whereby they not only forbid the killing of animals, plants, insects, and even germs. 
-    - Do not steal. (Asteya)
-    - Do not acquire property (Aparigraha)
-    - Observe Brahmacharya - it was given by Vardhaman Mahavir.
+- Do not speak lie. (**Amrusha**)
+- Do not commit violence (**Ahimsa**) - the JAINA concept of non-violence is believed to be a bit extreme whereby they not only forbid the killing of animals, plants, insects, and even germs.
+- Do not steal. (**Asteya**)
+- Do not acquire property (**Aparigraha**)
+- Observe **Brahmacharya** - it was given by VARDHAMAN MAHAVIR.
 
-### Jaina Councils
+#### JAINA COUNCILS
 
-- - The Magadh ruler Chandragupta Maurya under the influence of Jain monk Bhadrabahu accepted Jainism.
-    - He also shifted to a place called Shravana Belgola in Karnataka where he performed extreme penance of Jainism i.e. Sallekhana or Santhara and died in typical Jain fashion.
+- The MAGADH ruler CHANDRAGUPTA MAURYA under the influence of JAIN MONK BHADRABAHU accepted JAINISM.
+- He also shifted to a place called SHRAVANA BELGOLA in KARNATAKA where he performed extreme penance of JAINISM i.e. SALLEKHANA or SANTHARA and died in typical JAIN fashion.
 
-**1st Jain Council**
+##### 1ST JAIN COUNCIL
 
-- - Patliputra, Bindusar, Sthulabhadra (PBS)
-    - The first Jain Council was convened in Patliputra in 299 BC.
-    - It was patronized by Maurya king Bindusar and presided by Jain monk Sthulabhadra.
-    - The initial important achievement of this council was a compilation of the teachings of the Tirthankars in 14 books known as Purva.
-    - Later, Bhadrabahu returned from Karnataka. It led to fighting between him and Sthulabhadra. Which further led to the division of Jainism into two formal sects - Shwetambar and Digambar.
+- PATLIPUTRA, BINDUSAR, STHULABHADRA (PBS)
+- The first JAIN COUNCIL was convened in PATLIPUTRA in 299 BC.
+- It was patronized by MAURYA KING BINDUSAR and presided by JAIN MONK STHULABHADRA.
+- The initial important achievement of this council was a compilation of the teachings of the TIRTHANKARS in 14 books known as **Purva**.
+- Later, BHADRABAHU returned from KARNATAKA. It led to fighting between him and STHULABHADRA. Which further led to the division of JAINISM into two formal sects - SHWETAMBAR and DIGAMBAR.
 
-**1. Shwetambar (white clads)**
-
-- - They are liberal followers of Jainism
+1.  **SHWETAMBAR (white clads)**
+    - They are liberal followers of JAINISM
     - They wear white cloth
-    - According to them women can achieve Kaivalya in this birth
+    - According to them women can achieve KAIVALYA in this birth
 
-**2.Digambar (Sky clads)**
-
-- - They are orthodox followers of Jainism
+2.  **DIGAMBAR (Sky clads)**
+    - They are orthodox followers of JAINISM
     - They remain naked
-    - According to them, women can not achieve Kaivalya in this birth.
+    - According to them, women can not achieve KAIVALYA in this birth.
 
-**2nd Jain Council**
+##### 2ND JAIN COUNCIL
 
-- - The second Jain Council was convened in 512 AD at a place called Valabhi in Gujarat.
-    - It was patronized by Chalukyas of Gujarat and presided by Jain monk Devardhi Kshem Shramana.
-    - A major achievement of this council was compilation of Jain literature in the Prakrit language - Anga, Upanga, Prakirna, Chedabsutra, Mulsutra, and Bhagwatisutra.
+- The second JAIN COUNCIL was convened in 512 AD at a place called VALABHI in GUJARAT.
+- It was patronized by CHALUKYAS OF GUJARAT and presided by JAIN MONK DEVARDI KSHEM SHRAMANA.
+- A major achievement of this council was compilation of JAIN LITERATURE in the PRAKRIT LANGUAGE - ANGA, UPANGA, PRAKIRNA, CHEDABSUTRA, MULSUTRA, and BHAGWATISUTRA.
 
-**Metaphysical thoughts of Jainism**
+#### METAPHYSICAL THOUGHTS OF JAINISM
 
-- - **On Universe -** According to them, the origin of the universe happened on the laws of the nature.
-    - **On Veda -** They refuted the divine authority of Veda.
-    - **On God -** Jainas do not deny the existence of God but they place god under Tirthankars.
-    - **On Rebirth and soul -** Jainas believed in the concept of the soul. According to them, there are two types of soul - Anonimate soul (Jivatma) in living things and Inonimate soul (ajivatma) in non-living things.
+- **On Universe -** According to them, the origin of the universe happened on the laws of the nature.
+- **On Veda -** JAINAS refuted the divine authority of VEDA.
+- **On God -** JAINAS do not deny the existence of GOD but they place GOD under TIRTHANKARS.
+- **On Rebirth and soul -** JAINAS believed in the concept of the SOUL. According to them, there are two types of SOUL - ANONIMATE SOUL (**Jivatma**) in living things and INONIMATE SOUL (**ajivatma**) in non-living things.
 
-**Important subsects of Jainism**
+#### IMPORTANT SUBSECTS OF JAINISM
 
-- - Bispanthi (बिस्पंथी)
-    - Mulapanthi (मूलपंथी)
-    - Therapanthi (थेरपंथी)
-    - Sthanakvasi (स्तंकवाशी)
-    - Gumanapanthi (गुमानपंथी)
+- BISPANTHI (बिस्पंथी)
+- MULAPANTHI (मूलपंथी)
+- THERAPANTHI (थेरपंथी)
+- STHANAKVASI (स्तंकवाशी)
+- GUMANAPANTHI (गुमानपंथी)
 
-**Comparison of Nirvana, Kaivalya & Moksha**
+#### COMPARISON OF NIRVANA, KAIVALYA & MOKSHA
 
 |   |   |   |
 |---|---|---|
-|**Nirvana**|**Kaivalya**|**Moksha**|
-|- - - Extinguishment of flame of desire<br>        - Ultimate aim - To end rebirth<br>        - Methods - self-discipline and character purification<br>        - After achieving it one continues to be alive|- - - Absolute knowledge<br>        - Ultimate aim - To end rebirth<br>        - Methods - self-discipline and character purification<br>        - After achieving it one continues to be alive|- - - Liberation<br>        - Ultimate aim - To end rebirth<br>        - Methods - self-discipline and character purification<br>        - Comes with the death<br>        - Moksha is considered as assimilation of Atman (soul) with Param Atman (the absolute soul)|
+|**NIRVANA**|**KAIVALYA**|**MOKSHA**|
+|- Extinguishment of flame of desire<br>- Ultimate aim - To end rebirth<br>- Methods - self-discipline and character purification<br>- After achieving it one continues to be alive|- Absolute knowledge<br>- Ultimate aim - To end rebirth<br>- Methods - self-discipline and character purification<br>- After achieving it one continues to be alive|- Liberation<br>- Ultimate aim - To end rebirth<br>- Methods - self-discipline and character purification<br>- Comes with the death<br>- MOKSHA is considered as assimilation of ATMAN (soul) with PARAM ATMAN (the absolute soul)|
 
-# Art and Culture Class 10
+## ART AND CULTURE CLASS 10
 
-### Reasons for the decline of Buddhism
+### REASONS FOR THE DECLINE OF BUDDHISM
 
-- - Once Buddha said to his brother Anand that if women are allowed into sangha Buddhism which going to survive for more than 1000 years will vanish within 100 years, later his words proved to be true.
-    - The monks became corrupt and they started to lead a luxurious life.
-    - They abandoned the language of people Pali and started to use a difficult language of elites i.e. Sanskrit.
-    - The monks started to interfere in the political affairs of the kingdom after which many kings stopped the patronization of Buddhism.
-    - The sectarian divisions in Buddhism further weakened its propagation and led to its dilution.
-    - There were further reforms in Hinduism which reattracted many people back into the fold of Hinduism.
-    - For example, In the Gupta period Bhakti or devotion was highly emphasized and animal sacrifice was discouraged.
-    - The compilation of Hindu religious literature and the beginning of temple art further consolidated the growth of Hinduism.
-    - A Large number of Buddhist followers came back into the Hindu fold.
-    - In Puranas it was propagated that Buddha was the 9th reincarnation of Vishnu which led to the assimilation of Buddhism into Hinduism.
-    - The high missionary zeal displayed by the Buddhists worked against them and a large number of people in society started to detach from Buddhism.
+- Once BUDDHA said to his brother ANAND that if women are allowed into SANGHA BUDDHISM which going to survive for more than 1000 years will vanish within 100 years, later his words proved to be true.
+- The monks became corrupt and they started to lead a luxurious life.
+- They abandoned the language of people PALI and started to use a difficult language of elites i.e. SANSKRIT.
+- The monks started to interfere in the political affairs of the kingdom after which many kings stopped the patronization of BUDDHISM.
+- The sectarian divisions in BUDDHISM further weakened its propagation and led to its dilution.
+- There were further reforms in HINDUISM which reattracted many people back into the fold of HINDUISM.
+- For example, In the GUPTA PERIOD **Bhakti** or devotion was highly emphasized and animal sacrifice was discouraged.
+- The compilation of HINDU religious literature and the beginning of temple art further consolidated the growth of HINDUISM.
+- A Large number of BUDDHIST followers came back into the HINDU fold.
+- In **Puranas** it was propagated that BUDDHA was the 9th reincarnation of VISHNU which led to the assimilation of BUDDHISM into HINDUISM.
+- The high missionary zeal displayed by the BUDDHISTS worked against them and a large number of people in society started to detach from BUDDHISM.
 
-## Indian Philosophies
+### INDIAN PHILOSOPHIES
 
 कपिल शाम
 
@@ -1180,1204 +1154,1148 @@ Theravada Buddhism is followed in Sri Lanka - they follow many of the teachings 
 
 जेम्स की मीमांसा भद्रयण के वेदान्त में है
 
-**1. Orthodoxy Philosophies:** 
+1.  **ORTHODOXY PHILOSOPHIES:**
+    - They accepted the divine authority of VEDAS.
+    - They include: SAMKHYA, NYAYA, YOGA, VAISESHIKHA, MIMAMSA, VEDANTA.
 
-- - They accepted the divine authority of Vedas.
-    - They include: Samkhya, Nyaya, Yoga, Vaiseshikha, Mimamsa, Vedanta.
+2.  **HETERODOX PHILOSOPHIES:**
+    - They Reject the authority of VEDAS.
+    - They include JAINISM, BUDDHISM, AJIVIKAS, and the CARVAKA.
 
-**2. Heterodox philosophies:**
+### SAMKHYA(सामंख्या)
 
-- - They Reject the authority of Vedas.
-    - They include Jainism, Buddhism, Ajivikas, and the Carvaka.
+- It was founded by **Kapil Muni.**
+- Early SAMKHYA PHILOSOPHY Says that the universe owes its origin to nature (**प्रकृति Prakriti**).
+- The Later SAMKHYA PHILOSOPHY maintained that the universe owes its origin to nature and divine agency (**पुरुष Purusha**)
+- Since they believed in two realities this philosophy is also known as dualism or **dvaitvada**(द्वैतवाद).
+- As per the SAMKHYA PHILOSOPHY real knowledge leads to salvation.
+- This real knowledge can be attained through:
+  - **Pratyaksha**(perception)
+  - **Shabda**(testimony referring to VEDAS)
+  - **Anumana**(Inference)
 
-### Samkhya(सामंख्या)
+### YOGA(योग)
 
-- - It was founded by **Kapil Muni.**
-    - Early Samkhya Philosophy Says that the universe owes its origin to nature (प्रकृति Prakriti).
-    - The Later Samkhya philosophy maintained that the universe owes its origin to nature and divine agency (पुरुष Purusha)
-    - Since they believed in two realities this philosophy is also known as dualism or dvaitvada.(द्वैतवाद)
-    - As per the Samkhya Philosophy real knowledge leads to salvation.
-    - This real knowledge can be attained through:
-        - Pratyaksha(perception)
-        - Shabda(testimony referring to Vedas)
-        - Anumana(Inference)
+- It was founded by **Patanjali**.
+- SANKHYA - YOGA is considered as **Yugma**, which means there are some similarities between both.
+- YOGA believes in 8 limbs of YOGA or **Ashtanga yoga**: (YN-APPDDS)
+  - **Yama**(यम) : Don'ts
+  - **Niyama**(नियम) : Do's
+  - **Asana**(आसान) : Physical Postures.
+  - **Pranayama**(प्राणायाम) : Breathing Exercises.
+  - **Pratyahara**(प्रत्याहार) : Restraints.
+  - **Dharana**(धारण) : Selecting an object to concentrate on.
+  - **Dhyana**(ध्यान) : Concentrating on the object.
+  - **Samadhi**(समाधि) : Entering into the deeper meditation.
+- As per the YOGA observation of ASHTANGA YOGA leads one to salvation.
 
-### Yoga(योग)
+### NYAYA(न्याय)
 
-- - It was founded by **Patanjali**.
-    - Sankhya - yoga is considered as Yugma, which means there are some similarities between both.
-    - Yoga believes in 8 limbs of Yoga or Ashtanga yoga: (YN-APPDDS)
-        - Yama(यम) : Don'ts
-        - Niyama(नियम) : Do's
-        - Asana(आसान) : Physical Postures.
-        - Pranayama(प्राणायाम) : Breathing Exercises.
-        - Pratyahara(प्रत्याहार) : Restraints.
-        - Dharana(धारण) : Selecting an object to concentrate on.
-        - Dhyana(ध्यान) : Concentrating on the object.
-        - Samadhi(समाधि) : Entering into the deeper meditation.
-    - As per the Yoga observation of Ashtanga Yoga leads one to salvation.
+- It was founded by **Akshapada Guatam**(अक्षपाद गौतम).
+- As per them knowledge must be based on logic and it must be reasoned which they called **valid knowledge**.
+- According to them VALID KNOWLEDGE leads to salvation.
+- The VALID KNOWLEDGE can be attained through:
+  - **Pratyaksha**
+  - **Shabda**(testimony)
+  - **Anumana**
+  - **Upamana**(Comparison)
+- Logical deduction of NYAYA PHILOSOPHY "Where there is smoke there is fire"
 
-### Nyaya(न्याय)
+### VAISESHIKHA(वैसेशिखा)
 
-- - It was founded by **Akshapada Guatam(अक्षपाद गौतम).**
-    - As per them knowledge must be based on logic and it must be reasoned which they called valid knowledge.
-    - According to them valid knowledge leads to salvation.
-    - The valid Knowledge can be attained through:
-        - Pratyaksha
-        - Shabda(testimony)
-        - Anumana
-        - Upamana(Comparison)
-    - Logical deduction of Nyaya philosophy "Where there is smoke there is fire"
+- **Founder** was **Kanad**
+- NYAYA and VIASESHIKHA are considered as a YUGMA.
+- It is considered as the beginning of the school of **Physics** in INDIA.
+- It says that the universe is atomic in nature and made up of **atoms**.
+- It further defines that the ATOM is the smallest indivisible, indestructible part of the universe.
+- Though they are inactive in themselves they are put into **motion due to God's will**.
+- The atomic recognition of the Universe is the VALID KNOWLEDGE attaining which one embarks on the path of salvation.
 
-### Vaiseshikha(वैसेशिखा)
+### MIMANSA(मीमांसा)
 
-- - Founder was **Kanad**
-    - Nyaya and Viaseshikha are considered as a Yugma.
-    - It is considered as the beginning of the school of Physics in India.
-    - It says that the universe is atomic in nature and made up of atoms.
-    - It further defines that the atom is the smallest indivisible, indestructible part of the universe.
-    - Though they are inactive in themselves they are put into motion due to God's will.
-    - The atomic recognition of the Universe is the valid knowledge attaining which one embarks on the path of salvation.
+- Also known as **Purva - Mimansa**.
+- The word MIMANSA means reflection.
+- **Founder** of MIMANSA was **Jaimini**(जैमिनि).
+- It is an early reflection of VAIDAS.
+- It emphasizes the performance of **Vedic rituals** to attain salvation.
+- It highly emphasized the importance of the priestly class in HINDUISM who area guide to VEDIC RITUALS.
 
-### Mimansa(मीमांसा)
+### VEDANTA(वेदांत)
 
-- - Also known as Purva - Mimansa.
-    - The word Mimansa means reflection.
-    - Founder of Mimansa was **Jaimini.(जैमिनि)**
-    - It is an early reflection of Vaidas.
-    - It emphasizes the performance of Vedic rituals to attain salvation.
-    - It highly emphasized the importance of the priestly class in Hinduism who area guide to Vedic rituals.
+- It is also known as **Uttar - Mimansa**.
+- It is considered as a later reflection on VEDAS.
+- **Bhdrayana**(भद्रायण) was the early founder of VEDANTA.
+- The popular streams in VEDANTA are as follows:
 
-### Vedanta(वेदांत)
+1.  **ADVAITVAD**(अद्वैतवाद - only one reality)
+    - Founded by **Shankaracharya**.
+    - he maintained that there is **no difference** between the creator and the created.
+    - The differences that we perceive are because of our **ignorance**.
+    - The ignorance can be eliminated by embarking on the **path of Knowledge**.
+    - He further says the **Gyanmarga** or path of Knowledge leads to salvation.
+    - He also emphasized the **Mahavakya** "**Aham Brahmashmi**"(अहं ब्रह्मास्मि) meaning "The GOD is within oneself" one does not need to look at other places.
 
-- - It is also known as Uttar - Mimansa.
-    - It is considered as a later reflection on Vedas.
-    - **Bhdrayana(भद्रायण)** was the early founder of Vedanta.
-    - The popular streams in Vedanta are as follows:
+2.  **THE VISHISTA ADVAITVADA (विषिस्थ अद्वैतवाद)**
+    - It was propounded by **Ramanujacharya**.
+    - As per this GOD has some special attributes which can only be recognized by embarking on the path of **devotion or Bhakti**.
+    - It believes that **Bhakti Marg** will lead to Salvation.
+    - MIMANSA and VEDANTA are considered YUGMA.
 
-**1. Advaitvad(अद्वैतवाद - only one reality)**
+- ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 48.png>)
+  - MADHAV - दोगला
+  - वल्लभ भाई शुद्ध Aमूल के देसी घी से पेड़े बनते है
+  - नीम ख़ाना की नहीं ख़ाना बरखा अभी सोचेगी
 
-- - Founded by **Shankaracharya**.
-    - he maintained that there is no difference between the creator and the created.
-    - The differences that we perceive are because of our ignorance.
-    - The ignorance can be eliminated by embarking on the path of Knowledge.
-    - He further says the Gyanmarga or path of Knowledge leads to salvation.
-    - He also emphasized the Mahavakya "Aham Brahmashmi"(अहं ब्रह्मास्मि) meaning "The God is within oneself" one does not need to look at other places.
+- **Dvaita**, meaning "dualism," is a philosophical school founded by MADHVACHARYA.
+  - According to DVAITA PHILOSOPHY, there are two distinct and eternal realities: BRAHMAN (GOD) and the individual souls (JIVAS). BRAHMAN is the supreme, independent reality, while individual souls are dependent on BRAHMAN and are eternally separate from it.
 
-**2. The Vishista Adavaitvada (विषिस्थ अद्वैतवाद)**
+- **Vishishtadvaita**, means "qualified non-dualism. It is a philosophical school associated with RAMANUJACHARYA. According to VISHISHTADVAITA PHILOSOPHY, BRAHMAN is the ultimate reality, and the individual soul is part of BRAHMAN, essentially different from him but inseparably bound to him.
 
-- - It was propounded by **Ramanujacharya**.
-    - As per this God has some special attributes which can only be recognized by embarking on the path of devotion or Bhakti.
-    - It believes that Bhakti Marg will lead to Salvation.
-    - Mimansa and Vedanta are considered Yugma.
+- **Advaita**, meaning "non-dualism," is a philosophical school associated with ADI SHANKARACHARYA. According to ADVAITA PHILOSOPHY, there is only one ultimate reality, BRAHMAN, which is devoid of any multiplicity or distinctions. The individual self (ATMAN) is ultimately identical with BRAHMAN, and the apparent diversity of the world is considered an illusion (MAYA). ADVAITA emphasizes the path of knowledge (JNANA) and meditation (DHYANA) to realize the non-dual nature of reality and attain liberation
 
-- - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 48.png>)
-        - Madhav - दोगला
-        - वल्लभ भाई शुद्ध Aमूल के देसी घी से पेड़े बनते है
-        - नीम ख़ाना की नहीं ख़ाना बरखा अभी सोचेगी
+- **Shuddhadvaita**, meaning "pure non-dualism," is a philosophical school associated with VALLABHACHARYA in the 16th century. According to SHUDDHADVAITA PHILOSOPHY, BRAHMAN is the ultimate reality, and the individual souls are eternally dependent on and inseparable from BRAHMAN.
 
-- - Dvaita, meaning "dualism," is a philosophical school founded by Madhvacharya.
+### THE CARVAKA PHILOSOPHY
 
-According to Dvaita philosophy, there are two distinct and eternal realities: Brahman (God) and the
+- Its founder was **Carvaka**(चार्वाक).
+- It is a materialistic school of philosophy also known as **Lokayata** (which means very popular among the masses).
+- They say that "**Pratyaksha**" is the only means of knowledge.
+- They maintained "**Prthyksham kin Pramanam**"(प्रत्यक्षम किम प्रमाणम) i.e. PRATYAKSHA is the only means to knowledge.
+- They rejected the authority of VEDA, the concept of GOD, SOUL, REBIRTH, SALVATION, etc.
+- The crux of this philosophy can be defined through their famous preposition- "**Yavat Jivet Sukhan Jivet, Rhinam Kritva gritam pibet**"(यावज्जीवेत्सुखं जीवेत् ऋणं कृत्वा घृतं पिबेत्)
+- It emphasizes the maximization of pleasure and happiness even if takes taking a loan from someone.
 
-individual souls (Jivas). Brahman is the supreme, independent reality, while individual souls are
+### AJIVIKA PHILOSOPHY
 
-dependent on Brahman and are eternally separate from it.
+- Founder is **Makhaliputra Gosala.**
+  - गोसला बनाने के लिए आजीविका की ज़रूरत होती है
+- He was a contemporary and colleague of MAHAVIRA but later parted his ways with MAHAVIRA.
+- The AJIVIKA PHILOSOPHY is also known as **Niyativada**(Theory of destiny)
+- According to them there is **no free will** and whatever that has happened, is happening, and will happen, one can not change it.
+- They considered the **theory of salvation as a fallacy**.
+- AJIVIKAS led a simple ascetic life, without clothes and any material possession. They practiced complete nudity.
 
-- - Vishishtadvaita, means "qualified non-dualism. It is a philosophical school
+### ZOROASTRIANISM(पारसी)
 
-associated with Ramanujacharya. According to Vishishtadvaita philosophy, Brahman is the ultimate
+- Its founder was PROPHET **Zarathustra**(ज़रातुस्तरा) or ZOROASTER(जोरोस्टर)
+- Their holy text is **Zend Avesta**(जेंद अवेस्ता).
+- It is contemporary of VEDIC SANATANA DHARMA.
+- The ZOROASTRIANS believe in two types of spirits :
+  - **Angra Mainyu**(अंगरा मेनू) is Spirit of Evil.
+  - **Spenta Mainyu**(स्पेनता मेनू) is the spirit of Good.
+- As per their belief both the spirits are required for the universe to function.
+- But ANGRA MAINYU has a tendency to dominate and its domination results in death & destruction in the universe.
+- In this scenario the ZOROASTRIAN god **Ahura Mazda**(अहुरा माज़्डा) restores the equilibrium. He is represented through **fire**.
+- The worship place of ZOROASTRIANS is known as **Atash Behram**(आतश बेह्रम)(Fire temple)
+- ZOROASTRIANS also noted for their unusual after the death last rites practices whereby they do not cremate or bury their dead instead they leave the dead body fallow in open space to be fed by scavengers.
+- Though the majority of the people in current times, still there are few orthodox people who follow this practice.
 
-reality, and the individual soul is part of Brahman, essentially different from him but inseparably
+## ART AND CULTURE CLASS 11
 
-bound to him.
-
-- - Advaita, meaning "non-dualism," is a philosophical school associated with Adi
-
-Shankaracharya. According to Advaita philosophy, there is only one ultimate reality, Brahman, which is
-
-devoid of any multiplicity or distinctions. The individual self (Atman) is ultimately identical with
-
-Brahman, and the apparent diversity of the world is considered an illusion (Maya). Advaita emphasizes
-
-the path of knowledge (Jnana) and meditation (Dhyana) to realize the non-dual nature of reality and attain
-
-liberation
-
-- - Shuddhadvaita, meaning "pure non-dualism," is a philosophical school associated
-
-with Vallabhacharya in the 16th century. According to Shuddhadvaita philosophy, Brahman is the
-
-ultimate reality, and the individual souls are eternally dependent on and inseparable from Brahman.
-
-### The Carvaka Philosophy
-
-- - Its founder was **Carvaka(चार्वाक).**
-    - It is a materialistic school of philosophy also known as Lokayata (which means very popular among the masses).
-    - They say that "Pratyaksha" is the only means of knowledge.
-    - They maintained "Prthyksham kin Pramanam"(प्रत्यक्षम किम प्रमाणम) i.e. Pratyaksha is the only means to knowledge.
-    - They rejected the authority of Veda, the concept of God, Soul, Rebirth, Salvation, etc.
-    - The crux of this philosophy can be defined through their famous preposition- "Yavat Jivet Sukhan Jivet, Rhinam Kritva gritam pibet"(यावज्जीवेत्सुखं जीवेत् ऋणं कृत्वा घृतं पिबेत्)
-    - It emphasizes the maximization of pleasure and happiness even if takes taking a loan from someone.
-
-**Ajivika philosophy**
-
-- - Founder is **Makhaliputra Gosala.**
-        - गोसला बनाने के लिए आजीविका की ज़रूरत होती है
-    - He was a contemporary and colleague of Mahavira but later parted his ways with Mahavira.
-    - The Ajivika Philosophy is also known as Niyativada(Theory of destiny)
-    - According to them there is no free will and whatever that has happened, is happening, and will happen, one can not change it.
-    - They considered the theory of salvation as a fallacy.
-    - Ajivikas led a simple ascetic life, without clothes and any material possession. They practiced complete nudity.
-
-## Zoroastrianism(पारसी)
-
-- - Its founder was Prophet **Zarathustra(ज़रातुस्तरा)**  or Zoroaster(जोरोस्टर)
-    - Their holy text is **Zend Avesta.(जेंद अवेस्ता)**
-    - It is contemporary of Vedic Sanatana Dharma.
-    - The Zoroastrians believe in two types of spirits :
-        - Angra Mainyu(अंगरा मेनू) is Spirit of Evil.
-        - Spenta Mainyu(स्पेनता मेनू) is the spirit of Good.
-    - As per their belief both the spirits are required for the universe to function.
-    - But  Angra Mainyu has a tendency to dominate and its domination results in death & destruction in the universe.
-    - In this scenario the Zoroastrian god **Ahura Mazda(अहुरा माज़्डा)** restores the equilibrium. He is represented through fire.
-    - The worship place of Zoroastrians is known as Atash Behram(आतश बेह्रम)(Fire temple)
-    - Zoroastrians also noted for their unusual after the death last rites practices whereby they do not cremate or bury their dead instead they leave the dead body fallow in open space to be fed by scavengers.
-    - Though the majority of the people in current times, still there are few orthodox people who follow this practice.
-
-# Art and Culture Class 11
-
-# Indian Classical Dance
+## INDIAN CLASSICAL DANCE
 
 ### EVOLUTION
 
-- - The Earliest treatise on Dance, Drama and Music is Bharatmuni's Natyashastra
-    - As per the story in Natyashastra Lord Brahma instructed Bharat Muni to create a past time by incorporating the elements from the existing Vedas
-    - As such Following elements were incorporated
-        - Pathya पथ्य (Words) - were taken from Rig Veda. 
-        - Abhinaya अभिनय (Expression) - From Yajurveda
-        - Geet गीत (Music)- From samveda
-        - Rasa रस (Emotions)- From Atharveda
-    - Samaveda is Considered as Veda of Music. It mentions near about 16000 Raga and Ragini. The Later part of Samaveda is known as **Gandharva Veda** which is a rule book or grammar of music.
+- The Earliest treatise on Dance, Drama and Music is BHARATMUNI'S NATYASHASTRA
+- As per the story in NATYASHASTRA LORD BRAHMA instructed BHARAT MUNI to create a past time by incorporating the elements from the existing VEDAS
+- As such Following elements were incorporated
+  - **Pathya** पथ्य (Words) - were taken from RIG VEDA.
+  - **Abhinaya** अभिनय (Expression) - From YAJURVEDA
+  - **Geet** गीत (Music)- From SAMVEDA
+  - **Rasa** रस (Emotions)- From ATHARVEDA
+- SAMAVEDA is Considered as VEDA OF MUSIC. It mentions near about 16000 RAGA and RAGINI. The Later part of SAMAVEDA is known as **Gandharva Veda** which is a rule book or grammar of music.
 
-- - As per Natya shastra, there are 2 aspects of Dance which is -
-        - **Lasya(लस्या)**- It is considered as a Feminine aspect of Dance Which is characterised by soft and beautiful movement, strong expression and grace. One of the initial mythological examples of Lasya is Goddess Parvati's Dance on the occasion of her marriage to Lord shiva. 
-        - **Tandav(तांडव) -** Tandav is considered a Masculine aspect of dance. The masculine aspect of dance is characterised by aggression, strength, determination and fast movement.
-    -  The first Mythological example of Tandava was Lord shiva Tandava which has two parts- Bhairav(भैरव) tandava is a dance of destruction and Ananda(आनंद) Tandava is a Dance of reconstruction.
-    - The second Mythological example of Tandava is Lord Krishna's Tandava on the head of Kaliya nag.
+- As per NATYA SHASTRA, there are 2 aspects of Dance which is -
+  - **Lasya**(लस्या)- It is considered as a Feminine aspect of Dance Which is characterised by soft and beautiful movement, strong expression and grace. One of the initial mythological examples of LASYA is GODDESS PARVATI'S DANCE on the occasion of her marriage to LORD SHIVA.
+  - **Tandav**(तांडव) - TANDAV is considered a Masculine aspect of dance. The masculine aspect of dance is characterised by aggression, strength, determination and fast movement.
+- The first Mythological example of TANDAVA was LORD SHIVA TANDAVA which has two parts- BHAIRAV(भैरव) TANDAVA is a dance of destruction and ANANDA(आनंद) TANDAVA is a Dance of reconstruction.
+- The second Mythological example of TANDAVA is LORD KRISHNA'S TANDAVA on the head of KALIYA NAG.
 
-**3 ELEMENTS OF DANCE**
+#### 3 ELEMENTS OF DANCE
 
-- - Nritta नृत्ता (Pure dance movement)
-    - Natya नाट्य (dramatic expression)
-    - Nritya नृत्य (Expression with dance movement)
-    - Later Nandikeshwara wrote Abhinaya Darpan in which he elaborated the usage of Rasa or Emotion in the classical form
-    - Rasas
-        - Shringar (love, attractiveness)
-        - Vir (Courage)
-        - Hasya (laughter, comedy)
-        - Raudra (Anger)
-        - Karunya (compassion)
-        - Bibhatsa (disgust, aversion)
-        - Bhayanak (Fear)
-        - Adbhut (amazement)
-        - Shant (Peace)
+- **Nritta** नृत्ता (Pure dance movement)
+- **Natya** नाट्य (dramatic expression)
+- **Nritya** नृत्य (Expression with dance movement)
+- Later NANDIKESHWARA wrote ABHINAYA DARPAN in which he elaborated the usage of RASA or Emotion in the classical form
+- **Rasas**
+  - **Shringar** (love, attractiveness)
+  - **Vir** (Courage)
+  - **Hasya** (laughter, comedy)
+  - **Raudra** (Anger)
+  - **Karunya** (compassion)
+  - **Bibhatsa** (disgust, aversion)
+  - **Bhayanak** (Fear)
+  - **Adbhut** (amazement)
+  - **Shant** (Peace)
 
 ### BHARATNATYAM
 
-- - It derives its name from Bharat Muni. It is also called **Bhava Raga Tal(Bharat) Natyam** which means dance of expression, melody and rhythm. 
-    - It emerged from the **Devdasi** System of Tamil Nadu temples whereby Young Girls were donated to the temples and were symbolically married to the main God of the temple. 
-    - They were supposed to perform inside the temples and serve God for their entire lifetime. 
-    - But in modern times with the Ban on Devdasi system, the Dance form also started to decline
-    - In this scenario, a freedom Fighter **E Krishna Iyer** revived this Dance form without any system
-    - Later, **Rukmani Devi Arundale** with her performances gave Global recognition to Bharatnatyam. 
+- It derives its name from BHARAT MUNI. It is also called **Bhava Raga Tal(Bharat) Natyam** which means dance of expression, melody and rhythm.
+- It emerged from the **Devdasi** System of TAMIL NADU temples whereby Young Girls were donated to the temples and were symbolically married to the main GOD of the temple.
+- They were supposed to perform inside the temples and serve GOD for their entire lifetime.
+- But in modern times with the Ban on DEVDASI SYSTEM, the DANCE FORM also started to decline
+- In this scenario, a FREEDOM FIGHTER **E Krishna Iyer** revived this DANCE FORM without any system
+- Later, **Rukmani Devi Arundale** with her performances gave Global recognition to BHARATNATYAM.
 
-**Features**
+#### FEATURES
 
-- - Many times Bharatnatyam is referred to as **Fire** Dance. As the movement of the Dances resembles the dancing flame 
-    - Bharatnatyam represents the element of Fire in the Body. The steps in Bharat Natyam are as Follows
-        - Alaripu अलरिपु - It is an Invocation of God to seek his blessing
-        - Jatiswaram जतिश्वरम - Pure dance Movement
-        - Shabdam शब्दम - The beginning of Abhinaya
-        - Varnam वर्णम - Elaboration of Abhinaya
-        - Padam पद्म - Mastery over Abhinaya
-        - Jawali जावली - Performance on short love lyrics
-        - Thillana ठिल्लाना - Exuberant and joyous movement symbolising temporary salvation
-    - **Katak Mukha Hasta** - Is the most important Mudra in Bharatnatyam where by dancer combines the first 3 fingers to Symbolise OM.
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 18.jpeg>)
+- Many times BHARATNATYAM is referred to as **Fire** Dance. As the movement of the DANCES resembles the dancing flame
+- BHARATNATYAM represents the element of Fire in the Body. The steps in BHARAT NATYAM are as Follows
+  - **Alaripu** अलरिपु - It is an Invocation of GOD to seek his blessing
+  - **Jatiswaram** जतिश्वरम - Pure dance Movement
+  - **Shabdam** शब्दम - The beginning of ABHINAYA
+  - **Varnam** वर्णम - Elaboration of ABHINAYA
+  - **Padam** पद्म - Mastery over ABHINAYA
+  - **Jawali** जावली - Performance on short love lyrics
+  - **Thillana** ठिल्लाना - Exuberant and joyous movement symbolising temporary salvation
+- **Katak Mukha Hasta** - Is the most important MUDRA in BHARATNATYAM where by dancer combines the first 3 fingers to Symbolise OM.
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 18.jpeg>)
 
-- - There are many popular solo performances in Bharatnatyam which includes Ek Charya Lashyam(एक चार्य लशयम). In this, a single dancer takes up the role of many.
-    - During the Performance usually, a person continuously recites Mantra who is known as **Natyuvanar(नाट्यूवनर)**
-    - During the performance, it can be noticed that the Bodyweight of the dancer is equally distributed along the centre of Mass
-    - During the performance, **Carnatic classical music** is used.
-    - **Famous Personalities**- Yamini Krishna Murti, Balasaraswati, Mrinalini Sarabhai, Ragini Devi
+- There are many popular solo performances in BHARATNATYAM which includes **Ek Charya Lashyam**(एक चार्य लशयम). In this, a single dancer takes up the role of many.
+- During the Performance usually, a person continuously recites MANTRA who is known as **Natyuvanar**(नाट्यूवनर)
+- During the performance, it can be noticed that the Bodyweight of the dancer is equally distributed along the centre of Mass
+- During the performance, **Carnatic classical music** is used.
+- **Famous Personalities**- YAMINI KRISHNA MURTI, BALASARASWATI, MRINALINI SARABHAI, RAGINI DEVI
 
 ### KUCHIPUDI(कुचिपूडी)
 
-- - It derives its name from the Andhra village of Kuchelapuram from where it emerged.
-    - It was initiated by Male dancers of this village on a Hindu religious theme. Later in the Neo-vaishnavite period, the dance form was monopolised by male brahmins of Andhra Pradesh and they started to perform on a theme of Bhagwatpurana.
-    - These Dancers came to be known as Bhagwathalus.
-    - The Dance form was patronised by the rulers of **Vijayanagar and Golconda**
-    - In Modern Dance, it was revived by Ragini Devi and BalaSaraswathi
+- It derives its name from the ANDHRA village of KUCHELAPURAM from where it emerged.
+- It was initiated by Male dancers of this village on a HINDU religious theme. Later in the NEO-VAISHNAVITE PERIOD, the DANCE FORM was monopolised by male BRAHMINS of ANDHRA PRADESH and they started to perform on a theme of **Bhagwatpurana**.
+- These Dancers came to be known as **Bhagwathalus**.
+- The DANCE FORM was patronised by the rulers of **Vijayanagar and Golconda**
+- In MODERN DANCE, it was revived by RAGINI DEVI and BALASARASWATHI
 
-**Features**
+#### FEATURES
 
-- - It started as a Male preserve but later females also started to perform
-    - In a very first step, **Daru(दरु)**, in which dancers introduced themselves to the audiences with the small piece of performances 
-    - Kuchipudi represent the **earth** element in the body 
-    - One of the very popular themes in Kuchipudi is Bhamakalpam(भामाकल्पम) is the story of Satyabhama and Lord Krishna 
-    - **Shringar Rasa** plays a very important role during the performance
-    - Popular Solo Elements of Kuchipudi-
-        - Manduk shabdam मंडुक शब्दम - It tells the story of a frog
-        - Tarangam तरंगम - In this dancer keeps her toe on the edges of a brass plate and perform while balancing water pitcher in head and lit diyas in hand
-        - Jala Chitra Natyam जल चित्र नाट्यम - During performance dancers create rangoli on stage
-    - Carnatic Classical Music Is used during the performance
-    - **Famous Personalities** - Raja Reddy, Radha Reddy, Yamini Krishna murti
+- It started as a Male preserve but later females also started to perform
+- In a very first step, **Daru**(दरु), in which dancers introduced themselves to the audiences with the small piece of performances
+- KUCHIPUDI represent the **earth** element in the body
+- One of the very popular themes in KUCHIPUDI is BHAMAKALPAM(भामाकल्पम) is the story of **Satyabhama and Lord Krishna**
+- **Shringar Rasa** plays a very important role during the performance
+- Popular Solo Elements of KUCHIPUDI-
+  - **Manduk shabdam** मंडुक शब्दम - It tells the story of a frog
+  - **Tarangam** तरंगम - In this dancer keeps her toe on the edges of a brass plate and perform while balancing water pitcher in head and lit diyas in hand
+  - **Jala Chitra Natyam** जल चित्र नाट्यम - During performance dancers create rangoli on stage
+- CARNATIC CLASSICAL MUSIC Is used during the performance
+- **Famous Personalities** - RAJA REDDY, RADHA REDDY, YAMINI KRISHNA MURTI
 
 ### KATHAKALI(कथकली)
 
-- - It derives its name from Kath means story and Kali means dramatic performance
-    - Originally, kathakali was a part of the traditional theatres of Kerela like Krishnattam कृष्णत्तम , Ramanathan रामंत्तम , Koothiyattam कूथियत्तम , Chakiyarkoothu चकियारकूठु
-    - Later it branched itself from traditional theatres and became a separate dance performance
-    - In modern times it was revived by Malayali poet VN Menon under the Patronage of Mukunda Raja
-    - Many times it is referred to as the Ballad of East
-    - Kathakali depicts the eternal conflict between Good and Evil in most of its Presentations.
-    - **Ramayana And Mahabharata** form the Most popular theme of Kathakali.
-    - The Essence of which is the triumph of good on evil.
-    - Kathakali represents the element of sky in the body.
-    - There are wide usage of eyes and eyebrows to depict different kinds of emotions
-    - The facial make-up in Kathakali is of utmost importance
-    - Colours depict a different types of characters -
-        - Green - Depicts Satvik character which is Nobility, divinity, virtue, etc.
-        - Red- Depicts Rajashik character (Royalty and luxury)
-        - Black-Tamashik (Evil, wickedness)
-    - It has elements of ancient martial-arts performance
-    - **Sopana सोपान Music** of Kerela was used during the performance.
-    - **Famous Proponents** - Guru Kunchu Kurup, Gopi Nath, Rita Ganguly, etc.
-    - Elements- Kathakali depicts the element of Sky or Ether in Body
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 19.jpeg>)
+- It derives its name from KATH means story and KALI means dramatic performance
+- Originally, KATHAKALI was a part of the traditional theatres of KERELA like KRISHNATTAM कृष्णत्तम , RAMANATHAN रामंत्तम , KOOTHIYATTAM कूथियत्तम , CHAKIYARKOOTHU चकियारकूठु
+- Later it branched itself from traditional theatres and became a separate dance performance
+- In modern times it was revived by MALAYALI POET VN MENON under the Patronage of MUKUNDA RAJA
+- Many times it is referred to as the BALLAD OF EAST
+- KATHAKALI depicts the eternal conflict between Good and Evil in most of its Presentations.
+- **Ramayana And Mahabharata** form the Most popular theme of KATHAKALI.
+- The Essence of which is the triumph of good on evil.
+- KATHAKALI represents the element of sky in the body.
+- There are wide usage of eyes and eyebrows to depict different kinds of emotions
+- The facial make-up in KATHAKALI is of utmost importance
+- Colours depict a different types of characters -
+  - Green - Depicts SATVIK character which is Nobility, divinity, virtue, etc.
+  - Red- Depicts RAJASHIK character (Royalty and luxury)
+  - Black-TAMASHIK (Evil, wickedness)
+- It has elements of ancient martial-arts performance
+- **Sopana** सोपान **Music** of KERELA was used during the performance.
+- **Famous Proponents** - GURU KUNCHU KURUP, GOPI NATH, RITA GANGULY, etc.
+- Elements- KATHAKALI depicts the element of Sky or Ether in Body
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 19.jpeg>)
 
 ### MOHINIATTAM(मोहिनी अत्तम)
 
-- - Mohiniattam means **Dance of** **_Enchantress_**
-    - The origin of Mohiniattam can be traced back to the mythological story of **Samudra Manthan** (Churning of the sea)
-    - Whereby Lord Vishnu disguised in the form of Mohini to take back Amrut Kalash From Asuras
-    - The dance form was revived by VN Menon under the patronage of Mukund raja.
+- MOHINIATTAM means **Dance of** **_Enchantress_**
+- The origin of MOHINIATTAM can be traced back to the mythological story of **Samudra Manthan** (Churning of the sea)
+- Whereby LORD VISHNU disguised in the form of MOHINI to take back AMRUT KALASH From ASURAS
+- The dance form was revived by VN MENON under the patronage of MUKUND RAJA.
 
-**Features-** 
+#### FEATURES-
 
-- - It started as a female preserve and still a female preserve
-    - Lasya लस्या (feminine) aspect of dance is dominating
-    - Mohiniattam is said to be inspired by the posture and grace of Bharatnatyam and the vigour of kathakali
-    - Dance movements in Mohiniattam resemble sea waves or swaying of paddy fields, coconut trees, palm trees.
-    - There are 40 basic steps in Mohiniattam which is known as Attavavakul (आतवावकुल)
-    - The costume of Mohiniattam is of utmost importance which is of white kasavu कसावु silk saree with Golden Brocade
-    - Moreover, Jasmine Gajara is also a very important part of the costume
-    - Mohiniattam represents the element of air in the body.
-    - Carnatic Classical Music is used during the performance
-    - **Famous Proponents -** Baijanti Mala, Sunanda Nair, Jayaprabha Menon, Madhuri Amma, etc.
+- It started as a female preserve and still a female preserve
+- LASYA लस्या (feminine) aspect of dance is dominating
+- MOHINIATTAM is said to be inspired by the posture and grace of BHARATNATYAM and the vigour of KATHAKALI
+- Dance movements in MOHINIATTAM resemble sea waves or swaying of paddy fields, coconut trees, palm trees.
+- There are 40 basic steps in MOHINIATTAM which is known as ATTAVAVAKUL (आतवावकुल)
+- The costume of MOHINIATTAM is of utmost importance which is of white KASAVU कसावु silk saree with GOLDEN BROCADE
+- Moreover, JASMINE GAJARA is also a very important part of the costume
+- MOHINIATTAM represents the element of air in the body.
+- CARNATIC CLASSICAL MUSIC is used during the performance
+- **Famous Proponents -** BAIJANTI MALA, SUNANDA NAIR, JAYAPRABHA MENON, MADHURI AMMA, etc.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 49.png>)
 
-# Art and Culture Class 12
+## ART AND CULTURE CLASS 12
 
 ### ODISSI DANCE
 
-- - One of the oldest (after Bharatnatyam) dance form of the country
-    - It derives its name from " **Odra Nritya"** mentioned in Bharatmuni's Natya shastra
-    - Mahari(महारी) were the initial repository of this Dance form who were professional temple dancers patronised by the **Jain King Kharvela**
+- One of the oldest (after BHARATNATYAM) dance form of the country
+- It derives its name from "**Odra Nritya"** mentioned in BHARATMUNI'S NATYA SHASTRA
+- MAHARIS(महारी) were the initial repository of this DANCE FORM who were professional temple dancers patronised by the **Jain King Kharvela**
 
-- - Later the Mahari form of Odissi became defunct, and at its place, Nartala Odissi emerged which was the court form of Odissi
-    - In Modern times the Gotipua Odissi is a very popular version.
-    - Odissi got Global Recognition due to the efforts of Charles Fabri and Indrani Rehman.
+- Later the MAHARI FORM of ODISSI became defunct, and at its place, NARTALA ODISSI emerged which was the court form of ODISSI
+- In Modern times the GOTIPUA ODISSI is a very popular version.
+- ODISSI got Global Recognition due to the efforts of CHARLES FABRI and INDRANI REHMAN.
 
-**Features:**
+#### FEATURES:
 
-- - Odissi represents the element of water in the body
-    - It is also known as fluidic dance. Many times Odissi is referred to as Mobile Sculpture as Dancers move on stage without changing their stances 
-    - Gotipua गोतीपुआ is a popular version of Odissi performed by young boys aged around 13 or 14. It is an acrobatic type of performance that involves jumping, Leaping and Frogging. These young boys wear the attire of women and perform on the theme of Lord Vishnu
-    - **Tribhanga**: This is the most popular posture of Odissi which is considered a feminine posture. In this body is deflected at three places- Neck, Torso and Knee.
+- ODISSI represents the element of water in the body
+- It is also known as fluidic dance. Many times ODISSI is referred to as **Mobile Sculpture** as Dancers move on stage without changing their stances
+- GOTIPUA गोतीपुआ is a popular version of ODISSI performed by young boys aged around 13 or 14. It is an acrobatic type of performance that involves jumping, Leaping and Frogging. These young boys wear the attire of women and perform on the theme of LORD VISHNU
+- **Tribhanga**: This is the most popular posture of ODISSI which is considered a feminine posture. In this body is deflected at three places- Neck, Torso and Knee.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 50.png>)
 
-- - **Chowk**: This is the masculine posture of dance in which dancers tries to create the shape of a square with the help of their legs.
+- **Chowk**: This is the masculine posture of dance in which dancers tries to create the shape of a square with the help of their legs.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 51.png>)
 
-- - Many of the steps of Odissi are said to be inspired by Bharatnatyam. Following steps are performed in Odissi-
-        - Mangalcharnam मंगलचरणम (Invocation of God or mother Earth to seek blessing)
-        - Batunritya बटुनृत्य
-        - Pallavi पल्लवी
-        - Tharijham थरिझाम
-        - Moksha मोक्ष (Exuberant, Joyous movement symbolising temporary salvation)
-    - Geet Govind Of Jaidev and Vichitra Ramayan of Vishwanath Kunthia forms the most popular theme of Odissi.
-    - Hindustani classical music is performed during the dance
-    - Famous proponents: Guru Kelu charan Mahapatra; Guru Pankaj Charan Das; Sonal Mansingh; Myrta Brave and Sharon Lowen.
+- Many of the steps of ODISSI are said to be inspired by BHARATNATYAM. Following steps are performed in ODISSI-
+  - **Mangalcharnam** मंगलचरणम (Invocation of GOD or MOTHER EARTH to seek blessing)
+  - **Batunritya** बटुनृत्य
+  - **Pallavi** पल्लवी
+  - **Tharijham** थरिझाम
+  - **Moksha** मोक्ष (Exuberant, Joyous movement symbolising temporary salvation)
+- GEET GOVIND OF JAIDEV and VICHITRA RAMAYAN OF VISHWANATH KUNTHIA forms the most popular theme of ODISSI.
+- HINDUSTANI CLASSICAL MUSIC is performed during the dance
+- Famous proponents: GURU KELU CHARAN MAHAPATRA; GURU PANKAJ CHARAN DAS; SONAL MANSINGH; MYRTA BRAVE and SHARON LOWEN.
 
 ### MANIPURI
 
-- - It is said that Lord Shiva and Goddess Parvati descended to the hills of Manipur and danced with local Gandharvas(Local Dancers and Musicians)
-    - The Present-day Manipuri is a Fusion of **Lai Haroba** - Festival Dance and **Thang-Ta** - Martial Dance(dance of self defence)
-    - Moreover, Sankirtana(life story of Krishna) and Ras Leela forms the most important theme of Manipuri
-    - In modern times, this dance form is revived by Rabindranath Tagore. He  introduced it in Vishwa Bhartiya University Shanti Niketan
+- It is said that LORD SHIVA and GODDESS PARVATI descended to the hills of MANIPUR and danced with local GANDHARVAS(Local Dancers and Musicians)
+- The Present-day MANIPURI is a Fusion of **Lai Haroba** - Festival Dance and **Thang-Ta** - Martial Dance(dance of self defence)
+- Moreover, **Sankirtana**(life story of KRISHNA) and **Ras Leela** forms the most important theme of MANIPURI
+- In modern times, this dance form is revived by **Rabindranath Tagore**. He introduced it in VISHWA BHARTIYA UNIVERSITY SHANTI NIKETAN
 
-**Features**
+#### FEATURES
 
-- - Mukhabhinaya मुख़ा अभिनय (Facial expression) is absent in Manipuri instead of it Sarvangabhinaya सर्वांग अभिनय (Bodily expression) is performed.
-    - NagBandha is the most popular mudra in Manipuri whereby the Dancers tries to create a shape of 8 with the help of a Body curve.
-    - Local Manipuri Music is used during the performance which includes the following instruments - Pung(drum), Pena(flute), cymbals(मंजीरा) and kartals(clapping)
-    - **Famous Proponents**: Bimbhavati Devi; Jhaveri sisters (Nayana, Suvarna, Ranjana, Darshana)
+- MUKHABHINAYA मुख़ा अभिनय (Facial expression) is absent in MANIPURI instead of it **Sarvangabhinaya** सर्वांग अभिनय (Bodily expression) is performed.
+- **NagBandha** is the most popular MUDRA in MANIPURI whereby the Dancers tries to create a shape of 8 with the help of a Body curve.
+- Local MANIPURI MUSIC is used during the performance which includes the following instruments - PUNG(drum), PENA(flute), CYMBALS(मंजीरा) and KARTALS(clapping)
+- **Famous Proponents**: BIMBHAVATI DEVI; JHAVERI SISTERS (NAYANA, SUVARNA, RANJANA, DARSHANA)
 
-- - Khongjom Parba is a style of ballad singing from Manipur using Dholak (drum)
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 20.jpeg>)
+- **Khongjom Parba** is a style of ballad singing from MANIPUR using DHOLAK (drum)
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 20.jpeg>)
 
 ### SATTARIYA सत्तरिया
 
-- - It emerged from the vaishnavite monastery of Assam known as Sattar
-    - Bhakti saint Shankar dev who was the head of Sattar introduced Two Folk Dance of Assam- **Devadasi**(this is a folk dance and in TN devadasi is a system) and **Vyah Goa ojah Palli**  व्यह गोअ ओझ पल्ली into the rituals of Sattar. This combined form of dance came to be known as **Sattariya.**
+- It emerged from the **vaishnavite monastery** of ASSAM known as **Sattar**
+- BHAKTI SAINT SHANKAR DEV who was the head of SATTAR introduced Two Folk Dance of ASSAM- **Devadasi**(this is a folk dance and in TN DEVDASI is a system) and **Vyah Goa ojah Palli** व्यह गोअ ओझ पल्ली into the rituals of SATTAR. This combined form of dance came to be known as **Sattariya.**
 
-**Features:-**
+#### FEATURES:-
 
-- - It is performed by both- Males and Females
-    - The Male Devotee are generally referred to as **Bhokots**
-    - The theme of sattariya is based on the writing of Shankar dev which is known as **Borgeets**
-    - Khol Musical instrument is used to create music during performances
-    - The Dancers wear costumes made from Pat silk of Assam
-    - In contemporary times there are two branches of Sattariya which is Gayan Bhayanar(गायन भयनार) and Kharmanar Naach(ख़रमानर नाच)
+- It is performed by both- Males and Females
+- The Male Devotee are generally referred to as **Bhokots**
+- The theme of SATTARIYA is based on the writing of SHANKAR DEV which is known as **Borgeets**
+- KHOL MUSICAL INSTRUMENT is used to create music during performances
+- The Dancers wear costumes made from **Pat silk of Assam**
+- In contemporary times there are two branches of SATTARIYA which is GAYAN BHAYANAR(गायन भयनार) and KHARMANAR NAACH(ख़रमानर नाच)
 
 ### KATHAK
 
-- - It emerged from the Kathakar tradition of the North (primarily U.P.) which means storytelling.
-    - The Kathakars used to tell story from Ramayana, Mahabharata and Puranas.
-    - In the Mughal period, the Dance form was transformed from a temple type of form to the court form of dance
-    - Also in this Period (Mughal), the Persian influence started to reflect in the kathak
-    - The costume of Kathak is known as **Angrakha अंगरखा** which is Dhoti and Cotton or silk shawl for males and **Anarkali अनारकली suits** for Females.
-    - Dancers usually jump in the air and take a turn during the performance which leads to the creation of beautiful Pirrouttes or ghera in the Dress. It provides further elegance to the dance form.
-    - Kathak is quite different from other classical forms as there is no bent position in Kathak instead the Full Foot contact in Kathak is of utmost importance.
-    - With full foot contact the dancers usually thump on the floor to create the numerous sounds , ankle bells घुँघरू also create rythmic sounds
-    - Following are the element of recital in Kathak - Tora तोड़ा , Tukda टुकड़ा , Kramalaya क्रमालय , Padhant पधांत , Tarana तराना , Gat bhav गतभाव , Jugal Bandi जुगलबंदी.
-    - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 52.png>)
+- It emerged from the KATHAKAR tradition of the North (primarily U.P.) which means storytelling.
+- The KATHAKARS used to tell story from **Ramayana, Mahabharata and Puranas**.
+- In the MUGHAL PERIOD, the DANCE FORM was transformed from a temple type of form to the court form of dance
+- Also in this Period (MUGHAL), the PERSIAN influence started to reflect in the KATHAK
+- The costume of KATHAK is known as **Angrakha** अंगरखा which is DHOTI and COTTON or SILK SHAWL for males and **Anarkali** अनारकली **suits** for Females.
+- Dancers usually jump in the air and take a turn during the performance which leads to the creation of beautiful PIRROUTTES or GHERA in the Dress. It provides further elegance to the DANCE FORM.
+- KATHAK is quite different from other classical forms as there is no bent position in KATHAK instead the FULL FOOT CONTACT in KATHAK is of utmost importance.
+- With FULL FOOT CONTACT the dancers usually thump on the floor to create the numerous sounds , ANKLE BELLS घुँघरू also create rythmic sounds
+- Following are the element of recital in KATHAK - TORA तोड़ा , TUKDA टुकड़ा , KRAMALAYA क्रमालय , PADANT पधांत , TARANA तराना , GAT BHAV गतभाव , JUGAL BANDI जुगलबंदी.
+- ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 52.png>)
 
-- - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 53.png>)
+- ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 53.png>)
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 54.png>)
 
-- - Jugal Bandi is a competitive play between tabla, musician and dancers in which not only do they try synchronisation but also try to outplay each other during the performance.
-    - Initially, Kathak was performed on Dhrupad Music but later in Mughal Times Thumri, Tarana and Gazal were also introduced. 
-    - Kathak is the only classical dance in which Gharana System exists. It follows Guru Shishya Parampara and the Furtherance of the particular style.
-    - The Popular Gharanas of Kathak are as Follows: 
-        - **Lucknow Gharana** developed under Nawab Wajid Ali Shah. It emphasises on Expression and grace.
-        - **Banaras Gharana**: It was developed under Janki Prasad and it emphasises on symmetry. 
-        - **Jaipur Gharana:** It developed under Bhanu Ji and it emphasises on long rhythmic patterns
-    - **Famous Proponents: Pandit Birju Maharaj**, Lacchu Maharaj, Sitara Devi, Damyanti Joshi
+- **Jugal Bandi** is a competitive play between TABLA, MUSICIAN and DANCERS in which not only do they try synchronisation but also try to outplay each other during the performance.
+- Initially, KATHAK was performed on DHRUPAD MUSIC but later in MUGHAL TIMES THUMRI, TARANA and GAZAL were also introduced.
+- KATHAK is the only classical dance in which GHARANA SYSTEM exists. It follows GURU SHISHYA PARAMPARA and the Furtherance of the particular style.
+- The Popular GHARANAS of KATHAK are as Follows:
+  - **Lucknow Gharana** developed under NAWAB WAJID ALI SHAH. It emphasises on Expression and grace.
+  - **Banaras Gharana**: It was developed under JANKI PRASAD and it emphasises on symmetry.
+  - **Jaipur Gharana:** It developed under BHANU JI and it emphasises on long rhythmic patterns
+- **Famous Proponents: Pandit Birju Maharaj**, LACCHU MAHARAJ, SITARA DEVI, DAMYANTI JOSHI
 
-# Art and Culture Class 13
+## ART AND CULTURE CLASS 13
 
-# Indian Classical Music
+## INDIAN CLASSICAL MUSIC
 
-- - Bharatmuni's Natyashastra is considered the first treatise on music.
-    - There were references to music on rig Veda.
-    - All the hymns of Rigveda which were sung constituted Samaveda which is considered as the Veda of music.
-    - There used to be a special priest who sang the hymns and he was known as Udgatar उदगातर
-    - Singing was an intrinsic part of Vedic rituals 
-    - The last part of Samaveda is known as Gandharva Veda which is considered as the rule book of the music.
-    - Samaveda mentions near about 16000 ragas and Ragini i.e. melodies.
-    - The universal sound "OM" was also referred to in Vedas which is considered as the basics of any sound
+- BHARATMUNI'S NATYASHASTRA is considered the first treatise on music.
+- There were references to music on RIG VEDA.
+- All the hymns of RIGVEDA which were sung constituted SAMAVEDA which is considered as the VEDA OF MUSIC.
+- There used to be a special priest who sang the hymns and he was known as UDGATAR उदगातर
+- Singing was an intrinsic part of VEDIC RITUALS
+- The last part of SAMAVEDA is known as GANDHARVA VEDA which is considered as the rule book of the music.
+- SAMAVEDA mentions near about 16000 RAGAS and RAGINI i.e. melodies.
+- The universal sound "OM" was also referred to in VEDAS which is considered as the basics of any sound
 
 ### BASICS OF INDIAN MUSIC
 
-**Swara**
+#### SWARA
 
-- -  It is Note, tone, frequency
-    - In Indian Music there is the concept of 7 ‘pure notes’ (Shuddha Swara) which are:
-        - Sa: Sadja सड़ज
-        - Re: Rishabha ऋषभ
-        - Ga: Gandharva गांधर्व
-        - Ma: Madhyam मध्यम
-        - Pa: Pancham पंचम
-        - Da: Dhavaita धवैत
-        - Ne: Nishadha निषाद
+- It is Note, tone, frequency
+- In INDIAN MUSIC there is the concept of 7 ‘pure notes’ (**Shuddha Swara**) which are:
+  - **Sa**: SADJA सड़ज
+  - **Re**: RISHABHA ऋषभ
+  - **Ga**: GANDHARVA गांधर्व
+  - **Ma**: MADHYAM मध्यम
+  - **Pa**: PANCHAM पंचम
+  - **Da**: DHAVAITA धवैत
+  - **Ne**: NISHADHA निषाद
 
-**Shruti**
+#### SHRUTI
 
-- - It is the feeblest sound that human ears can perceive.
-    - Each Swara is made up of Many Shrutis.
-    - Microtones (Shrutis): Each saptaka is further divided into 22 microtones (shrutis) in Hindustani music and 24 microtones in Carnatic music. These microtones allow for subtle variations in pitch and enhance the expressiveness of music.
+- It is the feeblest sound that human ears can perceive.
+- Each SWARA is made up of Many SHRUTIS.
+- Microtones (SHRUTIS): Each SAPTAKA is further divided into 22 microtones (SHRUTIS) in HINDUSTANI MUSIC and 24 microtones in CARNATIC MUSIC. These microtones allow for subtle variations in pitch and enhance the expressiveness of music.
 
-**Rag**
+#### RAG
 
-- - रंजयती इति रागम (one which delight the mind is Raag)
-    - Raga is a combination of different Swara. For the creation of Raga, there must be at least 5 distinct Swara. 
-    - On the basis of distinct notes, there are 3 types of Raga
-        - Odhava ओधव Raga : 5 distinct Swara
-        - Sadhav साधव Raga : 6 distinct Swara
-        - Sampoorna सम्पूर्ण Raga : all the 7 Notes
+- रंजयती इति रागम (one which delight the mind is RAAG)
+- RAGA is a combination of different SWARA. For the creation of RAGA, there must be at least 5 distinct SWARA.
+- On the basis of distinct notes, there are 3 types of RAGA
+  - **Odhava** ओधव **Raga**: 5 distinct SWARA
+  - **Sadhav** साधव **Raga**: 6 distinct SWARA
+  - **Sampoorna** सम्पूर्ण **Raga**: all the 7 Notes
 
-**Taal**
+#### TAAL
 
-- - Taal is considered as the basis of rhythm. It is an arrangement of beats in a cyclical manner.
-    - The Fundamental of the Indian Tall system is as follows:-
-        - Tisra तिसरा : 3 rhythmic cycle
-        - Chatusara चतुसरा : 4 rhythmic cycle
-        - Khanda खंड : 5 rhythmic cycle
-        - Misra मिश्र : 6 rhythmic cycle
-        - Sankirtana संकीर्तन : 7 rhythmic cycle
+- TAAL is considered as the basis of rhythm. It is an arrangement of beats in a cyclical manner.
+- The Fundamental of the INDIAN TALL SYSTEM is as follows:-
+  - **Tisra** तिसरा : 3 rhythmic cycle
+  - **Chatusara** चतुसरा : 4 rhythmic cycle
+  - **Khanda** खंड : 5 rhythmic cycle
+  - **Misra** मिश्र : 6 rhythmic cycle
+  - **Sankirtana** संकीर्तन : 7 rhythmic cycle
 
 ### CLASSIFICATION OF INDIAN MUSIC
 
-- - Initially, there was no difference between North and South Indian Music, But the differentiation started after the beginning of Islamic Rule in India.
-    - Particularly, The singers of North India started to Follow the Time, Season and Mood theory of Raga. Initially, 6 principal Ragas were followed which are as follows :-
+- Initially, there was no difference between North and South INDIAN MUSIC, But the differentiation started after the beginning of ISLAMIC RULE in INDIA.
+- Particularly, The singers of North INDIA started to Follow the TIME, SEASON and MOOD THEORY OF RAGA. Initially, 6 principal RAGAS were followed which are as follows :-
 
 |   |   |   |   |
 |---|---|---|---|
-|**Raga**|**Time**|**Season**|**Mood**|
-|Shri|Night|Winter|Love|
-|Megha|Dawn|Rainy|Calm and Courage|
-|Deepak|Afternoon|Summer|Compassion|
-|Hindola|Midnight|Winter|Laughter and gladness|
-|Malkaus or Kaushiki|Evening|Spring|Love|
-|Bhairavi|Dawn|Autumn|Awe and Devotion|
+|**RAGA**|**Time**|**Season**|**Mood**|
+|SHRI|Night|Winter|Love|
+|MEGHA|Dawn|Rainy|Calm and Courage|
+|DEEPAK|Afternoon|Summer|Compassion|
+|HINDOLA|Midnight|Winter|Laughter and gladness|
+|MALKAUS or KAUSHIKI|Evening|Spring|Love|
+|BHAIRAVI|Dawn|Autumn|Awe and Devotion|
 
-## COMPOSITION OF HINDUSTANI MUSIC
+### COMPOSITION OF HINDUSTANI MUSIC
 
-### CLASSICAL
+#### CLASSICAL
 
-**Dhrupad**
+##### DHRUPAD
 
-- - It is the oldest classical music in India.
-    - It emerged from the temples of North India
-    - Dhrupad is devotional in nature and generally, the lyrics of songs were written in Braj and later in Awadhi also.
-    - Dhrupad performance often accompanied with 2 musical instruments- Pakhawaj and Tanpura
-    - Dhrupad is a simple and sober composition that demands efforts from the lungs and vocal cords.
-    - Dhrupad performance starts with Alaap followed by:
-    - **Alaap->Jod->Sthayi->Antara-> Sanchari->Aabhog**
-    - Raja Mansingh Tomer of Gwalior was the famous proponent of Dhrupad singing.
-    - In the court of Akbar, there were many famous Dhrupad singers like Baiju Bawra, Gopal das and the most famous Tansen
-    - Tansen was one of the Navratna of Akbar's court and his original name was Ramtanu Pandey
-    - Akbar gave him the title of Miyan (Master of Music(Dhrupad))
-    - Swami Haridas was also a very famous exponent of Dhrupad who was the guru of Tansen.
+- It is the oldest classical music in INDIA.
+- It emerged from the temples of North INDIA
+- DHRUPAD is devotional in nature and generally, the lyrics of songs were written in BRAJ and later in AWADHI also.
+- DHRUPAD performance often accompanied with 2 musical instruments- PAKHAWAJ and TANPURA
+- DHRUPAD is a simple and sober composition that demands efforts from the lungs and vocal cords.
+- DHRUPAD performance starts with ALAAP followed by:
+- **Alaap->Jod->Sthayi->Antara-> Sanchari->Aabhog**
+- RAJA MANSINGH TOMER of GWALIOR was the famous proponent of DHRUPAD singing.
+- In the court of AKBAR, there were many famous DHRUPAD singers like BAIJU BAWRA, GOPAL DAS and the most famous TANSEN
+- TANSEN was one of the NAVRATNA of AKBAR'S court and his original name was RAMTANU PANDEY
+- AKBAR gave him the title of MIYAN (Master of Music(DHRUPAD))
+- SWAMI HARIDAS was also a very famous exponent of DHRUPAD who was the guru of TANSEN.
 
-**The popular gharanas of Dhrupad include:**
+The popular GHARANAS of DHRUPAD include:
 
-- - Dagari Gharana (Western UP, Raj.)
-    - Darbhanga Gharana (Bihar)
-    - Bettiah Gharana (Bihar)
-    - Bishnupur Gharana (Bengal)
-    - The basis of the creation of Gharana is Dialect, Aptitude of Music and the temperament in Music.
+- DAGARI GHARANA (Western UP, RAJ.)
+- DARBHANGA GHARANA (BIHAR)
+- BETTIAH GHARANA (BIHAR)
+- BISHNUPUR GHARANA (BENGAL)
+- The basis of the creation of GHARANA is Dialect, Aptitude of Music and the temperament in Music.
 
-**Khayal**
+##### KHAYAL
 
-- - Khayal is a Persian word that means thought or Idea.
-    - The origin of Khayal can be traced to Amir Khusrau who started to compose Khayal Songs.
-    - As compared to Dhrupad the singers of Khayal have much more freedom in terms of structure and form of music. 
-    - Generally, Khayal Performance takes place in two stages- Chota Khayal and Bada Khayal
-    - Khayal is Romantic in Nature and the special feature of Khayal is the use of Tann in Music.
-    - The popular gharana of Khayal includes : Kairana Gharana, Gwaliar Gharana, Lucknow Gharana, Patiala Gharana and Agra Gharana.
+- KHAYAL is a PERSIAN word that means thought or Idea.
+- The origin of KHAYAL can be traced to AMIR KHUSRAU who started to compose KHAYAL SONGS.
+- As compared to DHRUPAD the singers of KHAYAL have much more freedom in terms of structure and form of music.
+- Generally, KHAYAL PERFORMANCE takes place in two stages- CHOTA KHAYAL and BADA KHAYAL
+- KHAYAL is Romantic in Nature and the special feature of KHAYAL is the use of TANN in Music.
+- The popular GHARANA of KHAYAL includes : KAIRANA GHARANA, GWALIAR GHARANA, LUCKNOW GHARANA, PATIALA GHARANA and AGRA GHARANA.
 
-### SEMI-CLASSICAL HINDUSTANI MUSIC
+#### SEMI-CLASSICAL HINDUSTANI MUSIC
 
-**Thumri**
+##### THUMRI
 
-- - Its origins can be attributed to the Bhakti saints of North India.
-    - Thumri is based on mixed ragas and it is semi-devotional and semi-romantic.
-    - There are 2 popular versions of Thumri
-        - Purbi Thumri: Sung in a Slow tempo
-        - Punjabi Thumri: Sung in a fast tempo
-    - Banaras and Lucknow are 2 popular Gharanas of Thumri
+- Its origins can be attributed to the BHAKTI SAINTS of North INDIA.
+- THUMRI is based on mixed RAGAS and it is semi-devotional and semi-romantic.
+- There are 2 popular versions of THUMRI
+  - **Purbi Thumri**: Sung in a Slow tempo
+  - **Punjabi Thumri**: Sung in a fast tempo
+- BANARAS and LUCKNOW are 2 popular GHARANAS of THUMRI
 
-**Dhamar धामर**
+##### DHAMAR धामर
 
-- - It is specifically performed at Braj Area on the occasion of the festival of Holi to highlight the love affair of Lord Krishna with gopis.
+- It is specifically performed at BRAJ AREA on the occasion of the festival of HOLI to highlight the love affair of LORD KRISHNA with GOPIS.
 
-**Tarana**
+##### TARANA
 
-- - Tarana was very popular among the aristocratic class of North India.
-    - It was created for the purpose of entertainment. 
-    - And as such, it had very few meaningful words.
+- TARANA was very popular among the aristocratic class of North INDIA.
+- It was created for the purpose of entertainment.
+- And as such, it had very few meaningful words.
 
-**Tappa**
+##### TAPPA
 
-- - It was initiated by the camel riders of North West who used local phrases for the purpose of singing.
-    - It is noted for the quick turn of the phrases.
-    - Later singer of Punjab started to compose a faster song under this category.
+- It was initiated by the camel riders of NORTH WEST who used local phrases for the purpose of singing.
+- It is noted for the quick turn of the phrases.
+- Later singer of PUNJAB started to compose a faster song under this category.
 
-**Qawwali**
+##### QAWWALI
 
-- - It is another product of Persian influence. Its origin can be attributed to Amir Khusrao who started to compose small Couplets in the praise of Allah, the Prophet and the Sufi saints.
-    - It is specifically performed during the **festival of URS** (associated with Sufi dargah)
+- It is another product of PERSIAN influence. Its origin can be attributed to AMIR KHUSRAO who started to compose small COUPLETS in the praise of ALLAH, the PROPHET and the SUFI SAINTS.
+- It is specifically performed during the **festival of URS** (associated with SUFI DARGAH)
 
-**Ghazal**
+##### GHAZAL
 
-- - It is another product of Persian influence
-    - Essentially it is romantic poetry but sometimes it depicts an underlying Sufi Element where God is depicted as beloved.
-    - Mirza Ghalib, Mir Taki Mir and Bahadur Shah Zafar were the famous initial Ghazal composers
+- It is another product of PERSIAN influence
+- Essentially it is romantic poetry but sometimes it depicts an underlying SUFI ELEMENT where GOD is depicted as beloved.
+- MIRZA GHALIB, MIR TAKI MIR and BAHADUR SHAH ZAFAR were the famous initial GHAZAL composers
 
 ### CARNATIC CLASSICAL MUSIC
 
-- - **Annamacharya -** 15th-century - wrote _sankirtanas_ in praise of lord Venkateshwara - strongly influenced the structure of Carnatic music compositions.
+- **Annamacharya** - 15th-century - wrote _sankirtanas_ in praise of LORD VENKATESHWARA - strongly influenced the structure of CARNATIC MUSIC compositions.
 
-- - Sangitsara संगीतसार of Vidyaranya विध्यारण्या is considered as a forerunner of Carnatic Music
-    - In the middle of 17th century, Venkatamukhi वेंकटमुखी wrote Chaturdandi Prakashika चतुरदंडी प्रकाशिका which became the bedrock of Carnatic classical music.
-    - In this Book, they came up with a scientific system of Musical Raga Known as the Melakarta मेलाकर्ता Raga System.
-    - Even to this date, the Carnatic ragas are based on this system.
-    - In the Modern Age, Visnu Narayan Bhatkhande विष्णु नारायण भातखंडे popularised Carnatic Music.
-    - After Independence, the First Music college of Free India was created named **Bhatkhande Sangeet Vidyapeeth, Lucknow.**
-    - Carnatic music Starts with **Ragam** which is an improvised **_Alaapana_** in free time. followed by **_Tanam,_** it is an inter-connector, and then **_Pallavi_** is a final compose section that sets melody to a taal.
+- **Sangitsara** संगीतसार of VIDYARANYA विध्यारण्या is considered as a forerunner of CARNATIC MUSIC
+- In the middle of 17th century, **Venkatamukhi** वेंकटमुखी wrote **Chaturdandi Prakashika** चतुरदंडी प्रकाशिका which became the bedrock of CARNATIC CLASSICAL MUSIC.
+- In this Book, they came up with a scientific system of Musical RAGA Known as the **Melakarta** मेलाकर्ता **Raga System**.
+- Even to this date, the CARNATIC RAGAS are based on this system.
+- In the MODERN AGE, **Visnu Narayan Bhatkhande** विष्णु नारायण भातखंडे popularised CARNATIC MUSIC.
+- After Independence, the First Music college of FREE INDIA was created named **Bhatkhande Sangeet Vidyapeeth, Lucknow.**
+- CARNATIC MUSIC Starts with **Ragam** which is an improvised **_Alaapana_** in free time. followed by **_Tanam,_** it is an inter-connector, and then **_Pallavi_** is a final compose section that sets melody to a TAAL.
 
-There are **2 popular versions of Carnatic :**
+There are **2 popular versions of CARNATIC :**
 
-- - **Kriti**: the singing is emphasized
-    - **Kritanayi:** Music is emphasized
-    - Famous personalities of Carnatic : Purandhar Das: is considered as Grand old man of Carnatic
+- **Kriti**: the singing is emphasized
+- **Kritanayi:** Music is emphasized
+- Famous personalities of CARNATIC : PURANDHAR DAS: is considered as GRAND OLD MAN OF CARNATIC
 
-- - **Male trinity:**
-        - Thyagaraja
-            - Composed in praise of lord Rama
-        - Shyamashastri
-        - Muthuswami Dikshitkar
+- **Male trinity:**
+  - THYAGARAJA
+    - Composed in praise of LORD RAMA
+  - SHYAMASHASTRI
+  - MUTHUSWAMI DIKSHITKAR
 
-- - **Female trinity:**
-        - DK Pattammal
-        - ML Vasanthkumari
-        - MS Subulakshmi
+- **Female trinity:**
+  - DK PATTAMMAL
+  - ML VASANTHKUMARI
+  - MS SUBULAKSHMI
 
-# Art and Culture Class 14
+## ART AND CULTURE CLASS 14
 
-# Language and literature
+## LANGUAGE AND LITERATURE
 
-- - Brahmi ब्राह्मी and Kharoshthi खरोष्ठी are the oldest scripts of India.
-    - Kharosthi is written from right to left.
-    - Brahmi was practiced in the mainland part of India and Kharoshthi in the North-western part.
-    - Brahmi is considered the mother of many Indian scripts and it is also connecting link between the north Indian and south Indian languages.
-    - Indian languages are considered one of the most advanced languages in the world.
-    - The majority of the Indian languages follow the Abugida system of writing whereby consonants are always fully written and vowels are fully written only when a word is going to start with a vowel. But at the other places, vowels are used as diacritics (Maatra).
-    - Because of this system, Indian languages are considered as most advanced, or in other words, the system of writing corresponds to the system of diction(pronunciation).
+- **Brahmi** ब्राह्मी and **Kharoshthi** खरोष्ठी are the oldest scripts of INDIA.
+- KHAROSHTHI is written from right to left.
+- BRAHMI was practiced in the mainland part of INDIA and KHAROSHTHI in the NORTH-WESTERN part.
+- BRAHMI is considered the mother of many INDIAN SCRIPTS and it is also connecting link between the north INDIAN and south INDIAN languages.
+- INDIAN LANGUAGES are considered one of the most advanced languages in the world.
+- The majority of the INDIAN LANGUAGES follow the **Abugida system** of writing whereby consonants are always fully written and vowels are fully written only when a word is going to start with a vowel. But at the other places, vowels are used as diacritics (**Maatra**).
+- Because of this system, INDIAN LANGUAGES are considered as most advanced, or in other words, the system of writing corresponds to the system of diction(pronunciation).
 
-### The family group of language in India:
+### THE FAMILY GROUP OF LANGUAGE IN INDIA:
 
-- - The categorization is done on the basis of phonemics(sound system). The languages that have been clubbed together have a similar sound system.
+1.  **INDO-ARYAN GROUP OF LANGUAGE:**
+    - SANSKRIT, HINDI, PUNJABI, KASHMIRI, ODIA, BENGALI, ASSAMESE, MARATHI, GUJARATI, NEPALI, etc are the languages included under this.
 
-**1. Indo-Aryan group of language:**
+2.  **DRAVIDIAN LANGUAGE:**
+    - TAMIL, TELUGU, KANNADA, MALAYALAM are included under this.
 
-- - Sanskrit, Hindi, Punjabi, Kashmiri, Odia, Bengali, Assamese, Marathi, Gujarati, Nepali, etc are the languages included under this.
+3.  **SINO TIBETAN GROUP OF LANGUAGES:**
+    - ARUNACHALI, MEITI, MANIPURI, NAGA, MIZO, LEPCHA, SIKKIMESE, etc are included under this.
 
-**2. Dravidian language:**
+4.  **AUSTRIC LANGUAGES:**
+    - This category is not based on a similar sound system. All tribal languages have been clubbed under this category.
+    - Example: BODO, SANTHALI, ANDAMANESE, DONGRI, MUNDARI, SENTINELESE, NICOBARI, KHASI, GARO, etc present in 8TH SCHEDULE.
 
-- - Tamil, Telugu, Kannada, Malayalam are included under this.
+### SANSKRIT LITERATURE
 
-**3. Sino Tibetan group of languages:**
+- SANSKRIT is considered a truly international language as it transcends the boundary of region and religion.
+- It is very much part of HINDUISM, BUDDHISM, JAINISM, and ZOROASTRIANISM.
 
-- - Arunachali, Meiti, Manipuri, Naga, Mizo, Lepcha, Sikkimese, etc are included under this.
+#### VEDA AND EXTENDED TEXT OF VEDA:
 
-**4. Austric languages:**
-
-- - This category is not based on a similar sound system. All tribal languages have been clubbed under this category.
-    - Example: Bodo, Santhali, Andamanese, Dongri, Mundari, Sentinelese, Nicobari, Khasi, Garo, etc present in 8th schedule.
-
-## Sanskrit literature
-
-- - Sanskrit is considered a truly international language as it transcends the boundary of region and religion.
-    - It is very much part of Hinduism, Buddhism, Jainism, and Zoroastrianism.
-
-### Veda and extended text of Veda:
-
-**1. Rigveda:**
-
-- - Rigveda is the earliest collection of 1028 hymns.
-    - It is divided into 10 mandalas.
-    - It gives a beautiful description of nature, rivers, and mountains in India.
+1.  **RIGVEDA:**
+    - RIGVEDA is the earliest collection of 1028 hymns.
+    - It is divided into 10 MANDALAS.
+    - It gives a beautiful description of nature, rivers, and mountains in INDIA.
     - It also mentions various prayers and mantras.
-    - Moreover, it is one of the most important sources of information about the social, religious, economic, and political aspects of ancient India.
-    - Hotra होत्र was the special priest who was an expert in Rigveda.
+    - Moreover, it is one of the most important sources of information about the social, religious, economic, and political aspects of ancient INDIA.
+    - HOTRA होत्र was the special priest who was an expert in RIGVEDA.
 
-**2. Samaveda**
+2.  **SAMAVEDA**
+    - All those hymns of RIGVEDA which were sung constitute SAMAVEDA.
+    - The last part of SAMAVEDA is known as GANDHARVA VEDA which is considered as the grammar book of music. Moreover, SAMAVEDA mentions about 16000 melodies.
+    - UDGATAR उदगातर was the special expert priest of SAMAVEDA.
 
-- - All those hymns of Rigveda which were sung constitute Samaveda.
-    - The last part of Samaveda is known as Gandharva Veda which is considered as the grammar book of music. Moreover, Samaveda mentions about 16000 melodies.
-    - Udgatar उदगातर was the special expert priest of Samaveda.
+3.  **YAJURVEDA**
+    - It was the most popular of all VEDAS.
+    - It gives a description of VEDIC RITUALS and it also provides guidelines to the performance of YAJNA.
+    - There are 2 popular parts of YAJURVEDA known as
+      - KRISHNA YAJURVEDA.
+      - SHUKLA YAJURVEDA.
+    - ADHVARYU अधवारयु was the special expert priest of YAJURVEDA.
 
-**3. Yajurveda**
-
-- - It was the most popular of all Vedas.
-    - It gives a description of Vedic rituals and it also provides guidelines to the performance of Yajna.
-    - There are 2 popular parts of Yajurveda known as
-        - Krishna Yajurveda.
-        - Shukla Yajurveda.
-    - Adhvaryu अधवारयु was the special expert priest of Yajurveda.
-
-**4. Atharvaveda**
-
-- - Its origin can be attributed to Atharva Rishi and Angirah अंगिरा rishi.
-    - It is the most elaborate of all the Vedas.
+4.  **ATHARVEDA**
+    - Its origin can be attributed to ATHARVA RISHI and ANGIRAH अंगिरा RISHI.
+    - It is the most elaborate of all the VEDAS.
     - It covers a large number of themes. For example, it mentions the cure of 99 diseases. It is also the source of mathematical knowledge, astronomy(arrangement of stars in the universe), astrology(based on arrangement of star finding laga's and aftereffect of that), numerology, medicinal knowledge, etc.
     - It is also considered as the book of spells and charms.
 
-### Explanatory text of the Veda:
+#### EXPLANATORY TEXT OF THE VEDA:
 
-**1. The Brahmanas**
+1.  **THE BRAHMANAS**
+    - They were the first explanatory text of the VEDAS.
+    - It mentions the importance of VEDIC RITUALS and emphasizes the inculcation of VEDIC RITUALS.
 
-- - They were the first explanatory text of the Vedas.
-    - It mentions the importance of Vedic rituals and emphasizes the inculcation of Vedic rituals.
-
-**2. The Aranyakas**
-
-- - Aranyaka means forest.
-    - Aranyakas deal with the mystery of Vedas and its knowledge was disseminated in the forest stage of life (Vanaprastha stage of life).
+2.  **THE ARANYAKAS**
+    - ARANYAKA means forest.
+    - ARANYAKAS deal with the mystery of VEDAS and its knowledge was disseminated in the forest stage of life (VANAPRASTHA STAGE OF LIFE).
     - It also started the discussion between life and death.
 
-**3. The Upanishads**
+3.  **THE UPANISHADS**
+    - The meaning of UPANISHAD means sitting nearby the GURU to learn in GURU SHISHYA PARAMPARA.
+    - It deals with the philosophy of VEDAS and the most difficult questions were raised in UPANISHAD like the origin of Earth, the purpose of life, the concept of soul, spiritualism, etc.
+      - Philosophical Focus:
+        - On internal contemplation and exploration of metaphysical and philosophical questions.
+      - Nature of Knowledge:
+        - Exploring the nature of ultimate reality (**Brahman**), the self (**Atman**), and the relationship between the two, delving into profound metaphysical and spiritual inquiries.
+      - Teaching Style:
+        - dialogues and discussions between teachers (GURUS) and students (disciples)
+        - KATHOPANISHAD is famous for dialogue between NACHIKETA and YAMRAJ
+      - Goal of Life:
+        - pursuit of self-realization and understanding the ultimate truth
+    - **Satyamev Jayate** is taken from the MUNDAKA UPANISHAD.
+    - **Vasudhev kutumbakam** is taken from MAHA UPANISHAD
+    - **Aham Brahmasmi** - derived from the BRIHADARANAYKA UPANISHAD.
 
-- - The meaning of Upanishad means sitting nearby the Guru to learn in Guru Shishya Parampara.
-    - It deals with the philosophy of Vedas and the most difficult questions were raised in Upanishad like the origin of Earth, the purpose of life, the concept of soul, spiritualism, etc.
-        - Philosophical Focus:
-            - On internal contemplation and exploration of metaphysical and philosophical questions.
-        - Nature of Knowledge:
-            - Exploring the nature of ultimate reality (Brahman), the self (Atman), and the relationship between the two, delving into profound metaphysical and spiritual inquiries.
-        - Teaching Style:
-            - dialogues and discussions between teachers (gurus) and students (disciples)
-            - Kathopanishad is famous for dialogue between Nachiketa and Yamraj
-        - Goal of Life:
-            - pursuit of self-realization and understanding the ultimate truth
-    - Satyamev Jayate is taken from the Mundaka Upanishad.
-    - Vasudhev kutumbakam is taken from Maha Upanishad
-    - Aham Brahmasmi - derived from the Brihadaranayka Upanishad.
+- They were source of inspiration for BUDDHISM and JAINISM
+  - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 55.png>)
 
-- - They were source of inspiration for Buddhism and Jainism
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 55.png>)
+#### PURANA:
 
-### Purana:
+- The meaning of PURANA is the one that renews the old.
+- PURANA holds a very important position in HINDUISM. It tries to further expound the rituals and practices of HINDUISM through legendary and mythological stories.
+- PURANA can be classified into the following themes:
+  - **Sarga**: It deals with the creation of the universe.
+  - **Pratisarga**: Deals with the destruction of the universe.
+  - **Manvantara** मनवांतर : It is the story of the first man and woman on Earth MANU and EILA.
+  - **Vamsanucharita** वामसंचारित : It contains the history of many ruling dynasties of INDIA.
 
-- - The meaning of Purana is the one that renews the old.
-    - Purana holds a very important position in Hinduism. It tries to further expound the rituals and practices of Hinduism through legendary and mythological stories.
-    - Purana can be classified into the following themes:
-        - **Sarga :** It deals with the creation of the universe.
-        - **Pratisarga :** Deals with the destruction of the universe.
-        - **Manvantara मनवांतर :** It is the story of the first man and woman on Earth Manu and Eila.
-        - **Vamsanucharita वामसंचारित :** It contains the history of many ruling dynasties of India.
+#### CLASSICAL SANSKRIT LITERATURE:
 
-### Classical Sanskrit Literature:
+1.  **BOOK BY SHUDRAKA** शुद्रक **:**
+    - **Mrichchhakatikam** मृच्छकटिकम् - It is a satire on society and the meaning of MRICHCHHAKATIKAM is clay court.
+      - It is about a young man named CHARUDATTA, and his love for VASANTASENA, a rich courtesan.
 
-**1. Book by Shudraka शुद्रक :**
+2.  **BOOKS BY VISHAKHADUTTA** विशाखा दत्त **:**
+    - **Mudrarakshasha** मुद्रा राक्षस - It tells the fight between CHANDRAGUPTA MAURYA and the last NANDA RULER DHANANANDA.
+    - **Devichandraguptam** देवीचंदगुप्तम - it is a biography of CHANDRAGUPTA II.
 
-- - Mrichchhakatikam मृच्छकटिकम् - It is a satire on society and the meaning of Mrichchhakatikam is clay court.
-        - It is about a young man named Charudatta, and his love for Vasantasena, a rich courtesan.
-
-**2. Books by Vishakhadutta विशाखा दत्त :**
-
-- - Mudrarakshasha मुद्रा राक्षस - It tells the fight between Chandragupta Maurya and the last Nanda ruler Dhanananda.
-    - Devichandraguptam देवीचंदगुप्तम - it is a biography of Chandragupta II.
-
-**3. Books by Kalidasa कालिदास :**
-
-- - **Novels:**
-        - **Abhigyan Shakuntalam अभिज्ञान शकुन्तलम - A love affair of Dushyant and Shakuntala**
-        - **Malvikagnimitra मालविकाग्निमित्र - A love affair of Malvika of Vidisha and Agnimitra Shunga.**
-        - **Vikramourvashi विक्रमूर्वशी - A love affair of Pururava and Urvashi.**
-        - **Kumar Sambhavam कुमार शम्भवम - Story of the making of a young God- Kartikeya(son of Lord Shiva)**
-        - **Raghuvamsam रघुवमसम - Story of the clan of Lord Ram**
+3.  **BOOKS BY KALIDASA** कालिदास **:**
+    - **Novels:**
+      - **Abhigyan Shakuntalam** अभिज्ञान शकुन्तलम - A love affair of DUSHYANT and SHAKUNTALA
+      - **Malvikagnimitra** मालविकाग्निमित्र - A love affair of MALVIKA of VIDISHA and AGNIMITRA SHUNGA.
+      - **Vikramourvashi** विक्रमूर्वशी - A love affair of PURURAVA and URVASHI.
+      - **Kumar Sambhavam** कुमार शम्भवम - Story of the making of a young GOD- KARTIKEYA(son of LORD SHIVA)
+      - **Raghuvamsam** रघुवमसम - Story of the clan of LORD RAM
     - **Poetry:**
-        - **Meghadootam मेघदूतम : Sending love through clouds.**
-        - **Ritusamhara रितुसमघारा - Song/Medley of seasons.**
+      - **Meghadootam** मेघदूतम : Sending love through clouds.
+      - **Ritusamhara** रितुसमघारा - Song/Medley of seasons.
 
-**4. Other important books:**
+4.  **OTHER IMPORTANT BOOKS:**
+    - **Harshacharita** हर्श्चरित by BANABHATTA बांड भट्ट - It is the biography of HARSHAVARDHAN.
+    - **Buddhacharita** बुद्धचरित by ASHVAGHOSHA अश्व घोष - It is the biography of BUDDHA.
 
-- - Harshacharita हर्श्चरित by Banabhatta बांड भट्ट - It is the biography of Harshavardhan.
-    - Buddhacharita बुद्धचरित by Ashvaghosha अश्व घोष - It is the biography of Buddha.
+#### SANSKRIT GRAMMAR BOOKS:
 
-### Sanskrit grammar books:
+- **Ashtadhyayi** अष्टाध्याय by PANINI पडिनी
+- **Mahabhashya** महाभास्या by PATANJALI - It is a commentary on PANINI'S ASHTADHYAYI.
+- **Amarkosha** अमरकोश by AMARSIMHA अमरसिंघ - Lexicography of SANSKRIT - GUPTA PERIOD
 
-- - Ashtadhyayi अष्टाध्याय by Panini पडिनी
-    - Mahabhashya महाभास्या by Patanjali - It is a commentary on Panini's Ashtadhyayi.
-    - Amarkosha अमरकोश by Amarsimha अमरसिंघ - Lexicography of Sanskrit - gupta period
+#### SCIENTIFIC TEXTS:
 
-### Scientific texts:
+- **Surya Siddhanta** by VARAH MIHIR - explained cloud formation theory
+- **Brahatsamhita** - VARAH MIHIR - gives reference to perfumes and cosmetics
+- **Aryabhatiya** by ARYABHATTA - a book on astronomy
+- **Brahma Sputa Siddhantika** भ्रम स्पुत सिधांतिका by BRAHMA GUPTA - this book has the mention of zero.
+- **Rasaratnakar** रसरत्नआगर and **Rasarnava** रसरनव by NAGARJUNA - book on metallurgy.
 
-- - Surya Siddhanta by Varah Mihir - explained cloud formation theory
-    - Brahatsamhita - Varah mihir - gives reference to perfumes and cosmetics
-    - Aryabhatiya by Aryabhatta - a book on astronomy
-    - Brahma Sputa Siddhantika भ्रम स्पुत सिधांतिका by Brahma Gupta - this book has the mention of zero.
-    - Rasaratnakar रसरत्नआगर and Rasarnava रसरनव by Nagarjuna - book on metallurgy.
+- **Charaksamhita** by CHARAKA- book on AYURVEDA.
+- **Bhrigusamhita** by BHRIGU RISHI - book on AYURVEDA.
+- **Sushruta** शुश्रुत **Samhita** by SUSHRUTA - first book on Surgery which mentions the surgical instruments. It mentions ophthalmic surgery, plastic surgery, and rhinoplasty.
+- **Rasopanisada** describes the preparation of gunpowder mixture.
 
-- - Charaksamhita by Charaka- book on Ayurveda.
-    - Bhrigusamhita by Bhrigu rishi - book on Ayurveda.
-    - Sushruta शुश्रुत Samhita by Sushruta - first book on Surgery which mentions the surgical instruments. It mentions ophthalmic surgery, plastic surgery, and rhinoplasty.
-    - Rasopanisada describes the preparation of gunpowder mixture.
+### BUDDHIST LITERATURE
 
-## Buddhist literature
+#### CANONICAL LITERATURE:
 
-**Canonical literature:**
+- It is the most revered text of BUDDHISM.
+- Moreover, it was written only in PALI.
+- Examples: **Tripitaka** त्रिपितक़ - **Suttapitaka** सुत्तापिटक (original teachings of BUDDHA), **Vinaypitaka** विनयपिटक (rules to be followed by the monks in SANGHA), **Abhidhammapitaka** अविधम्मपिटक (philosophical interpretation of BUDDHA'S teaching).
+- **Khuddaka Nikaya** खुद्दक निकाय of SUTTAPITAKA सुत्तापिटक mentions JATAKA KATHAS.
 
-- - It is the most revered text of Buddhism.
-    - Moreover, it was written only in Pali.
-    - Examples: Tripitaka त्रिपितक़ - Suttapitaka सुत्तापिटक (original teachings of Buddha), Vinaypitaka विनयपिटक (rules to be followed by the monks in Sangha), Abhidhammapitaka अविधम्मपिटक (philosophical interpretation of Buddha's teaching).
-    - Khuddaka Nikaya खुद्दक निकाय of Suttapitaka सुत्तापिटक mentions Jataka kathas.
+#### NON-CANONICAL LITERATURE:
 
-**Non-canonical literature:**
+- Written in both PALI and SANSKRIT.
+  - **Pali books:**
+    - **Mahavastu** - Holy text of THERAVADA
+    - **Mahavamsa** and **Dipavamsa**- SRI LANKAN chronicles of BUDDHISM
+    - **Therigatha** थेरी गाथा : It was a unique text of that time that was written by the women and attributed to the women. It talks about women's experience of renunciation.
+  - **Sanskrit books:**
+    - **Buddhacharita** by ASHVAGHOSHA
+    - **Lalitvistara** - Holy text of MAHAYANA BUDDHISM
 
-- - Written in both Pali and Sanskrit.
-        - **Pali books:**
-            - **Mahavastu - Holy text of Theravada**
-            - **Mahavamsa and Dipavamsa- Sri Lankan chronicles of Buddhism**
-            - **Therigatha थेरी गाथा : It was a unique text of that time that was written by the women and attributed to the women. It talks about women's experience of renunciation.**
+## ART AND CULTURE CLASS 15
 
-- - **Sanskrit books:**
-        - **Buddhacharita by Ashvaghosha**
-        - **Lalitvistara - Holy text of Mahayana Buddhism**
+### PRAKRIT AND JAIN LITERATURE
 
-# Art and Culture Class 15
+- The majority of the JAIN LITERATURE was written in PRAKRIT LANGUAGE
+- During the 1ST JAIN COUNCIL- 14 PURVA'S were written which includes teachings of all the TIRTHANKARS
+- In the 2ND JAIN COUNCIL following PRAKRIT or JAIN LITERATURE was compiled like ANGA; UPANGA; PRAKIRNA; MULSUTRA; CHEDABSUTRA and BHAGWATI SUTRA
+- There was the unique text of that time that not only mention doctrines of JAINISM but also the doctrines of rival schools- HINDUISM; BUDDHISM and AJIVIKA
+- There are also one of the initial text to know about MAHAJANPADA HISTORY
+- It is also an important source to reconstruct the dynastic history of EASTERN INDIA
+- JAIN LITERATURE also immensely contributed to the progression of mathematical literature in INDIA.
+- For example- the writings of BHASKARACHARYA
 
-## Prakrit and Jain Literature
+### SANGAM LITERATURE
 
-- - The majority of the Jain literature was written in Prakrit Language
-    - During the 1st Jain council- 14 Purva's were written which includes teachings of all the Tirthankars
-    - In the 2nd Jain Council following Prakrit or Jain literature was compiled like Anga; Upanga; Prakirna; Mulsutra; Chedabsutra and Bhagwati sutra
-    - There was the unique text of that time that not only mention doctrines of Jainism but also the doctrines of rival schools- Hinduism; Buddhism and Ajivika
-    - There are also one of the initial text to know about Mahajanpada History
-    - It is also an important source to reconstruct the dynastic history of Eastern India
-    - Jain literature also immensely contributed to the progression of mathematical literature in India. 
-    - For example- the writings of Bhaskaracharya
+- SANGAM LITERATURE was the outcome of 3 SANGAM ASSEMBLIES held at MADHURAI under the PANDYAS rulers. The very First SANGAM ASSEMBLIES was attended by GODS and ANGELS. As such No record survived from the FIRST ASSEMBLY. Only one text i.e.- **Tolkappiyam** तोलकापीयम survived from the 2ND ASSEMBLY written by **Tolkappiyar** तोलकप्पियर . It is the initial book of TAMIL GRAMMAR.
+- The THIRD SANGAM ASSEMBLY was attended by 373 poets out of which 35 were women.
+- The Most famous poetess of the assembly was the **Andal** अंदाल (An ALWAR SAINT)
+- All the text of this assembly survived which is divided into 2 categories- **Melkanakku** मलकानक्कु (18 major texts) and **Kilkanakku** किलकानकु (18 Minor texts)
+- MELKANAKKU (18 major text)- divided into **Ethuthogai** ईतूटोगाई (8 Prose) and **Ppattuppattu** प्पत्तु पट्टू (10 Anthologies of poems)
+- The Major text deals with the political exploits of PANDYA RULERS and their success.
+- The Minor text deals with Ethics, Morality and benevolence
+- **Thirukural** तिरुकुरल written by **Thiruvalluvar** तिरुवल्लुवर. It is the book on Ethical, Moral, Code of conduct. It serves as the MANUAL PERCEPT to guide people to be a noble living. The book is full of daily life quotations with rational values. It is one of the highly respected texts in the TAMILKKAM तमिलक्कम (means TAMIL only) society. Its relevance can be seen in the courts of TAMIL NADU where it is excepted as a book of Vow.
+- 2 Famous TAMIL EPICS- **Silapatthikaram** सिलापाथिकारम - ILANGO ADIGAL इलाँगो अदिगल ; **Mannimekalai** मनी मेकलाई - CHATTANAR सत्तनार.
 
-## Sangam Literature
+### URDU
 
-- - Sangam literature was the outcome of 3 Sangam assemblies held at Madhurai under the Pandyas rulers. The very First Sangam Assemblies was attended by Gods and Angels. As such No record survived from the First Assembly. Only one text i.e.- Tolkappiyam तोलकापीयम survived from the 2nd Assembly written by Tolkappiyar तोलकप्पियर . It is the initial book of Tamil Grammar.
-    - The Third Sangam assembly was attended by 373 poets out of which 35 were women.
-    - The Most famous poetess of the assembly was the Andal अंदाल (An Alwar saint)
-    - All the text of this assembly survived which is divided into 2 categories- Melkanakku मलकानक्कु (18 major texts) and Kilkanakku किलकानकु (18 Minor texts)
-    - Melkanakku (18 major text)- divided into Ethuthogai ईतूटोगाई (8 Prose) and Ppattuppattu प्पत्तु पट्टू (10 Anthologies of poems)
-    - The Major text deals with the political exploits of Pandya rulers and their success. 
-    - The Minor text deals with Ethics, Morality and benevolence
-    - Thirukural तिरुकुरल written by Thiruvalluvar तिरुवल्लुवर. It is the book on Ethical, Moral, Code of conduct. It serves as the Manual percept to guide people to be a noble living. The book is full of daily life quotations with rational values. It is one of the highly respected texts in the Tamilkkam तमिलक्कम (means Tamil only) society. Its relevance can be seen in the courts of Tamil Nadu where it is excepted as a book of Vow. 
-    - 2 Famous Tamil Epics- Silapatthikaram सिलापाथिकारम - Ilango Adigal इलाँगो अदिगल ; Mannimekalai मनी मेकलाई - Chattanar सत्तनार.
+- URDU is a PERSIAN word that means camps as it emerged from the MILITARY CAMPS from the DELHI SULTANATE
+- URDU is a synthetic language that includes Vocab from TURKISH; PERSIAN; HINDAWI and KHARIBOLI.
+- The Grammatical structure of URDU was inspired by SHAURASAINI सौरासिनी.
+- For the initial time URDU was used for the literary purpose by AMIR KHUSRAO.
+- The official status to URDU was given by the SULTANS OF GOLCONDA.
 
-## Urdu
+## PAINTING
 
-- - Urdu is a Persian word that means camps as it emerged from the Military camps from the Delhi sultanate
-    - Urdu is a synthetic language that includes Vocab from Turkish; Persian; Hindawi and Khariboli. 
-    - The Grammatical structure of Urdu was inspired by Shaurasaini सौरासिनी.
-    - For the initial time Urdu was used for the literary purpose by Amir Khusrao.
-    - The official status to Urdu was given by the Sultans of Golconda.
+- **Vishnudharmottar Puran** - 5th century text - source of INDIAN PAINTING.
 
-# Painting
+### PRE-HISTORIC PAINTING
 
-- - Vishnudharmottar Puran - 5th century text - source of Indian painting.
+- The PRE-HISTORIC PERIOD is divided into 3 Phases- PALEOLITHIC; MESOLITHIC and NEOLITHIC
 
-## Pre-Historic Painting
+#### PALEOLITHIC PERIOD
 
-- - The Pre-historic period is divided into 3 Phases- Paleolithic; Mesolithic and Neolithic
+- At the end of the PALEOLITHIC PERIOD, the PRE-HISTORIC man started to create cave paintings which are known as PETROGLYPH. These were line diagrams in which naturally obtained colours were filled.
+- They used Yellow, Green, Brown, Ochre(गेरुआ), etc.
+- The theme of the Painting was based on Hunting animals and Gathering food
 
-**PALEOLITHIC PERIOD**
+#### MESOLITHIC PERIOD
 
-- - At the end of the Paleolithic period, the Pre-historic man started to create cave paintings which are known as Petroglyph. These were line diagrams in which naturally obtained colours were filled. 
-    - They used Yellow, Green, Brown, Ochre(गेरुआ), etc.
-    - The theme of the Painting was based on Hunting animals and Gathering food
+- The characteristic tool of the MESOLITHIC PERIOD- MICROLITH not only facilitated the Effective killing of animals but also in creating wall Paintings.
+- They used naturally obtained colours. Red was the most dominating colour which was sourced from Animal blood for its longevity.
+- A wide variety of themes were created which gives a glimpse of the culture, Traditions and society of the MESOLITHIC PERIOD.
+  - Hunting animals
+  - Gathering Food
+  - Animal riding- Indicates taming of animals and Domestication of Animals
+  - Fighting scene(men) and Household Chores(women) indicates Division of Labour
+  - Celebration and Group dance point towards cooperation, coordination, sharing and Community sense.
+  - From the Sexual unions, inference can be drawn about the primitive institution of Marriage and The primitive region is reflected in PHALLUS WORSHIP and YONI WORSHIPS.
 
-**MESOLITHIC PERIOD**
+### SADANGA सड़ाग़ OF INDIAN PAINTING
 
-- - The characteristic tool of the Mesolithic period- Microlith not only facilitated the Effective killing of animals but also in creating wall Paintings. 
-    - They used naturally obtained colours. Red was the most dominating colour which was sourced from Animal blood for its longevity.
-    - A wide variety of themes were created which gives a glimpse of the culture, Traditions and society of the Mesolithic period.
-        - Hunting animals
-        - Gathering Food
-        - Animal riding- Indicates taming of animals and Domestication of Animals
-        - Fighting scene(men) and Household Chores(women) indicates Division of Labour
-        - Celebration and Group dance point towards cooperation, coordination, sharing and Community sense.
-        - From the Sexual unions, inference can be drawn about the primitive institution of Marriage and The primitive region is reflected in Phallus worship and Yoni worships.
-
-### Sadanga सड़ाग़ of Indian painting
-
-- - **Sadanga consist of the six limbs**
-    - It was mentioned by Vatsyayana in his book Kamasutra
-        - Roop Bheda - It deals with Subtle and stark differences in the appearance of the figures.
-        - Pramanam - It deals with accurate measurement and Perception
-        - Bhava - Depiction of feelings, emotions
-        - Lavanya - Depiction of Grace
-        - Sadrishyam - similitude
-        - Varnikabhang - Different methods of using Brush
+- **Sadanga** consist of the six limbs
+- It was mentioned by **Vatsyayana** in his book **Kamasutra**
+  - **Roop Bheda** - It deals with Subtle and stark differences in the appearance of the figures.
+  - **Pramanam** - It deals with accurate measurement and Perception
+  - **Bhava** - Depiction of feelings, emotions
+  - **Lavanya** - Depiction of Grace
+  - **Sadrishyam** - similitude
+  - **Varnikabhang** - Different methods of using Brush
 
 ### MURAL PAINTING
 
-- - The painting created on the wall of a cave or any such wall on a very larger scale is known as Mural painting
-    - The Ancient Indian tradition is all about Fresco Mural Painting
-    - **Ajanta Mural** :- Aurangabad, Maharashtra Theme: Purely Buddhism
-    - **Bagh Mural :-** Purely Buddhism
-    - **Badami Mural :**- created inside the Badami cave of Karnataka, Patronized by Chalukya rulers, Particularly Manglesh Chalukya and he has an immense contribution to Badami Mural. Theme: Vaishnavite Tradition.
-    - **Sittanvasal Mural :-** Created inside Sittanavasal cave of Tamil Nadu, Patronized by Pandyas, Theme based on Jainism
-    - **Chola Mural** :- Imperial Chola(early chola's) of Tanjore, They created paintings on the wall of the temple, Patronized by mainline Chola, Theme: Hindu Gods and Goddess and also the images of Chola rulers
-    - **Lepakshi Mural or Vijayanagar Mural** :- Patronized by Vijayanagar rulers Particularly Krishnadeva Raya, Painting was created on walls of the temple but the theme was completely secular in nature. It is also noted for the complete absence of primary colours like Red, green and Blue.
-    - **Kerela Mural** :- It was created on the temple of North Kerala and it was patronized by Travancore rulers and theme was based on Ramayan Mahabharat and Puranas.
-    - **Nayak Mural** :- Madurai, Tamilnadu; Patronized by Nayak rulers of Madurai, Theme: based on both Hindu Mythology and the Life of Vardhman Mahavira.
+- The painting created on the wall of a cave or any such wall on a very larger scale is known as MURAL PAINTING
+- The Ancient INDIAN TRADITION is all about FRESCO MURAL PAINTING
+- **Ajanta Mural** :- AURANGABAD, MAHARASHTRA Theme: Purely BUDDHISM
+- **Bagh Mural :-** Purely BUDDHISM
+- **Badami Mural :**- created inside the BADAMI CAVE of KARNATAKA, Patronized by CHALUKYA RULERS, Particularly MANGLESH CHALUKYA and he has an immense contribution to BADAMI MURAL. Theme: VAISHNAVITE TRADITION.
+- **Sittanvasal Mural :-** Created inside SITTANAVASAL CAVE of TAMIL NADU, Patronized by PANDYAS, Theme based on JAINISM
+- **Chola Mural** :- IMPERIAL CHOLA(early CHOLA'S) of TANJORE, They created paintings on the wall of the temple, Patronized by mainline CHOLA, Theme: HINDU GODS AND GODDESS and also the images of CHOLA RULERS
+- **Lepakshi Mural or Vijayanagar Mural** :- Patronized by VIJAYANAGAR RULERS Particularly KRISHNADEVA RAYA, Painting was created on walls of the temple but the theme was completely secular in nature. It is also noted for the complete absence of primary colours like Red, green and Blue.
+- **Kerela Mural** :- It was created on the temple of North KERALA and it was patronized by TRAVANCORE RULERS and theme was based on RAMAYAN MAHABHARAT and PURANAS.
+- **Nayak Mural** :- MADURAI, TAMILNADU; Patronized by NAYAK RULERS of MADURAI, Theme: based on both HINDU MYTHOLOGY and the Life of VARDHMAN MAHAVIRA.
 
 ### MINIATURE PAINTING
 
-- - It is a very small scale painting created on perishable material like Palm leaves, Paper and cloth.
-    - Though it is small but highly detailed in nature
-    - Many times it is also known as the Book of Illustration. 
-    - Initially, there were two pre-conditions for creating Miniature- 
-    - The Painting must not be larger than 25 sq. inches.
-    - The size of the object to be painted must not be larger than 1/6th of the original size.
-    - Later On, the condition was completely diluted and second Partially
+- It is a very small scale painting created on perishable material like Palm leaves, Paper and cloth.
+- Though it is small but highly detailed in nature
+- Many times it is also known as the BOOK OF ILLUSTRATION.
+- Initially, there were two pre-conditions for creating MINIATURE-
+- The Painting must not be larger than 25 sq. inches.
+- The size of the object to be painted must not be larger than 1/6th of the original size.
+- Later On, the condition was completely diluted and second Partially
 
-**EARLY MINIATURE**
+#### EARLY MINIATURE
 
-- - It was initiated by Pala rulers of East India
-    - It was created on Palm leaves and It was a type of Manuscript painting in which the image was accompanied by Handwritten notes.
-    - Moreover, It was based on Buddhist tradition.
+- It was initiated by PALA RULERS of East INDIA
+- It was created on Palm leaves and It was a type of MANUSCRIPT PAINTING in which the image was accompanied by Handwritten notes.
+- Moreover, It was based on BUDDHIST TRADITION.
 
-**Apbhramsa/ Western Miniature:**
+#### APBHRAMSA/ WESTERN MINIATURE:
 
-- - It was practised in the western part of the country, particularly Gujarat. It was patronised by Jaina traders and the theme was based on Jainism.
-    - In the later stages, they started using paper for painting.
+- It was practised in the western part of the country, particularly GUJARAT. It was patronised by JAINA TRADERS and the theme was based on JAINISM.
+- In the later stages, they started using paper for painting.
 
-# Art and Culture Class 16
+## ART AND CULTURE CLASS 16
 
-## Medieval Painting
+### MEDIEVAL PAINTING
 
-**Humayun**
+#### HUMAYUN
 
-- - When Humayun returned from Iran, with him 2 Persian painters also came to India who were Mir Sayyid Ali and Abdus Samad.
-    - With their arrival, the Persian Safavid style of Miniature started in India
+- When HUMAYUN returned from IRAN, with him 2 PERSIAN PAINTERS also came to INDIA who were MIR SAYYID ALI and ABDUS SAMAD.
+- With their arrival, the PERSIAN SAFAVID STYLE OF MINIATURE started in INDIA
 
-**Akbar**
+#### AKBAR
 
-- - Realism was the keynote of Akbar's period painting
-    - Akbar opened the Gateways of Mughal painting to the fellow Indian painters 
-    - He also opened a Kharkhana of Painting
-    - He started the scheme of rewarding the painters and the most aesthetically pleasing paintings were kept or displayed inside Tasveerkhana. (Studio of Painting)
-    - At this point in time, the Hamzanama हमज़ा नामा series was painted by Mir Sayyid Ali and Abdus Samad. The painting was based on the life of Amir Hamza (the uncle of the Prophet ).
-    - Inspired by this Painting Akbar ordered the Indian literature must be translated into Painting. As such Razmanama(Mahabharat) was painted and Tutinama (tales of the parrot) was painted.
-    - He also created Maktab Khana Where Indian literature was translated into many other languages like Persian, Turkish, etc.
+- REALISM was the keynote of AKBAR'S PERIOD PAINTING
+- AKBAR opened the Gateways of MUGHAL PAINTING to the fellow INDIAN PAINTERS
+- He also opened a KHARKHANA OF PAINTING
+- He started the scheme of rewarding the painters and the most aesthetically pleasing paintings were kept or displayed inside TASVEERKHANA. (Studio of Painting)
+- At this point in time, the HAMZANAMA हमज़ा नामा series was painted by MIR SAYYID ALI and ABDUS SAMAD. The painting was based on the life of AMIR HAMZA (the uncle of the PROPHET ).
+- Inspired by this Painting AKBAR ordered the INDIAN LITERATURE must be translated into Painting. As such RAZMANAMA(MAHABHARAT) was painted and TUTINAMA (tales of the parrot) was painted.
+- He also created MAKTAB KHANA Where INDIAN LITERATURE was translated into many other languages like PERSIAN, TURKISH, etc.
 
-**Jahangir**
+#### JAHANGIR
 
-- - Jahangir himself was an accomplished painter. He was a naturalist and painted various flora and fauna.
-    - Mughal painting reached its climax during Jahangir's period.
-    - The most important feature of Jahangir’s period was beginning of Portrait painting.
-    - Painters of this period started to create Decorated margins in the painting
+- JAHANGIR himself was an accomplished painter. He was a naturalist and painted various flora and fauna.
+- MUGHAL PAINTING reached its climax during JAHANGIR'S PERIOD.
+- The most important feature of JAHANGIR’S PERIOD was beginning of PORTRAIT PAINTING.
+- Painters of this period started to create Decorated margins in the painting
 
-**Shahjahan** 
+#### SHAHJAHAN
 
-- - The realism of Mughal painting was diluted. At this point of time, there was heavy usage of gold and silver colours.
-    - European Influence also started to get reflected in the Painting. For Example, the Shadow effect in the Painting
-    - Moreover, pencil sketching and charcoal sketching also became popular at this time.
+- The REALISM of MUGHAL PAINTING was diluted. At this point of time, there was heavy usage of gold and silver colours.
+- EUROPEAN INFLUENCE also started to get reflected in the Painting. For Example, the SHADOW EFFECT in the Painting
+- Moreover, pencil sketching and charcoal sketching also became popular at this time.
 
-- - During the tenure of Aurangzeb, Patronization of the art forms stopped. Painters in Mughal Court started to Fled to the regional kingdom in Rajasthan and Pahari Areas.
+- During the tenure of AURANGZEB, Patronization of the art forms stopped. Painters in MUGHAL COURT started to Fled to the regional kingdom in RAJASTHAN and PAHARI AREAS.
 
 ### REGIONAL PAINTINGS OF INDIA
 
-### Rajasthani paintings
+#### RAJASTHANI PAINTINGS
 
-- - Initially, in the 17th century, the Rajasthani painting was Based on murals traditions. But in the Later half of the 17th century, they initiated Miniature and Portrait Paintings
-    - Jayadev’s Gita Govinda and Bilhana’s Chaurapanchashika formed the major themes of the Rajasthani paintings.
-    - Lord Krishna has often depicted personality in Rajasthani school.
-    - He was often painted in Blue colour to Highlight His Shyam Varna.
-    - Many styles emerged in Rajasthani school. Important ones are as follows :-
+- Initially, in the 17th century, the RAJASTHANI PAINTING was Based on murals traditions. But in the Later half of the 17th century, they initiated MINIATURE and PORTRAIT PAINTINGS
+- JAYADEV’S GITA GOVINDA and BILHANA’S CHAURAPANCHASHIKA formed the major themes of the RAJASTHANI PAINTINGS.
+- LORD KRISHNA has often depicted personality in RAJASTHANI SCHOOL.
+- He was often painted in Blue colour to Highlight His SHYAM VARNA.
+- Many styles emerged in RAJASTHANI SCHOOL. Important ones are as follows :-
 
-#### _Mewar (Ragmala painting)_
+##### _MEWAR (RAGMALA PAINTING)_
 
-- - It was mainly Practised in the Area of Chittorgarh,
-    - It is known for a unique style of Painting known as Ragmala Painting
-        - Maru Ragini important miniature painting of Ragamala series painted by Sahibdin.
-        - It is a unique fusion of Hindustani Musical Raga into the Painting.
-    - Though it is unique it is inferior in quality.
+- It was mainly Practised in the Area of CHITTORGARH,
+- It is known for a unique style of Painting known as RAGMALA PAINTING
+  - MARU RAGINI important MINIATURE PAINTING of RAGAMALA SERIES painted by SAHIBDIN.
+  - It is a unique fusion of HINDUSTANI MUSICAL RAGA into the Painting.
+- Though it is unique it is inferior in quality.
 
-#### _Marwar painting_
+##### _MARWAR PAINTING_
 
-- - This style of painting is based on the life of Lord Krishna particularly his childhood pranks and his Love affairs with the Gopikas.
+- This style of painting is based on the life of LORD KRISHNA particularly his childhood pranks and his Love affairs with the GOPIKAS.
 
-#### _Kota Bundi painting (Hadoti painting)_
+##### _KOTA BUNDI PAINTING (HADOTI PAINTING)_
 
-- - Though Lord Krishna forms an Important theme in Hadoti but the most specific Characteristic of this painting is the depiction of the local vegetation of Kota and Bundi.
+- Though LORD KRISHNA forms an Important theme in HADOTI but the most specific Characteristic of this painting is the depiction of the local vegetation of KOTA and BUNDI.
 
-#### _Kishangarh painting_
+##### _KISHANGARH PAINTING_
 
-- - It is also known as the Mannerist style. It is known for exaggerated physical features.
-    - For example, pointed nose, sharp chin, almond-shaped eyes, eyes exuding the margins of face, slender curves in the body.
-    - Nihal Chand was the most famous painter of this style. His most famous Painting is " Bani- Thani". Considered as the Fashion lady of India.
+- It is also known as the MANNERIST STYLE. It is known for exaggerated physical features.
+- For example, pointed nose, sharp chin, almond-shaped eyes, eyes exuding the margins of face, slender curves in the body.
+- NIHAL CHAND was the most famous painter of this style. His most famous Painting is "**Bani- Thani**". Considered as the FASHION LADY OF INDIA.
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 56.png>)
 
-### Pahadi Paintings
+#### PAHADI PAINTINGS
 
-#### _Kangra painting_
+##### _KANGRA PAINTING_
 
-- - It was a unique painting practised in Kangra valley of Himachal Pradesh
-    - Around 1835, it was discovered by Charles Metcalfe. 
-    - As such it happened to be the First painting from India which received British Patronage.
-    - It is the unique combination of embroidery and Painting created on cotton cloth.
-    - As per the Kangra tradition, it is used as a gift to be exchanged during festivals and marriages
-    - The theme was based on Hindu God and Goddess.
+- It was a unique painting practised in KANGRA VALLEY of HIMACHAL PRADESH
+- Around 1835, it was discovered by CHARLES METCALFE.
+- As such it happened to be the First painting from INDIA which received BRITISH PATRONAGE.
+- It is the unique combination of embroidery and Painting created on cotton cloth.
+- As per the KANGRA TRADITION, it is used as a gift to be exchanged during festivals and marriages
+- The theme was based on HINDU GOD AND GODDESS.
 
-#### _Guler Painting_
+##### _GULER PAINTING_
 
-- - Raja Sansar Chand of Guler (Jammu) was the most important painter of this style.
-    - Love themes were painted along with a display of Local vegetation
+- RAJA SANSAR CHAND of GULER (JAMMU) was the most important painter of this style.
+- Love themes were painted along with a display of Local vegetation
 
-#### _Thang-ka painting_
+##### _THANG-KA PAINTING_
 
-- - It is practised in the Leh-Ladakh region.
-    - Purely Buddhist in Nature.
-    - Sino-Tibetan influence can be seen in this Painting which is reflected in the image of Dragon
-    - Initially, it was Created on Silk cloth but in the Contemporary time Paper is also used.
-    - The most popular theme of Thang-ka is the Mandala Art
+- It is practised in the LEH-LADAKH region.
+- Purely BUDDHIST in Nature.
+- SINO-TIBETAN INFLUENCE can be seen in this Painting which is reflected in the image of DRAGON
+- Initially, it was Created on Silk cloth but in the CONTEMPORARY time Paper is also used.
+- The most popular theme of THANG-KA is the MANDALA ART
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 57.png>)
 
-### Popular paintings from South India
+### POPULAR PAINTINGS FROM SOUTH INDIA
 
-#### _Kalamkari painting_
+##### _KALAMKARI PAINTING_
 
-- - It is a GI tag painting from the state of Andhra created on Cotton cloth
-    - There are two types of Kalamkari - 
-        - Srikalahasti श्रीकालहस्ती Kalamkari- Based on Hindu Religious themes 
-        - Masulipatnam Kalamkari - Secular Theme(apart from religious paintings)
+- It is a **GI tag painting** from the state of ANDHRA created on Cotton cloth
+- There are two types of KALAMKARI -
+  - SRIKALAHASTI श्रीकालहस्ती KALAMKARI- Based on HINDU RELIGIOUS THEMES
+  - MASULIPATNAM KALAMKARI - Secular Theme(apart from religious paintings)
 
-#### _Tanjore painting_
+##### _TANJORE PAINTING_
 
-- - It is one of the costliest paintings of India Created on a wooden Panel. In the very first step, cotton cloth is pasted on Panel and it is coated with the mixture of Tamarind and Jaggery 
-    - In the next step, an image is created to be filled with many colours including Real Gold
-    - The speciality of Tanjore painting is the usage of Real-life ornaments pasted in paintings
-    - Theme - is purely based on Hindu mythology-Ramayana, Mahabharata, Puranas and particularly flute-playing Krishna is one of the most common themes of Tanjore.
+- It is one of the costliest paintings of INDIA Created on a wooden Panel. In the very first step, cotton cloth is pasted on Panel and it is coated with the mixture of Tamarind and Jaggery
+- In the next step, an image is created to be filled with many colours including Real Gold
+- The speciality of TANJORE PAINTING is the usage of REAL-LIFE ORNAMENTS pasted in paintings
+- Theme - is purely based on HINDU MYTHOLOGY-RAMAYANA, MAHABHARATA, PURANAS and particularly FLUTE-PLAYING KRISHNA is one of the most common themes of TANJORE.
 
-#### _Mysore painting_
+##### _MYSORE PAINTING_
 
-- - It was patronized by the Wodeyar dynasty of Mysore, particularly Krishnaraja Wodeyar.
-    - The Important characteristic of Mysore's painting is 
-    - It is created on both wooden panels and glass panels.
-    - The use of contrasting colours 
-    - Creating mute effect in the painting.
-    - Also the use of Glittery background
-    - Another very important feature is the use of gesso paste which is a mixture of Lead, Gambos and glue 
-    - It is a transparent mixture that is applied to painting to provide it shine and safeguard it from insects.
-    - Theme - was mainly based on Hindu Mythology and particularly Mysore Dusshera.
+- It was patronized by the WODEYAR DYNASTY OF MYSORE, particularly KRISHNARAJA WODEYAR.
+- The Important characteristic of MYSORE'S PAINTING is
+- It is created on both wooden panels and glass panels.
+- The use of contrasting colours
+- Creating mute effect in the painting.
+- Also the use of Glittery background
+- Another very important feature is the use of GESSO PASTE which is a mixture of Lead, Gambos and glue
+- It is a transparent mixture that is applied to painting to provide it shine and safeguard it from insects.
+- Theme - was mainly based on HINDU MYTHOLOGY and particularly MYSORE DUSSHERA.
 
-### Miscellaneous Paintings
+### MISCELLANEOUS PAINTINGS
 
-#### _1. Gond Art_
-
-- - It is the art of the Gond tribal community of MP and Chhattisgarh.
+1.  **GOND ART**
+    - It is the art of the GOND TRIBAL COMMUNITY of MP and CHHATTISGARH.
     - They create folk themes based on their culture.
     - The speciality is painting in the form of Dots.
-    - It has UNESCO heritage status.
-        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 21.jpeg>)
+    - It has **UNESCO heritage status**.
+      - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 21.jpeg>)
 
-#### _2. Patana Kalam (company style)_
-
-- - It is Mainly by Men of Bihar.
-    - In terms of technique, it is quite closer to the Mughal style of Painting. They highlighted the subaltern approach (The hardships of the poor, impoverished and marginalised people) of painting.
+2.  **PATANA KALAM (COMPANY STYLE)**
+    - It is Mainly by Men of BIHAR.
+    - In terms of technique, it is quite closer to the MUGHAL STYLE OF PAINTING. They highlighted the subaltern approach (The hardships of the poor, impoverished and marginalised people) of painting.
     - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 22.jpeg>)
 
-#### _3. Manjusha painting_
-
-- - It is from Bihar
+3.  **MANJUSHA PAINTING**
+    - It is from BIHAR
     - The speciality of this painting is the depiction of snakes and their association with human society
     - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 23.jpeg>)
 
-#### _4. Madhubani Painting_
+4.  **MADHUBANI PAINTING**
+    - It was mainly practised by women of NORTHERN BIHAR
+    - Initially, it was a mural type of Painting created on the walls of the houses on the basis of the theme. There were two types of MADHUBANI -
+      - **Aripan** अरिपन - based on HINDU RELIGIOUS THEMES created on Entrance and Prayer Rooms.
+        - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 24.jpeg>)
 
-- - It was mainly practised by women of Northern Bihar
-    - Initially, it was a mural type of Painting created on the walls of the houses on the basis of the theme. There were two types of Madhubani - 
-        - Aripan अरिपन - based on Hindu religious themes created on Entrance and Prayer Rooms.
-            - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 24.jpeg>)
+- **Kohabar** कोहबर MADHUBANI : Created on inside bedrooms based on Erotic love theme
 
-- - Kohabar कोहबर Madhubani : Created on inside bedrooms based on Erotic love theme
+- Colours were mixed in rice flour to be applied on walls
+- In modern times this art became very popular as such canvas MADHUBANI also started.
+- It is noted for its compactness and Complete utilisation of canvas
 
-- - Colours were mixed in rice flour to be applied on walls
-    - In modern times this art became very popular as such canvas Madhubani also started.
-    - It is noted for its compactness and Complete utilisation of canvas
-
-#### _5. Pattachitra painting_
-
-- - It is a type of scroll painting created on cotton cloth, silk cloth and Palm leaves
+5.  **PATTACHITRA PAINTING**
+    - It is a type of scroll painting created on cotton cloth, silk cloth and Palm leaves
     - They also used needles for creating the image on Palm leaves
-    - It is a GI Tag painting from West Bengal.
-    - The theme of the painting is based on the legends of Lord Jagganath Balabhadra and Subhadra.
+    - It is a GI TAG PAINTING from WEST BENGAL.
+    - The theme of the painting is based on the legends of LORD JAGGANATH BALABHADRA and SUBHADRA.
     - A floral border is a must around the paintings
     - Generally, there are no landscapes, perspectives, and distant views.
     - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 25.jpeg>)
 
-#### _6. Warli painting_
-
-- - It was mainly practised by the Worli tribe of Maharashtra
+6.  **WARLI PAINTING**
+    - It was mainly practised by the WORLI TRIBE of MAHARASHTRA
     - Initially, it was a mural painting created on the walls of their houses
-    - It depicts the unique folk culture of worli like their celebration, Group dance, etc.
-    -  In recent times the worli theme became very popular and it can be seen on the textiles also apart from painting.
+    - It depicts the unique folk culture of WORLI like their celebration, Group dance, etc.
+    - In recent times the WORLI theme became very popular and it can be seen on the textiles also apart from painting.
     - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 26.jpeg>)
 
-#### _7. Pabuji Ki Phad_
+7.  **PABUJI KI PHAD**
+    - This painting is based on the legend of the RAJASTHANI WARRIOR - PABUJI. As such in this painting, there is also a depiction of Elephants, horses, etc.
+    - ![Art and Culture --- कला और संस्कृति](<Z9Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 27.jpeg>)
 
-- - This painting is based on the legend of the Rajasthani warrior - Pabuji. As such in this painting, there is also a depiction of Elephants, horses, etc.
-    - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 27.jpeg>)
-
-#### _8.Pithora painting_
-
-- - Rathva Bhils of Panchmahal region of Gujarat and Jhabua.
+8.  **Pithora painting**
+    - RATHVA BHILS of PANCHMAHAL region of GUJARAT and JHABUA.
     - ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 58.png>)
 
-- - _Saura Tribal Art_
-        - _Wall painting done by Saura Tribe people, Orrisa._
+- **Saura Tribal Art**
+  - Wall painting done by SAURA TRIBE people, ORRISA.
 
-- - _Kalighata painting_
-        - Kalighat Kali Temple in Kolkata
-        
+- **Kalighata painting**
+  - KALIGHAT KALI TEMPLE in KOLKATA
 
-# Art and Culture Class 17
+## ART AND CULTURE CLASS 17
 
-## Bhakti Movement (7th to 12th centuries AD) :
+## BHAKTI MOVEMENT (7th to 12th centuries AD) :
 
-<<41567_classroom_0__saints.pdf>>
+![[41567_classroom_0__saints.pdf]]
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 28.jpeg>)
 
-- - The origin of Bhakti can be traced to the Gupta Period which emphasised the concept of devotion instead of animal sacrifice
-    - The Bhakti Movement began in the 7th Century AD in the state of Tamil Nadu.
-    - Two types of Bhakti saints emerged who were the Alwars अल्वर (devote of Lord Vishnu) and Nayannar नयनारस (devotee of Lord Shiva)
-    - They started to compose simple poems in praise of the God; for example, Alwars wrote Prabhandam प्रबंदम and Prabhandakavyams प्रबंध काव्यम for Lord Vishnu.
-    - Nayannar wrote Tevaram तेवारम and Thevacrams तेवाक्रमस in praise of Lord Shiva.
-    - In the 8th Century AD, Adishakaracharya defended Hinduism on intellectual levels and propounded the philosophy of Advaita Vedanta.
-    - In the early 11th Century, Ramanujacharya of Srirangam propounded Vishisht Advaitvada in which he emphasised the importance of Bhakti 
-    - He further maintained that Bhakti is the path to salvation 
-    - Many of his followers popularised Bhakti Movement in other parts of the country 
+- The origin of BHAKTI can be traced to the GUPTA PERIOD which emphasised the concept of devotion instead of animal sacrifice
+- The BHAKTI MOVEMENT began in the 7th Century AD in the state of TAMIL NADU.
+- Two types of BHAKTI SAINTS emerged who were the ALWARS अल्वर (devote of LORD VISHNU) and NAYANNAR नयनारस (devotee of LORD SHIVA)
+- They started to compose simple poems in praise of the GOD; for example, ALWARS wrote PRABHANDAM प्रबंदम and PRABHANDAKAVYAMS प्रबंध काव्यम for LORD VISHNU.
+- NAYANNAR wrote TEVARAM तेवारम and THEVACRAMS तेवाक्रमस in praise of LORD SHIVA.
+- In the 8th Century AD, ADISHAKARACHARYA defended HINDUISM on intellectual levels and propounded the philosophy of ADVAITA VEDANTA.
+- In the early 11th Century, RAMANUJACHARYA of SRIRANGAM propounded VISHISHT ADVAITVADA in which he emphasised the importance of BHAKTI
+- He further maintained that BHAKTI is the path to salvation
+- Many of his followers popularised BHAKTI MOVEMENT in other parts of the country
 
-**Veershaiva or Lingayats(today they are different) - Karnataka**:
+#### VEERSHAIVA OR LINGAYATS(today they are different) - KARNATAKA:
 
-- - It was founded in the 12th Century AD by a person named Basavanna 
-    - They are generally referred to as "Heroes of Lord Shiva" or the people who always carry the pendant form of Lord Shiva 
-    - They believed Lord Shiva was the ultimate reality and they refuted the authority of Veda 
-    - Moreover, they believed that at the time of death, they get united with Lord Shiva 
-    - As such they do not cremate their dead instead bury it 
-    - It was a progressive movement that also focused on reforms in society 
-    - For example, they were in favour of widow remarriage and post-puberty marriage
-    - They talked about the upliftment of Women and backwards and contested caste system 
-    - People from all the walks of life were included in their cadre like untouchables, women, etc 
-    - They often wrote simple poems in the Kannada language known as Vachna's and Jangama 
+- It was founded in the 12th Century AD by a person named BASAVANNA
+- They are generally referred to as "Heroes of LORD SHIVA" or the people who always carry the pendant form of LORD SHIVA
+- They believed LORD SHIVA was the ultimate reality and they refuted the authority of VEDA
+- Moreover, they believed that at the time of death, they get united with LORD SHIVA
+- As such they do not cremate their dead instead bury it
+- It was a progressive movement that also focused on reforms in society
+- For example, they were in favour of widow remarriage and post-puberty marriage
+- They talked about the upliftment of Women and backwards and contested caste system
+- People from all the walks of life were included in their cadre like untouchables, women, etc
+- They often wrote simple poems in the KANNADA LANGUAGE known as VACHNA'S and JANGAMA
 
-**Maharashtra**:
+#### MAHARASHTRA:
 
-- - The Bhakti Movement started to take shape in Maharashtra by the 13th Century 
-    - The proponents of Bhakti in Maharashtra were Vari Varkari of Pandharpur 
-    - The most popular figure in Vari Varkari tradition was Gyandev, Namdev and Tukaram
-    - Tukaram was Sudra by caste and he was a rebel in many ways 
-    - He started to write on Hindu Religious matters, not in Sanskrit but in Marathi 
-    - This way he defied many injunctions of Hindu society 
-    - Angry with his initiatives, people threw all his books into the river 
-    - As such he observed a 13-day epic fast; after which his books mysteriously appeared from the river 
-    - These Bhakti Saints of Maharashtra immensely contributed to Marathi and Bhakti literature
+- The BHAKTI MOVEMENT started to take shape in MAHARASHTRA by the 13th Century
+- The proponents of BHAKTI in MAHARASHTRA were VARI VARKARI of PANDHARPUR
+- The most popular figure in VARI VARKARI TRADITION was GYANDEV, NAMDEV and TUKARAM
+- TUKARAM was SUDRA by caste and he was a rebel in many ways
+- He started to write on HINDU RELIGIOUS matters, not in SANSKRIT but in MARATHI
+- This way he defied many injunctions of HINDU society
+- Angry with his initiatives, people threw all his books into the river
+- As such he observed a 13-day epic fast; after which his books mysteriously appeared from the river
+- These BHAKTI SAINTS of MAHARASHTRA immensely contributed to MARATHI and BHAKTI LITERATURE
 
-### Bhakti Movement in North India:
+### BHAKTI MOVEMENT IN NORTH INDIA:
 
-- - A large number of Bhakti Saints emerged in the north and northwest part of the country 
-    - The two stremas emerged - Saguna सगुण bhakti and Nirguna निर्गुण Bhakti
-    - The adherents of Saguna Bhakti believed in the particular form and shape of God with specific attributes
-    - To them, God is mutable and can take human form also.
-    - For example Tulsidas, Surdas, Meerabai, Shakardev, etc
-    - The adherents of Nirguna Bhakti believed that God is formless and shapeless 
-    - To them, God is eternal, immutable and omnipotent 
-    - Kabir was one of the initially revered saints along with Gurunanak 
-    - They were highly critical of the caste system and the orthodoxies which existed in the society
-    - Kabir often composed satirical couplets known as Doha.
-    - Later, his dohas were compiled in Bijak and Kabir Granthavali.
-    - Guru Nanak composed songs for the Nirankar and his songs are known as Shabad शबद
+- A large number of BHAKTI SAINTS emerged in the north and northwest part of the country
+- The two stremas emerged - SAGUNA सगुण BHAKTI and NIRGUNA निर्गुण BHAKTI
+- The adherents of SAGUNA BHAKTI believed in the particular form and shape of GOD with specific attributes
+- To them, GOD is mutable and can take human form also.
+- For example TULSIDAS, SURDAS, MEERABAI, SHAKARDEV, etc
+- The adherents of NIRGUNA BHAKTI believed that GOD is formless and shapeless
+- To them, GOD is eternal, immutable and omnipotent
+- KABIR was one of the initially revered saints along with GURUNANAK
+- They were highly critical of the caste system and the orthodoxies which existed in the society
+- KABIR often composed satirical couplets known as DOHA.
+- Later, his DOHAS were compiled in BIJAK and KABIR GRANTHAVALI.
+- GURU NANAK composed songs for the NIRANKAR and his songs are known as SHABAD शबद
 
-#### _Sufi Movement:_
+#### _SUFI MOVEMENT:_
 
-- - The word Sufi is derived from the word "suff" i.e. a piece of woollen cloth 
-    - Soon after the emergence of Islam by the end of the 9th Century AD, Islam came under the influence of theologians who started to give a dogmatic explanation of Islam and created scholastic ways 
-    - It led to the dilution of the original tenets of Islam 
-    - In this scenario, the Sufis emerged to safeguard the original practices of Islam 
-    - They claimed direct spiritual genealogy from the Prophet and the Allah
-    - They emphasised the methods of meditation, music and dance as a way to connect with the God
-    - Generally, Sufis live in a hospice known as Khankah
-    - The elder of Khankan or Guru was known as Seikh, Murshi, Pir or Khawaja
-    - Its followers were known as Murid
+- The word SUFI is derived from the word "suff" i.e. a piece of woollen cloth
+- Soon after the emergence of ISLAM by the end of the 9th Century AD, ISLAM came under the influence of theologians who started to give a dogmatic explanation of ISLAM and created scholastic ways
+- It led to the dilution of the original tenets of ISLAM
+- In this scenario, the SUFIS emerged to safeguard the original practices of ISLAM
+- They claimed direct spiritual genealogy from the PROPHET and the ALLAH
+- They emphasised the methods of meditation, music and dance as a way to connect with the GOD
+- Generally, SUFIS live in a hospice known as KHANKAH
+- The elder of KHANKAN or GURU was known as SEIKH, MURSHI, PIR or KHAWAJA
+- Its followers were known as MURID
 
-On the basis of belief there were two types of Sufi:
+On the basis of belief there were two types of SUFI:
 
-- - Bashara बाशरा - They believe in the Islamic law Shariat (those who have वास्ता)
-    - Besara बेशरा - They did not believe in Shariat
-    - Sufis organised themselves in the groups generally known as Silsilas
+- **Bashara** बाशरा - They believe in the ISLAMIC LAW SHARIAT (those who have वास्ता)
+- **Besara** बेशरा - They did not believe in SHARIAT
+- SUFIS organised themselves in the groups generally known as SILSILAS
 
-**Chizstia Silsilah**
+##### CHIZSTIA SILSILAH
 
-- - The most important Silsilah which came to India was Chizstia Silsilah
-    - Khawaja Moinuddin Chizsti was Ajmer was the initial important Sufi Saint in India
-    - He was often referred to as Garib Nawaz as he had immense sympathy for the poor
-    - He started the community food service for the poor which later came to be known as Langar
-    - The next important Chizsti saint is Fariduddin Ganj-i-Shakar; also known as Baba Farid 
-    - His teachings were incorporated into the holy text of Sikhism i.e. the Guru Grant Sahib
-    - Nizamuddin Auliya of Delhi was the next saint of Chsitai Silslah and it is said he saw the rule of 7 sultans of Delhi but never paid them visits nor accepted any official position
+- The most important SILSILAH which came to INDIA was CHIZSTIA SILSILAH
+- KHAWAJA MOINUDDIN CHIZSTI was AJMER was the initial important SUFI SAINT in INDIA
+- He was often referred to as GARIB NAWAZ as he had immense sympathy for the poor
+- He started the community food service for the poor which later came to be known as LANGAR
+- The next important CHIZSTI SAINT is FARIDUDDIN GANJ-I-SHAKAR; also known as BABA FARID
+- His teachings were incorporated into the holy text of SIKHISM i.e. the GURU GRANT SAHIB
+- NIZAMUDDIN AULIYA of DELHI was the next saint of CHSITAI SILSLHA and it is said he saw the rule of 7 SULTANS OF DELHI but never paid them visits nor accepted any official position
 
-**Suhrawadi Silsilah:**
+##### SUHRAWADI SILSILAH:
 
-- - It was founded by Shaikh Bahauddin Zakaria
-    - He accepted the official position offered to him by Delhi Sultan Illtutmish
-    - He was also given the title of Seikh-ul-Isalm (Leader of Islam by Iltutmish)
+- It was founded by SHAIKH BAHAUDDIN ZAKARIA
+- He accepted the official position offered to him by DELHI SULTAN ILLTUTMISH
+- He was also given the title of SEIKH-UL-ISALM (Leader of ISLAM by ILTUTMISH)
 
-**Sub-categories of Sufism**:
+##### SUB-CATEGORIES OF SUFISM:
 
-- - In the later part of the Medieval period, many subcategories emerged within Sufism in Indian Sub-continent like Malang, Haideri, Kalandar, etc
-    - Qalandars were specifically known for difficult physical postures and extreme exercise
+- In the later part of the MEDIEVAL PERIOD, many subcategories emerged within SUFISM in INDIAN SUB-CONTINENT like MALANG, HAIDERI, KALANDAR, etc
+- KALANDARS were specifically known for difficult physical postures and extreme exercise
 
-### Sikhism
+### SIKHISM
 
-- - Established by Guru Nanak (1469–1539) 
-    - There are 10 gurus
-    - Guru Arjan and Guru Tegh Bahadur, after they refused to convert to Islam, were tortured and executed by the Mughal rulers.
-    - 10th, Guru Gobind Singh (1666–1708)
-        - Established the Khalsa order - soldier-saints.
-        - Khalsa upholds the highest Sikh virtues of commitment, dedication and a social conscious.
-        - Khalsa goes through Sikh baptism ceremony
-            - _5K’s: Kesh (uncut hair), Kangha (a wooden comb), Kara (a iron bracelet), Kachera (cotton underpants) and Kirpan (an iron dagger)_
-    - Guru Nanak first started this institution of langar(free community kitchen) which outlines the basic Sikh principles of service, humility and equality.
+- Established by GURU NANAK (1469–1539)
+- There are 10 GURUS
+- GURU ARJAN and GURU TEGH BAHADUR, after they refused to convert to ISLAM, were tortured and executed by the MUGHAL RULERS.
+- 10th, GURU GOBIND SINGH (1666–1708)
+  - Established the KHALSA ORDER - soldier-saints.
+  - KHALSA upholds the highest SIKH virtues of commitment, dedication and a social conscious.
+  - KHALSA goes through SIKH baptism ceremony
+    - _5K’s: Kesh (uncut hair), Kangha (a wooden comb), Kara (a iron bracelet), Kachera (cotton underpants) and Kirpan (an iron dagger)_
+- GURU NANAK first started this institution of LANGAR(free community kitchen) which outlines the basic SIKH principles of service, humility and equality.
 
 |   |   |   |   |
 |---|---|---|---|
 |**The Ten Sikh Gurus – Lineage Chart**||||
-|**The First Master**|**Guru Nanak**|**(1469 to 1539)**|Babur<br><br>Started langar facilities|
-|The Second Master|Guru Angad|(1504 to 1552)|Invented gurumukhi|
-|The Third Master|Guru Amar Das|(1479 to 1574)||
-|The Fourth Master|Guru Ram Das|(1534 to 1581)|He founded Amritsar|
-|**The Fifth Master**|**Guru Arjan**|**(1563 to 1606)**|**Adi Granth (Guru Granth sahib)**<br><br>Akbar|
-|**The Sixth Master**|**Guru Hargobind**|**(1595 to 1644)**|**Wrote - Miri and Piri**|
-|The Seventh Master|Guru Har Rai|(1630 to 1661)||
-|The Eighth Master|Guru Harkishan|(1656 to 1664)||
-|The Ninth Master|Guru Tegh Bahadur|(1621 to 1675)||
-|**The Tenth Master**|**Guru Gobind Singh**|**(1666 to 1708)**|Wrote - Dal Khalsa|
+|**The First Master**|**GURU NANAK**|**(1469 to 1539)**|BABUR<br><br>Started LANGAR facilities|
+|The Second Master|GURU ANGAD|(1504 to 1552)|Invented GURUMUKHI|
+|The Third Master|GURU AMAR DAS|(1479 to 1574)||
+|The Fourth Master|GURU RAM DAS|(1534 to 1581)|He founded AMRITSAR|
+|**The Fifth Master**|**GURU ARJAN**|**(1563 to 1606)**|**ADI GRANTH (GURU GRANTH SAHIB)**<br><br>AKBAR|
+|**The Sixth Master**|**GURU HARGOBIND**|**(1595 to 1644)**|**Wrote - Miri and Piri**|
+|The Seventh Master|GURU HAR RAI|(1630 to 1661)||
+|The Eighth Master|GURU HARKISHAN|(1656 to 1664)||
+|The Ninth Master|GURU TEGH BAHADUR|(1621 to 1675)||
+|**The Tenth Master**|**GURU GOBIND SINGH**|**(1666 to 1708)**|Wrote - DAL KHALSA|
 
-## Traditional Theatres of India
+## TRADITIONAL THEATRES OF INDIA
 
-- - Bhand Pather भांड पाथेर - J&K; the theme is a satire on society
-    - Swang स्वाँग - Hathras Swang from UP and Rohtak Swang from Haryana; theme - depiction of Mundane activities of life
-    - RasLeela रासलीला - UP; theme - love affair of Lord Krishna
-    - Kalbelia - Rajasthan (Tribal Dance)
-    - Ramleela रामलीला - UP; theme - life story of Lord Rama
-    - Nautanki नौटंकी - UP; the theme is based on daily life stories with an element of entertainment and satire; they often incorporate the dohas and choupais.
-    - Maach माच - from MP; theme included the daily complaints about mother-in-law by filling water at well
-    - Pandwani पांडवानी - Chattisgarh; story of Alha and Udal
-    - Jatra जात्रा - origin state is the West Bengal; the theme is fair and organised in honour of the God
-    - Bhavai भावाई - Gujarat; the theme is Navratra and Devotion
-    - Bhaona भाओना - Assam; presentation of Ankiya Naat अंकिया नाट of Assam
-    - Dashavatar दशाअवतार - Goa; theme - ten incarnations of Lord Vishnu
-    - Yakshagana यक्षगान - Karnataka; theme - different episodes from Mahabharat
-    - Tamasha तमाशा - Maharashtra; it is performed by the fisherman community from Maharashtra; it includes the depiction of daily life with the performance of dance on Lavani लावनी music.
-    - Mardani khel - Maharashtra (Martial art dance)
-    - Mudiyettu मुँदी येत्तु - Kerela; the theme is based on the triumph of Goddess Bhadra Kali over Asur Darika दरिका
-    - Theyyam थेय्यम - Kerela; It is derived from the Sanskrit word Daivam दैवम which means divide; theme - Hindu Mythology
+- **Bhand Pather** भांड पाथेर - J&K; the theme is a satire on society
+- **Swang** स्वाँग - HATHRAS SWANG from UP and ROHTAK SWANG from HARYANA; theme - depiction of Mundane activities of life
+- **RasLeela** रासलीला - UP; theme - love affair of LORD KRISHNA
+- **Kalbelia** - RAJASTHAN (Tribal Dance)
+- **Ramleela** रामलीला - UP; theme - life story of LORD RAMA
+- **Nautanki** नौटंकी - UP; the theme is based on daily life stories with an element of entertainment and satire; they often incorporate the DOHAS and CHOUPAIS.
+- **Maach** माच - from MP; theme included the daily complaints about mother-in-law by filling water at well
+- **Pandwani** पांडवानी - CHATTISGARH; story of ALHA and UDAL
+- **Jatra** जात्रा - origin state is the WEST BENGAL; the theme is fair and organised in honour of the GOD
+- **Bhavai** भावाई - GUJARAT; the theme is NAVRATRA and Devotion
+- **Bhaona** भाओना - ASSAM; presentation of ANKIYA NAAT अंकिया नाट of ASSAM
+- **Dashavatar** दशाअवतार - GOA; theme - ten incarnations of LORD VISHNU
+- **Yakshagana** यक्षगान - KARNATAKA; theme - different episodes from MAHABHARAT
+- **Tamasha** तमाशा - MAHARASHTRA; it is performed by the fisherman community from MAHARASHTRA; it includes the depiction of daily life with the performance of dance on LAVANI लावनी music.
+- **Mardani khel** - MAHARASHTRA (Martial art dance)
+- **Mudiyettu** मुँदी येत्तु - KERELA; the theme is based on the triumph of GODDESS BHADRA KALI over ASUR DARIKA दरिका
+- **Theyyam** थेय्यम - KERELA; It is derived from the SANSKRIT word DAIVAM दैवम which means divide; theme - HINDU MYTHOLOGY
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 29.jpeg>)
 
-- - Koothiyattam कूथियत्तम - Kerela. It is the oldest surviving traditional theatre of India which is performed in Sanskrit and Malayalam languages based on the customs and traditions of Hinduism
-    - Therukoothu थेरुकूटू - Tamil Nadu; the theme is rain goddess Mariamman मरियम्मन; in this theatre, the life of Draupadi is performed  
+- **Koothiyattam** कूथियत्तम - KERELA. It is the oldest surviving traditional theatre of INDIA which is performed in SANSKRIT and MALAYALAM languages based on the customs and traditions of HINDUISM
+- **Therukoothu** थेरुकूटू - TAMIL NADU; the theme is rain goddess MARIAMMAN मरियम्मन; in this theatre, the life of DRAUPADI is performed
 
-### Puppetry
+### PUPPETRY
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 30.jpeg>)
 
-- - Gombeyatta, Karnataka
-    - Tholu Bommalata - Andhra Pradesh
-    - Ravanachhaya, Odisha - The puppets are in one piece and have no joints.
-    - Yampuri, Bihar - these puppets are made of wood.
-    - Putul Nautch - West Bengal
+- **Gombeyatta**, KARNATAKA
+- **Tholu Bommalata** - ANDHRA PRADESH
+- **Ravanachhaya**, ODISHA - The puppets are in one piece and have no joints.
+- **Yampuri**, BIHAR - these puppets are made of wood.
+- **Putul Nautch** - WEST BENGAL
 
-- - **Important Centres for trade and artisanal production in central and south India**
+- **Important Centres for trade and artisanal production in central and south India**
 
 ![Art and Culture --- कला और संस्कृति](<Z9 Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 31.jpeg>)
