@@ -1,30 +1,1131 @@
-Security
+## Security
+- Security is about protection from harm or threats.
 
-Tuesday, 13 December 2022
+### Vocab
+- **Confidentiality**
+- **Grey zone operations**
+- **Hybrid Warfare**
+- **Risk insurance**
+- **Smart Grid**
+- **Weaponization of everything**
 
-12:01 PM
+## Linkages between development and spread of extremism
+- Development
+    - + -> Infrastructure, Improvement in living standards.
+    - - -> Displacement, Environment
 
-|   |   |
-|---|---|
-||- - Security is about protection from harm or threats.|
-|### Vocab|- - Confidentiality<br>    - Grey zone operations<br>    - Hybrid Warfare<br>    - Risk insurance<br>    - Smart Grid<br>    - Weaponization of everything|
-|### Linkages between development and spread of extremism|- - Development<br>        - + -> Infrastructure, Improvement in living standards.<br>        - - -> Displacement, Environment|
-|Extremism|- - **Introduction**<br>        - Naxalism is a form of armed insurgency against the State motivated by leftist/Maoist ideologies.<br>        - Extremism is a ideology of promoting extreme political, social or religious motives, often by violent means.<br><br>- - **Where**<br>        - Severely affected - CH, JH, BR, OD<br>            - 69.10% incidents<br>        - Partially affected - WB, AP, TL, MH<br>        - Naxalite-Maoist insurgency in Chhattisgarh<br><br>![Security](<Z9 Obsidian-files/Media/DOCX/Security 6.jpeg>)<br><br>- - **Reasons**<br>        - **Economic**<br>            - Unemployment, poverty, distress migration<br>            - Land related issues - Landlessness , Exploitative landlords<br>            - Deprivation of traditional rights over forest produce<br>        - **Social**<br>            - lack of access to basic service<br>            - Displacement due to mining and industrial projects<br>            - Marginalization : Denial of access to public facilities, untouchability<br>            - Perceived tribal cultures and identities leading to alienation<br>            - Forest Management and Livelihood of Tribals<br><br>- - **Developmental**<br>        - Poor infrastructure, limited access to education, healthcare, and employment opportunities.<br>        - Dam construction - 40% people displaced after independence are tribals.<br>        - Forced evictions without compensation and rehabilitation<br><br>- - **Governance**<br>        - Corruption, and inadequate implementation of government schemes.<br>        - lack of political representation<br>        - Lack of essential pubic services, lack of rule of law<br>        - Poor-implementation of constitutional safeguards<br>            - Article 244 - Tribes Advisory Councils (TAC)<br>    - Insufficient security presence<br>    - Maoist propaganda and radicalization<br><br>- - Emerging issues<br>        - Urban Expansion : for recruitment, fundraising, and terror attacks.<br>        - Shifting Tactics : using technologies like Cryptocurrencies; internet; AI in operations<br><br>- - **Revolutionary Strategy**<br>        - Organization, consolidation and preservation in difficult and isolated terrains<br>        - Progressive expansion<br>        - Destruction, Guerrilla warfare and Armed Struggle.<br>        - Destroy infrastructure, roads, telecom networks, keep population isolated form mainstream.<br>        - Propaganda and disinformation<br><br>- - **Measures \| Way forward**<br>        - Good governance<br>            - Democratic decentralization : Effective implementation Panchayati Raj Extension to Scheduled Areas (PESA)<br>            - Inclusive Development Program : focusing on healthcare, education, infrastructure, employment opportunities<br>            - Recognition of forest rights<br>            - DBT transfers<br>            - Social welfare policies<br>                - Vanbandhu Kalyan Yojana etc.<br>            - Bridging trust deficit - Rule of law, Prevent illegal police actions<br>            - Inclusive growth programs<br>                - Aspirational Blocks Programme<br>                - NRLM; MGNREGA<br>        - Economic development<br>            - Livelihood generation; infrastructure development; vocational training<br>        - Proper implementation of FRA<br>            - Recognizing land titles<br><br>- - Security related measures<br>        - Special Anti-Naxal Forces<br>            - E.g. Greyhound in Andhra Pradesh.<br>            - Commando Battalion for Resolute Action (CoBRA) forces<br>        - Strengthen Intelligence<br>        - Modernize equipment - Drones<br>        - Humane approach<br>            - Reasonable, necessary and proportional application of AFSPA<br>        - Community policing<br>            - Village volunteer force<br>        - Joint operations between CAPF and state police<br>            - Operation Green Hunt<br>        - Training and capacity building<br>            - Jungle Warfare School (CIJWS) in Mizoram.<br>    - Civil administration<br>        - Trust-Building and community engagement<br>            - Organizing Jan Sunwais (public hearings)<br>        - Effective delivery of government schemes<br>        - Capacity-building programs for PRI members<br><br>- - Media Action Plan - to counter Naxal propaganda<br>    - Surrender and Rehabilitation Policy.<br>    - Social<br>        - Eklavya Schools<br>        - Chhattisgarh Government's Chulo Asman program<br>        - Tribal youth exchange programme<br>    - Economic<br>        - Skill development<br>            - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)<br>        - FRA, 2006 - Ensure rights over minor forest produce.<br>        - Rehabilitation and Resettlement Policy of 2007.<br>        - Land reforms and titling<br>            - E.g. SWAMITVA Scheme<br>        - Infrastructure<br>            - E.g. Pradhan Mantri Gram Sadak Yojana.<br>    - Development related measures<br>        - Road Connectivity development<br>            - PMGSK<br>        - Electrification and Telecommunication:<br>            - DDUGJY and BharatNet<br><br>- - Special Central Assistance. (SCA)<br>    - Modernization and upgradation (MPF Scheme)<br>    - District Mineral Development Fund - for tribal area development<br>    - LWE mobile tower project<br>    - Cooperation with neighboring countries<br>        - Operation Sampriti - Indo-Bangla anti terror mission<br>        - Operation all clear - Indo- Bhutan anti insurgent mission<br>    - Security Related Expenditure (SRE) Scheme<br>    - **Conclusion**<br>        - **SAMADHAN Approach**|
-|||
-|### Security Challenges & their Management in Border Areas|- - **Introduction**<br>        - India has over 15000 km of land and a coastline of over 7500 kms.<br>        - Effective border management becomes crucial for sovereignty and territorial integrity of the nation.<br><br>- - ![Security](<Z9 Obsidian-files/Media/DOCX/Security 2.png>)<br><br>- - **Factors responsible for issue**<br>        - Historical Factors - Colonial past<br>        - Geographical Factors - Terrain, Topography, Connectivity<br>        - Socio-economic Factors - Infrastructure, Unemployment<br>        - The Ethnic Conflicts - diversity, scarce resources<br>        - Lack of devolution of autonomy - Political aspirations of various ethnic groups<br>        - Culture of Violence - organized crime<br>        - Psychological Isolation - integration, awareness, media<br>        - Illegal Immigration - Threat to Cultural Identities<br>        - External Factors - China<br><br>- - **Security challenges**<br>        - Territorial Disputes: with China, Pakistan and Nepal lead to occasional standoffs and tensions<br>        - Transnational Crimes like smuggling, human trafficking, money laundering<br>        - Insurgency and cross border terrorism<br>        - Maritime security : piracy, illegal fishing<br>        - Porous Borders making patrolling difficult<br><br>- - **Management**<br>        - Diplomacy and dialogue<br>            - E.g. India-Bangladesh peaceful resolution<br>        - Strengthening border infrastructure<br>        - Socioeconomic development in border areas<br>        - Intelligence gathering and sharing<br>        - Counter-terrorism operations<br><br>- - Steps required to be taken to deny local support to militants<br>        - Increase the presence of security forces<br>        - Identify and neutralize militant sympathizers<br>            - Village Defence Committees (VDCs)<br>        - Infrastructure development to boost economy<br>            - Border Area Development Programme (BADP)<br>        - Educational and vocational training facilities to empower youth<br>            - Himayat and Udaan initiatives in J&K<br>            - Project Sadhbhavana<br>        - Improve access to healthcare<br>            - Mobile health units<br>        - Community policing to develop trust with locals<br><br>- - Creating favorable perception among locals<br>        - Democratic decentralization and participatory governance<br>        - Respect and promote local customs, traditions, and language<br>        - Media campaigns to counter extremist propaganda and share positive stories<br>        - Legal Support and access to Justice<br>            - Setting up Lok Adalats and ADR mechanisms<br>        - Provide essential services like clean drinking water, electricity, and sanitation<br>        - Encourage sports and recreational activities to engage youth positively.<br>        - Support local NGOs and community groups working for peace and community development<br>        - Promoting cultural exchanges and social integration<br>            - sports tournaments and youth exchange programs<br><br>- - **Government Initiatives**<br>        - Border Area Development Programme<br>            - Vibrant Villages Programme (VVP) -  infrastructure in villages along India’s border with China<br>        - Border district coordination committees<br>        - Community engagement<br>            - Village Defence guards(VDG)<br><br>- - **Measures**<br>        - Enhance surveillance, fencing and patrolling<br>            - Israeli-made Smadar radar systems deployed along the Punjab border to detect low-flying drones.<br>        - Integrated border management<br>            - Comprehensive Integrated Border Management System (CIBMS)<br>            - Border Infrastructure and Management (BIM) Scheme<br>        - Detection and surveillance<br>            - Deploying radar systems<br>            - Electronic Surveillance<br>                - (**NC3I**)<br>        - Legislative and legal framework<br>        - Strengthening border security<br>            - Laser fencing, Barbed wire fencing (Madhukar Gupta Committee)<br>            - Smart Fencing of borders<br>                - E.g. BOLD-QIT<br>            - Thermal imaging in difficult terrain<br>        - Advanced technology - GPS, Drones, AI into ISR systems<br>        - Inter agency coordination<br>            - Single coordination nodal agency<br>                - NIA, ED, CBI, NTRO etc.<br>            - Enhance combat capability (Shekatkar Committee)<br>        - Development of integrated check posts<br>            - E.g. Biratnagar - Nepal<br>            - E.g. Sutarkandi - Bangladesh<br>        - Community engagement and reporting mechanism<br>            - Village volunteer force (VVF)<br>        - International Cooperation<br>            - E.g. settling border disputes<br>            - E.g. operation sunrise with Myanmar<br>        - training and capacity building of security personnel's<br><br>- - Thus, border management is not just fencing our border, but transforming them into frontiers of development.|
-|### Role of Non-State Actors|- - **Introduction**<br>        - Non state actors are new frontiers of war in fourth generation warfare, says NSA Ajit Doval. They include NGO's, MNC's, Terrorist, Religious groups, etc.<br><br>- - **Challenges and Threats**<br>        - [Organized Crime](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={624FD7B4-8B09-6541-80F2-1DE4952A7795}&83&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)<br>        - Terrorism - Lashkar-e-Taiba (LeT), Jaish-e-Mohammed (JeM)<br>        - Insurgency - Northeast (Nagaland), Naxal areas etc.<br>        - Cyber threats<br>        - Funding Separatism - J&K<br>        - Radicalization and Propaganda<br>            - Islamic State (ISIS)<br>        - Maritime Security Threat<br>            - Somali pirates and Houthi rebels disrupting shipping lanes<br><br>- - **Measures**<br>        - Intelligence Sharing and Cooperation<br>            - E.g. - INTERPOL, Five eyes alliance<br>        - Counterterrorism Measures<br>            - CCIT under UN<br>        - Inter agencies coordination<br>        - Border Management (Madhukar Gupta committee)<br>        - Strengthening Cybersecurity<br>        - Counter-Insurgency Operations:<br>            - Operation All Out in Jammu and Kashmir<br>        - Counter-Radicalization Initiatives:<br>            - 'Operation Sulaimani' in Kerala<br><br>- - **Conclusion**<br>        - Neutralizing non-state actors is essential for promoting safety, security and prosperity of the nation.|
-|### Role of External State Actors|- - **Introduction**<br>        <br>    - **Challenges**<br>        - ![Security](<Z9 Obsidian-files/Media/DOCX/Security 3.png>)<br>        - Pakistan - J&K<br>            - State sponsored terrorism<br>                - Support to Lashkar-e-Taiba and Jaish-e-Mohammed<br>                - Increased activities in Rajouri and Poonch<br>            - Drug trafficking, Arms trafficking - Golden Crescent<br>            - Counterfeit Indian currency notes<br>            - Espionage<br>                - ISI<br>            - Cross-Border Shelling in violation of ceasefire<br>        - Afghanistan<br>            - Radicalism spillover<br>        - China - NE<br>            - Border standoff<br>                - E.g. Ladakh<br>            - Cyber attacks<br>                - AIIMS ransomware and Mumbai power grid attacks attributed to China<br>            - Covertly support insurgency in NE<br>                - Funding to ULFA<br>            - Economic - Dumping cheap chinese goods<br>            - Hydro diplomacy - Building dams over Tsangpo<br>                - E.g. 60000MW Medog Dam<br>        - Myanmar-<br>            - Insurgency : ULFA, NSCN active in Northeast<br>            - Golden triangle - smuggling of arms, drugs, timber and contraband goods<br>            - Rohingyas<br>            - Free movement regime<br>        - Sri Lanka<br>            - Fisherman<br>            - Spillover of Tamil ethnic issue<br>        - Nepal<br>            - Naxalism, Insurgency<br>            - Counterfeit Indian currency notes<br>            - Organized crime<br>        - Bangladesh<br>            - Illegal immigration (> 1.9 Million out of NRC)<br>            - Insurgency in Assam, Tripura<br>            - Smuggling of animals and endangered species<br>    - [Measures](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={63906FD5-4088-2247-BE6C-E631C4140B76}&5D&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)<br>    - **Conclusion**<br>        - Recommendations of Madhukar Gupta and Shekatkar committee like using technology and integration of security forces should be considered.|
-||### North-East<br><br>- Way forward -<br>    - Proportionate use of force<br>    - Suspension of operation agreements(SoO)<br>    - Memorandum of settlement agreements (MoS)<br>    - Scheme of surrender-cum-rehabilitation of militants in NE<br>    - Free movement regime<br>    - **Vibrant Villages Programme**<br>        - For villages along northern and north eastern borders<br>        - essential infrastructure and the creation of livelihood opportunities<br>        - promotion of social entrepreneurship, youth and women empowerment etc.<br>- Actors -<br>    - National socialist council of Nagaland<br>    - United liberation front of assam<br>    - National Liberation Front of Twipra<br><br>### Kashmir issue<br><br>- External state actor<br>    - ISI, Mujahideen<br>- Internal state actor<br>    - Sense of alienation, marginalized (SPE), humanitarian abuses<br>    - _Over ground workers_<br>        - Provide logistical support : safe house, transport, food and communication channels<br>        - Financial support through raising funds by extortion, donation or contribution<br>        - Collect information about security forces, potential targets and recruitable individuals<br>        - Persuade vulnerable individuals to join insurgency<br>        - Spread propaganda and create support base for extremist ideologies<br>        - Stone-pelting, mob-violence, radicalization, recruitment of militants.<br><br>- _Measures -_<br>    - Counter- terror operation<br>    - Intelligence based string operations<br>    - Psychological and social rehabilitation<br>    - Empower agency of social control - community based<br>- Government schemes -<br>    - UDAAN Scheme - skill development for youth, travel, training and transit to work.<br>    - Himayat mission - generate sustainable livelihoods<br>    - Surrender and rehabilitation policy<br>- Positives after Abrogation of A370 -<br>    - RTI,2005, RPA,1951, POCSO.<br>    - Good governance - social security measures<br>    - Infrastructure development<br>- Way forward - **4D**<br>    - Dialogue<br>    - Demilitarization<br>    - Devolution of powers - local self government<br>    - Development|
-|Maritime border|- - **Introduction**<br>        - Owing to 7500 km long maritime border, Maritime security It imperative for India's national interest.<br><br>- - India’s long coastline of 7,516 km and Exclusive Economic Zone (EEZ) of approximately 2 million square km make maritime security a critical concern.<br><br>- - Maritime **borders**<br><br>![Security](<Z9 Obsidian-files/Media/DOCX/Security 4.png>)<br><br>- - Significance<br>        - Economic<br>            - 90% of India’s international trade by volume and 70% by value occurs through sea routes<br>        - National security<br>            - 26/11 terrorist attack in Mumbai using the sea route.<br>        - Protection of vital infrastructure<br>            - Major ports, nuclear power facilities (Tarapur, Kalpakkam)<br>        - Disaster response<br>            - 2004 Indian Ocean tsunami.<br>        - Environmental protection<br>            - illegal fishing, smuggling, and hazardous waste dumping<br><br>- - Maritime Security **Challenges**<br>        - Piracy;<br>            - off the coast of Somalia affecting commercial shipping<br>            - Houthi rebels attacking ships<br>        - smuggling;<br>            - Seizure of heroin worth millions off the Gujarat coast.<br>        - illegal fishing;<br>            - Frequent incursions by Sri Lankan fishing boats<br>        - terrorism;<br>            - 2008 Mumbai attacks<br>        - Environmental Threats:<br>            - Oil spills, marine pollution, cyclones<br>        - Cyberattacks on maritime infrastructure including ports and shipping companies<br>        - Vulnerable areas close to Horn of Africa, Strait of Malacca<br>        - Governance, social and economic issues in coastal states<br>        - Complex jurisdictional issues<br>        - Territorial disputes<br>            - E.g. Sir. Creek with Pak<br>            - E.g. Kachchatheevu island<br>        - China’s Maritime Expansion<br><br>- - **Measures** to strengthen maritime security \| **Government Steps**<br>        - Organisational<br>            - Indian Navy Modernization:<br>                - Induction of INS Vikrant and MQ-9B drones<br>            - Coast Guard Expansion<br>                - new offshore patrol vessels (OPVs) and interceptor boats are inducted<br>            - Centralized monitoring system<br>                - National Maritime Domain Awareness (NMDA)<br>            - Inter-Agency Coordination between Navy, coast guard and intelligence agencies<br>                - National Committee on Strengthening Maritime and Coastal Security (NCSMCS)<br>            - Tri service integration (Shekatkar committee)<br>                - Inter-Services Organisation (Command, Control and Discipline) Bill, 2023<br>        - Technical<br>            - Coastal Security Infrastructure -<br>                - Electronic coastal surveillance network (CSN)<br>                - Sagar Kavach radar system<br>            - Automatic Identification System (AIS) for vessel movement<br>            - National command control communication and intelligence network (NC3I)<br>        - Procedural<br>            - Maritime Security Policy having state wise SOP's<br>            - Port Security Measure<br>                - Adapting Ship and Port Facility Security (ISPS) Code<br>            - Joint exercise - MALABAR, CORPAT, JIMEX<br>        - Legal -  Maritime Anti Piracy Act<br>            - Piracy - acts of violence, robbery, or detention of a ship or its crew for private ends.<br>        - Coastal Community Engagement<br>            - E.g. Sagar Prabhari Bal<br>            - E.g. Operation Sagar Kavach<br>        - Infrastructural development<br>            - The Sagarmala program<br>        - International cooperation<br>            - IORA, IONS, BIMSTEC<br>            - SAGAR Doctrine<br><br>- - **Conclusion**<br>        - In the vastness of the oceans, maritime security becomes the anchor that holds nations together.|
-|### Linkages of organized crime with terrorism|- - For any linkages word<br>        - Draw a cycle<br>            - ![Security](<Z9 Obsidian-files/Media/DOCX/Security 5.png>)<br><br>- - Linkages<br>        - Funding : terrorist rely on funding from organized crime activities like drug trafficking or extortion<br>        - Logistics : Organized crime groups provide terrorist with transportation, forged documents, and safe havens.<br>        - Recruitment : both exploit marginalized communities. With people working for both groups<br>        - Cross border infiltration : organized crime group help movement of weapons, terrorist across border on their network<br>        - Share resources and expertise : in technology like blockchain, communication network, social media use<br>        - Cyber crimes : both coordinate cyber attacks for mutual financial and tactical benefits|
-|### Terrorism|- - **Introduction**<br>        - "With guns you can kill terrorists, with education you can kill terrorism." - Malala Yousafzai<br><br>- - The Bharatiya Nyaya Sanhita (BNS) 2023 defines terrorism as an act that intends to:<br>        - Threaten the unity, integrity, or security of the country<br>        - Intimidate the general public<br>        - Disturb public order<br>    - According to 2nd ARC, Terrorism is unlawful use of violence or intimidation specially against civilians in pursuit of 'political' power.<br><br>- - **Challenges in Tackling Terrorism**<br>        - Extreme ideologies - Jihad<br>            - ISIS, Al-Qaeda<br>        - Diverse actors with different motivations<br>            - Religious Extremism<br>                - ISIS and Al-Qaeda<br>            - Political Ideologies<br>                - Hamas and Taliban<br>            - Ethno-Nationalist Causes<br>                - LTTE; Balochistan<br>        - State sponsored<br>        - Evolving Tactics :<br>            - Conventional Attacks: Bombings, shootings, and hijackings, kidnapping, and hostage takings.<br>            - Unconventional Warfare: Cyberterrorism, bioterrorism, attack on CII, missile attack<br>            - Psychological Warfare: Spreading fear through social media<br>        - Globalized networks -<br>            - Transnational Links - over ground workers, recruit fighters<br>            - Diverse Funding Mechanisms : cryptocurrency, Hawala networks<br>        - Lone wolf attacks to State-Sponsored Terrorism<br>            - E.g. Lashkar-e-taiba<br>        - Access to new and emerging technologies - Instantaneous and Unpredictable attacks<br>            - E.g. Drones, Modern Firearms, cyber attacks, dark web etc.<br>        - Access Encrypted communication - cryptography<br>        - Recruitment - target vulnerable individuals<br>        - Radicalization - exploiting grievances, sense of injustice<br>        - Global reach<br>            - E.g. 9/11,<br>        - Targeting Urban areas<br>            - Easy spread of fear, High cost of counter-terrorism operation<br>            - E.g. 26/11 Attacks<br>        - Highly publicised atrocities<br>            - E.g. Public execution, claiming responsibility over media.<br>        - Targeting civilian population<br>            - Hamas attack on Israel<br>        - Gaining political power<br>            - E.g. Taliban, Hamas<br>        - Cyberterrorism<br><br>- - **Causes of terrorism**<br>        - Political Grievances : lack of political representation, feeling of oppression<br>            - LTTE<br>        - Historical grievances : historical conflict and perceived injustices<br>            - Israeli-Palestinian conflict<br>        - Socio-Economic Factors : Poverty, unemployment, lack of minimal facilities<br>        - Religious Extremism : charismatic leaders using 'Jihad' to justify violence<br>        - State-Sponsored Terrorism: to achieve strategic objectives<br>        - Ethno-national causes<br><br>- - **Obnoxious Nexus:**<br>        - Terrorist-State Nexus: state sponsoring and providing safe havens for strategic objectives<br>        - Terrorist-Organized Crime :<br>        - Terrorist Use of Technology<br><br>- - **Linkage with organized crime**<br>        - Drug trafficking<br>            - E.g. Taliban through opium production in Afghanistan<br>            - E.g. Al-Qaeda involvement in tobacco trade ( > $1 B according to Institute of economics and peace)<br>        - Money laundering<br>            - Money laundering using Hawala transactions<br>                - E.g. Terrorism in Jammu and Kashmir<br>            - Cryptocurrencies - Blockchain network<br>        - Human trafficking -<br>            - Forced Labour, sexual exploitation, illegal trade of organs, forcefully recruited for armed conflicts<br>                - E.g. Recent activities of ISIS, Boko Haram, Northeast India<br>        - Intellectual property crimes<br>            - E.g. Trade in counterfeit and pirated goods<br><br>- - **Measures**<br>        - Enhancing Border Security<br>        - Enhance Intelligence gathering and surveillance networks -<br>            - NATGRID<br>        - Countering Extremist Narratives : Promoting tolerance, interfaith dialogue<br>        - Inclusive growth : creating economic opportunities, education, healthcare, infrastructure<br>        - Democratic decentralization and participatory governance<br>        - cybersecurity measures<br>        - International Cooperation : FATF and the Egmont Group<br>        - Target financial networks - FIU-IND, FCRA<br>        - Legal Frameworks - UAPA, PMLA,<br>        - Training and Operations - IB can play greater role<br>        - Investigation - NIA<br>        - Prosecution - NIA Act, 2019 provided for setting up special and session courts<br>        - CCTNS Database - crime and criminal tracking network system<br>        - National cyber coordination center (NCCC)<br><br>- - **Global Measures Taken to Combat Terrorism**<br>        - Financial Action Task Force (FATF): combats money laundering and terror financing<br>        - RATS<br>        - UNODC                <br><br>- - **Way forward**<br>        - Policy of Zero-Tolerance Against Terrorism<br>        - Pre-emptive measures<br>            - Socio-economic development<br>            - Early prevention and de-radicalization<br>            - Ensure non-proliferation of weapons of mass destruction to terrorist organization<br>        - International cooperation<br>            - CCIT<br>            - Adequate funding to counter terrorism bodies<br>                - UN office on drugs and crime (UNODC)<br>            - Coordination<br>                - UNSC, SCO (RATS - Regional Anti-Terrorist Structure), UNODC<br>            - Strengthening role of INTERPOL<br>        - 360 degree approach to curb terror funding<br>            - Coordination between FATF and UNSC<br>        - Removing distinction between good and bad terrorists<br>        - Strengthening border security<br>            - Madhukar Gupta committee<br>        - crisis management response framework at national level<br>        - National Investigation Agency : national level counter-terrorist task force<br>        - Comprehensive Integrated Border Management System<br><br>- - **Conclusion**<br>        - Weapons can kill terrorist but education can kill terrorism -Malala Yousafzai<br>        - Terrorism continues to be the gravest threat to mankind. Through international cooperation, we must adopt zero tolerance policy towards terrorism.|
-|### Organized Crime|- - **Introduction**<br>        - Organized crime refers to a structured criminal enterprise to carry out illegal activities for financial gain or power.<br><br>- - **Types of organized crimes**<br>        - Arms trafficking \| drug trafficking \| money laundering \| human trafficking<br>        - Trafficking of endangered species<br>            - E.g. Rhino horns, ivory, snakes, tortoise etc.<br>        - Cybercrime<br>            - E.g. AIIMS ransomware attack<br>        - Organized fraud<br>            - Ponzi Schemes<br>                - E.g. Saradha Group Scam<br>            - Phishing Scams<br>                - E.g. Credit card frauds<br>            - Stock market Scams<br>                - E.g. Harshad Mehta<br>                - E.g.- Satyam scam<br>        - Organized Theft<br>            - E.g. Lufthansa heist, 1978<br>        - Kidnapping, Contract killings<br>        - Data theft<br>        - IP theft<br>        - Maritime Piracy and smuggling<br>        - Mob violence<br>        - (refer 4 above)<br><br>- - **Difference between T and OC**<br>        - Political goals <> financial goals<br>        - Visibly <> Covertly<br>        - Overthrow state <> Infiltration, bribery<br>        - Ideology <> Pragmatist<br>        - Responsibility of act<br><br>- - **Challenges In controlling**<br>        - Difficult to obtain Proof<br>        - Criminal justice system<br>            - 3.5 crore pending case<br>            - 80% undertrials<br>            - Low conviction rate<br>        - C-P-B Nexus (Vohra Committee)<br>        - Operate transnationally<br><br>- - **Way forward \| Measures**<br>        - Strengthening Law Enforcement and Intelligence:<br>        - International cooperation<br>            - SAARC Drug Offences Monitoring Desk<br>            - INTERPOL, UNODC<br>        - Strengthen intelligence gathering<br>            - NATGRID<br>        - Financial surveillance<br>            - FIU-IND<br>            - Targeting the Money Trail<br>            - Regulation of Cryptocurrencies<br>        - Addressing Root Causes:<br>            - Socioeconomic development : poverty; unemployment; lack of education<br>        - Social - Rehabilitation of victims<br>            - E.g. Ujjawala Yojna, Swadhar Yojna<br>        - Administrative measures (criminal justice system) -<br>            - E.g. National Level Body, fast track Courts, Anti-trafficking units; witness protection program<br>            - Malimath committee<br>        - Legislative -<br>            - E.g. NDPS Act<br>        - Speedy extradition<br>            - Mutual legal assistance treaty<br>        - Community policing<br>            - E.g. Village Volunteer Force<br>        - Capacity building<br>            - E.g. Ushahidi framework<br>        - Public awareness<br>            - Think before you act campaign (UNODC)<br>        - Inhibit funding<br><br>- - **Conclusion**<br>        - The fight against organized crime requires a united front, relentless pursuit, and unwavering determination.<br>        - **SDG 16**|
-|||
-|_Basics of_<br><br>### Cyber Security|- - Cyber security involves protecting computer systems, networks, and data from cyber threats.<br><br>- - **Introduction**<br>        - CERT-IN in its India Ransomware Report 2022 stated that there is a 51-percent increase in the number of ransomware attacks across multiple sectors including critical infrastructure.<br><br>- - Indian Computer Emergency Response Team (CERT-In) highlights that India encountered a considerable number<br><br>of cybersecurity incidents in 2022, with a total of 13.91 lakhs reported cases.<br><br>- - NCRB data suggests growing cyberattacks at staggering rates.<br><br>Majority belong to financial fraud<br><br>- - Ransomware is malicious software that encrypts files or locks a computer, demanding a ransom payment for restoring access.<br><br>- - India ranked 10th in Global cyber security index<br><br>- - **Elements of cyber security - ADVANC**<br>        - Application security - keeping applications free from vulnerabilities<br>        - Network security - preventing unauthorized access, intrusion, and disruption<br>        - Data Security - protecting sensitive data from leak, theft, unauthorized access<br>        - Information Security: Maintaining confidentiality (privacy), integrity (accuracy), and availability of information.<br>        - Identity and Access Management (IAM)<br>            - Availability, Authentication, Authorization<br>        - Disaster recovery plan<br>        - Vulnerability management<br><br>- - **Types of Cyber Threats**<br>        - Cyber Crime<br>            - Phishing<br>                - "Bank Account Verification" Scam<br>                - "Lottery Winner" Scam<br>            - Malware attack<br>                - WannaCry<br>            - Identity Theft<br>            - Cyberstalking, Harassment, Cyberbullying<br>            - Data breach<br>                - Facebook-Cambridge Analytica Scandal (2018)<br>            - Online frauds - fake website and online payment scams, deceptive advertising, pyramid schemes<br>        - Espionage<br>            - E.g. Pegasus<br>        - DDOS attacks<br>        - Ransomware attack<br>            - E.g. AIIMS Ransomware attack<br>            - BlackCat<br>        - Cyber Attacks on CII<br>            - UIDAI Database, 2021<br>            - Mumbai Power Grid, 2020<br>        - Child Pornography<br>        - AI Vulnerabilities - Deepfakes<br>        - Terrorism - convergence of terrorism in cyberspace targeting CII.<br>        - Cyber Warfare - disruption in the activities of state, attack on CII<br>        - Information warfare<br><br>- - **Challenges in Cyber Security**<br>        - Increasing Cyber Attacks<br>            - 13.91 lakhs reported cases in 2023 [CERT-In]<br>        - Rapidly evolving technologies -<br>            - e.g. AI, IOT<br>        - Diffused and intangible threat -<br>            - low cost of mounting attacks<br>        - No geographical constraints<br>            - Limit law and order jurisdiction<br>            - E.g. CrowdStrike bug has led to Global Halt (2024)<br>        - Attitudinal challenges<br>            - Out of sight, out of mind syndrome<br>        - Lack of reporting<br>            - Only 2% reported (CERT-In)<br>        - Capacity<br>            - 90% companies don't have any nodal officer for cyber security threats (KPMG Survey)<br>        - Lack of awareness<br>            - KPMG survey: 85% of Indians not aware of threats such as malware, trojans<br>        - Lack of Skilled Professionals<br>        - Privacy Concerns<br>            - Controversies over data privacy in Aadhaar<br>    - **Impact of cyber attacks**<br>        - Threat to national security<br>            - Chinese cyber espionage targeting Indian defence networks<br>        - Economic losses and disruption of financial systems<br>            - 2018 Cosmos Bank cyber attack led to loss of ₹94 crore<br>        - Sabotage : attacks on critical infrastructure such as power grids, transportation, and communication networks<br>            - Mumbai's power grid in 2020<br>        - Data security breach : leak of personal and sensitive information.<br>        - Psychological Impact on users undermining confidence in digital services<br><br>- - Security Framework to Prevent Cyber Attacks:<br>        - Protect : Implement security measures like firewalls, intrusion detection systems, data encryption<br>        - Detect : Robust detection system for suspicious activity<br>        - Respond through containment, eradication, remediation<br>        - Recover : DR plans and backups<br><br>- - **Need for Data localization -** (AP Shah Committee)<br>        - Maintain data sovereignty<br>        - Domestic push to digital economy and high value digital products<br>        - Increase the tax revenue and curb tax evasion by MNC's<br>        - Citizens data privacy<br>        - _Currently data exchange between countries happen through_ **_Mutual Legal Assistance Treaties(MLAT)_**<br><br>- - **Measures \| Government Initiatives -**<br>        - Institutional arrangements<br>            - CERT-In and National Cyber Coordination Centre (NCCC)<br>        - Policy Framework<br>            - National Cybersecurity policy, 2013<br>        - Public awareness and participation<br>            - Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS)<br>        - Enhancing Cyber Forensics<br>            - **Indian Cyber Crime Coordination Centre (I4C)**<br>        - Incident Response Mechanisms<br>            - Digital Criminal Case Management System (CCMS) Platform<br>        - Robust legal and regulatory frameworks<br>            - Digital India Bill, Telecommunication Bill, Digital personal data protection bill<br>            - IT Act, 2008<br>            - National digital communication policy, 2018<br>            - Setup data protection authority<br>                - Digital personal data protection bill<br><br>- - Continuous monitoring and threat intelligence<br>        - CERT-In<br>        - CERT-Fin (for financial security)<br>        - Cyber and information security division (CIS)<br>            - Cyber warfare police force<br>    - Collaboration with Ethical Hackers to identify zero day vulnerabilities<br>    - Proactive approach<br>        - Reducing zero-day vulnerability<br>        - Cyber Swachhta Kendra  (Botnet Cleaning and Malware Analysis Centre)<br>        - TechSagar platform<br><br>- - Capacity building<br>        - Digital Army Programme<br>        - Cyber Surakshit Bharat initiative<br>            - spread awareness about cyber-crime and build capacities of frontline IT officials<br>        - _Develop offensive capacities_<br>        - National Cyber Crime Training Centre (NCCT)<br>    - Technical Measures like implementing firewalls, encryption, and multi-factor authentication.<br>        - RSA technology, quantum encryption<br>    - Using new technologies<br>        - Quantum computing<br>    - PPP model for cybersecurity<br>        - CyberDome project by govt of Kerela<br>    - Secure network infrastructure<br>        - Developing zero trust architectures<br>    - Public awareness<br>        - Cyber Jagrukta Diwas (CERT-In)<br>    - International cooperation<br>        - Budapest convention - India is not a member<br>        - Adopt **Tallinn** Manual<br>        - Ground zero summit<br>        - Paris Call for Trust and Security in Cyberspace<br>    - Gulshan Rai Committee<br>        - ![Security](<Z9 Obsidian-files/Media/DOCX/Security 7.jpeg>)<br>        - Creation of Cybercrimes cells in district<br>        - Separate agency<br><br>- - **Conclusion**<br>        - India will have more than 1 Billion internet users by 2025, ensuring safe, secure and inclusive cyberspace.|
-|### Communication Network|- - **Introduction**<br>        - A communication network is a system of **interconnected devices** that allows the exchange of information.<br>            - E.g. LAN, Internet, Wireless networks<br><br>- - **Challenges**<br>        - Security threats:<br>            - [Cyber Threats](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={84FEE3D9-B688-DD4B-9E4E-53FBD293646D}&C2&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)<br>            - Terrorist and non-state actors<br>            - 'Advanced persistent threats(APT)'<br>                - E.g. adversarial sovereign nations like China, Pakistan etc.<br>        - Privilege of anonymity<br>        - Network reliability and resilience<br>            - Consistently Evolving nature of Threats<br>            - Inadequate understanding and inter-dependencies<br>        - lack of concrete regulation and poor enforcement of existing one<br>        - Jurisdiction on adjudication of crimes - Nature of Crimes is transcending physical state boundaries<br>        - Lack of testing capacity, skilled Human Resources<br>        - Outsourcing risks<br>        - Hybrid warfare - unrestricted warfare - growing attacks on civilian infrastructure<br>    - [Measures \| Government Initiatives -](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={3D5E6C6C-7453-5C4D-A8E4-3AA90924EBB2}&BD&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)<br>        - PD-CR-RA<br>        - ![Security](<Z9 Obsidian-files/Media/DOCX/Security 6.png>)<br>    - **Conclusion**<br>        - Securing communication networks is of utmost importance to protect India's digital sovereignty in today's interconnected world.|
-|### Role of Media and social Networking|- - **Introduction**<br>        - Social networking sites are online platforms that empowers individuals in fostering social interactions in a digital environment.<br>        - According to Statista, over 850 million Indians were active on social media.<br><br>- - Social Networking<br>        - Social Media : Facebook, Twitter, Instagram, Snapchat<br>        - Professional Networking: LinkedIn<br>        - Interest-Based Platforms: Reddit, Pinterest<br><br>- - **Role of Media - AWRI**<br>        - Information Dissemination<br>            - Share perspectives<br>            - Shape perceptions<br>            - Democratization of public life<br>        - Deliberative platform [H Arendt]<br>        - News Reporting and Journalism<br>            - To help people understand and interpret event.<br>        - Public Watchdog<br>            - Holding officials accountable<br>                - Panama Papers leak<br>            - Investigative journalism exposes corruption<br>                - Vyapam exposure<br>        - Education and Awareness<br>            - Agent of bringing social change<br>                - Agency to inculcate values<br>        - Help In nation building, unity and integrity of nation<br>            - Media is the fourth Estate of democracy<br>    - **Issues**<br>        - Hate speech<br>            - E.g. love jihad<br>        - Media trial<br>            - E.g. Sushant Singh Rajput case<br>        - Misinformation and Fake News<br>            - E.g. WhatsApp forwards shown on national televisions<br>        - Perverted debates<br>            - Demagoguery and political bias<br>        - Consumerism<br>            - Promoting profligacy among citizens<br>        - Commodification, Objectification of women<br>            - E.g. fairness creams<br>        - Radicalization - anti social behaviour<br>        - Commercialization<br>        - Social media specific<br>            - Data security concern<br>                - Example: The Cambridge Analytica scandal<br>            - Phishing and Social Engineering to deceive users in revealing sensitive information.<br>            - Cyberbullying and Harassment<br>            - Addiction and Mental Health : affect overall well-being.<br>            - Echo chambers : conforms existing beliefs and bias<br>            - Political harassment - individual targeting, Soft targets (women harassment, children's)<br>            - Fake news<br>            - Unequal participation<br>            - Cyber bullying, trolling, anonymity, jurisdictional challenges<br><br>- - Incidence of **misuse** by non-state actors (Challenges)<br>        - Spread of propaganda<br>            - E.g. ISIS<br>        - Recruitment and Radicalization<br>            - E.g. ISIS, Al-Qaeda<br>            - E.g. Kerela Story<br>        - Incitement of Violence<br>            - Rioting in Paris<br>            - January 6 Capitol riot in the USA<br>        - Online Harassment and Intimidation<br>            - E.g. Gamergate movement<br>        - Funding and Financial Crimes<br>            - WannaCry, BlackCat<br>        - Coordinating attacks and operations<br>            - The 2019 Easter bombings in Sri Lanka<br><br>- - **Measures**<br>        - User Education and digital literacy<br>            - Sensitize about sharing limited personal information<br>            - Creating strong passwords<br>            - online privacy settings<br>        - Strengthening Cyber Surveillance<br>        - Regulating Social Media Content<br>            - Digital Media Ethics Code<br>        - Counteracting Misinformation<br>            - Ensure crime and violence is not glorified<br>        - Promoting ethical journalism<br>        - Strengthen legal and statutory framework<br>            - Digital data protection bill, digital india bill, telecommunication bill<br>            - National social media policy<br>            - Broadcasting Bill<br>        - Independent regulating body<br>            - Statutory status to News broadcasters associations<br>        - Privacy is respected<br>            - Data localization<br>            - Protect personal information and data ownership rights<br>            - Fact checking mechanism<br>        - Public reporting frameworks<br>            - Sanchar Saathi portal - citizens can report suspected fraudulent communication<br>        - Monitoring and Intelligence Sharing:<br><br>- - **Conclusion**<br>        - "The media is the watchdog of democracy, ensuring transparency, accountability, and freedom of expression."|
-||- - Advantage of social media -<br>        - Participation<br>        - Openness<br>        - Connectedness<br>        - Heterogeneity<br>        - Active engagement rather then passive communication (broadcasting media)<br><br>- - Negative impacts -|
-|||
-|### Money Laundering|- - **Introduction**<br>        - Money laundering is the process of making illicitly obtained money appear legitimate by concealing its true source.<br>        - Hawala money involves the laundering of money through hawaladar's, often without any physical movement of cash.<br><br>- - According to UNODC Report, about 2-5% of global GDP, or $800 billion to $2 trillion is laundered globally every year.<br><br>- - Process of Money Laundering - **PLI**<br>        - Placement stage<br>        - Layering stage<br>        - Integration stage<br><br>- - **Significance -**<br>        - Social<br>            - Drug addiction, Corruption, weakening of social institution's, organized crimes<br>        - Environmental<br>            - Illegal wildlife trade<br>        - Economic<br>            - Financial risk, unfair competition<br>        - Security<br>            - Drug trafficking, sex trafficking, terrorism<br>        - Ethical - loss of morality<br>        - Technological - Cyber crimes<br><br>- - Contribution of emerging technology<br>        - Cryptocurrencies and **NFT** - Provide anonymity<br>            - E.g. Bitcoin<br>        - VPN - encrypted networks for communication<br>        - Peer-to-peer platforms : like PayPal and Venmo used for small, untraceable transactions, that accumulate into significant sums.<br>        - Dark Web : illicit goods marketplace<br>            - Silk Road - dark web marketplace<br>        - Drones - Cross border delivery without detection<br>            - E.g. Arms and drugs seizure in Punjab<br>        - Increased Use of Shell Companies<br>            - Panama Papers leak<br>    - Contribution of globalisation<br>        - Offshore Financial Centres - Tax Heavens<br>            - E.g. Singapore, Mauritius<br>        - Shell Companies used to launder money and evade taxes.<br>            - E.g. Panama Paper leaks<br>        - Seamless Cross-Border Transactions:<br>            - E.g. SWIFT Protocol<br>        - Trade-based Money Laundering<br>            - E.g. Over/under-invoicing<br><br>- - **Measure for prevention**<br>        - Effective KYC norms and AML regulations<br>        - Improving financial surveillance<br>            - E.g. 'Financial Intelligence Units - (FIU-IND)'<br>            - CERT-FIn<br>        - Monitoring transactions<br>            - E.g. money trail<br>        - Cybersecurity frameworks<br>        - Public Awareness Campaigns<br>            - RBI's "Money Matters" campaign<br>        - Reporting suspicious activities<br>        - Improved Coordination Among Agencies<br>        - Strengthening AML Laws<br>            - Prevention of money laundering Act, 2002<br>            - FEMA, 2000, FCRA, 2010<br>            - Benami Property Act<br>        - Enhancing international cooperation<br>            - Mutual legal assistance treaty<br>            - India achieved an ‘Outstanding Outcome’ in FATF Mutual Evaluation<br>        - Global AML Standards<br>            - FATF - Financial action task force by G7<br>            - Basel committee<br>        - Multilateral Agreements<br>            - Vienna convention<br>            - UN global programme against money laundering (GPML)<br>            - Double Taxation Avoidance Agreements (DTAA)<br>        - Digitalization and Financial Inclusion<br>            - Digital India campaign and Jan Dhan Yojana<br>        - Enhancing regulatory oversight<br>            - Enforcement Directorate<br>            - Outline role of bankers<br>            - MiCA (Markets in Crypto assets - EU)<br>        - Inter agency coordination<br>            - RBI, SEBI, FIU-IND<br>        - Asset Forfeiture Laws:<br>            - The Fugitive Economic Offenders Act, 2018<br>        - International Cooperation<br>            - FATF, INTERPOL, OECD<br>    - **Conclusion**<br>        - Money laundering is a global challenge that requires international cooperation and strong institutions (**SDG 16**)|
-|||
-|### Security forces, Agencies|- - **Forces**<br>        - Central Armed Police Force (6)<br>            - They are central police organizations under the Ministry of Home Affairs of India.<br>            - Total sanctioned strength of CAPFs is around 11 Lakhs.<br><br>- - BSF<br>        - Pak and Bangladesh border<br>        - LOC along with army - maintain law and order, civil policing<br>    - CISF - Central Industrial Security Force<br>        - PSB, airports , Metro, PSU, Critical infrastructure<br>        - Security of protected persons, Z Plus, Z, X,Y.<br>    - CRPF - Central Reserve Police Force -<br>        - RAF - Rapid Action Force (communal Riots)<br>            - Crowd control<br>            - Riot control<br>            - UN peacekeeping , rescue and relief operation<br>        - CoBRA - Commando Battalion for Resolute Action (LWE)<br>            - Counter militancy, insurgency operation<br>    - ITBP - Indo-Tibetan Border Police<br>        - Vigilance, border out posts(**BOP**)<br>    - SSB - Sashastra Seema Bal<br>        - Nepal, Bhutan<br>        - Prevent transborder crimes<br>        - Prevent unauthorized entry-exits<br>    - NSG - National Security guard<br>        - Counter terrorism, VIP Security<br>    - Paramilitary force<br>        - Assam rifles<br>            -  Indo-Myanmar border<br><br>- - Central Intelligence and Investigative Agencies<br>        - Intelligence Bureau (IB)<br>        - National Investigation Agency (NIA)<br>        - Central Bureau of Investigation (CBI)<br>        - Research and Analysis Wing (RAW)<br>        - Enforcement directorate (ED)<br>        - National Security Council Secretariat (NSCS)<br>            - Inter agency coordination<br>    - Sikkim scouts<br>    - Indian coast guard<br>    - Marine police force<br><br>- - **Role**<br>        - Patrolling, preventing infiltration, and curbing smuggling.<br>        - Infrastructure development, and assists local communities.<br>        - Counterinsurgency operations<br>        - Prevent organized crime across border<br>        - Protection of **critical infrastructure**, **strategic establishment** (**CISF**)<br>        - Unauthorized entries and exits<br>        - Maintain law and order<br>        - Combat-readiness : to any incursions or aggressive actions<br>        - Civic Support in Remote Areas : Healthcare camps in border villages<br>        - Intelligence Gathering: Monitoring Chinese road construction<br>        - Coordination with Armed Forces: Joint operations<br><br>- - **Issues Faced -**<br>        - HR issues<br>            - High vacancies<br>            - Overburdened<br>            - Limited avenues of promotion<br>        - Keeping up with evolving technologies used by criminals and terrorists<br>        - Operational issues<br>            - Quality of investigation<br>            - Shortage of arms and ammunitions<br>        - Institutional<br>            - Lacks inhouse grievance redressal mechanism<br>            - Accountability - political interferences<br>        - Inadequate Infrastructure<br>            - Lacking modernization<br>        - Police-public relations :<br>        - Concerns about violation of civil liberties<br>        - Shortage of Advanced Equipment: night-vision capabilities, UAVs, advanced radar systems<br>        - Health and Morale Issues:<br>        - Inter-agency coordination sometimes face bottlenecks<br><br>- - **Legislations**<br>        - Inter-Services Organisations (ISOs) (Command, Control, and Discipline) Act<br><br>- - **Police**<br>        - SMART policing<br>            - Strict and sensitive<br>            - Modern and mobile<br>            - Alert and accountable<br>            - Reliable and responsible<br>            - Tech savvy and trained<br>        - Prakash Singh Case<br>            - State security commission<br>            - Police establishment board<br>            - Police complaints authority<br><br>- - **Security & Intelligence Agencies**<br>        - IB<br>            - Role: Domestic intelligence, counter-terrorism, and counter-espionage.<br>        - R&AW<br>            - Role: External intelligence gathering, monitoring foreign threats.<br>        - CBI<br>            - Role: Handling complex criminal cases including corruption, economic offenses, and special crimes.<br>            - Issues - independent functioning<br>            - Reform - 2nd ARC suggest to give it Statutory Backing<br>        - NIA<br>            - Role: Investigating and prosecuting offenses related to terrorism and other national security threats.<br>        - ED<br>        - NCB - Narcotics Control Bureau<br>            - Role: Combating drug trafficking and related offenses.<br>            - Article 47<br>            - NDPS Act<br>        - NTRO - National Technical Research Organization<br>            - Role: Technical intelligence and cyber surveillance.<br>        - Directorate of Revenue Intelligence (DRI):<br>            - Role: Countering smuggling, customs frauds, and economic offenses.<br><br>- - **Institutional Framework to Tackle Challenge of Internal Security**<br>        - MAC - Multi Agency Centre<br>        - NCTC - National Counter Terrorism Centre<br><br>- - **Laws**<br>        - UAPA<br>            - Concerns<br>                - Potential for misuse because of broad and vague definition<br><br>Individuals may be designated terrorist without sufficient evidence<br><br>- - - - - Infringement on the fundamental rights to personal liberty and fair trial.<br>                - Increase in preventive detention and making it harder to get bail<br>                - Reduced judicial oversight can lead to arbitrary actions<br>                - Can be used to curb free speech and the right to dissent<br>                - Seen as conflicting with UDHR 1948<br>        - TADA<br>        - POTA<br>        - **AFSPA, 1958**<br>            - Sections which are controversial<br>                - Section 4 -<br><br>power to shoot to kill, on mere suspicion<br><br>Arrest without a warrant<br><br>- - - - - Section 6<br><br>grants immunity from prosecution acting in "good faith" during operation.<br><br>- - - - - Section 7<br><br>search and seizure any premises without a warrant<br><br>- - - - Why needed<br>                - maintain law and order<br>                - to protect the armed force from false allegations<br>            - View of supreme court in _Extra Judicial Execution Victim Families Association v. Union of India (2016),_<br>                - Striking a balance between maintaining national security and protecting human rights.<br>                - Principles of proportionality, necessity and reasonability in using force.<br>            - Way forward<br>                - security forces should also abide by the guidelines set out by the Apex court, Jeevan Reddy Commission, 2nd ARC<br>                - In line with Principle 24 of the UN Basic Principles on the Use of Force and Firearms by Law Enforcement officials<br>            - Where applicable right now?<br>                - Nagaland, Arunachal Pradesh, Assam, Manipur, J&K<br><br>- - **Measures and Way Forward \| Government initiatives**<br>        - Intelligence Sharing and Collaboration<br>            - E.g. NATGRID<br>            - E.g. Crime and Criminal Tracking Network System (CCTNS)<br>        - Modernization of armed forces<br>        - Enhancing Operational Efficiency : integrating AI in decision-making and threat analysis<br>        - Self-Reliance (Aatmanirbhar Bharat):<br>        - Force Multiplier with emerging technologies<br>            - UAV; advanced radar systems; anti-missile systems<br>        - Capacity Development (Shekatkar Committee)<br>            - Boost Defence production<br>                - Naval innovation and indigenization organization<br>                - SWAVLAMBAN<br>                - SRIJAN - portal lists items for indigenization<br>        - International Cooperation<br>            - E.g. INTERPOL, UNODC.<br>        - Murli Manohar Joshi Committee:<br>            - Capacity development of states, updating training curriculum, workshop on stress management<br><br>- - ACING DEVELOPMENT OF INNOVATIVE TECHNOLOGIES WITH IDEX (ADITI) SCHEME<br>        -  To develop about 30 deep-tech critical and strategic technologies<br><br>- - **Conclusion**<br>        - Balancing security interests with the fundamental rights<br>        - SMART policing|
+## Extremism
+- **Introduction**
+    - Naxalism is a form of armed insurgency against the State motivated by leftist/Maoist ideologies.
+    - Extremism is a ideology of promoting extreme political, social or religious motives, often by violent means.
+- **Where**
+    - Severely affected - CH, JH, BR, OD
+        - 69.10% incidents
+    - Partially affected - WB, AP, TL, MH
+    - Naxalite-Maoist insurgency in Chhattisgarh
+
+![Security](<Z9 Obsidian-files/Media/DOCX/Security 6.jpeg>)
+
+- **Reasons**
+    - **Economic**
+        - Unemployment, poverty, distress migration
+        - Land related issues - Landlessness , Exploitative landlords
+        - Deprivation of traditional rights over forest produce
+    - **Social**
+        - lack of access to basic service
+        - Displacement due to mining and industrial projects
+        - Marginalization : Denial of access to public facilities, untouchability
+        - Perceived tribal cultures and identities leading to alienation
+        - Forest Management and Livelihood of Tribals
+- **Developmental**
+    - Poor infrastructure, limited access to education, healthcare, and employment opportunities.
+    - Dam construction - 40% people displaced after independence are tribals.
+    - Forced evictions without compensation and rehabilitation
+- **Governance**
+    - Corruption, and inadequate implementation of government schemes.
+    - lack of political representation
+    - Lack of essential pubic services, lack of rule of law
+    - Poor-implementation of constitutional safeguards
+        - Article 244 - Tribes Advisory Councils (TAC)
+    - Insufficient security presence
+    - Maoist propaganda and radicalization
+- Emerging issues
+    - Urban Expansion : for recruitment, fundraising, and terror attacks.
+    - Shifting Tactics : using technologies like Cryptocurrencies; internet; AI in operations
+- **Revolutionary Strategy**
+    - Organization, consolidation and preservation in difficult and isolated terrains
+    - Progressive expansion
+    - Destruction, Guerrilla warfare and Armed Struggle.
+    - Destroy infrastructure, roads, telecom networks, keep population isolated form mainstream.
+    - Propaganda and disinformation
+- **Measures | Way forward**
+    - Good governance
+        - Democratic decentralization : Effective implementation Panchayati Raj Extension to Scheduled Areas (PESA)
+        - Inclusive Development Program : focusing on healthcare, education, infrastructure, employment opportunities
+        - Recognition of forest rights
+        - DBT transfers
+        - Social welfare policies
+            - Vanbandhu Kalyan Yojana etc.
+        - Bridging trust deficit - Rule of law, Prevent illegal police actions
+        - Inclusive growth programs
+            - Aspirational Blocks Programme
+            - NRLM; MGNREGA
+    - Economic development
+        - Livelihood generation; infrastructure development; vocational training
+    - Proper implementation of FRA
+        - Recognizing land titles
+- Security related measures
+    - Special Anti-Naxal Forces
+        - E.g. GREYHOUND in Andhra Pradesh.
+        - Commando Battalion for Resolute Action (COBRA) forces
+    - Strengthen Intelligence
+    - Modernize equipment - Drones
+    - Humane approach
+        - Reasonable, necessary and proportional application of AFSPA
+    - Community policing
+        - Village volunteer force
+    - Joint operations between CAPF and state police
+        - Operation Green Hunt
+    - Training and capacity building
+        - Jungle Warfare School (CIJWS) in Mizoram.
+- Civil administration
+    - Trust-Building and community engagement
+        - Organizing Jan Sunwais (public hearings)
+    - Effective delivery of government schemes
+    - Capacity-building programs for PRI members
+- Media Action Plan - to counter Naxal propaganda
+- Surrender and Rehabilitation Policy.
+- Social
+    - Eklavya Schools
+    - Chhattisgarh Government's Chulo Asman program
+    - Tribal youth exchange programme
+- Economic
+    - Skill development
+        - Pradhan Mantri Kaushal Vikas Yojana (PMKVY)
+    - FRA, 2006 - Ensure rights over minor forest produce.
+    - Rehabilitation and Resettlement Policy of 2007.
+    - Land reforms and titling
+        - E.g. SWAMITVA Scheme
+    - Infrastructure
+        - E.g. Pradhan Mantri Gram Sadak Yojana.
+- Development related measures
+    - Road Connectivity development
+        - PMGSK
+    - Electrification and Telecommunication:
+        - DDUGJY and BHARATNET
+- Special Central Assistance. (SCA)
+- Modernization and upgradation (MPF Scheme)
+- District Mineral Development Fund - for tribal area development
+- LWE mobile tower project
+- Cooperation with neighboring countries
+    - Operation Sampriti - Indo-Bangla anti terror mission
+    - Operation all clear - Indo- Bhutan anti insurgent mission
+- Security Related Expenditure (SRE) Scheme
+- **Conclusion**
+    - **SAMADHAN Approach**
+
+## Security Challenges & their Management in Border Areas
+- **Introduction**
+    - India has over 15000 km of land and a coastline of over 7500 kms.
+    - Effective border management becomes crucial for sovereignty and territorial integrity of the nation.
+
+![Security](<Z9 Obsidian-files/Media/DOCX/Security 2.png>)
+
+- **Factors responsible for issue**
+    - Historical Factors - Colonial past
+    - Geographical Factors - Terrain, Topography, Connectivity
+    - Socio-economic Factors - Infrastructure, Unemployment
+    - The Ethnic Conflicts - diversity, scarce resources
+    - Lack of devolution of autonomy - Political aspirations of various ethnic groups
+    - Culture of Violence - organized crime
+    - Psychological Isolation - integration, awareness, media
+    - Illegal Immigration - Threat to Cultural Identities
+    - External Factors - China
+- **Security challenges**
+    - Territorial Disputes: with China, Pakistan and Nepal lead to occasional standoffs and tensions
+    - Transnational Crimes like smuggling, human trafficking, money laundering
+    - Insurgency and cross border terrorism
+    - Maritime security : piracy, illegal fishing
+    - Porous Borders making patrolling difficult
+- **Management**
+    - Diplomacy and dialogue
+        - E.g. India-Bangladesh peaceful resolution
+    - Strengthening border infrastructure
+    - Socioeconomic development in border areas
+    - Intelligence gathering and sharing
+    - Counter-terrorism operations
+- Steps required to be taken to deny local support to militants
+    - Increase the presence of security forces
+    - Identify and neutralize militant sympathizers
+        - Village Defence Committees (VDCs)
+    - Infrastructure development to boost economy
+        - Border Area Development Programme (BADP)
+    - Educational and vocational training facilities to empower youth
+        - Himayat and Udaan initiatives in J&K
+        - Project Sadhbhavana
+    - Improve access to healthcare
+        - Mobile health units
+    - Community policing to develop trust with locals
+- Creating favorable perception among locals
+    - Democratic decentralization and participatory governance
+    - Respect and promote local customs, traditions, and language
+    - Media campaigns to counter extremist propaganda and share positive stories
+    - Legal Support and access to Justice
+        - Setting up Lok Adalats and ADR mechanisms
+    - Provide essential services like clean drinking water, electricity, and sanitation
+    - Encourage sports and recreational activities to engage youth positively.
+    - Support local NGOs and community groups working for peace and community development
+    - Promoting cultural exchanges and social integration
+        - sports tournaments and youth exchange programs
+- **Government Initiatives**
+    - Border Area Development Programme
+        - Vibrant Villages Programme (VVP) - infrastructure in villages along India’s border with China
+    - Border district coordination committees
+    - Community engagement
+        - Village Defence guards(VDG)
+- **Measures**
+    - Enhance surveillance, fencing and patrolling
+        - Israeli-made SMADAR radar systems deployed along the Punjab border to detect low-flying drones.
+    - Integrated border management
+        - Comprehensive Integrated Border Management System (CIBMS)
+        - Border Infrastructure and Management (BIM) Scheme
+    - Detection and surveillance
+        - Deploying radar systems
+        - Electronic Surveillance
+            - (**NC3I**)
+    - Legislative and legal framework
+    - Strengthening border security
+        - Laser fencing, Barbed wire fencing (MADHUKAR GUPTA Committee)
+        - Smart Fencing of borders
+            - E.g. BOLD-QIT
+        - Thermal imaging in difficult terrain
+    - Advanced technology - GPS, Drones, AI into ISR systems
+    - Inter agency coordination
+        - Single coordination nodal agency
+            - NIA, ED, CBI, NTRO etc.
+        - Enhance combat capability (SHEKATKAR Committee)
+    - Development of integrated check posts
+        - E.g. Biratnagar - Nepal
+        - E.g. Sutarkandi - Bangladesh
+    - Community engagement and reporting mechanism
+        - Village volunteer force (VVF)
+    - International Cooperation
+        - E.g. settling border disputes
+        - E.g. Operation Sunrise with Myanmar
+    - training and capacity building of security personnel's
+- Thus, border management is not just fencing our border, but transforming them into frontiers of development.
+
+## Role of Non-State Actors
+- **Introduction**
+    - Non state actors are new frontiers of war in fourth generation warfare, says NSA AJIT DOVAL. They include NGO's, MNC's, Terrorist, Religious groups, etc.
+- **Challenges and Threats**
+    - [Organized Crime](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={624FD7B4-8B09-6541-80F2-1DE4952A7795}&83&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+    - Terrorism - LASHKAR-E-TAIBA (LeT), JAISH-E-MOHAMMED (JeM)
+    - Insurgency - Northeast (Nagaland), Naxal areas etc.
+    - Cyber threats
+    - Funding Separatism - J&K
+    - Radicalization and Propaganda
+        - ISLAMIC STATE (ISIS)
+    - Maritime Security Threat
+        - Somali pirates and Houthi rebels disrupting shipping lanes
+- **Measures**
+    - Intelligence Sharing and Cooperation
+        - E.g. - INTERPOL, FIVE EYES ALLIANCE
+    - Counterterrorism Measures
+        - CCIT under UN
+    - Inter agencies coordination
+    - Border Management (MADHUKAR GUPTA committee)
+    - Strengthening Cybersecurity
+    - Counter-Insurgency Operations:
+        - Operation All Out in Jammu and Kashmir
+    - Counter-Radicalization Initiatives:
+        - 'Operation Sulaimani' in Kerala
+- **Conclusion**
+    - Neutralizing non-state actors is essential for promoting safety, security and prosperity of the nation.
+
+## Role of External State Actors
+- **Introduction**
+- **Challenges**
+    - ![[Security 3.png]]
+    - Pakistan - J&K
+        - State sponsored terrorism
+            - Support to LASHKAR-E-TAIBA and JAISH-E-MOHAMMED
+            - Increased activities in Rajouri and Poonch
+        - Drug trafficking, Arms trafficking - GOLDEN CRESCENT
+        - Counterfeit Indian currency notes
+        - Espionage
+            - ISI
+        - Cross-Border Shelling in violation of ceasefire
+    - Afghanistan
+        - Radicalism spillover
+    - China - NE
+        - Border standoff
+            - E.g. Ladakh
+        - Cyber attacks
+            - AIIMS ransomware and Mumbai power grid attacks attributed to China
+        - Covertly support insurgency in NE
+            - Funding to ULFA
+        - Economic - Dumping cheap chinese goods
+        - Hydro diplomacy - Building dams over Tsangpo
+            - E.g. 60000MW Medog Dam
+    - Myanmar-
+        - Insurgency : ULFA, NSCN active in Northeast
+        - GOLDEN TRIANGLE - smuggling of arms, drugs, timber and contraband goods
+        - Rohingyas
+        - Free movement regime
+    - Sri Lanka
+        - Fisherman
+        - Spillover of Tamil ethnic issue
+    - Nepal
+        - Naxalism, Insurgency
+        - Counterfeit Indian currency notes
+        - Organized crime
+    - Bangladesh
+        - Illegal immigration (> 1.9 Million out of NRC)
+        - Insurgency in Assam, Tripura
+        - Smuggling of animals and endangered species
+- [Measures](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={63906FD5-4088-2247-BE6C-E631C4140B76}&5D&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+- **Conclusion**
+    - Recommendations of MADHUKAR GUPTA and SHEKATKAR committee like using technology and integration of security forces should be considered.
+
+### North-East
+- Way forward -
+    - Proportionate use of force
+    - Suspension of operation agreements (SoO)
+    - Memorandum of settlement agreements (MoS)
+    - Scheme of surrender-cum-rehabilitation of militants in NE
+    - Free movement regime
+    - **Vibrant Villages Programme**
+        - For villages along northern and north eastern borders
+        - essential infrastructure and the creation of livelihood opportunities
+        - promotion of social entrepreneurship, youth and women empowerment etc.
+- Actors -
+    - NATIONAL SOCIALIST COUNCIL OF NAGALAND
+    - UNITED LIBERATION FRONT OF ASSAM
+    - NATIONAL LIBERATION FRONT OF TWIPRA
+
+### Kashmir issue
+- External state actor
+    - ISI, Mujahideen
+- Internal state actor
+    - Sense of alienation, marginalized (SPE), humanitarian abuses
+    - _Over ground workers_
+        - Provide logistical support : safe house, transport, food and communication channels
+        - Financial support through raising funds by extortion, donation or contribution
+        - Collect information about security forces, potential targets and recruitable individuals
+        - Persuade vulnerable individuals to join insurgency
+        - Spread propaganda and create support base for extremist ideologies
+        - Stone-pelting, mob-violence, radicalization, recruitment of militants.
+- _Measures -_
+    - Counter- terror operation
+    - Intelligence based string operations
+    - Psychological and social rehabilitation
+    - Empower agency of social control - community based
+- Government schemes -
+    - UDAAN Scheme - skill development for youth, travel, training and transit to work.
+    - Himayat mission - generate sustainable livelihoods
+    - Surrender and rehabilitation policy
+- Positives after Abrogation of A370 -
+    - RTI,2005, RPA,1951, POCSO.
+    - Good governance - social security measures
+    - Infrastructure development
+- Way forward - **4D**
+    - Dialogue
+    - Demilitarization
+    - Devolution of powers - local self government
+    - Development
+
+## Maritime border
+- **Introduction**
+    - Owing to 7500 km long maritime border, Maritime security It imperative for India's national interest.
+- India’s long coastline of 7,516 km and Exclusive Economic Zone (EEZ) of approximately 2 million square km make maritime security a critical concern.
+- Maritime **borders**
+
+![Security](<Z9 Obsidian-files/Media/DOCX/Security 4.png>)
+
+- Significance
+    - Economic
+        - 90% of India’s international trade by volume and 70% by value occurs through sea routes
+    - National security
+        - 26/11 terrorist attack in Mumbai using the sea route.
+    - Protection of vital infrastructure
+        - Major ports, nuclear power facilities (Tarapur, Kalpakkam)
+    - Disaster response
+        - 2004 Indian Ocean tsunami.
+    - Environmental protection
+        - illegal fishing, smuggling, and hazardous waste dumping
+- Maritime Security **Challenges**
+    - Piracy;
+        - off the coast of Somalia affecting commercial shipping
+        - Houthi rebels attacking ships
+    - smuggling;
+        - Seizure of heroin worth millions off the Gujarat coast.
+    - illegal fishing;
+        - Frequent incursions by Sri Lankan fishing boats
+    - terrorism;
+        - 2008 Mumbai attacks
+    - Environmental Threats:
+        - Oil spills, marine pollution, cyclones
+    - Cyberattacks on maritime infrastructure including ports and shipping companies
+    - Vulnerable areas close to Horn of Africa, Strait of Malacca
+    - Governance, social and economic issues in coastal states
+    - Complex jurisdictional issues
+    - Territorial disputes
+        - E.g. Sir. Creek with Pak
+        - E.g. Kachchatheevu island
+    - China’s Maritime Expansion
+- **Measures** to strengthen maritime security | **Government Steps**
+    - Organisational
+        - Indian Navy Modernization:
+            - Induction of INS VIKRANT and MQ-9B drones
+        - Coast Guard Expansion
+            - new offshore patrol vessels (OPVs) and interceptor boats are inducted
+        - Centralized monitoring system
+            - National Maritime Domain Awareness (NMDA)
+        - Inter-Agency Coordination between Navy, coast guard and intelligence agencies
+            - National Committee on Strengthening Maritime and Coastal Security (NCSMCS)
+        - Tri service integration (SHEKATKAR committee)
+            - Inter-Services Organisation (Command, Control and Discipline) Bill, 2023
+    - Technical
+        - Coastal Security Infrastructure -
+            - Electronic coastal surveillance network (CSN)
+            - Sagar Kavach radar system
+        - Automatic Identification System (AIS) for vessel movement
+        - National command control communication and intelligence network (NC3I)
+    - Procedural
+        - Maritime Security Policy having state wise SOP's
+        - Port Security Measure
+            - Adapting Ship and Port Facility Security (ISPS) Code
+        - Joint exercise - MALABAR, CORPAT, JIMEX
+    - Legal - Maritime Anti Piracy Act
+        - Piracy - acts of violence, robbery, or detention of a ship or its crew for private ends.
+    - Coastal Community Engagement
+        - E.g. Sagar Prabhari Bal
+        - E.g. Operation Sagar Kavach
+    - Infrastructural development
+        - The Sagarmala program
+    - International cooperation
+        - IORA, IONS, BIMSTEC
+        - SAGAR Doctrine
+- **Conclusion**
+    - In the vastness of the oceans, maritime security becomes the anchor that holds nations together.
+
+## Linkages of organized crime with terrorism
+- For any linkages word
+    - Draw a cycle
+        - ![[Security 5.png]]
+- Linkages
+    - Funding : terrorist rely on funding from organized crime activities like drug trafficking or extortion
+    - Logistics : Organized crime groups provide terrorist with transportation, forged documents, and safe havens.
+    - Recruitment : both exploit marginalized communities. With people working for both groups
+    - Cross border infiltration : organized crime group help movement of weapons, terrorist across border on their network
+    - Share resources and expertise : in technology like blockchain, communication network, social media use
+    - Cyber crimes : both coordinate cyber attacks for mutual financial and tactical benefits
+
+## Terrorism
+- **Introduction**
+    - "With guns you can kill terrorists, with education you can kill terrorism." - MALALA YOUSAFZAI
+- The BHARATIYA NYAYA SANHITA (BNS) 2023 defines terrorism as an act that intends to:
+    - Threaten the unity, integrity, or security of the country
+    - Intimidate the general public
+    - Disturb public order
+- According to 2nd ARC, Terrorism is unlawful use of violence or intimidation specially against civilians in pursuit of 'political' power.
+- **Challenges in Tackling Terrorism**
+    - Extreme ideologies - Jihad
+        - ISIS, AL-QAEDA
+    - Diverse actors with different motivations
+        - Religious Extremism
+            - ISIS and AL-QAEDA
+        - Political Ideologies
+            - HAMAS and TALIBAN
+        - Ethno-Nationalist Causes
+            - LTTE; Balochistan
+    - State sponsored
+    - Evolving Tactics :
+        - Conventional Attacks: Bombings, shootings, and hijackings, kidnapping, and hostage takings.
+        - Unconventional Warfare: Cyberterrorism, bioterrorism, attack on CII, missile attack
+        - Psychological Warfare: Spreading fear through social media
+    - Globalized networks -
+        - Transnational Links - over ground workers, recruit fighters
+        - Diverse Funding Mechanisms : cryptocurrency, Hawala networks
+    - Lone wolf attacks to State-Sponsored Terrorism
+        - E.g. LASHKAR-E-TAIBA
+    - Access to new and emerging technologies - Instantaneous and Unpredictable attacks
+        - E.g. Drones, Modern Firearms, cyber attacks, dark web etc.
+    - Access Encrypted communication - cryptography
+    - Recruitment - target vulnerable individuals
+    - Radicalization - exploiting grievances, sense of injustice
+    - Global reach
+        - E.g. 9/11,
+    - Targeting Urban areas
+        - Easy spread of fear, High cost of counter-terrorism operation
+        - E.g. 26/11 Attacks
+    - Highly publicised atrocities
+        - E.g. Public execution, claiming responsibility over media.
+    - Targeting civilian population
+        - HAMAS attack on Israel
+    - Gaining political power
+        - E.g. TALIBAN, HAMAS
+    - Cyberterrorism
+- **Causes of terrorism**
+    - Political Grievances : lack of political representation, feeling of oppression
+        - LTTE
+    - Historical grievances : historical conflict and perceived injustices
+        - Israeli-Palestinian conflict
+    - Socio-Economic Factors : Poverty, unemployment, lack of minimal facilities
+    - Religious Extremism : charismatic leaders using 'Jihad' to justify violence
+    - State-Sponsored Terrorism: to achieve strategic objectives
+    - Ethno-national causes
+- **Obnoxious Nexus:**
+    - Terrorist-State Nexus: state sponsoring and providing safe havens for strategic objectives
+    - Terrorist-Organized Crime :
+    - Terrorist Use of Technology
+- **Linkage with organized crime**
+    - Drug trafficking
+        - E.g. TALIBAN through opium production in Afghanistan
+        - E.g. AL-QAEDA involvement in tobacco trade ( > $1 B according to INSTITUTE OF ECONOMICS AND PEACE)
+    - Money laundering
+        - Money laundering using Hawala transactions
+            - E.g. Terrorism in Jammu and Kashmir
+        - Cryptocurrencies - Blockchain network
+    - Human trafficking -
+        - Forced Labour, sexual exploitation, illegal trade of organs, forcefully recruited for armed conflicts
+            - E.g. Recent activities of ISIS, BOKO HARAM, Northeast India
+    - Intellectual property crimes
+        - E.g. Trade in counterfeit and pirated goods
+- **Measures**
+    - Enhancing Border Security
+    - Enhance Intelligence gathering and surveillance networks -
+        - NATGRID
+    - Countering Extremist Narratives : Promoting tolerance, interfaith dialogue
+    - Inclusive growth : creating economic opportunities, education, healthcare, infrastructure
+    - Democratic decentralization and participatory governance
+    - cybersecurity measures
+    - International Cooperation : FATF and the EGMONT GROUP
+    - Target financial networks - FIU-IND, FCRA
+    - Legal Frameworks - UAPA, PMLA,
+    - Training and Operations - IB can play greater role
+    - Investigation - NIA
+    - Prosecution - NIA Act, 2019 provided for setting up special and session courts
+    - CCTNS Database - crime and criminal tracking network system
+    - National cyber coordination center (NCCC)
+- **Global Measures Taken to Combat Terrorism**
+    - FINANCIAL ACTION TASK FORCE (FATF): combats money laundering and terror financing
+    - RATS
+    - UNODC
+- **Way forward**
+    - Policy of Zero-Tolerance Against Terrorism
+    - Pre-emptive measures
+        - Socio-economic development
+        - Early prevention and de-radicalization
+        - Ensure non-proliferation of weapons of mass destruction to terrorist organization
+    - International cooperation
+        - CCIT
+        - Adequate funding to counter terrorism bodies
+            - UN office on drugs and crime (UNODC)
+        - Coordination
+            - UNSC, SCO (RATS - Regional Anti-Terrorist Structure), UNODC
+        - Strengthening role of INTERPOL
+    - 360 degree approach to curb terror funding
+        - Coordination between FATF and UNSC
+    - Removing distinction between good and bad terrorists
+    - Strengthening border security
+        - MADHUKAR GUPTA committee
+    - crisis management response framework at national level
+    - National Investigation Agency : national level counter-terrorist task force
+    - Comprehensive Integrated Border Management System
+- **Conclusion**
+    - Weapons can kill terrorist but education can kill terrorism -MALALA YOUSAFZAI
+    - Terrorism continues to be the gravest threat to mankind. Through international cooperation, we must adopt zero tolerance policy towards terrorism.
+
+## Organized Crime
+- **Introduction**
+    - Organized crime refers to a structured criminal enterprise to carry out illegal activities for financial gain or power.
+    - Hawala money involves the laundering of money through hawaladar's, often without any physical movement of cash.
+- According to UNODC Report, about 2-5% of global GDP, or $800 billion to $2 trillion is laundered globally every year.
+- Process of Money Laundering - **PLI**
+    - Placement stage
+    - Layering stage
+    - Integration stage
+- **Significance -**
+    - Social
+        - Drug addiction, Corruption, weakening of social institution's, organized crimes
+    - Environmental
+        - Illegal wildlife trade
+    - Economic
+        - Financial risk, unfair competition
+    - Security
+        - Drug trafficking, sex trafficking, terrorism
+    - Ethical - loss of morality
+    - Technological - Cyber crimes
+- Contribution of emerging technology
+    - Cryptocurrencies and **NFT** - Provide anonymity
+        - E.g. Bitcoin
+    - VPN - encrypted networks for communication
+    - Peer-to-peer platforms : like PayPal and Venmo used for small, untraceable transactions, that accumulate into significant sums.
+    - Dark Web : illicit goods marketplace
+        - Silk Road - dark web marketplace
+    - Drones - Cross border delivery without detection
+        - E.g. Arms and drugs seizure in Punjab
+    - Increased Use of Shell Companies
+        - Panama Papers leak
+- Contribution of globalisation
+    - Offshore Financial Centres - Tax Heavens
+        - E.g. Singapore, Mauritius
+    - Shell Companies used to launder money and evade taxes.
+        - E.g. Panama Paper leaks
+    - Seamless Cross-Border Transactions:
+        - E.g. SWIFT Protocol
+    - Trade-based Money Laundering
+        - E.g. Over/under-invoicing
+- **Measure for prevention**
+    - Effective KYC norms and AML regulations
+    - Improving financial surveillance
+        - E.g. 'Financial Intelligence Units - (FIU-IND)'
+        - CERT-FIn
+    - Monitoring transactions
+        - E.g. money trail
+    - Cybersecurity frameworks
+    - Public Awareness Campaigns
+        - RBI's "Money Matters" campaign
+    - Reporting suspicious activities
+    - Improved Coordination Among Agencies
+    - Strengthening AML Laws
+        - Prevention of money laundering Act, 2002
+        - FEMA, 2000, FCRA, 2010
+        - Benami Property Act
+    - Enhancing international cooperation
+        - Mutual legal assistance treaty
+        - India achieved an ‘Outstanding Outcome’ in FATF Mutual Evaluation
+    - Global AML Standards
+        - FATF - Financial action task force by G7
+        - BASEL committee
+    - Multilateral Agreements
+        - VIENNA convention
+        - UN global programme against money laundering (GPML)
+        - Double Taxation Avoidance Agreements (DTAA)
+    - Digitalization and Financial Inclusion
+        - Digital India campaign and Jan Dhan Yojana
+    - Enhancing regulatory oversight
+        - Enforcement Directorate
+        - Outline role of bankers
+        - MiCA (Markets in Crypto assets - EU)
+    - Inter agency coordination
+        - RBI, SEBI, FIU-IND
+    - Asset Forfeiture Laws:
+        - The Fugitive Economic Offenders Act, 2018
+    - International Cooperation
+        - FATF, INTERPOL, OECD
+- **Conclusion**
+    - The fight against organized crime requires a united front, relentless pursuit, and unwavering determination.
+    - **SDG 16**
+
+## Cyber Security
+- Cyber security involves protecting computer systems, networks, and data from cyber threats.
+- **Introduction**
+    - CERT-IN in its India Ransomware Report 2022 stated that there is a 51-percent increase in the number of ransomware attacks across multiple sectors including critical infrastructure.
+- INDIAN COMPUTER EMERGENCY RESPONSE TEAM (CERT-In) highlights that India encountered a considerable number of cybersecurity incidents in 2022, with a total of 13.91 lakhs reported cases.
+- NCRB data suggests growing cyberattacks at staggering rates.
+- Majority belong to financial fraud
+- Ransomware is malicious software that encrypts files or locks a computer, demanding a ransom payment for restoring access.
+- India ranked 10th in Global cyber security index
+- **Elements of cyber security - ADVANC**
+    - Application security - keeping applications free from vulnerabilities
+    - Network security - preventing unauthorized access, intrusion, and disruption
+    - Data Security - protecting sensitive data from leak, theft, unauthorized access
+    - Information Security: Maintaining confidentiality (privacy), integrity (accuracy), and availability of information.
+    - Identity and Access Management (IAM)
+        - Availability, Authentication, Authorization
+    - Disaster recovery plan
+    - Vulnerability management
+- **Types of Cyber Threats**
+    - Cyber Crime
+        - Phishing
+            - "Bank Account Verification" Scam
+            - "Lottery Winner" Scam
+        - Malware attack
+            - WannaCry
+        - Identity Theft
+        - Cyberstalking, Harassment, Cyberbullying
+        - Data breach
+            - Facebook-Cambridge Analytica Scandal (2018)
+        - Online frauds - fake website and online payment scams, deceptive advertising, pyramid schemes
+    - Espionage
+        - E.g. Pegasus
+    - DDOS attacks
+    - Ransomware attack
+        - E.g. AIIMS Ransomware attack
+        - BlackCat
+    - Cyber Attacks on CII
+        - UIDAI Database, 2021
+        - Mumbai Power Grid, 2020
+    - Child Pornography
+    - AI Vulnerabilities - Deepfakes
+    - Terrorism - convergence of terrorism in cyberspace targeting CII.
+    - Cyber Warfare - disruption in the activities of state, attack on CII
+    - Information warfare
+- **Challenges in Cyber Security**
+    - Increasing Cyber Attacks
+        - 13.91 lakhs reported cases in 2023 [CERT-In]
+    - Rapidly evolving technologies -
+        - e.g. AI, IOT
+    - Diffused and intangible threat -
+        - low cost of mounting attacks
+    - No geographical constraints
+        - Limit law and order jurisdiction
+        - E.g. CrowdStrike bug has led to Global Halt (2024)
+    - Attitudinal challenges
+        - Out of sight, out of mind syndrome
+    - Lack of reporting
+        - Only 2% reported (CERT-In)
+    - Capacity
+        - 90% companies don't have any nodal officer for cyber security threats (KPMG Survey)
+    - Lack of awareness
+        - KPMG survey: 85% of Indians not aware of threats such as malware, trojans
+    - Lack of Skilled Professionals
+    - Privacy Concerns
+        - Controversies over data privacy in Aadhaar
+- **Impact of cyber attacks**
+    - Threat to national security
+        - Chinese cyber espionage targeting Indian defence networks
+    - Economic losses and disruption of financial systems
+        - 2018 Cosmos Bank cyber attack led to loss of ₹94 crore
+    - Sabotage : attacks on critical infrastructure such as power grids, transportation, and communication networks
+        - Mumbai's power grid in 2020
+    - Data security breach : leak of personal and sensitive information.
+    - Psychological Impact on users undermining confidence in digital services
+- Security Framework to Prevent Cyber Attacks:
+    - Protect : Implement security measures like firewalls, intrusion detection systems, data encryption
+    - Detect : Robust detection system for suspicious activity
+    - Respond through containment, eradication, remediation
+    - Recover : DR plans and backups
+- **Need for Data localization -** (AP SHAH Committee)
+    - Maintain data sovereignty
+    - Domestic push to digital economy and high value digital products
+    - Increase the tax revenue and curb tax evasion by MNC's
+    - Citizens data privacy
+    - _Currently data exchange between countries happen through_ **_Mutual Legal Assistance Treaties(MLAT)_**
+- **Measures | Government Initiatives -**
+    - Institutional arrangements
+        - CERT-In and National Cyber Coordination Centre (NCCC)
+    - Policy Framework
+        - National Cybersecurity policy, 2013
+    - Public awareness and participation
+        - Citizen Financial Cyber Fraud Reporting and Management System (CFCFRMS)
+    - Enhancing Cyber Forensics
+        - **Indian Cyber Crime Coordination Centre (I4C)**
+    - Incident Response Mechanisms
+        - Digital Criminal Case Management System (CCMS) Platform
+    - Robust legal and regulatory frameworks
+        - Digital India Bill, Telecommunication Bill, Digital personal data protection bill
+        - IT Act, 2008
+        - National digital communication policy, 2018
+        - Setup data protection authority
+            - Digital personal data protection bill
+- Continuous monitoring and threat intelligence
+    - CERT-In
+    - CERT-Fin (for financial security)
+    - Cyber and information security division (CIS)
+        - Cyber warfare police force
+- Collaboration with Ethical Hackers to identify zero day vulnerabilities
+- Proactive approach
+    - Reducing zero-day vulnerability
+    - Cyber Swachhta Kendra (Botnet Cleaning and Malware Analysis Centre)
+    - TechSagar platform
+- Capacity building
+    - Digital Army Programme
+    - Cyber Surakshit Bharat initiative
+        - spread awareness about cyber-crime and build capacities of frontline IT officials
+    - _Develop offensive capacities_
+    - National Cyber Crime Training Centre (NCCT)
+- Technical Measures like implementing firewalls, encryption, and multi-factor authentication.
+    - RSA technology, quantum encryption
+- Using new technologies
+    - Quantum computing
+- PPP model for cybersecurity
+    - CyberDome project by govt of Kerela
+- Secure network infrastructure
+    - Developing zero trust architectures
+- Public awareness
+    - Cyber Jagrukta Diwas (CERT-In)
+- International cooperation
+    - BUDAPEST convention - India is not a member
+    - Adopt **TALLINN** Manual
+    - Ground zero summit
+    - Paris Call for Trust and Security in Cyberspace
+- GULSHAN RAI Committee
+    - ![[Security 7.jpeg]]
+    - Creation of Cybercrimes cells in district
+    - Separate agency
+- **Conclusion**
+    - India will have more than 1 Billion internet users by 2025, ensuring safe, secure and inclusive cyberspace.
+
+## Communication Network
+- **Introduction**
+    - A communication network is a system of **interconnected devices** that allows the exchange of information.
+        - E.g. LAN, Internet, Wireless networks
+- **Challenges**
+    - Security threats:
+        - [Cyber Threats](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={84FEE3D9-B688-DD4B-9E4E-53FBD293646D}&C2&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+        - Terrorist and non-state actors
+        - 'Advanced persistent threats(APT)'
+            - E.g. adversarial sovereign nations like China, Pakistan etc.
+    - Privilege of anonymity
+    - Network reliability and resilience
+        - Consistently Evolving nature of Threats
+        - Inadequate understanding and inter-dependencies
+    - lack of concrete regulation and poor enforcement of existing one
+    - Jurisdiction on adjudication of crimes - Nature of Crimes is transcending physical state boundaries
+    - Lack of testing capacity, skilled Human Resources
+    - Outsourcing risks
+    - Hybrid warfare - unrestricted warfare - growing attacks on civilian infrastructure
+- [Measures | Government Initiatives -](onenote:#Security&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={6241E2EE-00C4-3A46-A164-4DB02EF40D2A}&object-id={3D5E6C6C-7453-5C4D-A8E4-3AA90924EBB2}&BD&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+    - PD-CR-RA
+    - ![[Security 6.png]]
+- **Conclusion**
+    - Securing communication networks is of utmost importance to protect India's digital sovereignty in today's interconnected world.
+
+## Role of Media and social Networking
+- **Introduction**
+    - Social networking sites are online platforms that empowers individuals in fostering social interactions in a digital environment.
+    - According to STATISTA, over 850 million Indians were active on social media.
+- Social Networking
+    - Social Media : Facebook, Twitter, Instagram, Snapchat
+    - Professional Networking: LinkedIn
+    - Interest-Based Platforms: Reddit, Pinterest
+- **Role of Media - AWRI**
+    - Information Dissemination
+        - Share perspectives
+        - Shape perceptions
+        - Democratization of public life
+    - Deliberative platform [H. ARENDT]
+    - News Reporting and Journalism
+        - To help people understand and interpret event.
+    - Public Watchdog
+        - Holding officials accountable
+            - Panama Papers leak
+        - Investigative journalism exposes corruption
+            - Vyapam exposure
+    - Education and Awareness
+        - Agent of bringing social change
+            - Agency to inculcate values
+    - Help In nation building, unity and integrity of nation
+        - Media is the fourth Estate of democracy
+- **Issues**
+    - Hate speech
+        - E.g. love jihad
+    - Media trial
+        - E.g. Sushant Singh Rajput case
+    - Misinformation and Fake News
+        - E.g. WhatsApp forwards shown on national televisions
+    - Perverted debates
+        - Demagoguery and political bias
+    - Consumerism
+        - Promoting profligacy among citizens
+    - Commodification, Objectification of women
+        - E.g. fairness creams
+    - Radicalization - anti social behaviour
+    - Commercialization
+    - Social media specific
+        - Data security concern
+            - Example: The Cambridge Analytica scandal
+        - Phishing and Social Engineering to deceive users in revealing sensitive information.
+        - Cyberbullying and Harassment
+        - Addiction and Mental Health : affect overall well-being.
+        - Echo chambers : conforms existing beliefs and bias
+        - Political harassment - individual targeting, Soft targets (women harassment, children's)
+        - Fake news
+        - Unequal participation
+        - Cyber bullying, trolling, anonymity, jurisdictional challenges
+- Incidence of **misuse** by non-state actors (Challenges)
+    - Spread of propaganda
+        - E.g. ISIS
+    - Recruitment and Radicalization
+        - E.g. ISIS, AL-QAEDA
+        - E.g. Kerela Story
+    - Incitement of Violence
+        - Rioting in Paris
+        - January 6 Capitol riot in the USA
+    - Online Harassment and Intimidation
+        - E.g. Gamergate movement
+    - Funding and Financial Crimes
+        - WannaCry, BlackCat
+    - Coordinating attacks and operations
+        - The 2019 Easter bombings in Sri Lanka
+- **Measures**
+    - User Education and digital literacy
+        - Sensitize about sharing limited personal information
+        - Creating strong passwords
+        - online privacy settings
+    - Strengthening Cyber Surveillance
+    - Regulating Social Media Content
+        - Digital Media Ethics Code
+    - Counteracting Misinformation
+        - Ensure crime and violence is not glorified
+    - Promoting ethical journalism
+    - Strengthen legal and statutory framework
+        - Digital data protection bill, digital india bill, telecommunication bill
+        - National social media policy
+        - Broadcasting Bill
+    - Independent regulating body
+        - Statutory status to News broadcasters associations
+    - Privacy is respected
+        - Data localization
+        - Protect personal information and data ownership rights
+        - Fact checking mechanism
+    - Public reporting frameworks
+        - Sanchar Saathi portal - citizens can report suspected fraudulent communication
+    - Monitoring and Intelligence Sharing:
+- **Conclusion**
+    - "The media is the watchdog of democracy, ensuring transparency, accountability, and freedom of expression."
+- Advantage of social media -
+    - Participation
+    - Openness
+    - Connectedness
+    - Heterogeneity
+    - Active engagement rather then passive communication (broadcasting media)
+- Negative impacts -
+
+## Money Laundering
+- **Introduction**
+    - Money laundering is the process of making illicitly obtained money appear legitimate by concealing its true source.
+    - Hawala money involves the laundering of money through hawaladar's, often without any physical movement of cash.
+- According to UNODC Report, about 2-5% of global GDP, or $800 billion to $2 trillion is laundered globally every year.
+- Process of Money Laundering - **PLI**
+    - Placement stage
+    - Layering stage
+    - Integration stage
+- **Significance -**
+    - Social
+        - Drug addiction, Corruption, weakening of social institution's, organized crimes
+    - Environmental
+        - Illegal wildlife trade
+    - Economic
+        - Financial risk, unfair competition
+    - Security
+        - Drug trafficking, sex trafficking, terrorism
+    - Ethical - loss of morality
+    - Technological - Cyber crimes
+- Contribution of emerging technology
+    - Cryptocurrencies and **NFT** - Provide anonymity
+        - E.g. Bitcoin
+    - VPN - encrypted networks for communication
+    - Peer-to-peer platforms : like PayPal and Venmo used for small, untraceable transactions, that accumulate into significant sums.
+    - Dark Web : illicit goods marketplace
+        - Silk Road - dark web marketplace
+    - Drones - Cross border delivery without detection
+        - E.g. Arms and drugs seizure in Punjab
+    - Increased Use of Shell Companies
+        - Panama Papers leak
+- Contribution of globalisation
+    - Offshore Financial Centres - Tax Heavens
+        - E.g. Singapore, Mauritius
+    - Shell Companies used to launder money and evade taxes.
+        - E.g. Panama Paper leaks
+    - Seamless Cross-Border Transactions:
+        - E.g. SWIFT Protocol
+    - Trade-based Money Laundering
+        - E.g. Over/under-invoicing
+- **Measure for prevention**
+    - Effective KYC norms and AML regulations
+    - Improving financial surveillance
+        - E.g. 'Financial Intelligence Units - (FIU-IND)'
+        - CERT-FIn
+    - Monitoring transactions
+        - E.g. money trail
+    - Cybersecurity frameworks
+    - Public Awareness Campaigns
+        - RBI's "Money Matters" campaign
+    - Reporting suspicious activities
+    - Improved Coordination Among Agencies
+    - Strengthening AML Laws
+        - Prevention of money laundering Act, 2002
+        - FEMA, 2000, FCRA, 2010
+        - Benami Property Act
+    - Enhancing international cooperation
+        - Mutual legal assistance treaty
+        - India achieved an ‘Outstanding Outcome’ in FATF Mutual Evaluation
+    - Global AML Standards
+        - FATF - Financial action task force by G7
+        - BASEL committee
+    - Multilateral Agreements
+        - VIENNA convention
+        - UN global programme against money laundering (GPML)
+        - Double Taxation Avoidance Agreements (DTAA)
+    - Digitalization and Financial Inclusion
+        - Digital India campaign and Jan Dhan Yojana
+    - Enhancing regulatory oversight
+        - Enforcement Directorate
+        - Outline role of bankers
+        - MiCA (Markets in Crypto assets - EU)
+    - Inter agency coordination
+        - RBI, SEBI, FIU-IND
+    - Asset Forfeiture Laws:
+        - The Fugitive Economic Offenders Act, 2018
+    - International Cooperation
+        - FATF, INTERPOL, OECD
+- **Conclusion**
+    - Money laundering is a global challenge that requires international cooperation and strong institutions (**SDG 16**)
+
+## Security forces, Agencies
+- **Forces**
+    - Central Armed Police Force (6)
+        - They are central police organizations under the Ministry of Home Affairs of India.
+        - Total sanctioned strength of CAPFs is around 11 Lakhs.
+- BSF
+    - Pak and Bangladesh border
+    - LOC along with army - maintain law and order, civil policing
+- CISF - Central Industrial Security Force
+    - PSB, airports , Metro, PSU, Critical infrastructure
+    - Security of protected persons, Z Plus, Z, X,Y.
+- CRPF - Central Reserve Police Force -
+    - RAF - Rapid Action Force (communal Riots)
+        - Crowd control
+        - Riot control
+        - UN peacekeeping , rescue and relief operation
+    - COBRA - Commando Battalion for Resolute Action (LWE)
+        - Counter militancy, insurgency operation
+- ITBP - Indo-Tibetan Border Police
+    - Vigilance, border out posts(**BOP**)
+- SSB - Sashastra Seema Bal
+    - Nepal, Bhutan
+    - Prevent transborder crimes
+    - Prevent unauthorized entry-exits
+- NSG - National Security guard
+    - Counter terrorism, VIP Security
+- Paramilitary force
+    - Assam rifles
+        - Indo-Myanmar border
+- Central Intelligence and Investigative Agencies
+    - Intelligence Bureau (IB)
+    - National Investigation Agency (NIA)
+    - Central Bureau of Investigation (CBI)
+    - Research and Analysis Wing (RAW)
+    - Enforcement directorate (ED)
+    - National Security Council Secretariat (NSCS)
+        - Inter agency coordination
+- Sikkim scouts
+- Indian coast guard
+- Marine police force
+- **Role**
+    - Patrolling, preventing infiltration, and curbing smuggling.
+    - Infrastructure development, and assists local communities.
+    - Counterinsurgency operations
+    - Prevent organized crime across border
+    - Protection of **critical infrastructure**, **strategic establishment** (**CISF**)
+    - Unauthorized entries and exits
+    - Maintain law and order
+    - Combat-readiness : to any incursions or aggressive actions
+    - Civic Support in Remote Areas : Healthcare camps in border villages
+    - Intelligence Gathering: Monitoring Chinese road construction
+    - Coordination with Armed Forces: Joint operations
+- **Issues Faced -**
+    - HR issues
+        - High vacancies
+        - Overburdened
+        - Limited avenues of promotion
+    - Keeping up with evolving technologies used by criminals and terrorists
+    - Operational issues
+        - Quality of investigation
+        - Shortage of arms and ammunitions
+    - Institutional
+        - Lacks inhouse grievance redressal mechanism
+        - Accountability - political interferences
+    - Inadequate Infrastructure
+        - Lacking modernization
+    - Police-public relations :
+    - Concerns about violation of civil liberties
+    - Shortage of Advanced Equipment: night-vision capabilities, UAVs, advanced radar systems
+    - Health and Morale Issues:
+    - Inter-agency coordination sometimes face bottlenecks
+- **Legislations**
+    - Inter-Services Organisations (ISOs) (Command, Control, and Discipline) Act
+- **Police**
+    - SMART policing
+        - Strict and sensitive
+        - Modern and mobile
+        - Alert and accountable
+        - Reliable and responsible
+        - Tech savvy and trained
+    - PRAKASH SINGH Case
+        - State security commission
+        - Police establishment board
+        - Police complaints authority
+- **Security & Intelligence Agencies**
+    - IB
+        - Role: Domestic intelligence, counter-terrorism, and counter-espionage.
+    - R&AW
+        - Role: External intelligence gathering, monitoring foreign threats.
+    - CBI
+        - Role: Handling complex criminal cases including corruption, economic offenses, and special crimes.
+        - Issues - independent functioning
+        - Reform - 2nd ARC suggest to give it Statutory Backing
+    - NIA
+        - Role: Investigating and prosecuting offenses related to terrorism and other national security threats.
+    - ED
+    - NCB - Narcotics Control Bureau
+        - Role: Combating drug trafficking and related offenses.
+        - Article 47
+        - NDPS Act
+    - NTRO - National Technical Research Organization
+        - Role: Technical intelligence and cyber surveillance.
+    - Directorate of Revenue Intelligence (DRI):
+        - Role: Countering smuggling, customs frauds, and economic offenses.
+- **Institutional Framework to Tackle Challenge of Internal Security**
+    - MAC - Multi Agency Centre
+    - NCTC - National Counter Terrorism Centre
+- **Laws**
+    - UAPA
+        - Concerns
+            - Potential for misuse because of broad and vague definition
+            - Individuals may be designated terrorist without sufficient evidence
+            - Infringement on the fundamental rights to personal liberty and fair trial.
+            - Increase in preventive detention and making it harder to get bail
+            - Reduced judicial oversight can lead to arbitrary actions
+            - Can be used to curb free speech and the right to dissent
+            - Seen as conflicting with UDHR 1948
+    - TADA
+    - POTA
+    - **AFSPA, 1958**
+        - Sections which are controversial
+            - Section 4 -
+                - power to shoot to kill, on mere suspicion
+                - Arrest without a warrant
+            - Section 6
+                - grants immunity from prosecution acting in "good faith" during operation.
+            - Section 7
+                - search and seizure any premises without a warrant
+        - Why needed
+            - maintain law and order
+            - to protect the armed force from false allegations
+        - View of supreme court in _Extra Judicial Execution Victim Families Association v. Union of India (2016),_
+            - Striking a balance between maintaining national security and protecting human rights.
+            - Principles of proportionality, necessity and reasonability in using force.
+        - Way forward
+            - security forces should also abide by the guidelines set out by the Apex court, JEEVAN REDDY Commission, 2nd ARC
+            - In line with Principle 24 of the UN Basic Principles on the Use of Force and Firearms by Law Enforcement officials
+        - Where applicable right now?
+            - Nagaland, Arunachal Pradesh, Assam, Manipur, J&K
+- **Measures and Way Forward | Government initiatives**
+    - Intelligence Sharing and Collaboration
+        - E.g. NATGRID
+        - E.g. Crime and Criminal Tracking Network System (CCTNS)
+    - Modernization of armed forces
+    - Enhancing Operational Efficiency : integrating AI in decision-making and threat analysis
+    - Self-Reliance (Aatmanirbhar Bharat):
+    - Force Multiplier with emerging technologies
+        - UAV; advanced radar systems; anti-missile systems
+    - Capacity Development (SHEKATKAR Committee)
+        - Boost Defence production
+            - Naval innovation and indigenization organization
+            - SWAVLAMBAN
+            - SRIJAN - portal lists items for indigenization
+    - International Cooperation
+        - E.g. INTERPOL, UNODC.
+    - MURLI MANOHAR JOSHI Committee:
+        - Capacity development of states, updating training curriculum, workshop on stress management
+- ACING DEVELOPMENT OF INNOVATIVE TECHNOLOGIES WITH IDEX (ADITI) SCHEME
+    - To develop about 30 deep-tech critical and strategic technologies
+- **Conclusion**
+    - Balancing security interests with the fundamental rights
+    - SMART policing
