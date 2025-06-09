@@ -396,7 +396,7 @@ H-WAGES (नरेंद्र मोदी या हाई wages)
         - The government support to this section thus cannot merely be withdrawn because these people are no longer officially poor.
         - It must continue to make them capable in order to sustainably shield themself from falling back in the poverty.
 
-## Inequality
+# Inequality
 
 - - It is when two sets of people possess different levels of resources.
     - Most commonly inequality is seen in **3 dimensions**
@@ -560,7 +560,7 @@ MAPLE
 
 ![Economics](<Z9 Obsidian-files/Media/DOCX/Economics 4.png>)
 
-## UNEMPLOYMENT
+# UNEMPLOYMENT
 
 - - It is a situation wherein a person who is willing to work is unable to find work.
 
@@ -984,7 +984,7 @@ CONCEPT OF DEMAND AND SUPPLY
 - - Given the structural and voluntary reasons explaining most of the unemployment, the biggest step that can be taken is to skill the workforce in industry-relevant skills.
     - To create more jobs compliance costs would have to be reduced and most importantly supply-side measures including ease of doing business would have to be addressed.
 
-## Some basic concepts in Economics
+# Some basic concepts in Economics
 
 **Production Possibility Frontier (PPF)**
 
@@ -1271,7 +1271,7 @@ CONCEPT OF DEMAND AND SUPPLY
     - This requires regular maintenance.
     - Despite maintenance, eventually wear out and therefore will require replacement at the end of their life span.
 
-## NATIONAL INCOME ACCOUNTING
+# NATIONAL INCOME ACCOUNTING
 
 - - In NIA, we study what constitutes the national income of a country and how to measure it.
     - The word national can be interpreted in two ways, "meaning within the nation" - within the geographical boundaries of a country, income earned by all the economic entities residing within the country is measured and is called GDP.
@@ -1707,7 +1707,7 @@ They are merely financial investments.
         - To convert, the market exchange rate or PPP is used.
         - GDP in PPP terms will be more if compared with the market exchange rate.
 
-## INFLATION
+# INFLATION
 
 - - Inflation is a general increase in the prices and fall in purchasing power of money.
     - Price level refers to a general idea of price in their mind. It can be seen as the average prices in the economy, the weighed prices depending upon the consumption, the consumption expenditure of a household, etc.
@@ -1968,7 +1968,7 @@ Prices of goods change for several reasons. We can broadly look at those reasons
         - For example - if the interest rate is 2%, inflation is 5% then investor will demand the interest rate of 7% (5% being the inflation premium to compensates for the erosion of the savings)
             - Basically they want high nominal interest rate adjusted for inflation.
 
-## MONETARY POLICY
+# MONETARY POLICY
 
 - - The monetary policy discusses the availability and control of money in the economy.
     - Monetary policy is the control of the quantity of money available in an economy and the channels by which new money is supplied.
@@ -2514,7 +2514,7 @@ Money creation by RBI:
 
 - - The **Cantillon effect** refers to the idea that changes in the money supply in an economy causes redistribution of purchasing power among people, disturbs the relative prices of goods and services, and leads to the misallocation of scarce resources. 
 
-### BANKING IN INDIA
+## BANKING IN INDIA
 
 - - The RBI was set up under the RBI Act 1934.
     - The Banking Regulation Act 1949 entrusts the RBI with the powers to regulate the banks in the country.
@@ -2558,7 +2558,7 @@ Money creation by RBI:
 - - Merchant/Investment Banks:
         - They invest their client’s capital in other financial instruments so as to give them profit, in return for a fee.
 
-#### FINANCIAL INCLUSION
+### FINANCIAL INCLUSION
 
 - - Financial inclusion refers to making basic financial products and services readily available and accessible to all individuals and businesses, regardless of their income level, background, or location.
 
@@ -2666,7 +2666,7 @@ Money creation by RBI:
         - There should be 8-10 banks at the regional level.
         - There should be 20-25 banks to cater at the local level primarily to the retail segment.
 
-#### The health of the banking system
+### The health of the banking system
 
 - - A bank's health is only as good as its ability to recover interest and principle from the loans advanced by it.
     - If a bank only lends the depositors money, then it will not bear any risk in lending.
@@ -2703,27 +2703,27 @@ Money creation by RBI:
 - - Basic Meaning
         - Common Equity Tier 1 (CET1) – 4.5%
 
--        Highest quality capital (Equity shares, reserves, retained earnings).
+•        Highest quality capital (Equity shares, reserves, retained earnings).
 
--        First to absorb losses in a crisis.
+•        First to absorb losses in a crisis.
 
 - - ✅ Additional Tier 1 (AT1) – 1.5%
 
--        Perpetual bonds & preferred shares.
+•        Perpetual bonds & preferred shares.
 
--        Can be converted into equity if needed.
+•        Can be converted into equity if needed.
 
 - - ✅ Tier 2 Capital – 2%
 
--        Subordinated debt, hybrid instruments, revaluation reserves.
+•        Subordinated debt, hybrid instruments, revaluation reserves.
 
--        Less loss-absorbing than Tier 1.
+•        Less loss-absorbing than Tier 1.
 
 - - ✅ Capital Conservation Buffer (CCB) – 2.5%
 
--        Extra capital reserve to protect banks during financial stress.
+•        Extra capital reserve to protect banks during financial stress.
 
--        Cannot be used for dividends or bonuses.
+•        Cannot be used for dividends or bonuses.
 
 **Provisioning Requirements**
 
@@ -2894,13 +2894,13 @@ Improved credit discipline: The AQR created a stricter credit culture
         - Payment Gateways are entities that provide technology infrastructure to route and facilitate processing of an online payment transaction without any involvement in the handling of funds. They only handle the transfer of data between the entities in a transaction.
         - However, payment aggregators may also provide services that include the generation of settlements via netting of the funds received by the merchants onboarded by them. By being the bridge between consumers at one end and merchants at the other end, these service providers play a role in processing and completion of the payment transactions.
 
-#### Insurance sector
+### Insurance sector
 
 - - Insurance density -  the ratio of premiums collected by insurance companies to the country's population per capita.
     - Insurance penetration - the ratio of insurance premiums to the GDP of country.
         - Economic Survey - It increased from 2.7 per cent around 2000 to 4.2 per cent in 2020 and 2021.
 
-## Govt Budgeting and Fiscal Policy
+# Govt Budgeting and Fiscal Policy
 
 - - What is a budget?
         - Statement of estimated receipts and expenditures of the government in respect of every financial year.
