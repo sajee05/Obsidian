@@ -15,8 +15,8 @@
 
 ## POVERTY
 
-- Poverty is defined as pronounced deprivation in wellbeing and consists of multiple dimensions
-    - There is a general deprivation of material resources such as food, clothing, shelter etc. However, at the same time there is a general deprivation of means to live a dignified life.
+- Poverty is defined as <mark style="background: #BBFABBA6;">pronounced deprivation in wellbeing</mark> and consists of multiple dimensions
+    - There is a general *deprivation* of material resources such as food, clothing, shelter etc. and at the same time there is a general deprivation of means to live a dignified life.
         - This creates a situation wherein a person may have lack of opportunity and capacity to better one’s life
     - Poverty is defined in broader terms that is deprivation on multiple dimensions of wellbeing
     - However, when it comes to measurement these multiple dimensions are difficult to measure objectively.
