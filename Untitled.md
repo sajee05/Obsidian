@@ -2124,7 +2124,7 @@ There are **2 popular versions of CARNATIC :**
 
 7.  **PABUJI KI PHAD**
     - This painting is based on the legend of the RAJASTHANI WARRIOR - PABUJI. As such in this painting, there is also a depiction of Elephants, horses, etc.
-    - ![Art and Culture --- कला और संस्कृति](<Z9Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 27.png>)
+    - ![Art and Culture --- कला और संस्कृति](<Z9Obsidian-files/Media/DOCX/Art and Culture --- कला और संस्कृति 27.jpeg>)
 
 8.  **Pithora painting**
     - RATHVA BHILS of PANCHMAHAL region of GUJARAT and JHABUA.
