@@ -1,180 +1,424 @@
-The provided document is a well-structured and comprehensive set of notes on Governance and Social Justice, utilizing effective formatting, bullet points, and mnemonics. The data points are generally current as of late 2022 / early 2023, aligning with the document's stated date.
+## Geography
 
-Below are specific suggestions for improvement, focusing on factual accuracy, data currency, clarity, and completeness where sections are noted as empty.
+### Index
 
----
+-   [Climatology](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={7610B1F7-9E47-5246-A4DF-AB20C735C463}&70&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Forest Resources](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={7610B1F7-9E47-5246-A4DF-AB20C735C463}&C4&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Geomorphology](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={7610B1F7-9E47-5246-A4DF-AB20C735C463}&3B&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Important Geophysical Phenomena such as earthquakes, Tsunami, Volcanic activity, cyclone](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={3E132045-8BE1-5E41-86AD-8FAB29513E87}&53&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Oceanography](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={7610B1F7-9E47-5246-A4DF-AB20C735C463}&5C&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Physical Geography of India](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={3E132045-8BE1-5E41-86AD-8FAB29513E87}&A3&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+    -   [Interlinking of Rivers](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={A1611758-A8C3-0147-8848-FC261307AC23}&D&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   [Soil Geography](onenote:#Geography&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={81908984-128A-C043-A833-6D814F7A9D5D}&object-id={7610B1F7-9E47-5246-A4DF-AB20C735C463}&81&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
 
-**General Suggestions:**
+### Role of Geographical Factors in Shaping Ancient History
 
-1.  **Image Placeholders:** The document contains many image placeholders (e.g., `![Governance and Social Justice](<Z9 Obsidian-files/Media/DOCX/Governance and Social Justice.png>)`). While these cannot be assessed, ensure the actual images provide relevant and accurate visual information (e.g., UNDP good governance aspects, committee recommendations).
-2.  **Consistency in Data Sourcing:** For specific statistics, consistently provide the source (e.g., "as per NFHS-5," "Economic Survey 2022-23," "NCRB 2022 report") and the year of the data to enhance credibility and allow for future updates.
+-   Role of geographical factors in shaping Ancient History
+    -   Indus and Ganges River Systems : facilitated growth of early civilizations like the HARAPPAN and VEDIC societies.
+        -   IVC cities like MOHENJO-DARO and HARAPPA.
+    -   Fertile Soils : supported extensive agriculture leading to surplus production
+        -   Example: The MAURYAN EMPIRE, with its capital at PATALIPUTRA, flourished.
+    -   The HIMALAYA : acted as natural barrier protecting from invasions and ensuring political stability
+    -   DECCAN PLATEAU : provided rich mineral resources and arable land for southern kingdoms
+    -   Monsoon winds provided reliable rainfall for agriculture
+    -   Extensive coastlines enabled the development of ports and trade networks
+        -   LOTHAL used for trade between IVC with MESOPOTAMIA
+        -   MUZIRIS for trade with ROMANS
+    -   Mountain passes : facilitated trade and cultural exchanges
+        -   The SILK ROAD connected India with world
 
----
+### Salient features of World’s Physical Geography
 
-**Specific Section-wise Suggestions:**
+-   What make fjords picturesque
+    -   Dramatic landscape : stark contrast between steep cliffs and fjords create awe and grandeur.
+    -   Crystal clear water
+    -   Waterfalls
+    -   Lush vegetation
+    -   Support diverse ecosystems and abundant wildlife
+    -   Recreational activities like kayaking, hiking and cruising
 
-### **Governance**
+## Geomorphology
 
-*   **Good Governance - How to ensure:**
-    *   "Bureaucratic hurdles" is listed under "How to ensure." This is a **barrier** to good governance, not a method to ensure it.
-        *   **Suggestion:** Move "Bureaucratic hurdles" to a "Barriers" section (if content is added there) or rephrase it as a challenge to overcome.
-*   **Barriers / Pre conditions:** These headings are present but empty.
-    *   **Suggestion:** Consider adding content to these sections for a more complete overview.
+-   Origin & Evolution of Earth
+-   Interior of the Earth
+    -   lithosphere - SiAl - Acidic
+    -   Asthenosphere - SiMg - Basic - partially molten
+-   Distribution of Continents & Oceans
+    -   Geophysical characteristics of Circum-Pacific Zone
+        -   Tectonic Plate Boundaries
+            -   Subduction Zones
+                -   CASCADIA subduction zone NORTH AMERICA
+                -   Convergent
+                -   MARIANA TRENCH
+                -   Divergence
+                -   EAST PACIFIC RISE
+                -   Transform Boundaries
+                -   SAN ANDREAS FAULT
+            -   Volcanism
+                -   75% volcanos
+            -   Earthquakes
+            -   Tsunamigenic region
+            -   Mountain Ranges
+            -   Island Arcs
+            -   Geothermal Activity
+            -   Region of dynamic geological activities making it one of the most fascinating as well as hazardous areas of earth.
+-   Continental drift theory, 1912
+    -   ALFRED WEGNER
+    -   Evidence
+        -   Jig-Saw Fit
+            -   The eastern coast of South America and the western coast of Africa
+        -   Placer deposits
+        -   Fossil evidence
+            -   MESOSAURUS fossils discovered on both South America and Africa
+        -   Tillites
+            -   Glacial deposits in India - TALCHER formation
+        -   Rocks on different continents
+            -   E.g. DHARWAR rocks extension to Africa
+-   Convectional current theory
+    -   ARTHUR HOLMES
+    -   Due to presence of radioactive material in mantle
+-   Seafloor spreading theory
+    -   HARRY HESS
+-   Plate Tectonic Theory
+    -   MCKENZIE, PARKER, MORGAN (1967)
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography.png>)
+    -   Reasons for tectonic plate movement
+        -   Heat released from the radioactive decay
+        -   Ridge Push - along the mid-oceanic ridge
+        -   Slab Pull - along the trenches
+    -   Boundaries
+        -   Divergent Boundary
+            -   Ocean - Mid Oceanic Ridges
+                -   E.g. MID ATLANTIC
+            -   Land - Rift Valleys
+                -   E.g. AFRICAN RIFT VALLEY
+        -   Convergent Boundary
+            -   Ocean - Trenches
+                -   MARIANA TRENCH
+            -   Land - Fold Mountains
+                -   E.g. ANDES, ROCKIES mountain(O-C)
+                -   E.g. TIBETAN PLATEAU, HIMALAYAN mountains (C-C)
+        -   Transform Boundary
+            -   E.g. SAN ANDREAS FAULT (O-C)
+            -   E.g. along MOR (O-O)
+-   Major mountain ranges
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography.jpeg>)
+    -   List
+        -   HIMALAYAN:
+        -   ROCKY MOUNTAINS:
+        -   ANDES
+        -   ALPS
+        -   URALS
+        -   GREAT DIVIDING RANGE:
+    -   Impacts
+        -   Blocking Winds : HIMALAYAS block cold, dry winds from Central Asia
+        -   Orographic Rainfall: precipitation on the windward side
+        -   Rain Shadow Effect : on the leeward side (opposite the wind)
+        -   Mountains can redirect wind flow creating unique patterns
+-   Distribution of Earthquakes & Volcanoes
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 1.png>)
+    -   Magma -
+        -   lithosphere melted magma - less dense, less fluid, solidify fast, light and acidic, Andesitic magma.
+            -   E.g. MOUNT KILIMANJARO, MOUNT MERU (Stratovolcano)
+            -   E.g. Ridges and seamounts
+        -   Mantle Plume(Hotspot) Magma - less basic, formed due to variation in density and mineral composition, **MgFe**
+            -   Shield volcanos domes
+                -   E.g. MAUNA LOA, HAWAII
+                -   REUNION islands
+            -   Fissure Basalt Plateau (land)
+                -   DECCAN traps
+            -   Seamount Chains : EMPEROR SEAMOUNTS
+        -   Asthenosphere rising magma - basaltic, MOR, Abyssal plane
+-   Volcanos
+    -   Intrusive | underground volcano
+        -   Horizontal
+            -   Sills, Laccolith , Batholith
+        -   Vertical
+            -   Dykes
+        -   Geysers and Hot springs
+            -   E.g. YELLOWSTONE US
+    -   Extrusive | Surface volcano
+        -   Active | Dormant | Extinct
+        -   Shield volcano
+            -   E.g. MAUNA LOA, HAWAII
+        -   Cinder volcano
+            -   E.g. MOUNT ETNA, ITALY
+            -   PARÍCUTIN in MEXICO
+        -   Strato volcano
+            -   E.g. KILIMANJARO, TANZANIA
+            -   SEMERU, INDONESIA
+        -   Caldera
+            -   E.g. KILAUEA, HAWAII
+            -   MOUNT MAZAMA USA
+    -   Impact on regional environment
+        -   Air pollution
+        -   Disruption to agriculture
+        -   Landslides and mudflows
+        -   Contaminate water resources
+        -   Disrupt transportation and infrastructure
+    -   Measures
+        -   Monitoring - Seismic monitoring and early warning system
+        -   Preparedness - Hazard mapping and land use planning accordingly
+        -   Mitigation - evacuation plans and training local communities
+        -   Response - lava flow diversion, health and safety measures
+-   Earthquakes
+    -   Types
+        -   Shallow focus < 70km
+        -   Intermediate focus 70-300 km
+        -   Deep focus > 300km
+    -   Waves
+        -   Body waves
+            -   P waves
+            -   S waves
+        -   Surface waves
+            -   Rayleigh waves
+            -   Love waves
+    -   Causes
+        -   Natural - plate movement, mantle plume activities, volcanic activities, meteorites
+        -   Anthropogenic - mining, construction, reservoir induced seismicity, nuclear explosion
+    -   Measurement
+        -   Intensity-based scale
+            -   MERCALLI scale
+        -   Amplitude based using seismograph measures magnitude
+            -   RICHTER and moment-based scale
+            -   MSK Scale
+-   Rocks & Rock Cycle
+    -   Igneous Rocks(Primary rocks - because other rocks are formed from them) — solidified from magma and lava
+        -   Characteristics
+            -   Formation
+            -   Texture - fine grain, coarse, glassy
+            -   Mineral composition
+            -   Colour
+            -   Density
+            -   Crystallization
+            -   Optical properties - extinction angle, birefringence, biaxial symmetry
+            -   Magnetic properties - diamagnetism, paramagnetism
+        -   Types
+            -   Plutonic rocks - solidified beneath the Earth's surface.
+            -   Volcanic rocks - solidified above the Earth's surface.
+            -   Examples - Granite, gabbro, pegmatite, basalt, volcanic breccia and tuff.
+    -   Sedimentary Rocks — the result of deposition of fragments of rocks by **exogenous processes**
+        -   _lithification - "_denudational agents -> exogenous agencies -> deposited"
+        -   Examples
+            -   mechanically formed — sandstone, conglomerate, shale.
+            -   organically formed — chalk, coal.
+            -   chemically formed — limestone, potash.
+    -   Metamorphic Rocks — formed out of existing rocks undergoing **recrystallisation**.
+        -   Dynamic - without any appreciable chemical changes
+        -   Thermal - chemically alter and recrystallise
+            -   Contact - hot intruding magma
+            -   Regional - tectonic shearing
+        -   Example - gneiss, slate, marble, quartzite etc.
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 2.png>)
+        -   **MMISS**
+-   Geomorphic Processes –
+    -   Endogenic -
+        -   Sudden catastrophic forces and slow Diastrophic forces.
+        -   Catastrophic
+            -   Earthquakes
+            -   _Volcanism_ (process of volcanic activity) - formation of volcanoes (landforms)
+        -   Diastrophic
+            -   Vertical forces (Epeirogenic forces) - Uplifting or subsiding . - mainland uplifting - continental building
+            -   Horizontal forces (orogenic forces) - compressing and tensing. - mountain building
+            -   Folding
+            -   Faulting
+    -   Exogenic
+        -   Gradation - The process of levelling the region.
+            -   Degradation
+            -   Aggradation
+            -   Process of gradation - _denudation. -_ **_WEMDT_**
+                -   Weathering - breaking at the location. (in-situ).
+                    -   Physical - pressure (loading, unloading), temperature (freezing, thawing)
+                    -   Chemical - oxidation, reduction, solution
+                    -   Biological
+                -   Erosion - Breaking of material due to friction is called erosion.
+                    -   Abrasion, Attrition, Corrosion, Hydraulic action, Plucking, Deflation
+                -   Mass movement - Moving broken material down the slope using gravity.
+                    -   Slow - creep, solifluction
+                    -   Fast - slumping, landslides, mudflow, debris avalanche
+                -   Deposition
+            -   Transportation - by agents - (rivers, glaciers, winds, waves, ground water)
+-   Landforms & their Evolution
+    -   Fluvial (river)
+        -   Erosional
+            -   Rills -> Gullies -> Valleys(V, Gorge, Canyon), Waterfalls, entrenched meanders
+        -   Depositional landforms.
+            -   alluvial fans, flood planes, natural levees, point bars, oxbow lakes, meanders, delta
+    -   Aeolian (wind) through deflation, abrasion and impact
+        -   Erosional
+            -   Pediments and Pediplain, Playas, Deflation Hollows and Caves, Mushroom, Table and Pedestal Rocks
+        -   Depositional landforms
+            -   Sand Dunes - Barchans, Transverse, Linear, Parabolic
+    -   Glacial (Movement of icesheets down the valley due to gravity)
+        -   Erosional
+            -   Cirque, Horns, Serrated Ridges, Glacial Valleys
+        -   Depositional landforms.
+            -   Moraines, Eskers, Outwash Plains, Drumlins
+    -   Coastal waves
+        -   Erosional
+            -   Submerging landwards coasts (high, rocky coasts) (West coast)
+            -   Sea Cliff, wave cut platform, Caves and Stacks, Fjords
+        -   Depositional landforms
+            -   Emerging seawards coasts (low, smooth, gentle sloping sedimentary coasts)
+            -   Beaches and Dunes, Bars, Barriers and Spits.
+    -   Karst (limestones or dolomites rich in calcium carbonate through solution and precipitation)
+        -   Erosional
+            -   Pools, Sinkholes (solution or collapse), Lapies and Limestone Pavements, valley sinks (uvalas), caves
+        -   Depositional landforms
+            -   Stalactites, Stalagmites and Pillars
+-   Geological Time Scale
 
-### **Government policies**
+## Hydrology
 
-*   **Direct benefit Transfers:**
-    *   "Presently 315 schemes of 53 ministries are under DBT, saved 2.23 lakh crores."
-        *   **Suggestion:** Update the savings figure. As of Economic Survey 2022-23, the savings from DBT were reported to be **over 2.7 lakh crore**. The number of schemes and ministries also tends to increase.
+-   Hydrological Cycle
+    -   Evaporation(_latent heat of vaporisation_), Transpiration, Condensation(_hygroscopic condensation nuclei)_ and Precipitation.
+    -   Condensation the water vapour - dew, frost (both on solid surface), fog, mist(more moisture then fog) and clouds.
+        -   Clouds - (i) cirrus(8,000 - 12,000m, white, thin); (ii) cumulus(4,000 - 7,000 m); (iii) stratus; (iv) nimbus(black, near surface, think vapour).
+            -   _high clouds_ – cirrus, cirrostratus, cirrocumulus;
+            -   _middle clouds_ – altostratus and altocumulus;
+            -   _low clouds_ – stratocumulus and nimbostratus
+            -   _clouds with extensive vertical development_ – cumulus and cumulonimbus.
+    -   Precipitation - rainfall(convectional, orographic, relief, cyclonic), snowfall, sleet, hail.
+-   Seafloor Spreading
+    -   HESS(1961)
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 3.png>)
+-   Ocean Floor Configuration
+    -   Continental margins (shelf, slope, rise)
+        -   Shelves - 1°(gradient), 80 km(Average width, Chile - 0 , Siberian - 1500km), depth (30-600m), Sedimentary deposits, fossil fuels, Slope - 2-5°, depth(200 and 3,000 m)
+    -   Abyssal Plains - depth(3,000 and 6,000m), clay, silt.
+    -   Trenches - 3-5 km deeper
+    -   Mid-oceanic ridge
+        -   2500 m tall
+        -   Outside ocean - ICELAND
+    -   Seamounts - 3000-4500m tall, inside ocean, EMPEROR SEAMOUNT, HAWAII
+    -   Guyots - flat topped seamount
+    -   Submarine canyon
+    -   Atoll
+-   Temperature & Salinity of Oceans
+    -   Temperature - variation in density
+        -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 4.png>)
+        -   Data
+            -   Equator - 27°C
+            -   20° latitudes - 22°C
+            -   40° latitudes - 14° C
+            -   Poles - 0° C
+            -   19° C and 16° C (average annual temperatures for the northern and southern hemisphere) - continentality
+        -   Factors
+            -   Latitude, Continentality & Maritime effect, Ocean Currents, Melting of glaciers, Winds blowing over the sea
+    -   Salinity
+        -   Factors
+            -   evaporation and precipitation, freezing and thawing, river drains, winds, currents)
+        -   Data
+            -   brackish water - 24.7 ppt (highest)
+            -   Open ocean - (33 - 37), landlocked - 41(red sea)
+        -   **_halocline_** _-_ here salinity increase sharply
+        -   The lower salinity water rests above the higher salinity dense water.
+-   Movement of Oceans – Waves, Tides, Currents
+    -   Waves - a long body of water moving in to and fro motion while without net movement of particle.
+        -   Forces - wind(horizontal), gravity(vertical)
+    -   Tides - alternate rising and falling of sea usually at a fixed interval.
+        -   Centrifugal force, gravitational pull of moon and sun
+        -   _Semi-diurnal tide -_ 2H2L/D
+        -   _Diurnal tide -_ 1H1L/D
+        -   Spring tides(S+M) - 2/M - new moon, full moon
+        -   Neap tides (S<>M)
+    -   Current
+        -   Currents are long-distance, large, slow-moving **unidirectional movement** in the oceans, nearly round the year
+        -   Warm -
+            -   east coast of continents in the low and middle latitudes (true in both hemispheres). In the northern hemisphere they are found on the west coasts of continents in high latitudes.
+            -   GULF STREAM, NORTH ATLANTIC drift
+        -   Cold -
+            -   West coast of the continents in the low and middle latitudes (true in both hemispheres) and on the east coast in the higher latitudes in the Northern Hemisphere.
+            -   Example
+                -   LABRADOR
+                -   West wind drift - also known as ANTARCTIC CIRCUMPOLAR CURRENT (ACW direction)
+        -   Forces - temperature, salinity, gravity, surface global winds, Coriolis force, topography of ocean floor
+        -   Issues
+            -   Melting of ice caps, warming of oceans faster
+        -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 5.png>)
+        -   Role in fishing industries
+            -   Nutrient Upwelling
+            -   Fish Migration
+            -   Temperature Regulation
+            -   Habitat Formation
+            -   Transportation of Larvae
+        -   Impacts on Marine Life
+            -   Upwelling currents bring nutrient-rich waters from the deep ocean to the surface supporting rich fisheries.
+            -   Influence migration patterns of marine species
+            -   Help in the dispersal of larvae and eggs, ensuring the spread of species across different regions
+        -   Impact on Coastal Environment:
+            -   Regulate sea temperature affecting marine biodiversity
+            -   Affect weather and climate patterns :
+                -   Moderate temperatures by NORTH ATLANTIC drift
+                -   Reducing precipitation by CANARIES
+-   Thermohaline circulation
+    -   ATLANTIC MERIDIONAL OVERTURNING CIRCULATION(AMOC)
+        -   Due to the freezing of the surface water in the polar North Atlantic region
+-   Water mass : large bodies of relatively uniform temperature, salinity and density
+    -   Impacts on Marine Life
+        -   Supports Thermohaline Circulation:
+            -   ANTARCTIC BOTTOM WATER (AABW) influences AMOC
+        -   Water mixing between two water masses create distinct habitats for marine species
+            -   Formation of anoxic (oxygen-poor) zone in BLACK SEA
+        -   Habitat Creation
+            -   E.g. deep-sea brine pools and hydrothermal vents along mid-ocean ridges
 
-### **Development process and development industry**
+## Climatology
 
-*   **NGO - Issues - FAL:**
-    *   "10% of which submit balance sheets," "Only 2% NGO registered," "Only 10% file ITR."
-        *   **Suggestion:** These are strong, specific statistics. Provide a **source and date** for these figures, or rephrase them to be less definitive (e.g., "Concerns exist regarding the transparency and accountability of a significant portion of NGOs, with reports indicating low rates of financial reporting and registration").
-    *   "Pinjara Tod - involvement in CAA Riots," "Mercy corps fuelled extremism in North east."
-        *   **Suggestion:** These are politically sensitive and strong accusations. Consider rephphrasing to "alleged involvement" or "concerns raised regarding" and provide a **credible source** if possible, to maintain neutrality.
-    *   "Mushrooming in urban clusters - Shilu AO committee report."
-        *   **Correction:** The Shilu Ao Committee (1966) primarily focused on tribal development in Northeast India, not specifically on the "mushrooming of NGOs in urban clusters." This seems like a **misattribution**.
-        *   **Suggestion:** Remove the committee reference or find a more appropriate source for the point on unregulated growth of NGOs.
-*   **SHG - Challenges:**
-    *   "60% poor in north India - only accounts for 20% loans," "Financial literacy - 56% people in rural areas don't have any knowledge of finance," "45% of all SHG have not got formal credit at all," "of all SHG formed, only 35% survived after 3 years of foundation -NABARD report."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics to enhance their credibility.
-
-### **E-Governance**
-
-*   **Introduction:**
-    *   "E-governance is not a luxury; it is a necessity in today's digital world, it enable government to adapt and serve the citizens effectively" - Kofi Annan.
-        *   **Correction:** While Kofi Annan spoke extensively on good governance, this specific quote is a general statement about e-governance and is **not typically attributed to him**.
-        *   **Suggestion:** Remove the attribution to Kofi Annan or find the correct source if it exists.
-
-### **Transparency and Accountability**
-
-*   **Social Audit - Challenges:**
-    *   "33% of politicians and 21% bureaucrats were not responsive to social audits - Accountability Research Centre."
-        *   **Suggestion:** Provide a **source and date** for this specific research finding.
-
-### **Right to Information Act, 2005**
-
-*   **Challenges:**
-    *   "Lack of awareness - As per government survey Only 15% of respondent were aware of RTI Act."
-    *   "Pendency of appeals - RAAG (RTI Assessment and Analysis Group) Report - 5 million RTI application every year."
-        *   **Suggestion:** Provide **sources and dates** for these specific survey/report findings.
-
-### **Elderlies**
-
-*   **Issues:**
-    *   "Lack of awareness - Less then 25% knew about government schemes."
-    *   "Lack of social security - 78% of the elderly population survives without a pension."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics.
-
-### **SC (Scheduled Castes)**
-
-*   **Issues - Poverty:**
-    *   "About 31.5% living below the poverty line as per the NITI Aayog 2015-16 report."
-        *   **Suggestion:** While the 2015-16 NITI Aayog report might have stated this, more recent Multi-dimensional Poverty Index (MPI) reports (e.g., NITI Aayog MPI 2023 based on NFHS-5 data 2019-21) show significant reductions in poverty. Qualify this as "as per 2015-16 NITI Aayog report" or seek more recent data specific to SCs if available in the latest MPI.
-*   **Manual scavenging:**
-    *   "NCRB - 97.25% manual scavengers are SCs."
-        *   **Suggestion:** This is a very high and precise figure. While SCs are disproportionately affected, this exact percentage needs a **source and date** from NCRB or other official reports. Rephrase if a precise source isn't available (e.g., "a very high percentage of manual scavengers are from SC communities").
-
-### **ST (Scheduled Tribes)**
-
-*   **Introduction:**
-    *   "Tribal districts account for 59.61 of forest on only 33.63 per cent of the total geographical area."
-        *   **Suggestion:** Provide a **source and date** for this specific data point.
-
-### **Other Backward Castes**
-
-*   **Economically weaker section (EWS):**
-    *   "Total 31 Cr - 5 Cr only in General."
-        *   **Suggestion:** This statistic is unclear and lacks context. Clarify what "31 Cr" refers to (e.g., total population, total EWS population) and provide a **source**.
-    *   "EWS for extending welfare measures only."
-        *   **Correction:** EWS reservation applies to both **education and employment** in central government institutions/jobs, not just "welfare measures."
-        *   **Suggestion:** Correct this statement to reflect the dual application of EWS reservation.
-
-### **Minorities**
-
-*   **Sacchar Committee:**
-    *   "4% Muslims are graduate," "2% in AIS."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics.
-
-### **Undertrials**
-
-*   **NCRB:**
-    *   "Prison Occupancy increased to 130%," "80% undertrials - justice delayed is justice denied."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics (e.g., "Prison Statistics India 2022 report").
-
-### **LGBTQ+**
-
-*   **Same sex marriage - Arguments in Against:** This section is empty.
-    *   **Suggestion:** For a balanced view, briefly list the common arguments made against the legalization of same-sex marriage, as discussed in public discourse and legal proceedings (e.g., concerns about traditional definitions of marriage, legislative domain, societal acceptance).
-*   **Conclusion:** This section is empty.
-    *   **Suggestion:** Add a concluding remark for the LGBTQ+ section.
-
-### **Children**
-
-*   **Issues:**
-    *   "Children's don't speak up (either not aware or are afraid) - 53% subjected to abuse. 90% times, a known person is involved."
-    *   "Low rate of reporting - reporting rate only 6%."
-    *   "Crime against children - Rose by four times in last decade -NCRB."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics.
-
-### **Health**
-
-*   **National Family Health Survey - 5:**
-    *   "Undernourishment - 15% - भूखे."
-        *   **Clarification:** While 15% is a general estimate for undernourishment in India (e.g., from FAO reports), NFHS-5 primarily provides data on stunting, wasting, underweight, and anemia for specific age groups (children under 5, women 15-49). This specific "15% undernourishment" figure is not directly from NFHS-5 for the general population.
-        *   **Suggestion:** Clarify the source or rephrase to indicate it's a broader estimate.
-    *   "neonatal mortality ratio - 20/live lakh births."
-        *   **Correction:** Neonatal mortality ratio is typically expressed per **1,000 live births**, not "lakh births." The figure 20 is consistent with NNMR per 1000 live births (e.g., SRS 2020 data is 20.2).
-        *   **Suggestion:** Change "lakh births" to "1000 live births."
-*   **Issues with health sector in India:**
-    *   "Mushrooming in urban clusters - 68% in Urban areas where 31% population live," "Rural areas has four times less doctors than urban areas."
-    *   "Absence of preventive care - 7% spending of preventive care and 52% on curative care."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics.
-    *   "India spends 1.3% of GDP on health while it is 2.9% for China and 3.6% for South Africa - WHO norm is 3%."
-        *   **Correction/Update:** India's public health spending is indeed low (around 1.3-1.5% of GDP). However, the **WHO recommended norm for public health spending is often cited as 5% or more of GDP**, not just 3%. Also, China's and South Africa's current health expenditures as a percentage of GDP are generally higher than the figures cited (e.g., China closer to 5-6%, South Africa around 8-9%).
-        *   **Suggestion:** Update the WHO norm and the comparative country data with more recent figures.
-*   **Maternal & Adolescent Health - Issues:**
-    *   "Lack of LDR (labour, delivery and recovery) facilities - 21% births still take place outside formal facility."
-        *   **Suggestion:** Provide a **source and date** for this statistic.
-
-### **Education**
-
-*   **Status of Literacy in India:**
-    *   "India has 25% uneducated people."
-        *   **Clarification:** Given the 78% literacy rate, this implies 22% are illiterate. "Uneducated" can be a broader term.
-        *   **Suggestion:** Rephrase for precision, e.g., "Approximately 22% of India's population is illiterate."
-*   **Challenges Faced by Education Sector in India:**
-    *   "Pandemic impact - Some 24 crore children have missed school for over a year."
-    *   "Digital Divide - Only 30% schools have computer facilities -Education ministry," "77% children have no access to online instruction."
-    *   "Inequalities - Only 46% private schools participate in admitting EWS students."
-    *   "Poor infrastructure - 13 % have fulfilled norms outlined by RTE Act, 2009."
-        *   **Suggestion:** Provide **sources and dates** for these specific statistics.
-*   **Financing Education:**
-    *   "Country spent 4.64% of its total GDP on education in according to the Economic Survey."
-        *   **Correction/Clarification:** While 4.64% might be a target or a figure from a specific year's *budget estimate*, actual public expenditure on education in India has historically been lower than this (e.g., Economic Survey 2022-23 stated 2.9% of GDP for FY22 BE). The Kothari Commission recommended 6%.
-        *   **Suggestion:** Clarify if this is actual spending or a target, and provide the precise source and year. If it's actual spending, update with the most recent figures.
-
-### **Human Resources**
-
-*   **Need For Skill Development, Challenges in Skilling Landscape in India, Shortcomings of Current Skill Development Initiatives, Skill Development Initiatives:** These sections are present but empty.
-    *   **Suggestion:** Consider adding content to these sections for a more complete overview of Human Resources.
-
-### **Poverty and Hunger**
-
-*   **MPI 2023 - Table:**
-    *   The column header "2023" for the MPI indicators (Cooking fuel, Sanitation, Nutrition, Housing, Drinking water) should ideally reflect the data collection period for the latest MPI, which is **NFHS-5 (2019-21)**.
-        *   **Suggestion:** Change "2023" to "2019-21" in the table header for accuracy.
-*   **Relation between Poverty & Hunger, Distribution of Poverty & Hunger, Cost/Impact of Poverty & Malnutrition, SDGs, Food and nutrition insecurity - a consequence of structural inequities, Constraints in Reducing Poverty & Hunger:** These sections are present but empty.
-    *   **Suggestion:** Consider adding content to these sections for a more complete overview.
-
-### **Inequality**
-
-*   **Indicators for inequality:**
-    *   "Gini index - 35.7 (WB)."
-        *   **Suggestion:** Specify the **year** for this Gini index figure (e.g., "35.7 (WB, 2011)"). Note that more recent estimates for India's Gini coefficient are often higher.
-*   This section is very brief.
-    *   **Suggestion:** Consider expanding this section to include types of inequality (income, wealth, gender, regional, social), their causes, and government measures to address them.
-
----
+-   **Factors/elements of Weather and Climate**
+    1.  Temperature.
+    2.  Pressure.
+    3.  Winds.
+    4.  Humidity - Precipitation, Clouds, Condensation
+    5.  Sunlight.
+-   Earth’s Atmosphere – Composition & Structure
+    1.  ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 6.png>)
+    2.  Troposphere determines weather processes
+        -   Global wind circulation
+        -   Temperature gradient
+        -   Geochemical cycles -
+            -   Water cycle - vapor and cloud formation
+            -   Carbon cycle - respiration, photosynthesis
+        -   Weather system - cyclones, fronts, anticyclones, etc. develop here
+        -   Jet streams affects temperature and precipitation patterns
+        -   Insolation and absorption of outgoing terrestrial radiation
+        -   Heat Exchange : greenhouse effect
+-   Solar Radiation, Heat Budget & Temperature
+    1.  Heat Budget
+        -   Vertical heat budget
+            -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 7.png>)
+        -   Horizontal heat budget -
+            -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 8.png>)
+    2.  Factors affecting insolation - Rotation, Revolution, Axial tilt, Aspect, clouds, sunspots
+    3.  Temperature
+        -   latitude
+        -   altitude
+        -   distance from the sea
+        -   air-mass circulation
+        -   ocean currents
+        -   local aspects - Slope, Vegetation, surface
+-   Atmospheric Circulation & Weather Systems
+    1.  Winds have forces -
+        -   pressure gradient force
+        -   frictional force
+        -   Coriolis force
+        -   gravitational force acts downward
+        -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 9.png>)
+    2.  Temperature inversion
+        -   Radiation - Cold winter nights, clear sky, still air.
+        -   Subsidence - Valley breeze (day -> air moves up the valley), mountain breeze(night -> cool air -> down the valley)
+        -   Marine - Land breeze (night), sea breeze(day)
+        -   Frontal
+            -   Air mass (homogeneous, little horizontal variation in temperature and moisture)
+                -   Maritime tropical (mT)
+                -   Continental tropical (cT)
+                -   Maritime polar (mP)
+                -   Continental polar (cP)
+                -   Continental arctic (cA)
+            -   Fronts (middle latitudes, steep gradient in temperature and pressure)
+                -   (a) Cold; (b) Warm; (c) Stationary; (d) Occluded
+    3.  Precipitation
+        -   Sleet
+        -   Hail
+        -   Snow
+-   Cyclones
