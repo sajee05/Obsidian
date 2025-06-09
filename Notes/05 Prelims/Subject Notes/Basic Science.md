@@ -896,7 +896,7 @@
         -   Haemophilia is a disease of clotting of blood.
         -   People affected by it keep on bleeding even from a minor cut.
 
-## Specialization ⭐(Should be Speciation, not Specialization)
+## Speciation 
 
 -   “Speciation is the process of formation of new species from existing populations.”
 -   **Allopatric Speciation**
