@@ -1,97 +1,88 @@
-**Physical Geography - भौतिक भूगोल**
+## PHYSICAL GEOGRAPHY
 
-Friday, 2 September 2022
+-   Universe
+-   Solar system
+-   Earth
+-   Know about the Earth
+    -   Shape- Longitude/ Latitude
+    -   Movements
+    -   Formation of earth
+    -   Interior
+-   Natural Formations on Earth - Physical Geography
+    -   Land - above (continents), Below (ocean floor; seafloor) sea level
+    -   Atmosphere
+    -   The phenomenon in the atmosphere that are important for human- weather, climate
+    -   Oceans
 
-1:40 AM
+![[Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल.png]]
 
-# Index
+## HUMAN GEOGRAPHY
 
-- - [Volcanoes](onenote:#Physical%20Geography%20-%20भौतिक%20भूगोल&section-id={0099B114-CD2A-0449-AA30-84076AB6D535}&page-id={4FFC910A-E5D7-374F-8309-0E052C0AD8F7}&object-id={42993AEF-40C5-B005-2859-421E97810B82}&94&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/GS1%20-%20CORE.one)
-    - [Earthquakes](onenote:#Physical%20Geography%20-%20भौतिक%20भूगोल&section-id={0099B114-CD2A-0449-AA30-84076AB6D535}&page-id={4FFC910A-E5D7-374F-8309-0E052C0AD8F7}&object-id={98485D22-52D7-FE04-1F86-B9DD8BB7A14F}&43&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/GS1%20-%20CORE.one)
+-   Human-caused formation
+-   Resources used by human
+-   Population and its distribution and related aspects e.g.- tribals etc. Social geography
 
-![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल.png>)
+## RESOURCES RELATED
 
-### Physical geography
+-   Primary sector (directly derived from nature - agriculture, fishing, mining etc.)
+-   Secondary sector - processed + value added (e.g.- factories, manufacturing)
+-   Tertiary sector - services and support system for primary and secondary sector
 
-- - Universe
-    - Solar system
-    - Earth
-    - Know about the Earth
-        - Shape- Longitude/ Latitude
-        - Movements
-        - Formation of earth
-        - Interior
-    - Natural Formations on Earth - Physical Geography
-        - Land - above (continents), Below (ocean floor; seafloor) sea level
-        - Atmosphere
-        - The phenomenon in the atmosphere that are important for human- weather, climate
-        - Oceans
+## UNIVERSE TO EARTH
 
-### Human Geography
+-   Universe made up of 118 elements as discovered till now.
+-   The universe is made up of matter, space, time, and energy.
 
-- - Human-caused formation
-    - Resources used by human
-    - Population and its distribution and related aspects e.g.- tribals etc. Social geography
+### UNIVERSE EXPANSION THEORY
 
-### Resources related
+-   It was observed by **HUBBLE** - 1920.
+-   Expanding since 13.7 to 13.84 billion years before the present since **BIG BANG**.
 
-- - Primary sector (directly derived from nature - agriculture, fishing, mining etc.)
-    - Secondary sector - processed + value added (e.g.- factories, manufacturing)
-    - Tertiary sector - services and support system for primary and secondary sector
+### BIG BANG THEORY
 
-# UNIVERSE TO EARTH
+-   Universe is started from a primordial atom-like thing.
+-   The primordial atom was very small, hot, and dense.
+-   Reason - All the space, matter, energy, and time existed inside it as one. They were not separated.
+-   Then the **BIG BANG** happened.
+-   It led to the formation of time, energy, space (expanding).
+-   As the universe started expanding, the temperature cooled.
+-   Lastly, the matter started taking shape.
+-   Out of the space and the cooled energy - matter started taking shape in the first 3 minutes of universe formation.
+-   Still, it was extremely hot form.
+-   Around 4 lac years since the big bang gas state of matter formed.
+-   This led to the formation of gas clouds which later became galaxies.
+-   Size of clouds: 80,000 -150,000 or much more light-years.
+-   These clouds were known as **GALACTIC NEBULA**.
+-   They were almost fully made up of hydrogen.
 
-- - Universe made up of 118 elements as discovered till now.
-    - The universe is made up of matter, space, time, and energy.
+### STAR FORMATION
 
-##### Universe expansion theory
+-   Inside galaxies, at numerous locations, hydrogen accumulated forming huge lumps of gases due to gravity which finally turned into stars.
+-   Inside the stars, nuclear reactions (fusion) takes place forming all elements up to Iron in the periodic table.
 
-- - It was observed by Hubble - 1920.
-    - Expanding since 13.7 to 13.84 billion years before the present since Big Bang.
+### TIMELINE
 
-##### BIG BANG THEORY
+-   Singularity - Before 13.7 Billion Year Before Present
+-   Big Bang 13.7 Billion Year Before Present
+    -   Time started
+    -   Energy started
+    -   Space started expansion
+-   Universe
+-   Galaxy: 4 Lakh Years after the big bang
+-   Big Stars: were formed within 1 Billion years of the Big Bang.
+-   Supernova explosion
+-   Stellar Nebula
+-   Star + planet system
+-   Solar system (5.6 to 4.6 Billion Years Before Present)
+-   Earth: 4.6 Billion Years Before Present
 
-- - Universe is started from a primordial atom-like thing.
-    - The primordial atom was very small, hot, and dense.
-    - Reason - All the space, matter, energy, and time existed inside it as one. They were not separated.
-    - Then the Big bang happened.
-    - It led to the formation of time, energy, space (expanding).
-    - As the universe started expanding, the temperature cooled.
-    - Lastly, the matter started taking shape.
-    - Out of the space and the cooled energy - matter started taking shape in the first 3 minutes of universe formation.
-    - Still, it was extremely hot form.
-    - Around 4 lac years since the big bang gas state of matter formed.
-    - This led to the formation of gas clouds which later became galaxies.
-    - Size of clouds: 80,000 -150,000 or much more light-years.
-    - These clouds were known as Galactic Nebula.
-    - They were almost fully made up of hydrogen.
+### WHEN STARS DIE OR END
 
-##### Star formation
+-   The bigger ones cause a huge explosion called ‘**Supernova**’ in which all other known elements of the periodic table are formed.
+-   Being in a very hot state, they again formed the remains again formed a cloud-like thing called **Stellar Nebula** (Cloud inside a galaxy) which gradually form a star and planets system like our solar system.
+-   Sun, 8 planets including the earth.
 
-- - Inside galaxies, at numerous locations, hydrogen accumulated forming huge lumps of gases due to gravity which finally turned into stars.
-    - Inside the stars, nuclear reactions (fusion) takes place forming all elements up to Iron in the periodic table.
 
-**_Timeline_**
-
-- - Singularity - Before 13.7 Billion Year Before Present
-    - Big Bang 13.7 Billion Year Before Present
-        - Time started
-        - Energy started
-        - Space started expansion
-    - Universe
-    - Galaxy: 4 Lakh Years after the big bang
-    - Big Stars: were formed within 1 Billion years of the Big Bang.
-    - Supernova explosion
-    - Stellar Nebula
-    - Star + planet system
-    - Solar system (5.6 to 4.6 Billion Years Before Present)
-    - Earth: 4.6 Billion Years Before Present
-
-**_When stars die or end:_**
-
-- - The bigger ones cause a huge explosion called ‘Supernova’ in which all other known elements of the periodic table are formed.
-    - Being in a very hot state, they again formed the remains again formed a cloud-like thing called **Stellar Nebula (**Cloud inside a galaxy) which gradually form a star and planets system like our solar system.
-    - Sun, 8 planets including the earth.
 
 # EARTH
 
@@ -1449,15 +1440,3 @@ Depositional - Moraines, Eskers, Outwash Plains, Drumlins
 ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 27.png>)
 
 ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 28.png>)
-
-# Waves and Currents
-
-Erosional
-
-![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 15.jpeg>)
-
-Depositional
-
-![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 29.png>)
-
-![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 30.png>)
