@@ -1,29 +1,1405 @@
-Agriculture
 
-Tuesday, 13 December 2022
+### Vocab
+- **Agroforestry**
+- **Agro-climatic**
+- **Biological soil fertility**
+- **Contour lines**
+- **Cropping intensity**: Gross area sown/net area sown
+- **Conservation Agriculture (CA)**
+- **Geospatial data**
+- **Intercropping**
+- **Integrated farming systems**
+- **Leaching**
+- **Leguminous**
+- **Manure and fertilizers**
+- **Nitrogen fixing**
+- **Organic farming**
+- **Productivity of land and labour**
+- **Precision agriculture techniques**
+- **_Permaculture_**
+- **Subsistence farming**
+- **Sustainable agriculture**
+- **Yields and stability**
+- **Zero budget natural farming (ZBNF)**
+- **Primary Agricultural Credit Societies (PACS)**
+- **Vermicompost**
+- **Mulching**: layer of material applied to surface of soil for preventing soil moisture, improving fertility, reducing weed growth.
 
-4:56 PM
+### Agriculture and Related Activities
+- **Introduction**
+    - As per PLFS, 1% agricultural growth is 2 times more effective in poverty alleviation as compared to 1 % growth in non-agricultural sectors.
+- **Significance**
+    - Employ about around 55% of the population
+    - Agricultural exports were valued at around $53 billion in 2022-23. [APEDA]
+    - Cultural : Festivals like Baisakhi, Pongal, and Makar Sankranti are centered around harvest seasons.
+    - Food security
+- **Major component of Agriculture Sector**
+    - Crop Production
+        - Food Grains: Staples like rice, wheat, maize, and millets.
+        - Commercial Crops: Cash crops like cotton, jute, sugarcane, tea, and coffee.
+    - Horticulture
+        - Fruits and Vegetables: Diverse range including mangoes, bananas, and tomatoes.
+            - Fruits: Mangoes, bananas, oranges, and apples are major fruits.
+            - Vegetables: Potatoes, tomatoes, onions, and brinjals.
+        - Floriculture: Cultivation of flowers for commercial use.
+    - Animal Husbandry
+        - Livestock Production: Dairy, poultry, and meat production.
+        - Fisheries: Marine and inland fish production.
+    - Forestry
+        - Timber and Non-Timber Products: Provides wood, bamboo, and medicinal plants.
+    - Agro-processing
+- **Problems** with Indian agriculture - Economic | Environmental | Financial | Governance | Technological
+    - Small and fragmented land holdings
+        - _Example_: Average farm size in India is about 1.15 hectares
+    - Low Agricultural Productivity
+        - poor irrigation, outdated farming techniques, and inadequate use of technology
+    - Inadequate Irrigation and Water Management
+        - only around 48.5% of the net sown area is irrigated
+    - Low Mechanization
+        - Mechanization - 50% (OCED - 90%)(NABARD)
+    - Indebtedness and Limited availability of affordable credit
+        - population 86% but get only 50% of all loans disbursed
+    - Overuse of chemicals and fertilizers leading to
+        - soil degradation
+            - Example: Nearly 30% of India's land area is undergoing degradation. - UNCCD
+            - Skewed N/P/K
+            - Soil Organic Carbon (SOC) - 0.5% for more then 60% land ( ideally - 1.5-2% as per World Food Laureate)
+        - Create import dependency : India spent $6.5 billion to import 10.2 million tonnes of urea in FY22.
+    - Adverse effects of climate change on crop yields and farming practices
+    - Disguised unemployment
+        - 55% workforce and 18% of GDP
+    - Poor economic outcomes
+        - Avg income of farm households- 10k per month -NSO
+    - Lack of proper land records
+    - Lack of private sector investment
+        - only 2.4% of total investment in Agri sector
+    - Inadequate Infrastructure
+        - Transportation networks, power shortages, and inadequate logistics and storage facilities
+        - _Example_: Post-harvest losses account for 10-20% of total production.
+    - Scarcity of technology
+        - Only 5% households have tractor and 0.2% have harvester -NABARD
+    - Issues with marketing of agriculture products
+        - Cartelization by APMC's
+    - Lack of diversification of crops
+        - 80% for wheat, rice, sugarcane
+    - Lack of certified seeds
+        - more than 50% seeds not certified. If done, it may improve the productivity by 25% -min of agriculture
+    - Excessive ground water extraction
+        - 90% of all water used in agriculture
+- **Solution**
+    - Diversification [ASHOK GULATI]
+        - dairy farming, poultry, horticulture, livestock rearing and aquaculture.
+        - Mission for Integrated Development of Horticulture
+    - Irrigation coverage
+        - Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)
+    - Unified agriculture market
+        - Over 500 mandis online on National Agriculture Market (e-NAM)
+    - Crop insurance
+        - About 58 crore farmer applications enrolled under Pradhan Mantri Fasal Bima Yojana (PMFBY)
+    - Precision agriculture refers to the use of advanced technologies and data analytics.
+        - Rashtriya Krishi Vigyan Yojana (RKVY)
+    - Promoting soil health management.
+        - Over 23 crore Soil Health Cards issued by 2023.
+    - Promoting sustainable farming
+        - National Mission for Sustainable Agriculture (NMSA)
+        - Organic farming - Target to cover 2 lakh hectares under Paramparagat Krishi Vikas Yojana (PKVY)
+    - Credit support
+        - Credit guarantee fund - NABARD
+        - Kisan Credit Card (KCC) Scheme
+    - Sustainable use of fertilizers
+        - PM PRANAM
+    - Income support to farmers
+        - Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN)
+    - Leveraging information technology
+        - Farmer’s Portal of India
+        - Digi stack (Budget 2023)
+    - Export promotion
+        - Agri Export Policy 2018 targets to reach $100 Billion in next few years [ASHOK DALWAI committee]
+    - Financing infrastructure projects.
+        - Example: Rs. 1 lakh crore fund for post-harvest infrastructure through Agriculture Infrastructure Fund (AIF)
+    - Promoting food processing industries
+        - PM Kisan Sampada Yojna (PMKSY) targets to leverage investment of Rs. 11000 crore benefitting about 28 lakh farmers and generating 5.5 lakh direct/indirect employment.
+- **Conclusion**
+    - We should promote culture of sustainability which would result into evergreen revolution -MS SWAMINATHAN
+- ASHOK DALWAI Committee to improve resource use and efficiency at mission mode so that our agriculture can compete at international level
+- ![[Z9 Obsidian-files/Media/DOCX/Agriculture.jpeg]]
+- Article 48 states that State shall endeavour for organisation of agriculture and animal husbandry on scientific lines.
 
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ### Vocab                                                                                                                                                                                                                                                                                                                           | - - Agroforestry<br>    - Agro-climatic<br>    - Biological soil fertility<br>    - Contour lines<br>    - Cropping intensity = Gross area sown/net area sown<br>    - Conservation Agriculture (CA)<br>    - Geospatial data<br>    - Intercropping<br>    - Integrated farming systems<br>    - Leaching<br>    - Leguminous<br>    - Manure and fertilizers<br>    - Nitrogen fixing<br>    - Organic farming<br>    - Productivity of land and labour<br>    - Precision agriculture techniques<br>    - _Permaculture_<br>    - Subsistence farming<br>    - Sustainable agriculture<br>    - Yields and stability<br>    - Zero budget natural farming (ZBNF)<br>    - Primary Agricultural Credit Societies (PACS)<br>    - Vermicompost<br>    - Mulching - layer of material applied to surface of soil for preventing soil moisture, improving fertility, reducing weed growth.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| ## Agriculture and Related Activities                                                                                                                                                                                                                                                                                               | - - **Introduction**<br>        - As per PLFS, 1% agricultural growth is 2 times more effective in poverty alleviation as compared to 1 % growth in non-agricultural sectors.<br><br>- - **Significance**<br>        - Employ about around 55% of the population<br>        - Agricultural exports were valued at around $53 billion in 2022-23. [APEDA]<br>        - Cultural : Festivals like Baisakhi, Pongal, and Makar Sankranti are centered around harvest seasons.<br>        - Food security<br><br>- - **Major component of Agriculture Sector**<br>        - Crop Production<br>            - Food Grains: Staples like rice, wheat, maize, and millets.<br>            - Commercial Crops: Cash crops like cotton, jute, sugarcane, tea, and coffee.<br>        - Horticulture<br>            - Fruits and Vegetables: Diverse range including mangoes, bananas, and tomatoes.<br>                - Fruits: Mangoes, bananas, oranges, and apples are major fruits.<br>                - Vegetables: Potatoes, tomatoes, onions, and brinjals.<br>            - Floriculture: Cultivation of flowers for commercial use.<br><br>- - Animal Husbandry<br>        - Livestock Production: Dairy, poultry, and meat production.<br>        - Fisheries: Marine and inland fish production.<br>    - Forestry<br>        - Timber and Non-Timber Products: Provides wood, bamboo, and medicinal plants.<br>    - Agro-processing<br><br>- - **Problems** with Indian agriculture - Economic \| Environmental \| Financial \| Governance \| Technological<br>        - Small and fragmented land holdings<br>            - _Example_: Average farm size in India is about 1.15 hectares<br>        - Low Agricultural Productivity<br>            - poor irrigation, outdated farming techniques, and inadequate use of technology<br>        - Inadequate Irrigation and Water Management<br>            - only around 48.5% of the net sown area is irrigated<br>        - Low Mechanization<br>            - Mechanization - 50% (OCED - 90%)(NABARD)<br>        - Indebtedness and Limited availability of affordable credit<br>            - population 86% but get only 50% of all loans disbursed<br>        - Overuse of chemicals and fertilizers leading to<br>            - soil degradation<br>                - Example: Nearly 30% of India's land area is undergoing degradation. - UNCCD<br>                - Skewed N/P/K<br>                - Soil Organic Carbon (SOC) - 0.5% for more then 60% land ( ideally - 1.5-2% as per World Food Laureate)<br>            - Create import dependency : India spent $6.5 billion to import 10.2 million tonnes of urea in FY22.<br>        - Adverse effects of climate change on crop yields and farming practices<br>        - Disguised unemployment<br>            - 55% workforce and 18% of GDP<br>        - Poor economic outcomes<br>            - Avg income of farm households- 10k per month -NSO<br>        - Lack of proper land records<br>        - Lack of private sector investment<br>            - only 2.4% of total investment in Agri sector<br>        - Inadequate Infrastructure<br>            - Transportation networks, power shortages, and inadequate logistics and storage facilities<br>            - _Example_: Post-harvest losses account for 10-20% of total production.<br>        - Scarcity of technology<br>            - Only 5% households have tractor and 0.2% have harvester -NABARD<br>        - Issues with marketing of agriculture products<br>            - Cartelization by APMC's<br>        - Lack of diversification of crops<br>            - 80% for wheat, rice, sugarcane<br>        - Lack of certified seeds<br>            - more than 50% seeds not certified. If done, it may improve the productivity by 25% -min of agriculture<br>        - Excessive ground water extraction<br>            - 90% of all water used in agriculture<br><br>- - **Solution**<br>        - Diversification [Ashok Gulati]<br>            - dairy farming, poultry, horticulture, livestock rearing and aquaculture.<br>            - Mission for Integrated Development of Horticulture<br>        - Irrigation coverage<br>            - Pradhan Mantri Krishi Sinchayee Yojana (PMKSY)<br>        - Unified agriculture market<br>            - Over 500 mandis online on National Agriculture Market (e-NAM)<br>        - Crop insurance<br>            - About 58 crore farmer applications enrolled under Pradhan Mantri Fasal Bima Yojana (PMFBY)<br>        - Precision agriculture refers to the use of advanced technologies and data analytics.<br>            - Rashtriya Krishi Vigyan Yojana (RKVY)<br>        - Promoting soil health management.<br>            - Over 23 crore Soil Health Cards issued by 2023.<br>        - Promoting sustainable farming<br>            - National Mission for Sustainable Agriculture (NMSA)<br>            - Organic farming - Target to cover 2 lakh hectares under Paramparagat Krishi Vikas Yojana (PKVY)<br>        - Credit support<br>            - Credit guarantee fund - NABARD<br>            - Kisan Credit Card (KCC) Scheme<br>        - Sustainable use of fertilizers<br>            - PM PRANAM<br>        - Income support to farmers<br>            - Pradhan Mantri Kisan Samman Nidhi Scheme (PM-KISAN)<br>        - Leveraging information technology<br>            - Farmer’s Portal of India<br>            - Digi stack (Budget 2023)<br>        - Export promotion<br>            - Agri Export Policy 2018 targets to reach $100 Billion in next few years [Ashok Dalwai committee]<br>        - Financing infrastructure projects.<br>            - Example: Rs. 1 lakh crore fund for post-harvest infrastructure through Agriculture Infrastructure Fund (AIF)<br>        - Promoting food processing industries<br>            - PM Kisan Sampada Yojna (PMKSY) targets to leverage investment of Rs. 11000 crore benefitting about 28 lakh farmers and generating 5.5 lakh direct/indirect employment.<br><br>- - **Conclusion**<br>        - We should promote culture of sustainability which would result into evergreen revolution -MS Swaminathan<br><br>- - Ashok Dalwai Committee to improve resource use and efficiency at mission mode so that our agriculture can compete at international level<br>        - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture.jpeg>)<br><br>- - Article 48 states that State shall endeavour for organisation of agriculture and animal husbandry on scientific lines.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ### Major Crops                                                                                                                                                                                                                                                                                                                     | - - **Food grains**<br>        - **Cereals** - 54 per cent of total cropped area in India.<br>            - Fine grains -<br>                - Rice - tropical zone, kharif<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture.png>)<br><br>- - - - - Wheat - temperate zone, rabi<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 1.png>)<br><br>- - - - - Reasons for **success**<br><br>HYV seeds : IR-8 rice and HD-2967 wheat varieties<br><br>Irrigation infrastructure : Bhakra Nangal and Indira Gandhi canals facilitated irrigation in Punjab, Haryana, and Rajasthan.<br><br>Policy support - MSP<br><br>Fertilizers and pesticide use : Fertilizer consumption in Punjab rose from 37 kg/ha in 1970 to over 200 kg/ha by 2000.<br><br>Farm mechanization :<br><br>Agro-climatic suitability : fertile alluvial soil and suitable temperatures<br><br>Institutional measures - land reforms, tenancy reforms, cooperative farming<br><br>Technology - micro irrigation<br><br>Demand - food preference<br><br>- - - - - **Issues** with rice and wheat system<br><br>Soil Degradation<br><br>Overextraction of groundwater<br><br>Stubble burning - air pollution and environmental degradation<br><br>Fiscal challenge - MSP procurement<br><br>Pest and Disease vulnerability<br><br>Overuse of chemical fertilizers, pesticides - import dependency<br><br>- - - - - **Way forward**<br><br>Crop diversification : pulses, oilseeds, and vegetable<br><br>Arvind Subramanian committee<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 1.jpeg>)<br><br>Sustainable Agricultural Practices : zero-tillage, crop rotation, and organic farming.<br><br>Efficient micro-irrigation systems<br><br>Agricultural marketing reforms<br><br>Soil Health Restoration : cover crops, green manuring, natural amendments<br><br>Integrated Pest Management (IPM) : biopesticides, pheromone traps, and natural predators<br><br>Strong forward and backward linkages<br><br>Food processing, FMCG<br><br>Changing MSP Policy - millets<br><br>- - **Coarse grains** : Millets - The coarse cereals together occupy about 16.50 per cent.<br>        - India produces 40% of world's millets (largest producer and 2nd largest exporter)<br>        - Historical evidence of consumption of millets by Indus valley people<br>        - Jowar(MH, kharif), Ragi, Bajra(RAJ), Maize(KA, MP)<br>        - Black soil, Red soil, Arid Soil<br>        - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 2.jpeg>)<br><br>- - **Advantages**<br>        - Of Production<br>            - Climate smart grains - draught, excessive rainfall<br>            - Income security<br>            - Crop diversification<br>            - Sustainable agriculture<br>                - Very less water, less fertile soil and warm and arid regions, shorter growing season of 70-100 days<br>            - Less energy consumption<br>            - Dual purpose - food and fodder<br>            - Improve soil quality<br>        - Of consumption<br>            - Hidden hunger - Nutri-cereals - 7-12 % Protein, 15-20% dietary fibers<br>            - Reduces risk of heart disease, diabetes, obesity, gluten free, anaemia (57% women anaemic)<br>    - Challenges<br>        - l**ow-yield per hectare**<br>        - Digestive issue - high fibre - bloating, gas, constipation<br>        - Low **glycaemic** index<br>    - Don't eat millets<br>        - Thyroid issues - millets creates issues iodine absorption<br>        - Gluten sensitivity<br><br>- - **Way** Forward \| Government Initiatives<br>        - Budgetary support to make India a global hub for 'Shree Anna' (millets)<br>        - Long term measure<br>            - Attitudinal and behavioral changes of consumers<br>        - Short term measures<br>            - More Procurement of millets under NFSA, 2013<br>            - Poshan 2.0 - millets rich mid day meal<br>        - Increase farmer income<br>            - Tejaswi programme of MP - increased farmers income 10 times<br>        - PDS, MSP, Awareness, Promotion<br>    - **Conclusion**<br>        - **SDG 2**<br>    - **Pulses** - Pulses occupy about 11 per cent of the total cropped area in the country.<br>        - Chickpea (Gram), Pigeon Pea (Tur/Arhar), Lentils<br>        - Gram, tur(arhar), Groundnut (India produce 18.8 per cent of world, _kharif in north, GJ, RAJ)_<br>        - India is world's largest producer of Pulses - 25% of world<br>        - legume crops - nitrogen fixing<br>        - Pulses development scheme<br><br>- - **Oilseeds** - 2.5 per cent of total cropped area in the country (RAJ, HAR, MP)<br><br>- - 60% import dependence<br>    - Groundnut, Rapeseed, Mustard, Palm<br>        - Rai, sarson, toria, taramira<br>        - frost sensitive crops<br>    - Soybean and sunflower (MP,MH)<br>    - Government initiatives<br>        - Mission Oil Palm<br>    - **Fibre crops**<br>        - Cotton (Kharif, Tropical, needs clear sky during flowing period) - 4.7 per cent of total cropped.<br>        - Jute<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 2.png>)<br>    - **Other crops**<br>        - Sugarcane (tropical, UP, MH, GJ)<br>            - India is largest producer of sugar in world<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 3.png>)<br>        - Tea - 21.22 per cent of total production in the world.<br>        - Coffee (arabica, Robusta and Liberica, Karnataka largest producer)<br>            - India produces more Robusta since last decade.<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 4.png>)<br>        - Rubber<br>            - Kerala accounts for 67%. others - Karnataka, Tamil Nadu, Assam and the other North Eastern States<br>        - Silk<br>            - India produce all the 5 types of commercial verities of silk<br>                - Mulberry<br>                - Oak tussar & tropical tussar<br>                - Muga<br>                - Eri<br><br>- - **Threats** to crops -<br>        - Pests<br>        - Disease<br>        - Weeds<br><br>- - Development<br>        - High yielding varieties of seeds, chemical fertilisers, pesticides and farm machinery.<br><br>- - Government schemes<br>        - (PM-AASHA) Scheme<br>        - Integrated scheme of Oilseeds, Pulses, Oil Palm and Maize (ISOPOM)<br>        - National Food Security Mission<br>    - National Horticulture Mission (NHM)<br>        - Boosting Production<br>            - Expansion of area under cultivation of horticultural crops<br>            - Introduction and promotion of high-yielding and disease-resistant varieties.<br>            - diversification of crops<br>            - training and capacity-building programs for farmers<br>        - Improving Productivity<br>            - Adoption of advanced horticultural techniques such as drip irrigation, mulching, and protected cultivation<br>            - integrated nutrient and pest management<br>            - development of infrastructure such as nurseries, cold storage, and processing units.<br>            - Horticulture crop research<br>        - Increasing Farmers' Income<br>            - Facilitated market linkages to sale produce<br>            - value addition through processing and packaging<br>            - export of high-value horticultural produce<br>            - Alternative income source throughout year<br>        - Limitation to consider<br>            - Uneven benefits - small farmers don't have capital and capacity to invest<br>            - Market fluctuation lead to price volatility<br><br>- - Advantages of organic farming<br>        - Ecological<br>            - Soil Health Improvement through the use of compost, green manure, and crop rotation.<br>            - Biodiversity Conservation by eliminating synthetic pesticides and fertilizers<br>            - Preventing water pollution by preventing chemical runoff<br>            - Increasing carbon sequestration in soil<br>            - prevent land degradation and desertification<br>            - Enhanced ecosystem services like nutrient cycling<br>        - Economic<br>            - Premium pricing increasing farmers' income.<br>            - Reducing input cost on pesticides and fertilizers<br>            - Eco-tourism<br>            - Export Opportunities<br>            - Employment Generation : Organic farming practices are labor-intensive<br><br>- - **Challenges**<br>    - **Conclusion**<br>        - SDG #2<br>        - Ashok Gulati |
-|                                                                                                                                                                                                                                                                                                                                     | - - **Direct Seeding Method**<br>        - Seeds are directly drilled into the fields. There is no nursery preparation or transplantation involved in this method.<br>        - Requires laser levelling of land and one pre-sowing irrigation.<br>        - Advantages<br>            - 15% of Water Conservation<br>            - Labour Efficiency (transplanting of saplings from nursery is no more required)<br>            - Time, Yield, Soil Health मस्त<br>        - Challenges<br>            - Weed Management<br>            - Vulnerability to Climate Extremes<br>            - Initial Learning Curve<br>            - High seed requirement<br>            - Compulsory land levelling                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ### Cropping patterns                                                                                                                                                                                                                                                                                                               | - - Cropping pattern is defined as the spatial distribution of crops that are being produced in an area in a given sequence of time.<br><br>- - **Importance** of Cropping Pattern<br><br>- - **Issues** in Cropping Patterns<br>        - Rice-Wheat dominance system<br>        - Monoculture<br>        - Neglect of coarse grains<br>            - E.g. 16.5%<br>        - Less diversification<br><br>- - **Types of Cropping Pattern**<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 5.png>)<br><br>- - **Cropping practice**<br>        - Monocropping -<br>            - Practice of growing one crop species in a field at a time -<br>                - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 3.jpeg>)<br>                - Widely used in commercial agriculture<br>                - _Continuous monoculture -> monocropping : growing same crop year after year_<br>        - Intercropping<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 6.png>)<br>            - Two complimentary crops simultaneously<br>        - Crop Rotation - different crops in a sequential order<br>        - Strip Cropping - different crops in alternate strips<br>            - retain soil moisture, prevent runoff, and improve soil structure.<br>        - Relay Cropping - planting a second crop in a field before the first crop is harvested<br>        - Mixed Cropping: different crops simultaneously without any distinct row patterns or arrangement<br>        - Mixed farming : a system of farming which involves the growing of crops as well as the raising of livestock.<br>        - Agroforestry<br>        - Shelterbelts and Windbreaks - rows of trees planted along the edges of fields<br>            - reduce wind erosion, microclimatic benefits.<br><br>- - Reasons Why Cropping Pattern Differ<br>        - Biophysical factors - Climatic, edaphic, topographic, biotic<br>        - Socio-economic - market demand, profitability, labour availability<br>        - Technological - availability of seed, fertilizers, pesticides, mechanization<br>        - Policy and institutional - subsidies and price support, infrastructure, credit availability<br><br>- - Factors Influencing Cropping Pattern<br>    - Long-Run Effects of **Current Trends** in Cropping Pattern<br><br>- - **Emerging Trends in Cropping Pattern**<br>        - Shift to High-Value Crops : fruits, vegetables, and dairy<br>        - Climate-Resilient Farming like growing millets<br>        - Emphasis on Pulses and oilseeds:<br>        - Organic Farming<br>            - MP emerged as highest producer of organic farming products<br>        - Agroforestry Practices<br>        - Precision Agriculture<br>        - Adaption Biotechnology and GM Crops<br>            - Bt cotton - 95% cotton area, nano-urea<br>        - Zero-Budget Natural Farming (ZBNF)<br>        - Sustainable Farming Practices like crop rotation, mixed farming, agroforestry<br>        - Integrated Pest Management (IPM)<br>        - Water-Smart Agriculture<br>        - Tapping in export potential : basmati rice, spices, and fruits<br><br>- - Government policies<br>        - MIDH (Mission for Integrated Development of Horticulture)<br>        - National Food Security Mission<br>        - National Mission on Sustainable Agriculture (NMSA)<br><br>- - **Difference**<br><br>\|   \|   \|<br>\|---\|---\|<br>\|Zero-Budget Natural Farming (ZBNF)\|Organic Farming\|<br>\|No reliance on purchased inputs\|Allows certain natural inputs\|<br>\|Emphasise on Soil health and indigenous knowledge\|Ecological balance and third-party certification\|<br>\|Low cost and high profitability\|Can be more expensive, but may fetch higher market prices\|<br>\|Primarily focused on local markets\|May target premium organic market\|<br>\|Diverse crop rotation and intercropping\|<br><br>- - **Integrated Farming system**<br>        - Is a holistic approach to farming involving farm activities like cropping, livestock rearing, poultry farming, fishery, forestry and other allied activities in a synergistic manner.<br>        - **Significance**<br>            - Diversification of income:<br>            - Efficient resource utilization - with optimal use of farm resources like water, feed, and fertilizer<br>                - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 7.png>)<br>            - Food and nutrition security : vegetables, milk, and eggs produced<br>            - Soil health : Integration of legumes and millets<br>            - Risk mitigation<br>            - Environmental sustainability<br>            - Rural employment and entrepreneurship<br>            - Reduce Agriculture distress<br>            - Controlling migration<br>            - Lower Input Costs<br>            - **Challenges**<br>                - initial investment<br>                - Knowledge and training<br>                - Market access<br>            - Case studies<br>                - Sikkim's Organic Mission:<br>                - Kuttanad : rice-fish farming system<br>                - Andhra Pradesh’s Zero Budget Natural Farming (ZBNF) : crop diversification, natural manure<br><br>- - Crop diversification<br>        - Crop diversification refers to the practice of cultivating a variety of crops<br>        - Present Challenges<br>            - Economic Viability : farmers prefer rice and wheat for higher market value<br>            - Lack of robust market linkages and storage facilities for diversified crops.<br>                - Inadequate cold storage for horticultural products<br>            - limited knowledge and awareness in farmers<br>            - Limited access to credit for investing in new crops<br>            - Limited farm mechanization and technologies supporting diverse crops<br>            - Policy barriers : Minimum Support Price (MSP) and FRP benefits few crops<br><br>- - Opportunities Provided by Emerging Technologies<br>        - Genetic Engineering and Biotechnology: can provide high-yielding and resilient crop varieties<br>            - GM mustard<br>        - Remote Sensing and GIS: planning and monitoring of diversified crop areas.<br>        - Vertical and Hydroponic Farming : allow cultivation with minimal water use.<br>        - Precision Agriculture: data analytics, IoT, and GPS can help to optimize crop selection<br>        - Artificial Intelligence (AI) : identifying disease, pest and nutrient deficiencies<br>        - Mobile apps and internet : real-time market information, weather forecasts<br>        - Drones : efficient planting, pesticide and fertilizer application<br>        - Agroforestry Systems : help in integrating crops with livestock and silviculture<br><br>- - **Way forward**<br>        - Ashok Dalwai Committee recommendation to encourage livestock enterprises<br><br>- - Rainbow revolution - MS Swaminathan                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ### Irrigation System                                                                                                                                                                                                                                                                                                               | - - **Introduction**<br>        - Irrigation is the artificial application of water to the soil to assist in the growing of crops.<br><br>- - According to Water Resources Assessment Report by Ministry of Jal Shakti -<br>        - 67 % of total irrigation is groundwater based.<br>            - Atal Bhujal Yojana (Atal Jal) - to improve ground water management<br>        - 20% of irrigated area is covered under micro irrigation<br>        - 54% population faces high water stress - NITI Aayog<br><br>- - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 8.png>)<br>        - (Water Stress पूछे तो इसका उल्टा कर दो)<br><br>- - Type of irrigation schemes<br>        - Major - > 10000 hectares<br>        - Medium : 2000 to 10000 hectares<br>        - Minor : < 2000 hectares<br><br>- - Sources of Irrigation<br>        - Rainfed<br>        - Irrigated<br><br>- - Types of irrigation system<br>        - Surface<br>            - Flood Irrigation<br>            - Furrow Irrigation : Water flows in small channels between the crop rows.<br>        - Sub-surface<br>            - Basin and Perforated Pipe Systems<br>        - Sprinkler - save 40% water vis-a-vis flood irrigation<br>            - Or Drip irrigation - save 75%<br>        - **Micro-irrigation :** refers to the delivery of water directly to the root zone of plants through drips or sprinkler<br>            - Features<br>                - Using emitters, sprinklers and drips<br>                - Low volume of water<br>                - Low pressure, high frequency<br>            - **Advantage**<br>                - Water Use Efficiency : reducing loss through evaporation and runoff<br>                - Increased crop yield:<br><br>efficiently delivery of water and nutrients<br><br>**Ideal moisture** level in the **root zone**<br><br>- - - - - Automation, Flexibility and precision - control the flow rate, duration, and frequency of irrigation<br>                - Reduced energy consumption<br>                - Soil health and erosion control - reduce salinization, alkalisation<br>                - Reduce fertilizer usage<br><br>Reduce runoff and eutrophication<br><br>Fertilizer subsidies about 6500 crore rupees<br><br>- - - - - Reduce weeds and pests<br>                - Prevent waterlogging<br>                - Compatible with sustainable practices<br><br>Organic farming, natural farming<br><br>- - - - - Turns **water intensive to water effective crops**<br><br>Sugarcane, rice etc.<br><br>- - **Issues**<br>        - Limited irrigation coverage<br>        - Financial and technical constraints<br>        - Regional variation<br>        - Limited awareness and training about benefits and maintenance<br><br>- - Choosing an Irrigation System<br>    - Problems Associated with Irrigation<br>        - Intrusive irrigation<br><br>- - Progress of Irrigation Under Five Year Plans<br>    - Environmental Effects of Irrigation<br>        - Irrigation system storage<br>        - Extensive irrigation<br>        - Watershed Development<br>        - Warebandi system<br><br>- - **Irrigation System Storage**<br>        - Surface Storage Systems :<br>            - Reservoirs and Dams<br>        - Traditional<br>            - Tanks and Ponds<br>        - Groundwater Storage<br>            - Aquifers and Wells<br>        - Rainwater Harvesting<br>            - Farm Ponds and Rooftop Harvesting<br>        - Check Dams and Percolation Tanks<br><br>- - Importance of efficient irrigation and storage system<br>        - Maximizing crop yields<br>        - Draught mitigation<br>        - Climate resilience<br>        - Sustainable agriculture<br><br>- - Need for Systemic Irrigation **Reforms** \| **Measures**<br>        - Rainwater Harvesting :<br>            - Swaminathan committee<br>        - Recycling **grey water**<br>        - Water Storage Infrastructure development<br>        - Modernize Irrigation Systems<br>            - Drip irrigation, sprinkler irrigation<br>        - Improve Canal Networks: interlinking of rivers<br>        - Revive traditional water conservation methods<br>            - E.g. step wells (Gujarat), Tankas (Rajasthan)<br>        - Crop diversification and rotation :<br>            - "Sahi Fasal" campaign<br>            - Millets<br>        - Public awareness<br>            - Jal Shakti Abhiyan: Catch the Rain (JSA:CTR) <br>        - Technology -<br>            - soil moisture sensors, GIS systems, precision agriculture<br>            - IoT sensors and automated systems for precise irrigation.<br>            - Solar pumps [PM KUSUM]<br>        - Legal and regulatory measures - promote water conservation, prevent over-extraction.<br>        - Awareness and training<br>            - E.g. Apna taalab abhiyan<br>            - Jal Shakti Abhiyan<br>            - Nal se Jal<br>        - Subsidies and financial incentives<br>        - Research and development<br>        - Policy<br>            - National Water Policy<br>        - Community based governance<br>            - E.g. Hiware Bazaar Model<br><br>- - **Government Initiatives**<br>        - Pradhan Mantri Krishi Sinchayee Yojna (PMKSY) target to cover 10 million hectares.<br>        - National Mission for Sustainable Agriculture (NMSA)<br>        - Atal Bhujal Yojana<br>        - Jal Shakti Abhiyan<br><br>- - **Conclusion**<br>        - Mihir Shah Committee recommendation on watershed development can be implemented.<br>            - National water commission<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 4.jpeg>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| E-Technology in the aid of farmers                                                                                                                                                                                                                                                                                                  | - - **Introduction**<br>        - [A study published in Nature](onenote:#ST&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={CBF04816-01F1-BD41-AABF-F9CD4278B81C}&object-id={10056DF0-A55C-EA4D-B25E-05ED000E08DB}&8C&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)<br><br>- - Precision Agriculture<br>        - Use GPS, IoT, and data analytics in field mapping and soil health monitoring<br>        - Variable Rate Technology (VRT) for fertilizers and pesticides application based on specific field conditions<br>    - Remote Sensing and GIS in yield estimation and real time crop monitoring<br>    - Mobile Applications and Platforms<br>        - E-Marketing Platforms like E-NAM<br>        - Weather Forecasting Apps<br>            - IMD's Meghdoot app<br>        - Advisory Services on best practices, pest control and crop management<br>        - Digital literacy programs for farmers.<br>        - MOOCs and online courses on modern agricultural practices.<br>            - Example : AgriPathshala<br>        - Online farmer communities<br>    - Internet of Things (IoT) and Smart Farming<br>        - IoT enabled Automated Irrigation Systems<br>        - Smart Sensors for monitoring soil moisture, temperature, crop health<br>        - Wearable sensors for cattle<br>    - Data Analytics and Big Data<br>        - Crop Yield Forecasting<br>        - Supply Chain Optimization<br>    - Information technology<br>        - Kisan Call Centres<br>        - Agri-Tech Start-ups<br>        - Kisan Credit Card (KCC), Direct Benefit Transfer (DBT)<br>    - Supply Chain Management Systems:<br>        - Streamline logistics and reduce post-harvest losses.<br>    - Online Training and Capacity Building:<br>        - Educate on modern farming practices<br>    - Digital Payment Systems:<br>        - Facilitate secure and prompt transactions between farmers and buyers.<br>    - E-Commerce platform : to reach wider customer base<br><br>- - Agri tech Startups<br>        - Farmers Fresh Zone and DeHaat - marketing<br>        - NinjaCart; AgriBazaar - D2C<br>        - Skymet - advisory<br>        - EM3 Agri Services - mechanization<br>        - KrishiHub offer soil testing kit<br><br>- - Liquid Nano Urea - Introduced by IFFCO<br><br>- - **Biotechnology** and genetic engineering<br>        - Genetically modified (GM) crops - enhanced yield, pest resistance, nutritional content, draught tolerant, better seed quality<br>            - E.g. Bt Cotton, GM Mustard<br>        - Reduced Input Costs: reducing need for chemical pesticides and fertilizers -> savings and sustainability<br>            - E.g. Nano Urea<br>        - Enhanced Crop Quality - Increased shelf life, enhanced nutritional value, and better taste.<br>        - Improved Storage and Shelf-Life<br>        - Higher Market Value : e.g. High-protein maize varieties<br>        - Stress-Tolerant Crops: -<br>        - Improved Soil Health : e.g. application of azotobacter bio-fertilizer<br>        - Access to International Markets - producing desired crops<br>            - E.g. export of Bt cotton<br><br>- - **Issues**<br>        - Herbicide Resistance:<br>            - lead to the development of superweeds and increased herbicide use<br>        - Impact on biodiversity and ecosystem balance<br>        - Impact on Non-target Organisms<br>            - horizontal gene transfer to wild plants or microorganisms<br>        - Long-term Effects<br><br>- - Digital Platforms and E-commerce<br>        - farmer-to-consumer interactions<br><br>- - Drone<br>        - Irrigation, monitoring crop health, planting, crop spraying, soil analysis<br><br>- - **Artificial intelligence**<br>        - Precision Agriculture:<br>            - data analytics<br>            - valuable insights on soil health, crop growth, and irrigation needs.<br>            - data-driven decisions<br>        - Crop Monitoring and Disease Detection<br>        - Smart Irrigation:<br>            - precisely schedule irrigation<br>        - Crop Yield Prediction<br>            - real-time data on weather patterns, soil conditions, crop growth,<br>            - farmers plan their harvesting, storage, and marketing activities<br>        - Farm Automation<br>        - Market Intelligence:<br>            - price trends, demand patterns, and consumer preferences.<br>            - crop selection, timing of sales, and marketing strategies. -> maximise their profits<br>        - Farm Management Systems<br>            - track farm inputs, monitor livestock, manage inventory,<br><br>- - National Strategy for AI - Agriculture priority<br><br>- - Robotics<br>        - Detection of weeds<br>    - IOT based sensor networks<br><br>- - **Geospatial Knowledge Infrastructure (GKI)**<br>        - In agriculture<br>            - Precision farming - Precision farming combines the power of artificial intelligence (AI), Global Navigation Satellite System (GNSS), and Big Data.<br>            - This data later helps in Crop scouting, Soil sampling, Weed location, accurate planting, and harvesting. (**SWAH**)<br>            - Better crop forecasting<br>            - Better implementation and risk assessment<br>                -  PM Fasal Bima Yojana<br>            - Increased Landholding size: Along with the SWAMITVA scheme by Land pooling.<br><br>- - In allied sectors<br>        - Fisheries - PM Matsay Sampada Yojana<br>            - Enhanced fish production of 22 million metric tons.<br>            - Increase of contribution of Gross Value Added (GVA) of fisheries sector to agriculture GVA to 9%.<br>            - Reduction of post-harvest losses to about 10% (currently 25%)<br><br>- - Dairy<br>    - Minor Forest Produce<br>    - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 9.png>)<br><br>- - **Revolutions**<br>        - Green Revolution - HYV seeds, fertilizers, pesticides.<br>        - White Revolution - operation flood<br>        - Blue Revolution - fisheries, aquaculture, marine products<br>        - Golden Revolution - fruits, honey, horticulture crops<br>            - E.g. bananas, mangos, coconut, spices.<br>        - Yellow Revolution - Oilseed - mustard, sesame etc.<br><br>- - Measures<br>        - Agriculture accelerator fund to boost agritech startups.<br>        - **Digital Agriculture Mission (DAM)** initiative                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| ### Transport and Marketing of Agriculture Produce<br><br>Issues<br><br>Related Constraints                                                                                                                                                                                                                                         | - - **Introduction**<br>        - Indian agriculture has expanded significantly since the country’s independence. However, though, the need is to create a competitive marketing systems and efficient transportation infrastructure.<br><br>- - The marketing of agricultural products in India involves several processes from production to consumer delivery.<br>    - Broadly categorized into upstream (production and supply chain) and downstream (distribution and sales) activities.<br><br>- - Process of Agricultural Marketing - Marketing Channels, Functionaries, Costs, etc.<br>        - Agricultural marketing is a process that involves the assembling, storage, processing, transportation, packaging, grading and distribution of different agricultural commodities across the country.<br><br>- - Role of FCI<br>    - Regulated Markets<br>    - Warehousing<br>        - E-NWR<br>    - Cooperative Marketing<br>    - Shortcomings of Current Agricultural Marketing Process<br>    - APMCs (Agricultural Produce & Livestock Market Committee)<br>    - National Agricultural Market (NAM)<br>    - Farmer Producer Organisations (FPO)<br>        - Advantages<br>            - enhance their bargaining power<br>            - leverage economies of scale<br>            - reduction in cost of production<br>            - enhancing farmers’ incomes through aggregation of their agricultural produce<br>    - Contract Farming<br>    - Futures Trading in Agricultural Commodities<br><br>- - Main Constraints in Transportation<br>        - Inadequate Infrastructure : Poor road connectivity,<br>        - Lack of Cold Chain Facilities : lead to high post-harvest losses<br>        - Fragmented Supply Chains : multiple intermediaries between farm and market raise costs and reduce efficiency.<br>        - High Transportation Costs: constitute up to 25% of the total cost reduce competitiveness<br>        - limited Access to Advanced Technology : GPS tracking systems for monitoring<br>        - Bureaucratic Delays : time-consuming procedures at check-posts and toll gates<br><br>- - Main Constraints in Marketing<br>        - Market Infrastructure Deficiency : poorly maintained market yards and mandis without basic facilities like grading, sorting, and storage.<br>        - Middlemen domination<br>        - Fragmented and Regulated Markets : farmers restricted to sell in APMCs<br>        - Information Asymmetry: leads to high price volatility and lack of transparency in price discovery<br>        - Monopolistic Practices : cartelization of APMCs - skipping the auction route<br>        - inadequate digital infrastructure (leads to delay in processing of applications and payment failures).<br><br>- - **Bottlenecks** in Upstream and downstream process of marketing<br>        - Upstream<br>            - Poor Quality of Inputs : substandard seeds, fertilizers, and pesticides<br>            - Fragmented land holding : Average farm size in India is about 1.15 hectares<br>                - Difficult to achieve economies of scale<br>                - Low efficiency<br>            - Lack of Institutional credit<br>                - E.g. NABARD - only 60% take institutional credit<br>            - Poor logistics and transportation infrastructure<br>            - Lack of storage Infrastructure:<br>                - E.g. warehouses, cold chains, irrigation systems.<br>                - 30% of fruits and vegetables perish due to lack of cold storage. [NABARD]<br>            - Policy constraints : Subsidies and MSP focus predominantly on rice and wheat leading to imbalance<br>            - Extreme climate events<br>                - E.g. heatwaves, frequent flooding, draughts<br>            - Low Adoption of Technology:<br>                - E.g. lack of GIS, remote sensing, drones<br>            - Seasonal Imbalances<br>                - E.g. prices of tomatoes, onions, lime etc.<br><br>- - Downstream<br>        - Fragmented markets<br>            - E.g. Divided in APMC's<br>        - Middlemen domination<br>        - Lack of standardization in quality and grading.<br>            - Only 50% farmers use certified seeds - MoA<br>        - Market Infrastructure Deficiencies - overcrowded and poorly maintained mandis<br>        - Price volatility and lack of information affects farmers income<br>        - Limited Export Opportunities<br>        - Cartelization of markets<br>            - APMC agents manipulate price<br>            - Lack of transparency in price discovery<br>        - Inefficient Distribution Networks<br>            - delays, spoilage, and higher costs<br>        - Limited Processing and Value Addition<br><br>Leads to wastage and post-harvest losses<br><br>- - Regulatory and Policy Constraints:<br>        - MSP, minimum export prices, and quality standards prevents exports.<br>    - Lack of Direct Marketing Channels to consumers<br>        - Farmers' markets (Raithu Bazaars) are very few<br>    - Protectionism and trade wars limit exports<br>        - USA, EU, imposing tariffs barriers<br>    - Changing food demands<br>        - E.g. organic food, low carb diets<br>    - Lack of awareness<br>        - E.g. eNAM, market demand, prices, and best agricultural practices<br><br>- - **Role** of E-commerce in overcoming this bottlenecks<br>        - Improved Market Access<br>            - E.g. customers in both urban and rural areas.<br>        - Efficient and streamlined process<br>            - E.g. online ordering, inventory management, and order fulfilment<br>        - Real-Time Data and Analytics<br>            - helps in demand forecasting, inventory optimization, and decision-making<br>            - Better supply chain management<br>        - Direct-to-Customer<br>            - Bypass middlemen's , win-win for both farmer's and consumers<br>        - Improved Logistics and Delivery<br>            - E-commerce focuses on last-mile delivery capabilities<br>        - Transparent pricing, product information, and customer reviews<br><br>- - Role of supermarkets in supply chain management<br>        - Direct Procurement from farmers and FPOs<br>        - Strict quality controls<br>        - Advanced logistics and supply chain management systems<br>        - Sophisticated inventory management systems<br>        - Engage in value addition by cleaning, sorting, grading, and packaging produce<br>        - Advanced tracking and traceability systems used by supermarkets<br><br>- - How they Eliminating Intermediaries:<br>        - Direct Sourcing Agreements<br>        - Contract Farming:<br>        - In-House Distribution Centers<br>        - Digital Platforms and e-marketplaces<br>        - Price Stability and timely payments to farmers<br><br>- - **Way forward**<br>        - **Agricultural Marketing Infrastructure scheme**<br>        - market information and intelligence<br>            - Research and Information Network (MRIN), Agmarknet<br>        - Digital Public Infrastructure in agriculture<br>        - Direct marketing channels (Krishi Udaan, Agri-Export Policy, GrAMs).<br>        - National Mission on Seeds<br>        - Promoting contract farming (Model Contract Farming Act)<br>        - Mandi reform measures (model APLM Act 2017)<br>        - Agri-Tech Solutions and Digital Marketing:<br>            - AgriBazaar and DeHaat platforms<br>        - Agricultural Export Policy (2018)<br><br>- - 3L - Land leasing, land records, land titles<br>    - GI Tagging<br>    - Centralized database for better policy and planning<br>    - Cooperative marketing<br>    - Ashok Dalwai committee<br>        - National Agricultural Market (NAM)<br>        - Private sector participation<br>        - Model agriculture produce and livestock marketing act<br>        - Promote FPO's ( minimum target - 12000)<br><br>- - **Conclusion**<br>        - Reforms in transporting and marketing are much needed to increase the farmer's income and achieving sustainable development goals (e.g. 1,8,10,12)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ### Subsidies                                                                                                                                                                                                                                                                                                                       | - - **Introduction**<br>        - Subsidies are transfer payments from the government where there is no exchange of goods and services in return.<br><br>- - Agricultural Pricing Policy<br><br>- - Types of Subsidies<br>        - Issues<br>            - Direct Subsidies : financial support<br>                - Minimum support price (MSP)<br>                - Fertilizer subsidy<br>                - DBT Schemes like PM-KISAN<br>                - Crop insurance - PMFBY<br>                - Irrigation subsidies : PMKSY; PM KUSUM<br>            - Indirect Subsidies : cost reduction<br>                - Power subsidies<br>                - Public irrigation infrastructure: Government investment in dams, canals benefits farmers<br>                - Public Distribution System (PDS)<br>                - Tax exemptions: Income from agriculture<br>                - Subsidized agricultural credit: Farmers get loans at concessional interest rates<br><br>- - Fertilizer subsidies<br>        - Urea subsidy<br>        - Nutrient based subsidy for NPKS percentages - for DAP, MOP<br><br>- - Rationale for Subsidies<br>        - Prevents distress selling<br>        - Incentivize production<br>        - Ensure minimum farmer's income<br>        - Safety net for small and marginal farmers<br>            - E.g. cyclic shocks like extreme climate, covid-19<br><br>- - **Problems** of subsidies<br>        - Financial burden on government<br>        - Promotion of Monoculture<br>            - Cereal centric - E.g. rice due to cheap electricity and MSP in Punjab<br>        - Overuse of resources<br>            - Fertilizers and pesticides causing pollution<br>        - Disincentivise technological adaption<br>        - Resource diversion towards one time benefits<br>        - Opportunity cost<br>            - Inhibits capital formation in agriculture sector<br>        - Increase wastage<br>        - Power subsidies<br>            - Increased carbon footprint<br>        - Distort market prices <br>        - WTO Compliance Issues<br><br>- - Clash with WTO Agreements<br>        - Market Distortion : price support measures like MSP are considered under Amber Box<br>        - Public stockholding program : contested for distorting international trade<br>        - Lack of transparency: WTO seeks clearer documentation and reporting of all agricultural subsidies<br>        - Breach of De Minimis Limits<br><br>- - India's Arguments<br>        - Development needs: crucial for supporting small farmers and ensuring food security for a large population.<br>        - Developed countries' subsidies : high levels of support provided by developed countries as well.<br>        - De minimis provisions : India claims its subsidies fall within permissible limits under WTO rules.<br>    - find a balance between development needs and fair trade practices.<br><br>- - **Advantages** of DBT<br>        - Reduces leakages and diversions<br>        - Eliminate duplication and inclusion error<br>        - Ability to make choices based on needs and preferences<br>            - Promote competition and efficiency in market<br>        - Reduction in Administrative Costs<br>        - Financial Inclusion<br>            - E.g. Jan Dhan Accounts<br>        - Data-Driven Decision Making<br>            - Evidence-based policy-making, program evaluation, and targeted interventions<br>        - Reduction of Market Distortions<br><br>- - **Recommendations**<br>        - Targeted Subsidies<br>        - Promote Sustainable Practices<br>            - _Example_: Incentivizing organic farming and water-efficient crops.<br>        - Gradual reduction of subsidies while promoting market-based pricing mechanisms.<br><br>- - **Government Initiatives -**<br>        - **PM AASHA** Scheme - aaya aanadata sanrakshan abhiyan<br>            - Price support schemes<br>            - Price deficiency payment scheme<br>            - Private procurement and stockiest scheme<br><br>- - **Conclusion**<br>        - Increasing farmer's income …                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ### MSP                                                                                                                                                                                                                                                                                                                             | - - **Introduction**<br>        - MSP is a government policy designed to ensure farmers a guaranteed price for their crops, providing them with a safety net against fluctuating market prices.<br><br>- - Cabinet committee on economic affairs notifies chaired by PM at the start of the sowing season for specific crops.<br><br>- - Need for MSP<br>        - Protecting farmers from price volatility<br>        - Improving farmers' livelihood<br><br>- - **Issues**<br>        - Regional Disparities<br>            - _Example_: Punjab and Haryana dominate MSP procurement, whereas states like Bihar and Odisha see minimal MSP operations.<br>        - Procurement Challenges<br>            - Insufficient warehousing and transport facilities<br>            - Delays in payment to farmers<br>        - Market Distortion<br>            - Price distortion leading to artificial inflation of certain crop prices.<br>            - Disincentive for Quality Improvement<br>        - Environmental Impact<br>            - Over-extraction of groundwater due to extensive rice and sugarcane cultivation<br>            - Disincentivizing diversification<br>            - Soil degradation<br>        - Economic Implications<br>            - Fiscal burden on government exchequer<br>            - Opportunity cost<br>                - Capital investment and rural infrastructure<br>                - Research and development, modern technology has taken back seat.<br>        - Social and Equity Concerns<br>            - Impact on consumers : High MSPs are inflationary<br>            - Larger farmers with better access benefit more<br>                - Only 6% of Indian farmers have benefitted from MSP- NSSO 70th round<br>            - Middleman domination<br><br>- - How it will **rescue farmers** from low income trap<br>        - Safety net against price fluctuation<br>        - Guarantee for procurement of produce<br>        - Protects against Speculative and hoarding market practices<br>        - Encourage farmers to adapt to new technology and crop production<br>        - Provides minimum assured income<br>        - Reduce their reliance on informal credit sources<br>        - provide greater bargaining power while selling in open market<br>        - protecting the interests of small and marginal farmers<br><br>- - **Recommendation for improvement**<br>        - Expanding range of crops and equitable regional distribution<br>            - _Example_: Including more pulses and oilseed<br>        - Improving storage and transportation infrastructure<br>        - Promoting Sustainable Practices<br>            - _Example_: linking MSP to water-efficient crops and organic farming practices.<br>        - Reducing Middlemen Influence<br>            - _Example_: Encouraging farmer producer organizations (FPOs) <br>        - Continuous Assessment<br>            - _Example_: Independent audits and feedback mechanisms to improve MSP schemes.<br><br>- - **Way forward**<br>        - Price deficiency payment system<br><br>Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA).<br><br>- - Diversification in procurement<br>        - E.g. Millets<br>    - APMC Infrastructure development<br>        - **(e-NAM)**<br><br>- - **Conclusion**<br>        - **Ramesh Chand Committee -** include **social criteria's** and **long term plan** in determining MSP<br>            - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 5.jpeg>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ### Public Distribution System<br><br>Objectives, Functioning, Limitations, Revamping                                                                                                                                                                                                                                               | - - **Introduction**<br>        - Public Distribution System (PDS) is a government-led initiative in India aimed at ensuring food security by distributing subsidized food and non-food items to the poor.<br>        - India's Public distribution is the largest food security programme in the world. It covers nearly 92% of population and costs close to 1.4% of national income.<br><br>- - **Objectives**<br>        - Food Security<br>        - Price Stability<br>        - Poverty Alleviation<br>        - Nutritional Security<br>        - Emergency Relief<br><br>- - **Functioning** - Fair Price Shops, FCI, Ration Cards, Aadhar Linking, etc. - **PSTD**<br>        - Procurement<br>            - Centralized Procurement: Government agencies like Food Corporation of India (FCI) procure.<br>            - Issues<br>                - Purchase is highly cereal centric - wheat, rice are purchased<br>                - Not available throughout the country<br>            - Way forward<br>                - More decentralized procurement<br>                - Promote Farmers produce organization(**FPOs**)<br>                - **eNAM** - national agriculture market<br>        - Stocking and Storage<br>            - Issues<br>                - Lack of proper warehousing<br>            - Way forward<br>                - **Negotiable Warehouse Receipt (NWR)** **System**<br>                - Public - private partnership<br>        - Transport<br>            - Issues<br>                - High Logistical Cost<br>                - Lack of Rural Infrastructure<br>            - Way forward<br>                - GPS Tracking<br>                - Computerized warehouses<br>        - Distribution<br>            - Issues<br>                - Only 50% fair price shops (FPS) have **e-POS** machine<br>            - Way forward<br>                - Digitization of ration card using Aadhar<br>                - DBT in PDS system<br>                - Home delivery<br>        - Targeting Beneficiaries<br>            - Ration Card<br>                - categorized into APL, BPL, and Antyodaya Anna Yojana (AAY) cards.<br><br>- - **Challenges** Associated with PDS<br>        - Procurement<br>            - Crop concentration - rice and wheat<br>            - Quality Issues<br>                - Complaints about low-quality or adulterated food grains<br>            - Poor grain quality, inadequate weight, and improper packaging<br>        - Storage<br>            - Inadequate infrastructure - warehouses<br>        - Transportation<br>            - Inefficient Supply Chain Management (PSTD)<br>            - High logistics cost<br>        - Distribution<br>            - Targeting<br>                - Inclusion and exclusion errors<br>                - lack of updated data - last census 2011 - leads to inaccurate targeting<br>            - Leakages and Corruption<br>                - illegal sale, pilferage, middlemen's<br>            - Lack of awareness<br>                - about their entitlements, prices, and distribution schedules<br>        - Financial sustainability:<br>            - Rising subsidy costs<br>                - E.g. 4.22 lakh crore revised estimates<br><br>- - **Measures** to Improve the Loopholes & Lacunae's Associated with PDS<br>        - Implementation of Direct Benefit Transfer (DBT)<br>        - End-to-End Computerization<br>            - _Example_: e-PDS initiatives<br>            - E.g. MP model of GPS tracking of delivery<br>        - Biometric Authentication<br>            - Aadhaar seeding in PDS<br>            - Periodic reviews : to eliminate duplication, improve targeting, and enhance transparency.<br>        - Social Audits and Transparency Portals to address leakages and corruption<br>            - Online Depot system - to bring all FCI godowns online, check leakages<br>        - Regular Quality Checks<br><br>_Example_: strong quality control mechanisms<br><br>- - Enhancing Operational Efficiency:<br>        - Improving infrastructure - Upgrading storage facilities and transportation networks<br>    - Grievance Redressal Mechanism<br>        - _Example_: Helplines, mobile apps, and grievance redressal forum<br>    - Awareness campaigns to educate beneficiaries about their rights, entitlements, and the functioning of the PDS.<br>    - Targeted subsidies : based on vulnerability to poverty<br>    - Strengthening Institutional Capacities -<br>        - Building the capacity of PDS officials<br>        - instituting stringent penalties for corruption<br><br>- - **Government** initiatives<br><br>- - Salient Features of the National Food Security Act, 2013:<br>        - Provides a legal right to food<br>        - Coverage : covers 75% of the rural population and 50% of the urban population<br>            - Over 800 million people covered<br>        - Entitlement : 5 kg of food grains per person per month at subsidized rates.<br>        - Subsidized Food Grain : rice at ₹3 per kg, wheat at ₹2 per kg, and coarse grains at ₹1 per kg.<br>        - Targeted Public Distribution System (TPDS) : eliminate leakages and improve efficiency<br>        - Integrated Child Development Services (ICDS) program : provide nutritious meals to children<br>        - Maternity Benefit : ₹6,000 as maternity benefit for pregnant women and lactating mothers.<br>            - Pradhan Mantri Matru Vandana Yojana<br>        - Transparency and Accountability : mandate social audit and public display of records of PDS<br>        - Empowerment of Women : eldest woman in the household is issued ration card<br><br>- - **Way forward**<br>        - Shanta Kumar committee recommendations<br>            - DBT<br>            - Geo tagging<br>            - Digitization<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 6.jpeg>)<br><br>- - **Conclusion**<br>        - With around 16.5% population below poverty line (MPI - UNDP), effective PDS is sine qua non for ensuring food security.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ### Issue of Buffer Stock and Food Security                                                                                                                                                                                                                                                                                         | - - Buffer stock refers to the reserve of food grains maintained by the government to ensure food security and stabilize prices.<br><br>- - Food security<br>        - Availability, accessibility, affordability, nutrition, food safety, sustainability, equity<br><br>- - Importance of Buffer Stock<br>        - Stabilize food grain prices by controlling supply<br>        - Provide emergency relief during natural disasters<br>        - Ensures consistent supply of food grains for PDS<br>        - Supports food security initiatives<br>            - _Example_: Mid-Day Meal and Integrated Child Development Services (ICDS)<br><br>- - Issues Related to Buffer Stock Management<br>        - Overstocking leads to wastage<br>        - Financial Burden: Maintaining large buffer stocks incurs high storage and maintenance costs.<br>        - Insufficient modern storage facilities<br>        - Inefficient handling and management practices<br>        - Leakages and Diversion<br>            - Example : Reports of PDS being siphoned off to the black market.<br>        - Poor Quality Control<br><br>- - Need for Food Security<br>        - Basic Human Right<br>        - Preventing Malnutrition<br>        - Productive Workforce<br>        - Reducing Poverty<br>        - Supporting Farmers<br><br>- - Challenges to Food Security<br>        - Increasing Demand due to population growth<br>        - Climate Change reducing crop yields and crop failure<br>        - Urban-rural divide in access to nutritious food<br>        - Overuse of natural resources threatens sustainable agriculture.<br>        - Inefficient supply chains lead to significant food wastage.<br>        - Price fluctuations in food prices can lead to affordability issues.<br><br>- - Impact of Government Procurement & Distribution<br><br>- - NFSM And other Food Security Related Government Initiatives<br><br>- - **Measures**<br>        - Comprehensive Agricultural Reforms:<br>            - Organic farming, crop diversification, and conservation agriculture.<br>            - Irrigation<br>            - Land pooling and cooperative farming<br>        - Technological Innovations<br>            - _Example_: Precision farming, drip irrigation, and genetically modified crops.<br>        - Strengthening Public Distribution Systems<br>        - Social Safety Nets<br>            - _Example_: PM POSHAN, NFSA 2013<br>        - Community Participation<br>            - _Example_: Engaging Farmer producer organizations (FPOs) and self-help groups (SHGs) in rural India.<br>        - International Cooperation<br>            - Example: FAO Programs<br>        - Entrepreneurship<br>        - Localized Food processing<br><br>- - Fisheries<br>        - Contribute **1.09%** and over **6.72%** to the country’s GDP and agricultural GDP respectively.<br>        - Pradhan Mantri Matsya Sampada Yojana<br>        - Fish Farmers Development Agencies (FFDAs)<br>        - National Marine Fisheries Action Plan (NMFAP)<br>        - State of World Fisheries and Aquaculture (SOFIA) by FAO<br>        - Blue Revolution<br>        - Fisheries and Aquaculture Infrastructure Development Fund (FIDF)<br>    - Poultry                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ### Technology Missions                                                                                                                                                                                                                                                                                                             | - - Technology Missions are focused initiatives aimed at enhancing agricultural productivity, sustainability, and profitability through the integration of advanced technologies.<br><br>- - National Mission on Sustainable Agriculture (NMSA)<br>        - Soil Health Card Scheme<br>        - Pradhan Mantri Krishi Sinchai Yojana (PMKSY) <br>    - National Food Security Mission (NFSM)<br>        - Input Management: Distribution of high-quality seeds and fertilizers.<br>        - Integrated Pest Management: Use of bio-pesticides and traditional practices.<br>    - National Horticulture Mission (NHM)<br>    - Mission for Integrated Development of Horticulture (MIDH)<br>    - National Mission on Agricultural Extension and Technology (NMAET)<br>        - Kisan Call Centers (KCC)<br>        - Mobile apps like mKisan<br>    - National Mission on Oilseeds and Oil Palm (NMOOP)<br><br>- - **Sir M. Visvesvaraya** and Water Engineering:<br>        - Irrigation Expertise<br>            - Krishna Raja Sagara Dam, Karnataka<br>        - Flood Control systems<br>            - Musi river, Hyderabad<br>        - Block System of Irrigation<br>        - Industrial Water Supply Schemes<br>        - Water storage and irrigation projects for arid regions of Deccan Plateau<br>        - Advocated for engineering education<br>        - Hydropower generation<br>            - E.g. Shivasundaram Karnataka<br><br>- - **Dr. M. S. Swaminathan** and Agricultural Science:<br>        - Green Revolution<br>        - High-Yielding Varieties<br>            - E.g. Wheat<br>        - Food fortification<br>            - E.g. Vitamin A and Zinc<br>        - Crop Improvement<br>        - Sustainable Agriculture<br>        - Agricultural research : M. S. Swaminathan Research Foundation (MSSRF)<br>        - Biotechnology Advancement<br>        - Farmers' Welfare<br>        - Evergreen revolution<br><br>- - **Revolutions**<br>        - White - Milk and milk products<br>        - Yellow - Oil seeds<br>        - Blue - Marine products<br>        - Golden - Honey , fruits<br>        - Golden Fiber - Jute<br>        - Silver - Cotton<br>        - Pink - poultry and Meat<br>        - Brown - cocoa<br>        - Grey - fertilizers                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| ### Economics of Animal Rearing                                                                                                                                                                                                                                                                                                     | - - **Introduction**<br>        - Livestock sector plays an important role in Indian economy. It contribute 4.11% of GDP and 25.6% of total Agriculture GDP.<br><br>- - Growing at 13% CAGR from 2014-15<br>    - Animal rearing, or animal husbandry, involves the breeding and raising of livestock for various purposes, including meat, milk, fibre, eggs, and labour.<br><br>- - **Economic Importance of Animal Rearing**<br>        - significant source of income for farmers<br>        - generates employment opportunities in rural areas<br>            - _Example_: creating jobs in breeding, feeding, and processing.<br>        - Vital for food security<br>            - Example : milk, meat, eggs - important dietary component<br>        - Supports crop farming through manure<br><br>- - **Potential**<br>        - India has 56.7% of the world’s buffaloes, 12.5% cattle, 2.4% camel<br>        - **India** accounts for **20 percent** of the world’s livestock population.<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 10.png>)<br><br>- - Women - 70% of the workforce engaged in the livestock sector. [NABARD]<br><br>- - **Issues \| Challenges**<br>        - High Input cost in fodder and veterinary services<br>        - Nutritional Deficiencies : Shortage of feed and fodder leads to malnutrition and shunted growth<br>            - 35% deficit in green fodder and a 10% deficit in dry fodder<br>        - Resource constraints : 2.3% of the land area of the world to maintain nearly 10.7% of global livestock.<br>        - **Animal Health:** Increased susceptibility to communicable diseases<br>            - _Example_: Avian influenza outbreaks<br>        - Low productivity<br>            - Annual milk yield of Indian cow is only about **50% of the global average.**<br>        - Inadequate Infrastructure<br>            - like cold chain storage facilities, dairy processing units, meat processing plants, etc.<br>        - Unorganized Markets: leads to high price fluctuations and exploitation of farmers.<br>        - Limited Extension Services<br>            - veterinary services, farmer training<br>        - Climate Change Impact like heat stress, flooding and diseases<br><br>- - **Measures for promoting**<br>        - Promoting breeding programmes<br>            - Establishing breed improvement centres<br>            - National Artificial Insemination Programme<br>        - Nutritional Initiatives : balanced feed rations<br>            - Fodder and Feed Development Program<br>        - Vaccination and Disease Control:<br>            - Lumpi Provac, Goat Pox vaccine<br>        - Market Reforms<br>        - Technological Advancements<br>        - Raising Awareness in farmer's<br>            - On modern livestock rearing practices, animal health, nutrition, and breeding techniques.<br>        - Access to institutional Credit<br>            - SHG's, Specialized loan schemes, microfinance options<br>            - Credit Guarantee Scheme under AHIDF<br>        - Animal Healthcare Services<br>            - well-equipped veterinary clinics, mobile veterinary units<br>            - vaccinations, disease control programs, and preventive care<br>        - Fodder Development<br>            - Encourage production of millets<br>            - Ensure adequate nutrition for livestock<br>        - Formation of Farmer Producer Organizations (**FPOs**)<br>            - Cooperatives like Amul<br>            - Provide collective bargaining<br>        - Entrepreneurship (National Livestock Mission, Dairy Entrepreneurship Development Scheme)<br>        - climate-smart livestock practices<br>            - Punganur cows; biogas generation; agrosilvi-pastoral systems<br><br>- - Skill Development and Training<br>    - Value Chain Integration<br>    - Policy Support and Institutional Reforms<br>        - National Livestock Mission (NLM)<br>    - Technology Adoption<br>        - digital platforms, mobile applications, and smart farming technologies<br>        - data-driven decision-making<br><br>- - **Way Forward**<br>        - Integrated Farming Systems<br>        - Waste Management<br>            - _Example_: Biogas production from cattle dung for renewable energy.<br>        - Promoting organic methods of livestock rearing<br>            - E.g. using natural feed <br><br>- - **Government initiatives**<br>        - National Livestock Mission<br>        - Rashtriya **Gokul Mission**<br>        - National Programme for Dairy Development (NPDD)<br>        - National Cattle and Buffalo Breeding Project<br>        - Credit Guarantee Scheme for Livestock Sector<br>            - The trust worth Rs. 750 crores established<br>            - Interest subvention of 3%.<br>            - Loans up to **90% of the total project cost**<br>        - Animal Husbandry Infrastructure Development Fund (AHIDF)<br><br>- - **Conclusion**<br>        - Farmer's income, SDG (1,3,8,10,12)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| ### Food Processing                                                                                                                                                                                                                                                                                                                 | - - **Introduction**<br>        - Food processing means transformation agricultural products into consumable food items or ingredients<br>            - E.g. wheat to biscuit<br>        - contribution to GDP (10.5 % to manufacturing and 11.5 % to agriculture sector)<br><br>- - According to FAO, The Indian food processing sector is projected to grow at around 7.6% CAGR until 2030.<br>    - 13.7% employment in unorganized sector.<br>    - ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 11.png>)<br>    - Data<br>        - India is 2nd largest producer of agriculture and allied sectors products. However there are untapped market in secondary and tertiary food processing.<br>        - Only 10% of India’s food is processed.<br>        - Accounts for 32% of the country’s total food market.<br>        - Contributes<br>            - 14% of Gross Value Added (GVA) in industries<br>            - 6% of total industrial investment.<br>    - **Scope** & Potential in India<br>        - Diverse Agro-Climatic Conditions: allow cultivation of a wide range of crops.<br>        - Large Consumer Market: with over 1.4 billion people and increasing urbanization<br>        - Export Potential: due to cost-effective production.<br>            - Contribute 13% of India’s exports which can increase significantly<br>        - Value Addition : Conversion of fruits into juices, purees, and dried forms.<br>        - Employment generation :<br>            - Can generate 9 million jobs (ASSOCHAM)<br><br>- - **Significance**<br>        - Reduction of Post-Harvest Losses:<br>            - 1/3 of global food gets wasted - World Resources Institute (WRI)<br>        - Employment Generation<br>            - E.g. in processing, packaging, logistics, and marketing sectors.<br>            - SAMPADA scheme - 5.6 lakh jobs (ES 2020)<br>        - Crop diversification<br>        - Improve productivity of agriculture sector<br>            - E.g. Adopting modern agricultural practices, technologies<br>        - Food Security<br>            - Reducing wastage<br>            - Preserve the shelf life of perishable food produce<br>                - For e.g. Frozen peas/ corn<br>        - Export potential<br><br>For e.g. Indian Basmati rice, spices, marine products, meat, and ready-to-eat meals.<br><br>- - Rural Development<br>        - reduces rural-urban migration<br>    - Social impact<br>        - Empowers local communities, particularly women.<br>        - Curb distress migration<br>    - Health and Nutrition benefits<br>        - fortifying foods, promote healthy food choices for consumers<br>    - Technology Adoption<br>        - modern machinery, processing techniques, and packaging technologies<br>    - Drives Research and innovation in agriculture<br>        - E.g. biotechnology<br>    - Consumer Convenience<br>        - Ready to Eat (RTE) and Ready Serve (RTS) Food<br>    - Support for Allied Industries:<br>        - stimulates growth in packaging, logistics, and refrigeration industries.<br><br>- - **Opportunities**<br>        - Growing market<br>            - E.g. largest population, growing middle class<br>        - Increasing Urbanization and Changing Lifestyles<br>            - Greater preference for convenience foods, processed snacks, and packaged meals.<br>        - Rising Health Consciousness<br>            - demand for healthier food options, organic and natural products<br>        - Government Initiatives and Support<br>            - Pradhan Mantri Kisan Sampada Yojana, Make in India, and Ease of Doing Business<br>        - Export Potential: due to strong emphasis and increasing FTAs<br>            - Merchandise Exports from India Scheme (MEIS)<br><br>- - **Challenges \|** reasons for poor acceptance<br>        - Inadequate Infrastructure<br>            - Lack of Cold chains, and processing unit, preservation techniques<br>            - logistics, transportation, storage, and quality control<br>        - Fragmented supply chains due to lack of integration between producers and processing units<br>        - Raw Material Quality and Availability<br>            - Seasonal variations, fluctuations in yield<br>        - Fragmented unorganized nature of industry<br>        - Poor marketing<br>        - Lack of innovation in introducing new products to meet evolving consumer preferences<br>        - Quality Control:<br>            - contamination risks, at farm level, policy and regulatory level<br>        - Lack of institutional credit<br>        - Lack of standardization<br>            - FPO mark - food safety and standards act, 2006 - होना चाहिए<br>        - Informalization of the sector<br>            - 75% unorganized sector<br>        - Shelf Life and Preservation<br>        - Regulatory Compliance<br>            - Food safety clearances; labour laws<br>        - Supply Chain Efficiency<br>            - timely delivery, and optimizing inventory management.<br><br>- - How food processing can increase **farmer's income**<br>        - Value addition<br>            - Converting tomatoes to ketchup<br>        - Reduce post harvest losses<br>            - 30% post harvest losses - NABARD<br>        - Contract Farming ensure assured prices and market for farmers.<br>            - ITC’s e-Choupal initiative<br>        - Access to Better Inputs : like seeds, fertilizers, and technical know-how from food processing companies<br>            - PepsiCo's contract farming for potatoes<br>        - Price stability : by creating demand for processed good enable stable income for farmers<br><br>- - **Measures** \| Government policy and initiatives<br>        - Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):<br>        - Mega food parks scheme : 42 mega food parks across India established<br>        - 100% Foreign Direct Investment (FDI):<br>        - PM Formalization of Micro Food Processing Enterprise Scheme (PMFME)<br>        - Agro processing clusters<br>        - Agri Export Zones<br>        - Promoting farmer producer organizations(FPO), SHG, cooperatives<br>        - Enable microenterprise<br>        - PPP with MNC's like Cadbury, Dabur, ITC.<br>        - कृषि सम्मान Awards<br><br>- - **Way forward**<br>        - Align SEZs and Food Parks<br>        - Supply chain management<br>            - Promotion of agricultural markets (mandis) for procurement<br>            - Integrated Cold Chain, Value Addition and Preservation Infrastructure.<br>            - Subsidizing infrastructure development, tax benefits<br>        - Surjit Bhalla committee recommendation of **standardization and internationalization of food processing**.<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 7.jpeg>)<br><br>- - **Conclusion**<br>        - Food processing has potential to solve the key challenges faced by India. Considering it's importance there is need for reform and proactive policies.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| Land Reforms<br><br>[Land Reforms](onenote:#Indian%20Government%20and%20Politics&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={BBA1A8F9-CFA0-144B-817C-94F6B9A7776C}&object-id={AA448AE8-4B84-1442-B165-EEBC8FA04D6D}&E3&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one) | - - Introduction<br>        - Land reform refers to changes associated with redistribution of land to ensure social justice enhancing agricultural productivity<br><br>- - Rationale for Land Reforms<br>        - Reducing inequality<br>            - Income, vocation and security to Landless, poor and marginal farmers<br>        - Improving agricultural productivity<br>            - Food security<br>        - Promoting social justice<br><br>- - Types of Land Reforms - R-Rtz-SC<br>        - Abolition of Zamindari<br>        - Tenancy Reforms - security of tenure, fair rents<br>        - Land Ceiling on land holdings<br>        - Redistribution of land<br>        - Cooperative farming<br>        - Regulation of rent<br><br>- - Needed one<br>        - Consolidation of Land holdings<br>        - Updating Land Records<br><br>- - (a) abolition of intermediaries like zamindars, jagirdars, inamdars, etc; (b) tenancy reforms like security of tenure, fair rents, etc; (c) imposition of ceilings on land holdings; (d) distribution of surplus land among the landless labourers; and (e) cooperative farming.<br><br>- - **Problems** in Implementation of Land Reforms<br>        - Resistance from powerful landowners<br>        - Difficulties in implementation : due to lack of political will, administrative capacity<br>        - Incomplete and Inaccurate Records<br>        - Fragmented Landholdings:<br><br>- - **Success** of Land Reforms<br>        - West Bengal<br>        - Kerela<br><br>- - **Positive Impact** of Land Reforms<br>        - Tenancy reforms increased income and prevented arbitrary eviction<br>            - E.g. 1 crore tenants got ownership rights in Assam, WB, Kerela<br>        - Land redistribution<br>            - Economic - investment, mechanization<br>            - Social - protect farmer's from getting debt ridden, reduce farmer's suicides.<br>        - Land Ceiling led to redistribution among landless farmers.<br>        - Ownership encouraged investment in land increasing productivity<br>        - Land ownership facilitated access to institutional credit<br>        - Joint titling provided women with land rights<br>        - Social justice : dismantled traditional feudal structure<br>        - Social mobility : Ownership enhanced social status<br>        - Cooperative farming reduced input cost increasing efficiency<br>        - increased political awareness and participation<br>        - Access to credit and insurance<br>        - Improved land use planning and resource management<br><br>- - Arguments for land ceiling<br>        - Redistributing land to smaller farmers increase cultivation intensity and productivity per hectare<br>        - Reduces Inequality<br>        - Arguments against<br>            - Discourages investment in modern infrastructure and technology<br>            - Implementation challenges in enforcing land ceilings<br>            - land fragmentation<br><br>- - Way forward<br>        - Comprehensive Surveys and Record Updates:<br>        - Invest in robust digital infrastructure<br>        - Integration of technologies like blockchain for tamper-proof record-keeping and GIS for precise mapping<br>        - Agriculture friendly land reforms<br>        - Model Land Leasing Act, 2016<br><br>- - **Government initiatives**<br>        - The Agricultural Land (Ceiling and Holding) Act of 1960<br>        - State Abolition of Intermediaries Act<br>        - Tenancy Acts<br>        - The Bhoodan Movement : under leadership of Acharya Vinoba Bhave<br><br>- - **Recent Initiatives -**<br>        - Land Leasing, Land Acquisition, Rehabilitation & Resettlement Act, etc.<br>        - Model agriculture land leasing act<br><br>- - **Role of Blockchain technology**<br>        - Real-time traceability and transparency<br>        - Data integrity<br>    - Digital India Land Records Modernisation Programme (DILRMP)<br>        - Creates an audit trail and tamper-proof records<br>        - Components<br>            - Unique Land Parcel Identification Number (ULPIN)<br>            - National Generic Document Registry System (NGDRS)<br>    - Bhu-Naksha<br>    - Survey of Villages Abadi & Mapping with Improvised Technology in Village Areas (SVAMITVA) Scheme<br>    - Bhoomi Project (Karnataka)<br><br>- - **J.C. Kumaraapa** Committee<br>        - Abolition of intermediaries<br>        - Land consolidation<br>        - Land redistribution and land ceiling<br>        - Tenancy reforms<br><br>![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 8.jpeg>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-|                                                                                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+### Major Crops
+- **Food grains**
+    - **Cereals** - 54 per cent of total cropped area in India.
+        - Fine grains -
+            - Rice - tropical zone, kharif
+            ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture.png>)
+            - Wheat - temperate zone, rabi
+            ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 1.png>)
+            - Reasons for **success**
+                - HYV seeds : IR-8 rice and HD-2967 wheat varieties
+                - Irrigation infrastructure : Bhakra Nangal and Indira Gandhi canals facilitated irrigation in Punjab, Haryana, and Rajasthan.
+                - Policy support - MSP
+                - Fertilizers and pesticide use : Fertilizer consumption in Punjab rose from 37 kg/ha in 1970 to over 200 kg/ha by 2000.
+                - Farm mechanization :
+                - Agro-climatic suitability : fertile alluvial soil and suitable temperatures
+                - Institutional measures - land reforms, tenancy reforms, cooperative farming
+                - Technology - micro irrigation
+                - Demand - food preference
+            - **Issues** with rice and wheat system
+                - Soil Degradation
+                - Overextraction of groundwater
+                - Stubble burning - air pollution and environmental degradation
+                - Fiscal challenge - MSP procurement
+                - Pest and Disease vulnerability
+                - Overuse of chemical fertilizers, pesticides - import dependency
+            - **Way forward**
+                - Crop diversification : pulses, oilseeds, and vegetable
+                - ARVIND SUBRAMANIAN committee
+                ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 1.jpeg>)
+                - Sustainable Agricultural Practices : zero-tillage, crop rotation, and organic farming.
+                - Efficient micro-irrigation systems
+                - Agricultural marketing reforms
+                - Soil Health Restoration : cover crops, green manuring, natural amendments
+                - Integrated Pest Management (IPM) : biopesticides, pheromone traps, and natural predators
+                - Strong forward and backward linkages
+                - Food processing, FMCG
+                - Changing MSP Policy - millets
+    - **Coarse grains** : Millets - The coarse cereals together occupy about 16.50 per cent.
+        - India produces 40% of world's millets (largest producer and 2nd largest exporter)
+        - Historical evidence of consumption of millets by Indus valley people
+        - Jowar(MH, kharif), Ragi, Bajra(RAJ), Maize(KA, MP)
+        - Black soil, Red soil, Arid Soil
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 2.jpeg>)
+    - **Advantages**
+        - Of Production
+            - Climate smart grains - draught, excessive rainfall
+            - Income security
+            - Crop diversification
+            - Sustainable agriculture
+                - Very less water, less fertile soil and warm and arid regions, shorter growing season of 70-100 days
+            - Less energy consumption
+            - Dual purpose - food and fodder
+            - Improve soil quality
+        - Of consumption
+            - Hidden hunger - Nutri-cereals - 7-12 % Protein, 15-20% dietary fibers
+            - Reduces risk of heart disease, diabetes, obesity, gluten free, anaemia (57% women anaemic)
+    - Challenges
+        - l**ow-yield per hectare**
+        - Digestive issue - high fibre - bloating, gas, constipation
+        - Low **glycaemic** index
+    - Don't eat millets
+        - Thyroid issues - millets creates issues iodine absorption
+        - Gluten sensitivity
+    - **Way** Forward | Government Initiatives
+        - Budgetary support to make India a global hub for 'Shree Anna' (millets)
+        - Long term measure
+            - Attitudinal and behavioral changes of consumers
+        - Short term measures
+            - More Procurement of millets under NFSA, 2013
+            - Poshan 2.0 - millets rich mid day meal
+        - Increase farmer income
+            - Tejaswi programme of MP - increased farmers income 10 times
+        - PDS, MSP, Awareness, Promotion
+    - **Conclusion**
+        - **SDG 2**
+    - **Pulses** - Pulses occupy about 11 per cent of the total cropped area in the country.
+        - Chickpea (Gram), Pigeon Pea (Tur/Arhar), Lentils
+        - Gram, tur(arhar), Groundnut (India produce 18.8 per cent of world, _kharif in north, GJ, RAJ)_
+        - India is world's largest producer of Pulses - 25% of world
+        - legume crops - nitrogen fixing
+        - Pulses development scheme
+- **Oilseeds** - 2.5 per cent of total cropped area in the country (RAJ, HAR, MP)
+    - 60% import dependence
+    - Groundnut, Rapeseed, Mustard, Palm
+        - Rai, sarson, toria, taramira
+        - frost sensitive crops
+    - Soybean and sunflower (MP,MH)
+    - Government initiatives
+        - Mission Oil Palm
+- **Fibre crops**
+    - Cotton (Kharif, Tropical, needs clear sky during flowing period) - 4.7 per cent of total cropped.
+    - Jute
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 2.png>)
+- **Other crops**
+    - Sugarcane (tropical, UP, MH, GJ)
+        - India is largest producer of sugar in world
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 3.png>)
+    - Tea - 21.22 per cent of total production in the world.
+    - Coffee (arabica, Robusta and Liberica, Karnataka largest producer)
+        - India produces more Robusta since last decade.
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 4.png>)
+    - Rubber
+        - Kerala accounts for 67%. others - Karnataka, Tamil Nadu, Assam and the other North Eastern States
+    - Silk
+        - India produce all the 5 types of commercial verities of silk
+            - Mulberry
+            - Oak tussar & tropical tussar
+            - Muga
+            - Eri
+- **Threats** to crops -
+    - Pests
+    - Disease
+    - Weeds
+- Development
+    - High yielding varieties of seeds, chemical fertilisers, pesticides and farm machinery.
+- Government schemes
+    - (PM-AASHA) Scheme
+    - Integrated scheme of Oilseeds, Pulses, Oil Palm and Maize (ISOPOM)
+    - National Food Security Mission
+- National Horticulture Mission (NHM)
+    - Boosting Production
+        - Expansion of area under cultivation of horticultural crops
+        - Introduction and promotion of high-yielding and disease-resistant varieties.
+        - diversification of crops
+        - training and capacity-building programs for farmers
+    - Improving Productivity
+        - Adoption of advanced horticultural techniques such as drip irrigation, mulching, and protected cultivation
+        - integrated nutrient and pest management
+        - development of infrastructure such as nurseries, cold storage, and processing units.
+        - Horticulture crop research
+    - Increasing Farmers' Income
+        - Facilitated market linkages to sale produce
+        - value addition through processing and packaging
+        - export of high-value horticultural produce
+        - Alternative income source throughout year
+    - Limitation to consider
+        - Uneven benefits - small farmers don't have capital and capacity to invest
+        - Market fluctuation lead to price volatility
+- Advantages of organic farming
+    - Ecological
+        - Soil Health Improvement through the use of compost, green manure, and crop rotation.
+        - Biodiversity Conservation by eliminating synthetic pesticides and fertilizers
+        - Preventing water pollution by preventing chemical runoff
+        - Increasing carbon sequestration in soil
+        - prevent land degradation and desertification
+        - Enhanced ecosystem services like nutrient cycling
+    - Economic
+        - Premium pricing increasing farmers' income.
+        - Reducing input cost on pesticides and fertilizers
+        - Eco-tourism
+        - Export Opportunities
+        - Employment Generation : Organic farming practices are labor-intensive
+- **Challenges**
+- **Conclusion**
+    - SDG #2
+    - ASHOK GULATI
+- **Direct Seeding Method**
+    - Seeds are directly drilled into the fields. There is no nursery preparation or transplantation involved in this method.
+    - Requires laser levelling of land and one pre-sowing irrigation.
+    - Advantages
+        - 15% of Water Conservation
+        - Labour Efficiency (transplanting of saplings from nursery is no more required)
+        - Time, Yield, Soil Health मस्त
+    - Challenges
+        - Weed Management
+        - Vulnerability to Climate Extremes
+        - Initial Learning Curve
+        - High seed requirement
+        - Compulsory land levelling
+
+### Cropping patterns
+- Cropping pattern is defined as the spatial distribution of crops that are being produced in an area in a given sequence of time.
+- **Importance** of Cropping Pattern
+- **Issues** in Cropping Patterns
+    - Rice-Wheat dominance system
+    - Monoculture
+    - Neglect of coarse grains
+        - E.g. 16.5%
+    - Less diversification
+- **Types of Cropping Pattern**
+![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 5.png>)
+- **Cropping practice**
+    - Monocropping -
+        - Practice of growing one crop species in a field at a time -
+            ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 3.jpeg>)
+            - Widely used in commercial agriculture
+            - _Continuous monoculture -> monocropping : growing same crop year after year_
+    - Intercropping
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 6.png>)
+        - Two complimentary crops simultaneously
+    - Crop Rotation - different crops in a sequential order
+    - Strip Cropping - different crops in alternate strips
+        - retain soil moisture, prevent runoff, and improve soil structure.
+    - Relay Cropping - planting a second crop in a field before the first crop is harvested
+    - Mixed Cropping: different crops simultaneously without any distinct row patterns or arrangement
+    - Mixed farming : a system of farming which involves the growing of crops as well as the raising of livestock.
+    - Agroforestry
+    - Shelterbelts and Windbreaks - rows of trees planted along the edges of fields
+        - reduce wind erosion, microclimatic benefits.
+- Reasons Why Cropping Pattern Differ
+    - Biophysical factors - Climatic, edaphic, topographic, biotic
+    - Socio-economic - market demand, profitability, labour availability
+    - Technological - availability of seed, fertilizers, pesticides, mechanization
+    - Policy and institutional - subsidies and price support, infrastructure, credit availability
+- Factors Influencing Cropping Pattern
+- Long-Run Effects of **Current Trends** in Cropping Pattern
+- **Emerging Trends in Cropping Pattern**
+    - Shift to High-Value Crops : fruits, vegetables, and dairy
+    - Climate-Resilient Farming like growing millets
+    - Emphasis on Pulses and oilseeds:
+    - Organic Farming
+        - MP emerged as highest producer of organic farming products
+    - Agroforestry Practices
+    - Precision Agriculture
+    - Adaption Biotechnology and GM Crops
+        - Bt cotton - 95% cotton area, nano-urea
+    - Zero-Budget Natural Farming (ZBNF)
+    - Sustainable Farming Practices like crop rotation, mixed farming, agroforestry
+    - Integrated Pest Management (IPM)
+    - Water-Smart Agriculture
+    - Tapping in export potential : basmati rice, spices, and fruits
+- Government policies
+    - MIDH (Mission for Integrated Development of Horticulture)
+    - National Food Security Mission
+    - National Mission on Sustainable Agriculture (NMSA)
+- **Difference**
+
+|                                     |                                                               |
+| :---------------------------------- | :------------------------------------------------------------ |
+| Zero-Budget Natural Farming (ZBNF)  | Organic Farming                                               |
+| No reliance on purchased inputs     | Allows certain natural inputs                                 |
+| Emphasise on Soil health and indigenous knowledge | Ecological balance and third-party certification              |
+| Low cost and high profitability     | Can be more expensive, but may fetch higher market prices     |
+| Primarily focused on local markets  | May target premium organic market                             |
+| Diverse crop rotation and intercropping |                                                               |
+- **Integrated Farming system**
+    - Is a holistic approach to farming involving farm activities like cropping, livestock rearing, poultry farming, fishery, forestry and other allied activities in a synergistic manner.
+    - **Significance**
+        - Diversification of income:
+        - Efficient resource utilization - with optimal use of farm resources like water, feed, and fertilizer
+            ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 7.png>)
+        - Food and nutrition security : vegetables, milk, and eggs produced
+        - Soil health : Integration of legumes and millets
+        - Risk mitigation
+        - Environmental sustainability
+        - Rural employment and entrepreneurship
+        - Reduce Agriculture distress
+        - Controlling migration
+        - Lower Input Costs
+    - **Challenges**
+        - initial investment
+        - Knowledge and training
+        - Market access
+    - Case studies
+        - Sikkim's Organic Mission:
+        - Kuttanad : rice-fish farming system
+        - Andhra Pradesh’s Zero Budget Natural Farming (ZBNF) : crop diversification, natural manure
+- Crop diversification
+    - Crop diversification refers to the practice of cultivating a variety of crops
+    - Present Challenges
+        - Economic Viability : farmers prefer rice and wheat for higher market value
+        - Lack of robust market linkages and storage facilities for diversified crops.
+            - Inadequate cold storage for horticultural products
+        - limited knowledge and awareness in farmers
+        - Limited access to credit for investing in new crops
+        - Limited farm mechanization and technologies supporting diverse crops
+        - Policy barriers : Minimum Support Price (MSP) and FRP benefits few crops
+- Opportunities Provided by Emerging Technologies
+    - Genetic Engineering and Biotechnology: can provide high-yielding and resilient crop varieties
+        - GM mustard
+    - Remote Sensing and GIS: planning and monitoring of diversified crop areas.
+    - Vertical and Hydroponic Farming : allow cultivation with minimal water use.
+    - Precision Agriculture: data analytics, IoT, and GPS can help to optimize crop selection
+    - Artificial Intelligence (AI) : identifying disease, pest and nutrient deficiencies
+    - Mobile apps and internet : real-time market information, weather forecasts
+    - Drones : efficient planting, pesticide and fertilizer application
+    - Agroforestry Systems : help in integrating crops with livestock and silviculture
+- **Way forward**
+    - ASHOK DALWAI Committee recommendation to encourage livestock enterprises
+- Rainbow revolution - MS SWAMINATHAN
+
+### Irrigation System
+- **Introduction**
+    - Irrigation is the artificial application of water to the soil to assist in the growing of crops.
+- According to Water Resources Assessment Report by Ministry of Jal Shakti -
+    - 67 % of total irrigation is groundwater based.
+        - Atal Bhujal Yojana (Atal Jal) - to improve ground water management
+    - 20% of irrigated area is covered under micro irrigation
+    - 54% population faces high water stress - NITI Aayog
+- ![[Z9 Obsidian-files/Media/DOCX/Agriculture 8.png]]
+    - (Water Stress पूछे तो इसका उल्टा कर दो)
+- Type of irrigation schemes
+    - Major - > 10000 hectares
+    - Medium : 2000 to 10000 hectares
+    - Minor : < 2000 hectares
+- Sources of Irrigation
+    - Rainfed
+    - Irrigated
+- Types of irrigation system
+    - Surface
+        - Flood Irrigation
+        - Furrow Irrigation : Water flows in small channels between the crop rows.
+    - Sub-surface
+        - Basin and Perforated Pipe Systems
+    - Sprinkler - save 40% water vis-a-vis flood irrigation
+        - Or Drip irrigation - save 75%
+    - **Micro-irrigation :** refers to the delivery of water directly to the root zone of plants through drips or sprinkler
+        - Features
+            - Using emitters, sprinklers and drips
+            - Low volume of water
+            - Low pressure, high frequency
+        - **Advantage**
+            - Water Use Efficiency : reducing loss through evaporation and runoff
+            - Increased crop yield:
+                - efficiently delivery of water and nutrients
+                - **Ideal moisture** level in the **root zone**
+            - Automation, Flexibility and precision - control the flow rate, duration, and frequency of irrigation
+            - Reduced energy consumption
+            - Soil health and erosion control - reduce salinization, alkalisation
+            - Reduce fertilizer usage
+                - Reduce runoff and eutrophication
+                - Fertilizer subsidies about 6500 crore rupees
+            - Reduce weeds and pests
+            - Prevent waterlogging
+            - Compatible with sustainable practices
+                - Organic farming, natural farming
+            - Turns **water intensive to water effective crops**
+                - Sugarcane, rice etc.
+    - **Issues**
+        - Limited irrigation coverage
+        - Financial and technical constraints
+        - Regional variation
+        - Limited awareness and training about benefits and maintenance
+- Choosing an Irrigation System
+- Problems Associated with Irrigation
+    - Intrusive irrigation
+- Progress of Irrigation Under Five Year Plans
+- Environmental Effects of Irrigation
+    - Irrigation system storage
+    - Extensive irrigation
+    - Watershed Development
+    - Warebandi system
+- **Irrigation System Storage**
+    - Surface Storage Systems :
+        - Reservoirs and Dams
+    - Traditional
+        - Tanks and Ponds
+    - Groundwater Storage
+        - Aquifers and Wells
+    - Rainwater Harvesting
+        - Farm Ponds and Rooftop Harvesting
+    - Check Dams and Percolation Tanks
+- Importance of efficient irrigation and storage system
+    - Maximizing crop yields
+    - Draught mitigation
+    - Climate resilience
+    - Sustainable agriculture
+- Need for Systemic Irrigation **Reforms** | **Measures**
+    - Rainwater Harvesting :
+        - SWAMINATHAN committee
+    - Recycling **grey water**
+    - Water Storage Infrastructure development
+    - Modernize Irrigation Systems
+        - Drip irrigation, sprinkler irrigation
+    - Improve Canal Networks: interlinking of rivers
+    - Revive traditional water conservation methods
+        - E.g. step wells (Gujarat), Tankas (Rajasthan)
+    - Crop diversification and rotation :
+        - "Sahi Fasal" campaign
+        - Millets
+    - Public awareness
+        - Jal Shakti Abhiyan: Catch the Rain (JSA:CTR)
+    - Technology -
+        - soil moisture sensors, GIS systems, precision agriculture
+        - IoT sensors and automated systems for precise irrigation.
+        - Solar pumps [PM KUSUM]
+    - Legal and regulatory measures - promote water conservation, prevent over-extraction.
+    - Awareness and training
+        - E.g. Apna taalab abhiyan
+        - Jal Shakti Abhiyan
+        - Nal se Jal
+    - Subsidies and financial incentives
+    - Research and development
+    - Policy
+        - National Water Policy
+    - Community based governance
+        - E.g. Hiware Bazaar Model
+- **Government Initiatives**
+    - Pradhan Mantri Krishi Sinchayee Yojna (PMKSY) target to cover 10 million hectares.
+    - National Mission for Sustainable Agriculture (NMSA)
+    - Atal Bhujal Yojana
+    - Jal Shakti Abhiyan
+- **Conclusion**
+    - MIHIR SHAH Committee recommendation on watershed development can be implemented.
+        - National water commission
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 4.jpeg>)
+
+### E-Technology in the aid of farmers
+- **Introduction**
+    - [A study published in Nature](onenote:#ST&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={CBF04816-01F1-BD41-AABF-F9CD4278B81C}&object-id={10056DF0-A55C-EA4D-B25E-05ED000E08DB}&8C&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+- Precision Agriculture
+    - Use GPS, IoT, and data analytics in field mapping and soil health monitoring
+    - Variable Rate Technology (VRT) for fertilizers and pesticides application based on specific field conditions
+- Remote Sensing and GIS in yield estimation and real time crop monitoring
+- Mobile Applications and Platforms
+    - E-Marketing Platforms like E-NAM
+    - Weather Forecasting Apps
+        - IMD's Meghdoot app
+    - Advisory Services on best practices, pest control and crop management
+    - Digital literacy programs for farmers.
+    - MOOCs and online courses on modern agricultural practices.
+        - Example : AgriPathshala
+    - Online farmer communities
+- Internet of Things (IoT) and Smart Farming
+    - IoT enabled Automated Irrigation Systems
+    - Smart Sensors for monitoring soil moisture, temperature, crop health
+    - Wearable sensors for cattle
+- Data Analytics and Big Data
+    - Crop Yield Forecasting
+    - Supply Chain Optimization
+- Information technology
+    - Kisan Call Centres
+    - Agri-Tech Start-ups
+    - Kisan Credit Card (KCC), Direct Benefit Transfer (DBT)
+- Supply Chain Management Systems:
+    - Streamline logistics and reduce post-harvest losses.
+- Online Training and Capacity Building:
+    - Educate on modern farming practices
+- Digital Payment Systems:
+    - Facilitate secure and prompt transactions between farmers and buyers.
+- E-Commerce platform : to reach wider customer base
+- Agri tech Startups
+    - Farmers Fresh Zone and DeHaat - marketing
+    - NinjaCart; AgriBazaar - D2C
+    - Skymet - advisory
+    - EM3 Agri Services - mechanization
+    - KrishiHub offer soil testing kit
+- Liquid Nano Urea - Introduced by IFFCO
+- **Biotechnology** and genetic engineering
+    - Genetically modified (GM) crops - enhanced yield, pest resistance, nutritional content, draught tolerant, better seed quality
+        - E.g. Bt Cotton, GM Mustard
+    - Reduced Input Costs: reducing need for chemical pesticides and fertilizers -> savings and sustainability
+        - E.g. Nano Urea
+    - Enhanced Crop Quality - Increased shelf life, enhanced nutritional value, and better taste.
+    - Improved Storage and Shelf-Life
+    - Higher Market Value : e.g. High-protein maize varieties
+    - Stress-Tolerant Crops: -
+    - Improved Soil Health : e.g. application of azotobacter bio-fertilizer
+    - Access to International Markets - producing desired crops
+        - E.g. export of Bt cotton
+- **Issues**
+    - Herbicide Resistance:
+        - lead to the development of superweeds and increased herbicide use
+    - Impact on biodiversity and ecosystem balance
+    - Impact on Non-target Organisms
+        - horizontal gene transfer to wild plants or microorganisms
+    - Long-term Effects
+- Digital Platforms and E-commerce
+    - farmer-to-consumer interactions
+- Drone
+    - Irrigation, monitoring crop health, planting, crop spraying, soil analysis
+- **Artificial intelligence**
+    - Precision Agriculture:
+        - data analytics
+        - valuable insights on soil health, crop growth, and irrigation needs.
+        - data-driven decisions
+    - Crop Monitoring and Disease Detection
+    - Smart Irrigation:
+        - precisely schedule irrigation
+    - Crop Yield Prediction
+        - real-time data on weather patterns, soil conditions, crop growth,
+        - farmers plan their harvesting, storage, and marketing activities
+    - Farm Automation
+    - Market Intelligence:
+        - price trends, demand patterns, and consumer preferences.
+        - crop selection, timing of sales, and marketing strategies. -> maximise their profits
+    - Farm Management Systems
+        - track farm inputs, monitor livestock, manage inventory,
+- National Strategy for AI - Agriculture priority
+- Robotics
+    - Detection of weeds
+- IOT based sensor networks
+- **Geospatial Knowledge Infrastructure (GKI)**
+    - In agriculture
+        - Precision farming - Precision farming combines the power of artificial intelligence (AI), Global Navigation Satellite System (GNSS), and Big Data.
+        - This data later helps in Crop scouting, Soil sampling, Weed location, accurate planting, and harvesting. (**SWAH**)
+        - Better crop forecasting
+        - Better implementation and risk assessment
+            - PM Fasal Bima Yojana
+        - Increased Landholding size: Along with the SWAMITVA scheme by Land pooling.
+    - In allied sectors
+        - Fisheries - PM Matsay Sampada Yojana
+            - Enhanced fish production of 22 million metric tons.
+            - Increase of contribution of Gross Value Added (GVA) of fisheries sector to agriculture GVA to 9%.
+            - Reduction of post-harvest losses to about 10% (currently 25%)
+- Dairy
+- Minor Forest Produce
+- ![[Z9 Obsidian-files/Media/DOCX/Agriculture 9.png]]
+- **Revolutions**
+    - Green Revolution - HYV seeds, fertilizers, pesticides.
+    - White Revolution - operation flood
+    - Blue Revolution - fisheries, aquaculture, marine products
+    - Golden Revolution - fruits, honey, horticulture crops
+        - E.g. bananas, mangos, coconut, spices.
+    - Yellow Revolution - Oilseed - mustard, sesame etc.
+- Measures
+    - Agriculture accelerator fund to boost agritech startups.
+    - **Digital Agriculture Mission (DAM)** initiative
+
+### Transport and Marketing of Agriculture Produce, Issues, Related Constraints
+- **Introduction**
+    - Indian agriculture has expanded significantly since the country’s independence. However, though, the need is to create a competitive marketing systems and efficient transportation infrastructure.
+- The marketing of agricultural products in India involves several processes from production to consumer delivery.
+- Broadly categorized into upstream (production and supply chain) and downstream (distribution and sales) activities.
+- Process of Agricultural Marketing - Marketing Channels, Functionaries, Costs, etc.
+    - Agricultural marketing is a process that involves the assembling, storage, processing, transportation, packaging, grading and distribution of different agricultural commodities across the country.
+- Role of FCI
+- Regulated Markets
+- Warehousing
+    - E-NWR
+- Cooperative Marketing
+- Shortcomings of Current Agricultural Marketing Process
+- APMCs (Agricultural Produce & Livestock Market Committee)
+- National Agricultural Market (NAM)
+- Farmer Producer Organisations (FPO)
+    - Advantages
+        - enhance their bargaining power
+        - leverage economies of scale
+        - reduction in cost of production
+        - enhancing farmers’ incomes through aggregation of their agricultural produce
+- Contract Farming
+- Futures Trading in Agricultural Commodities
+- Main Constraints in Transportation
+    - Inadequate Infrastructure : Poor road connectivity,
+    - Lack of Cold Chain Facilities : lead to high post-harvest losses
+    - Fragmented Supply Chains : multiple intermediaries between farm and market raise costs and reduce efficiency.
+    - High Transportation Costs: constitute up to 25% of the total cost reduce competitiveness
+    - limited Access to Advanced Technology : GPS tracking systems for monitoring
+    - Bureaucratic Delays : time-consuming procedures at check-posts and toll gates
+- Main Constraints in Marketing
+    - Market Infrastructure Deficiency : poorly maintained market yards and mandis without basic facilities like grading, sorting, and storage.
+    - Middlemen domination
+    - Fragmented and Regulated Markets : farmers restricted to sell in APMCs
+    - Information Asymmetry: leads to high price volatility and lack of transparency in price discovery
+    - Monopolistic Practices : cartelization of APMCs - skipping the auction route
+    - inadequate digital infrastructure (leads to delay in processing of applications and payment failures).
+- **Bottlenecks** in Upstream and downstream process of marketing
+    - Upstream
+        - Poor Quality of Inputs : substandard seeds, fertilizers, and pesticides
+        - Fragmented land holding : Average farm size in India is about 1.15 hectares
+            - Difficult to achieve economies of scale
+            - Low efficiency
+        - Lack of Institutional credit
+            - E.g. NABARD - only 60% take institutional credit
+        - Poor logistics and transportation infrastructure
+        - Lack of storage Infrastructure:
+            - E.g. warehouses, cold chains, irrigation systems.
+            - 30% of fruits and vegetables perish due to lack of cold storage. [NABARD]
+        - Policy constraints : Subsidies and MSP focus predominantly on rice and wheat leading to imbalance
+        - Extreme climate events
+            - E.g. heatwaves, frequent flooding, draughts
+        - Low Adoption of Technology:
+            - E.g. lack of GIS, remote sensing, drones
+        - Seasonal Imbalances
+            - E.g. prices of tomatoes, onions, lime etc.
+    - Downstream
+        - Fragmented markets
+            - E.g. Divided in APMC's
+        - Middlemen domination
+        - Lack of standardization in quality and grading.
+            - Only 50% farmers use certified seeds - MoA
+        - Market Infrastructure Deficiencies - overcrowded and poorly maintained mandis
+        - Price volatility and lack of information affects farmers income
+        - Limited Export Opportunities
+        - Cartelization of markets
+            - APMC agents manipulate price
+            - Lack of transparency in price discovery
+        - Inefficient Distribution Networks
+            - delays, spoilage, and higher costs
+        - Limited Processing and Value Addition
+            - Leads to wastage and post-harvest losses
+        - Regulatory and Policy Constraints:
+            - MSP, minimum export prices, and quality standards prevents exports.
+        - Lack of Direct Marketing Channels to consumers
+            - Farmers' markets (Raithu Bazaars) are very few
+        - Protectionism and trade wars limit exports
+            - USA, EU, imposing tariffs barriers
+        - Changing food demands
+            - E.g. organic food, low carb diets
+        - Lack of awareness
+            - E.g. eNAM, market demand, prices, and best agricultural practices
+- **Role** of E-commerce in overcoming this bottlenecks
+    - Improved Market Access
+        - E.g. customers in both urban and rural areas.
+    - Efficient and streamlined process
+        - E.g. online ordering, inventory management, and order fulfilment
+    - Real-Time Data and Analytics
+        - helps in demand forecasting, inventory optimization, and decision-making
+        - Better supply chain management
+    - Direct-to-Customer
+        - Bypass middlemen's , win-win for both farmer's and consumers
+    - Improved Logistics and Delivery
+        - E-commerce focuses on last-mile delivery capabilities
+    - Transparent pricing, product information, and customer reviews
+- Role of supermarkets in supply chain management
+    - Direct Procurement from farmers and FPOs
+    - Strict quality controls
+    - Advanced logistics and supply chain management systems
+    - Sophisticated inventory management systems
+    - Engage in value addition by cleaning, sorting, grading, and packaging produce
+    - Advanced tracking and traceability systems used by supermarkets
+- How they Eliminating Intermediaries:
+    - Direct Sourcing Agreements
+    - Contract Farming:
+    - In-House Distribution Centers
+    - Digital Platforms and e-marketplaces
+    - Price Stability and timely payments to farmers
+- **Way forward**
+    - **Agricultural Marketing Infrastructure scheme**
+    - market information and intelligence
+        - Research and Information Network (MRIN), Agmarknet
+    - Digital Public Infrastructure in agriculture
+    - Direct marketing channels (Krishi Udaan, Agri-Export Policy, GrAMs).
+    - National Mission on Seeds
+    - Promoting contract farming (Model Contract Farming Act)
+    - Mandi reform measures (model APLM Act 2017)
+    - Agri-Tech Solutions and Digital Marketing:
+        - AgriBazaar and DeHaat platforms
+    - Agricultural Export Policy (2018)
+- 3L - Land leasing, land records, land titles
+- GI Tagging
+- Centralized database for better policy and planning
+- Cooperative marketing
+- ASHOK DALWAI committee
+    - National Agricultural Market (NAM)
+    - Private sector participation
+    - Model agriculture produce and livestock marketing act
+    - Promote FPO's ( minimum target - 12000)
+- **Conclusion**
+    - Reforms in transporting and marketing are much needed to increase the farmer's income and achieving sustainable development goals (e.g. 1,8,10,12)
+
+### Subsidies
+- **Introduction**
+    - Subsidies are transfer payments from the government where there is no exchange of goods and services in return.
+- Agricultural Pricing Policy
+- Types of Subsidies
+    - Issues
+    - Direct Subsidies : financial support
+        - Minimum support price (MSP)
+        - Fertilizer subsidy
+        - DBT Schemes like PM-KISAN
+        - Crop insurance - PMFBY
+        - Irrigation subsidies : PMKSY; PM KUSUM
+    - Indirect Subsidies : cost reduction
+        - Power subsidies
+        - Public irrigation infrastructure: Government investment in dams, canals benefits farmers
+        - Public Distribution System (PDS)
+        - Tax exemptions: Income from agriculture
+        - Subsidized agricultural credit: Farmers get loans at concessional interest rates
+- Fertilizer subsidies
+    - Urea subsidy
+    - Nutrient based subsidy for NPKS percentages - for DAP, MOP
+- Rationale for Subsidies
+    - Prevents distress selling
+    - Incentivize production
+    - Ensure minimum farmer's income
+    - Safety net for small and marginal farmers
+        - E.g. cyclic shocks like extreme climate, covid-19
+- **Problems** of subsidies
+    - Financial burden on government
+    - Promotion of Monoculture
+        - Cereal centric - E.g. rice due to cheap electricity and MSP in Punjab
+    - Overuse of resources
+        - Fertilizers and pesticides causing pollution
+    - Disincentivise technological adaption
+    - Resource diversion towards one time benefits
+    - Opportunity cost
+        - Inhibits capital formation in agriculture sector
+    - Increase wastage
+    - Power subsidies
+        - Increased carbon footprint
+    - Distort market prices
+    - WTO Compliance Issues
+- Clash with WTO Agreements
+    - Market Distortion : price support measures like MSP are considered under Amber Box
+    - Public stockholding program : contested for distorting international trade
+    - Lack of transparency: WTO seeks clearer documentation and reporting of all agricultural subsidies
+    - Breach of De Minimis Limits
+- India's Arguments
+    - Development needs: crucial for supporting small farmers and ensuring food security for a large population.
+    - Developed countries' subsidies : high levels of support provided by developed countries as well.
+    - De minimis provisions : India claims its subsidies fall within permissible limits under WTO rules.
+    - find a balance between development needs and fair trade practices.
+- **Advantages** of DBT
+    - Reduces leakages and diversions
+    - Eliminate duplication and inclusion error
+    - Ability to make choices based on needs and preferences
+        - Promote competition and efficiency in market
+    - Reduction in Administrative Costs
+    - Financial Inclusion
+        - E.g. Jan Dhan Accounts
+    - Data-Driven Decision Making
+        - Evidence-based policy-making, program evaluation, and targeted interventions
+    - Reduction of Market Distortions
+- **Recommendations**
+    - Targeted Subsidies
+    - Promote Sustainable Practices
+        - _Example_: Incentivizing organic farming and water-efficient crops.
+    - Gradual reduction of subsidies while promoting market-based pricing mechanisms.
+- **Government Initiatives -**
+    - **PM AASHA** Scheme - aaya aanadata sanrakshan abhiyan
+        - Price support schemes
+        - Price deficiency payment scheme
+        - Private procurement and stockiest scheme
+- **Conclusion**
+    - Increasing farmer's income …
+
+### MSP
+- **Introduction**
+    - MSP is a government policy designed to ensure farmers a guaranteed price for their crops, providing them with a safety net against fluctuating market prices.
+- Cabinet committee on economic affairs notifies chaired by PM at the start of the sowing season for specific crops.
+- Need for MSP
+    - Protecting farmers from price volatility
+    - Improving farmers' livelihood
+- **Issues**
+    - Regional Disparities
+        - _Example_: Punjab and Haryana dominate MSP procurement, whereas states like Bihar and Odisha see minimal MSP operations.
+    - Procurement Challenges
+        - Insufficient warehousing and transport facilities
+        - Delays in payment to farmers
+    - Market Distortion
+        - Price distortion leading to artificial inflation of certain crop prices.
+        - Disincentive for Quality Improvement
+    - Environmental Impact
+        - Over-extraction of groundwater due to extensive rice and sugarcane cultivation
+        - Disincentivizing diversification
+        - Soil degradation
+    - Economic Implications
+        - Fiscal burden on government exchequer
+        - Opportunity cost
+            - Capital investment and rural infrastructure
+            - Research and development, modern technology has taken back seat.
+    - Social and Equity Concerns
+        - Impact on consumers : High MSPs are inflationary
+        - Larger farmers with better access benefit more
+            - Only 6% of Indian farmers have benefitted from MSP- NSSO 70th round
+        - Middleman domination
+- How it will **rescue farmers** from low income trap
+    - Safety net against price fluctuation
+    - Guarantee for procurement of produce
+    - Protects against Speculative and hoarding market practices
+    - Encourage farmers to adapt to new technology and crop production
+    - Provides minimum assured income
+    - Reduce their reliance on informal credit sources
+    - provide greater bargaining power while selling in open market
+    - protecting the interests of small and marginal farmers
+- **Recommendation for improvement**
+    - Expanding range of crops and equitable regional distribution
+        - _Example_: Including more pulses and oilseed
+    - Improving storage and transportation infrastructure
+    - Promoting Sustainable Practices
+        - _Example_: linking MSP to water-efficient crops and organic farming practices.
+    - Reducing Middlemen Influence
+        - _Example_: Encouraging farmer producer organizations (FPOs)
+    - Continuous Assessment
+        - _Example_: Independent audits and feedback mechanisms to improve MSP schemes.
+- **Way forward**
+    - Price deficiency payment system
+        - Pradhan Mantri Annadata Aay Sanrakshan Abhiyan (PM-AASHA).
+    - Diversification in procurement
+        - E.g. Millets
+    - APMC Infrastructure development
+        - **(e-NAM)**
+- **Conclusion**
+    - RAMESH CHAND Committee - include **social criteria's** and **long term plan** in determining MSP
+        ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 5.jpeg>)
+
+### Public Distribution System, Objectives, Functioning, Limitations, Revamping
+- **Introduction**
+    - Public Distribution System (PDS) is a government-led initiative in India aimed at ensuring food security by distributing subsidized food and non-food items to the poor.
+    - India's Public distribution is the largest food security programme in the world. It covers nearly 92% of population and costs close to 1.4% of national income.
+- **Objectives**
+    - Food Security
+    - Price Stability
+    - Poverty Alleviation
+    - Nutritional Security
+    - Emergency Relief
+- **Functioning** - Fair Price Shops, FCI, Ration Cards, Aadhar Linking, etc. - **PSTD**
+    - Procurement
+        - Centralized Procurement: Government agencies like Food Corporation of India (FCI) procure.
+        - Issues
+            - Purchase is highly cereal centric - wheat, rice are purchased
+            - Not available throughout the country
+        - Way forward
+            - More decentralized procurement
+            - Promote Farmers produce organization(**FPOs**)
+            - **eNAM** - national agriculture market
+    - Stocking and Storage
+        - Issues
+            - Lack of proper warehousing
+        - Way forward
+            - **Negotiable Warehouse Receipt (NWR)** **System**
+            - Public - private partnership
+    - Transport
+        - Issues
+            - High Logistical Cost
+            - Lack of Rural Infrastructure
+        - Way forward
+            - GPS Tracking
+            - Computerized warehouses
+    - Distribution
+        - Issues
+            - Only 50% fair price shops (FPS) have **e-POS** machine
+        - Way forward
+            - Digitization of ration card using Aadhar
+            - DBT in PDS system
+            - Home delivery
+    - Targeting Beneficiaries
+        - Ration Card
+            - categorized into APL, BPL, and Antyodaya Anna Yojana (AAY) cards.
+- **Challenges** Associated with PDS
+    - Procurement
+        - Crop concentration - rice and wheat
+        - Quality Issues
+            - Complaints about low-quality or adulterated food grains
+            - Poor grain quality, inadequate weight, and improper packaging
+    - Storage
+        - Inadequate infrastructure - warehouses
+    - Transportation
+        - Inefficient Supply Chain Management (PSTD)
+        - High logistics cost
+    - Distribution
+        - Targeting
+            - Inclusion and exclusion errors
+            - lack of updated data - last census 2011 - leads to inaccurate targeting
+        - Leakages and Corruption
+            - illegal sale, pilferage, middlemen's
+        - Lack of awareness
+            - about their entitlements, prices, and distribution schedules
+    - Financial sustainability:
+        - Rising subsidy costs
+            - E.g. 4.22 lakh crore revised estimates
+- **Measures** to Improve the Loopholes & Lacunae's Associated with PDS
+    - Implementation of Direct Benefit Transfer (DBT)
+    - End-to-End Computerization
+        - _Example_: e-PDS initiatives
+        - E.g. MP model of GPS tracking of delivery
+    - Biometric Authentication
+        - Aadhaar seeding in PDS
+        - Periodic reviews : to eliminate duplication, improve targeting, and enhance transparency.
+    - Social Audits and Transparency Portals to address leakages and corruption
+        - Online Depot system - to bring all FCI godowns online, check leakages
+    - Regular Quality Checks
+        - _Example_: strong quality control mechanisms
+    - Enhancing Operational Efficiency:
+        - Improving infrastructure - Upgrading storage facilities and transportation networks
+    - Grievance Redressal Mechanism
+        - _Example_: Helplines, mobile apps, and grievance redressal forum
+    - Awareness campaigns to educate beneficiaries about their rights, entitlements, and the functioning of the PDS.
+    - Targeted subsidies : based on vulnerability to poverty
+    - Strengthening Institutional Capacities -
+        - Building the capacity of PDS officials
+        - instituting stringent penalties for corruption
+- **Government** initiatives
+- Salient Features of the National Food Security Act, 2013:
+    - Provides a legal right to food
+    - Coverage : covers 75% of the rural population and 50% of the urban population
+        - Over 800 million people covered
+    - Entitlement : 5 kg of food grains per person per month at subsidized rates.
+    - Subsidized Food Grain : rice at ₹3 per kg, wheat at ₹2 per kg, and coarse grains at ₹1 per kg.
+    - Targeted Public Distribution System (TPDS) : eliminate leakages and improve efficiency
+    - Integrated Child Development Services (ICDS) program : provide nutritious meals to children
+    - Maternity Benefit : ₹6,000 as maternity benefit for pregnant women and lactating mothers.
+        - Pradhan Mantri Matru Vandana Yojana
+    - Transparency and Accountability : mandate social audit and public display of records of PDS
+    - Empowerment of Women : eldest woman in the household is issued ration card
+- **Way forward**
+    - SHANTA KUMAR committee recommendations
+        - DBT
+        - Geo tagging
+        - Digitization
+    ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 6.jpeg>)
+- **Conclusion**
+    - With around 16.5% population below poverty line (MPI - UNDP), effective PDS is sine qua non for ensuring food security.
+
+### Issue of Buffer Stock and Food Security
+- Buffer stock refers to the reserve of food grains maintained by the government to ensure food security and stabilize prices.
+- Food security
+    - Availability, accessibility, affordability, nutrition, food safety, sustainability, equity
+- Importance of Buffer Stock
+    - Stabilize food grain prices by controlling supply
+    - Provide emergency relief during natural disasters
+    - Ensures consistent supply of food grains for PDS
+    - Supports food security initiatives
+        - _Example_: Mid-Day Meal and Integrated Child Development Services (ICDS)
+- Issues Related to Buffer Stock Management
+    - Overstocking leads to wastage
+    - Financial Burden: Maintaining large buffer stocks incurs high storage and maintenance costs.
+    - Insufficient modern storage facilities
+    - Inefficient handling and management practices
+    - Leakages and Diversion
+        - Example : Reports of PDS being siphoned off to the black market.
+    - Poor Quality Control
+- Need for Food Security
+    - Basic Human Right
+    - Preventing Malnutrition
+    - Productive Workforce
+    - Reducing Poverty
+    - Supporting Farmers
+- Challenges to Food Security
+    - Increasing Demand due to population growth
+    - Climate Change reducing crop yields and crop failure
+    - Urban-rural divide in access to nutritious food
+    - Overuse of natural resources threatens sustainable agriculture.
+    - Inefficient supply chains lead to significant food wastage.
+    - Price fluctuations in food prices can lead to affordability issues.
+- Impact of Government Procurement & Distribution
+- NFSM And other Food Security Related Government Initiatives
+- **Measures**
+    - Comprehensive Agricultural Reforms:
+        - Organic farming, crop diversification, and conservation agriculture.
+        - Irrigation
+        - Land pooling and cooperative farming
+    - Technological Innovations
+        - _Example_: Precision farming, drip irrigation, and genetically modified crops.
+    - Strengthening Public Distribution Systems
+    - Social Safety Nets
+        - _Example_: PM POSHAN, NFSA 2013
+    - Community Participation
+        - _Example_: Engaging Farmer producer organizations (FPOs) and self-help groups (SHGs) in rural India.
+    - International Cooperation
+        - Example: FAO Programs
+    - Entrepreneurship
+    - Localized Food processing
+- Fisheries
+    - Contribute **1.09%** and over **6.72%** to the country’s GDP and agricultural GDP respectively.
+    - Pradhan Mantri Matsya Sampada Yojana
+    - Fish Farmers Development Agencies (FFDAs)
+    - National Marine Fisheries Action Plan (NMFAP)
+    - State of World Fisheries and Aquaculture (SOFIA) by FAO
+    - Blue Revolution
+    - Fisheries and Aquaculture Infrastructure Development Fund (FIDF)
+- Poultry
+
+### Technology Missions
+- Technology Missions are focused initiatives aimed at enhancing agricultural productivity, sustainability, and profitability through the integration of advanced technologies.
+- National Mission on Sustainable Agriculture (NMSA)
+    - Soil Health Card Scheme
+    - Pradhan Mantri Krishi Sinchai Yojana (PMKSY)
+- National Food Security Mission (NFSM)
+    - Input Management: Distribution of high-quality seeds and fertilizers.
+    - Integrated Pest Management: Use of bio-pesticides and traditional practices.
+- National Horticulture Mission (NHM)
+- Mission for Integrated Development of Horticulture (MIDH)
+- National Mission on Agricultural Extension and Technology (NMAET)
+    - Kisan Call Centers (KCC)
+    - Mobile apps like mKisan
+- National Mission on Oilseeds and Oil Palm (NMOOP)
+- **SIR M. VISVESVARAYA** and Water Engineering:
+    - Irrigation Expertise
+        - Krishna Raja Sagara Dam, Karnataka
+    - Flood Control systems
+        - Musi river, Hyderabad
+    - Block System of Irrigation
+    - Industrial Water Supply Schemes
+    - Water storage and irrigation projects for arid regions of Deccan Plateau
+    - Advocated for engineering education
+    - Hydropower generation
+        - E.g. Shivasundaram Karnataka
+- **DR. M. S. SWAMINATHAN** and Agricultural Science:
+    - Green Revolution
+    - High-Yielding Varieties
+        - E.g. Wheat
+    - Food fortification
+        - E.g. Vitamin A and Zinc
+    - Crop Improvement
+    - Sustainable Agriculture
+    - Agricultural research : M. S. SWAMINATHAN Research Foundation (MSSRF)
+    - Biotechnology Advancement
+    - Farmers' Welfare
+    - Evergreen revolution
+- **Revolutions**
+    - White - Milk and milk products
+    - Yellow - Oil seeds
+    - Blue - Marine products
+    - Golden - Honey , fruits
+    - Golden Fiber - Jute
+    - Silver - Cotton
+    - Pink - poultry and Meat
+    - Brown - cocoa
+    - Grey - fertilizers
+
+### Economics of Animal Rearing
+- **Introduction**
+    - Livestock sector plays an important role in Indian economy. It contribute 4.11% of GDP and 25.6% of total Agriculture GDP.
+- Growing at 13% CAGR from 2014-15
+- Animal rearing, or animal husbandry, involves the breeding and raising of livestock for various purposes, including meat, milk, fibre, eggs, and labour.
+- **Economic Importance of Animal Rearing**
+    - significant source of income for farmers
+    - generates employment opportunities in rural areas
+        - _Example_: creating jobs in breeding, feeding, and processing.
+    - Vital for food security
+        - Example : milk, meat, eggs - important dietary component
+    - Supports crop farming through manure
+- **Potential**
+    - India has 56.7% of the world’s buffaloes, 12.5% cattle, 2.4% camel
+    - **India** accounts for **20 percent** of the world’s livestock population.
+    ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 10.png>)
+- Women - 70% of the workforce engaged in the livestock sector. [NABARD]
+- **Issues | Challenges**
+    - High Input cost in fodder and veterinary services
+    - Nutritional Deficiencies : Shortage of feed and fodder leads to malnutrition and shunted growth
+        - 35% deficit in green fodder and a 10% deficit in dry fodder
+    - Resource constraints : 2.3% of the land area of the world to maintain nearly 10.7% of global livestock.
+    - **Animal Health:** Increased susceptibility to communicable diseases
+        - _Example_: Avian influenza outbreaks
+    - Low productivity
+        - Annual milk yield of Indian cow is only about **50% of the global average.**
+    - Inadequate Infrastructure
+        - like cold chain storage facilities, dairy processing units, meat processing plants, etc.
+    - Unorganized Markets: leads to high price fluctuations and exploitation of farmers.
+    - Limited Extension Services
+        - veterinary services, farmer training
+    - Climate Change Impact like heat stress, flooding and diseases
+- **Measures for promoting**
+    - Promoting breeding programmes
+        - Establishing breed improvement centres
+        - National Artificial Insemination Programme
+    - Nutritional Initiatives : balanced feed rations
+        - Fodder and Feed Development Program
+    - Vaccination and Disease Control:
+        - Lumpi Provac, Goat Pox vaccine
+    - Market Reforms
+    - Technological Advancements
+    - Raising Awareness in farmer's
+        - On modern livestock rearing practices, animal health, nutrition, and breeding techniques.
+    - Access to institutional Credit
+        - SHG's, Specialized loan schemes, microfinance options
+        - Credit Guarantee Scheme under AHIDF
+    - Animal Healthcare Services
+        - well-equipped veterinary clinics, mobile veterinary units
+        - vaccinations, disease control programs, and preventive care
+    - Fodder Development
+        - Encourage production of millets
+        - Ensure adequate nutrition for livestock
+    - Formation of Farmer Producer Organizations (**FPOs**)
+        - Cooperatives like Amul
+        - Provide collective bargaining
+    - Entrepreneurship (National Livestock Mission, Dairy Entrepreneurship Development Scheme)
+    - climate-smart livestock practices
+        - Punganur cows; biogas generation; agrosilvi-pastoral systems
+- Skill Development and Training
+- Value Chain Integration
+- Policy Support and Institutional Reforms
+    - National Livestock Mission (NLM)
+- Technology Adoption
+    - digital platforms, mobile applications, and smart farming technologies
+    - data-driven decision-making
+- **Way Forward**
+    - Integrated Farming Systems
+    - Waste Management
+        - _Example_: Biogas production from cattle dung for renewable energy.
+    - Promoting organic methods of livestock rearing
+        - E.g. using natural feed
+- **Government initiatives**
+    - National Livestock Mission
+    - Rashtriya **Gokul Mission**
+    - National Programme for Dairy Development (NPDD)
+    - National Cattle and Buffalo Breeding Project
+    - Credit Guarantee Scheme for Livestock Sector
+        - The trust worth Rs. 750 crores established
+        - Interest subvention of 3%.
+        - Loans up to **90% of the total project cost**
+    - Animal Husbandry Infrastructure Development Fund (AHIDF)
+- **Conclusion**
+    - Farmer's income, SDG (1,3,8,10,12)
+
+### Food Processing
+- **Introduction**
+    - Food processing means transformation agricultural products into consumable food items or ingredients
+        - E.g. wheat to biscuit
+    - contribution to GDP (10.5 % to manufacturing and 11.5 % to agriculture sector)
+- According to FAO, The Indian food processing sector is projected to grow at around 7.6% CAGR until 2030.
+- 13.7% employment in unorganized sector.
+- ![[Z9 Obsidian-files/Media/DOCX/Agriculture 11.png]]
+- Data
+    - India is 2nd largest producer of agriculture and allied sectors products. However there are untapped market in secondary and tertiary food processing.
+    - Only 10% of India’s food is processed.
+    - Accounts for 32% of the country’s total food market.
+    - Contributes
+        - 14% of Gross Value Added (GVA) in industries
+        - 6% of total industrial investment.
+- **Scope** & Potential in India
+    - Diverse Agro-Climatic Conditions: allow cultivation of a wide range of crops.
+    - Large Consumer Market: with over 1.4 billion people and increasing urbanization
+    - Export Potential: due to cost-effective production.
+        - Contribute 13% of India’s exports which can increase significantly
+    - Value Addition : Conversion of fruits into juices, purees, and dried forms.
+    - Employment generation :
+        - Can generate 9 million jobs (ASSOCHAM)
+- **Significance**
+    - Reduction of Post-Harvest Losses:
+        - 1/3 of global food gets wasted - World Resources Institute (WRI)
+    - Employment Generation
+        - E.g. in processing, packaging, logistics, and marketing sectors.
+        - SAMPADA scheme - 5.6 lakh jobs (ES 2020)
+    - Crop diversification
+    - Improve productivity of agriculture sector
+        - E.g. Adopting modern agricultural practices, technologies
+    - Food Security
+        - Reducing wastage
+        - Preserve the shelf life of perishable food produce
+            - For e.g. Frozen peas/ corn
+    - Export potential
+        - For e.g. Indian Basmati rice, spices, marine products, meat, and ready-to-eat meals.
+    - Rural Development
+        - reduces rural-urban migration
+    - Social impact
+        - Empowers local communities, particularly women.
+        - Curb distress migration
+    - Health and Nutrition benefits
+        - fortifying foods, promote healthy food choices for consumers
+    - Technology Adoption
+        - modern machinery, processing techniques, and packaging technologies
+    - Drives Research and innovation in agriculture
+        - E.g. biotechnology
+    - Consumer Convenience
+        - Ready to Eat (RTE) and Ready Serve (RTS) Food
+    - Support for Allied Industries:
+        - stimulates growth in packaging, logistics, and refrigeration industries.
+- **Opportunities**
+    - Growing market
+        - E.g. largest population, growing middle class
+    - Increasing Urbanization and Changing Lifestyles
+        - Greater preference for convenience foods, processed snacks, and packaged meals.
+    - Rising Health Consciousness
+        - demand for healthier food options, organic and natural products
+    - Government Initiatives and Support
+        - Pradhan Mantri Kisan Sampada Yojana, Make in India, and Ease of Doing Business
+    - Export Potential: due to strong emphasis and increasing FTAs
+        - Merchandise Exports from India Scheme (MEIS)
+- **Challenges |** reasons for poor acceptance
+    - Inadequate Infrastructure
+        - Lack of Cold chains, and processing unit, preservation techniques
+        - logistics, transportation, storage, and quality control
+    - Fragmented supply chains due to lack of integration between producers and processing units
+    - Raw Material Quality and Availability
+        - Seasonal variations, fluctuations in yield
+    - Fragmented unorganized nature of industry
+    - Poor marketing
+    - Lack of innovation in introducing new products to meet evolving consumer preferences
+    - Quality Control:
+        - contamination risks, at farm level, policy and regulatory level
+    - Lack of institutional credit
+    - Lack of standardization
+        - FPO mark - food safety and standards act, 2006 - होना चाहिए
+    - Informalization of the sector
+        - 75% unorganized sector
+    - Shelf Life and Preservation
+    - Regulatory Compliance
+        - Food safety clearances; labour laws
+    - Supply Chain Efficiency
+        - timely delivery, and optimizing inventory management.
+- How food processing can increase **farmer's income**
+    - Value addition
+        - Converting tomatoes to ketchup
+    - Reduce post harvest losses
+        - 30% post harvest losses - NABARD
+    - Contract Farming ensure assured prices and market for farmers.
+        - ITC’s e-Choupal initiative
+    - Access to Better Inputs : like seeds, fertilizers, and technical know-how from food processing companies
+        - PepsiCo's contract farming for potatoes
+    - Price stability : by creating demand for processed good enable stable income for farmers
+- **Measures** | Government policy and initiatives
+    - Pradhan Mantri Kisan SAMPADA Yojana (PMKSY):
+    - Mega food parks scheme : 42 mega food parks across India established
+    - 100% Foreign Direct Investment (FDI):
+    - PM Formalization of Micro Food Processing Enterprise Scheme (PMFME)
+    - Agro processing clusters
+    - Agri Export Zones
+    - Promoting farmer producer organizations(FPO), SHG, cooperatives
+    - Enable microenterprise
+    - PPP with MNC's like Cadbury, Dabur, ITC.
+    - कृषि सम्मान Awards
+- **Way forward**
+    - Align SEZs and Food Parks
+    - Supply chain management
+        - Promotion of agricultural markets (mandis) for procurement
+        - Integrated Cold Chain, Value Addition and Preservation Infrastructure.
+        - Subsidizing infrastructure development, tax benefits
+    - SURJIT BHALLA committee recommendation of **standardization and internationalization of food processing**.
+    ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 7.jpeg>)
+- **Conclusion**
+    - Food processing has potential to solve the key challenges faced by India. Considering it's importance there is need for reform and proactive policies.
+
+### Land Reforms
+- [Land Reforms](onenote:#Indian%20Government%20and%20Politics&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={BBA1A8F9-CFA0-144B-817C-94F6B9A7776C}&object-id={AA448AE8-4B84-1442-B165-EEBC8FA04D6D}&E3&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+- Introduction
+    - Land reform refers to changes associated with redistribution of land to ensure social justice enhancing agricultural productivity
+- Rationale for Land Reforms
+    - Reducing inequality
+        - Income, vocation and security to Landless, poor and marginal farmers
+    - Improving agricultural productivity
+        - Food security
+    - Promoting social justice
+- Types of Land Reforms - R-Rtz-SC
+    - Abolition of Zamindari
+    - Tenancy Reforms - security of tenure, fair rents
+    - Land Ceiling on land holdings
+    - Redistribution of land
+    - Cooperative farming
+    - Regulation of rent
+- Needed one
+    - Consolidation of Land holdings
+    - Updating Land Records
+- (a) abolition of intermediaries like zamindars, jagirdars, inamdars, etc; (b) tenancy reforms like security of tenure, fair rents, etc; (c) imposition of ceilings on land holdings; (d) distribution of surplus land among the landless labourers; and (e) cooperative farming.
+- **Problems** in Implementation of Land Reforms
+    - Resistance from powerful landowners
+    - Difficulties in implementation : due to lack of political will, administrative capacity
+    - Incomplete and Inaccurate Records
+    - Fragmented Landholdings:
+- **Success** of Land Reforms
+    - West Bengal
+    - Kerela
+- **Positive Impact** of Land Reforms
+    - Tenancy reforms increased income and prevented arbitrary eviction
+        - E.g. 1 crore tenants got ownership rights in Assam, WB, Kerela
+    - Land redistribution
+        - Economic - investment, mechanization
+        - Social - protect farmer's from getting debt ridden, reduce farmer's suicides.
+    - Land Ceiling led to redistribution among landless farmers.
+    - Ownership encouraged investment in land increasing productivity
+    - Land ownership facilitated access to institutional credit
+    - Joint titling provided women with land rights
+    - Social justice : dismantled traditional feudal structure
+    - Social mobility : Ownership enhanced social status
+    - Cooperative farming reduced input cost increasing efficiency
+    - increased political awareness and participation
+    - Access to credit and insurance
+    - Improved land use planning and resource management
+- Arguments for land ceiling
+    - Redistributing land to smaller farmers increase cultivation intensity and productivity per hectare
+    - Reduces Inequality
+- Arguments against
+    - Discourages investment in modern infrastructure and technology
+    - Implementation challenges in enforcing land ceilings
+    - land fragmentation
+- Way forward
+    - Comprehensive Surveys and Record Updates:
+    - Invest in robust digital infrastructure
+    - Integration of technologies like blockchain for tamper-proof record-keeping and GIS for precise mapping
+    - Agriculture friendly land reforms
+    - Model Land Leasing Act, 2016
+- **Government initiatives**
+    - The Agricultural Land (Ceiling and Holding) Act of 1960
+    - State Abolition of Intermediaries Act
+    - Tenancy Acts
+    - The Bhoodan Movement : under leadership of ACHARYA VINOBA BHAVE
+- **Recent Initiatives -**
+    - Land Leasing, Land Acquisition, Rehabilitation & Resettlement Act, etc.
+    - Model agriculture land leasing act
+- **Role of Blockchain technology**
+    - Real-time traceability and transparency
+    - Data integrity
+- Digital India Land Records Modernisation Programme (DILRMP)
+    - Creates an audit trail and tamper-proof records
+    - Components
+        - Unique Land Parcel Identification Number (ULPIN)
+        - National Generic Document Registry System (NGDRS)
+- Bhu-Naksha
+- Survey of Villages Abadi & Mapping with Improvised Technology in Village Areas (SVAMITVA) Scheme
+- Bhoomi Project (Karnataka)
+- **J.C. KUMARAAPA** Committee
+    - Abolition of intermediaries
+    - Land consolidation
+    - Land redistribution and land ceiling
+    - Tenancy reforms
+    ![Agriculture](<Z9 Obsidian-files/Media/DOCX/Agriculture 8.jpeg>)
