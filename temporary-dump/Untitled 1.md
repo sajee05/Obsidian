@@ -1929,4 +1929,1596 @@
 ### Impartiality
 
 -   Impartiality means to be unbiased and fair, and considering all perspectives in objective way.
--   Decisions based on objectivity, not on bias or prejudice
+-   Decisions based on objectivity, not on bias or prejudice   -   E.g. carrying out official work like procurement, recruitment, distribution of resources etc., on merit alone.
+-   Significance
+    -   Fairness and justice
+    -   Preserving public trust
+        -   Impartiality of ECI is essential for free and fair election
+    -   Objectivity
+        -   Recruitment by UPSC based on merit alone
+    -   Upholding rule of law
+        -   Wrong to encounter criminal without trials
+    -   Prevent corruption
+        -   CBI and ED investigations free from bias
+    -   Effective policy formulation benefiting all stakeholders
+        -   PM Ayushman Bharat
+    -   Avoiding Conflicts of Interest
+        -   Civil servant Suo-moto disclosing conflict when allocating tenders if any stakeholder share personal relationship with him
+-   Impartiality should always be coupled with application of conscience.
+    -   Situational sensitivity
+        -   Crisis management
+        -   Refugee crisis
+    -   Perceived lack of empathy
+        -   Weberian rule based mindset
+        -   PDS distribution to most vulnerable
+    -   Rigid decision-making causing miscarriage of justice
+-   Political impartiality
+    -   Counter - favoring ruling disposition MLAs during contract awarding
+-   Public impartiality
+    -   Counter - favoring one community over other
+-   In conclusion, impartiality and non-partisanship are not just ideals but practical necessities for effective public service.
+
+### Non-partisanship
+
+-   Non-partisanship is political neutrality
+-   Civil servant doing his task without fear/favor of political party.
+-   The values of the administrator will flow from the constitution not from the philosophy of any political party
+-   **Significance**
+    -   Separation of power
+        -   Preventing politicization of bureaucracy
+    -   Professionalism
+        -   Appointment based on merit instead of political connection
+    -   Protect democratic mandate
+        -   Allocation of resource as per the parliamentary sanction
+    -   Peaceful conflict resolution
+        -   ECI recommendation to disqualify MP
+    -   Public service delivery
+        -   ANIL SWARUP dutifully implementing both RSBY and Ayushman Bharat
+    -   Continuity in administration
+    -   Public trust
+-   Negative Examples
+    -   Civil servants joining political party
+    -   CAG - 2G Scam
+-   Challenges
+    -   Politicized bureaucracy serves the narrow interest of political party in power - **committed bureaucracy**
+        -   E.g. - Nazi Germany
+-   ![[Z9 Obsidian-files/Media/DOCX/GS4 13.png]]
+
+### Neutrality
+
+-   **Neutrality** signify political impartiality of civil servants.
+-   Behavioral component
+-   Provisions under **Central Civil Services Conduct Rules, 1964 and the All India Services Conduct Rules 1968**
+    -   Public servants must not take part in politics
+    -   They must not give election fund/ assistance to any political party
+    -   Then must not tell their preference of vote to other people
+    -   They must not display any election symbols on his himself, vehicle or home.
+    -   They must not participate in rallies, and demonstrations etc., without government permission.
+-   Types of neutrality
+    -   Passive neutrality
+    -   Active neutrality
+
+### Objectivity
+
+-   Objectivity means being guided by evidence.
+-   Objectivity is evaluating a situation in a rational and empirical way, based on facts and evidence, without any bias, personal belief, feelings or external influence.
+-   "Objectivity is the essence of true intelligence." - LAO TZU
+-   Significance -
+    -   Legitimacy and public trust
+        -   Through merit based decision making
+    -   Uphold duties of public office
+        -   taking decisions on appointments, awarding contracts, recommending benefits etc.
+    -   Compliance with rules and laws
+        -   To reduce the discretions and being fair
+
+### Dedication to Public Service
+
+-   Dedication - quality to give one's time and attention entirely to a cause
+-   Driven by spirit of sacrifice and sense of duty towards society and state
+-   I slept and dreamt that life was joy, I awoke and saw that life was **service**. I acted and behold, service was joy! -RABINDRA NATH TAGORE
+-   "The best way to find yourself is to lose yourself in the service of others." - MAHATMA GANDHI
+-   IMMANUEL KANT - duty for the sense of duty
+-   Significance
+    -   Personal
+        -   Fulfillment
+        -   Sense of self respect
+    -   Professional
+    -   Society
+        -   Social Justice
+        -   Positive and Meaningful Impact
+        -   Inspiring others
+    -   Without it?
+        -   Difficult to take right judgement in ethical dilemmas
+-   E.g.
+    -   E. SHREEDHARAN
+    -   SANJUKTA PARASHAR (IPS) - dealing with Bodo militancy
+    -   KUNDAN KUMAR
+    -   Nishkama Karma
+    -   Sewa Paramo Dharma
+-   Duty bound ethics
+    -   DIVYA DEVARJAN
+    -   ASHOKA's Dhamma
+    -   KANT's Categorical Imperative
+    -   GANDHI - Duty is worship
+
+### Empathy
+
+-   Putting oneself in someone else's shoes and understanding their feelings and experiences.
+-   ![[Z9 Obsidian-files/Media/DOCX/GS4 14.png]]
+-   Sympathy - understanding someone's distress
+-   Empathy - feeling other's distress
+-   Compassion - desire to alienate it
+-   Significance
+    -   Responsiveness to citizens needs
+        -   DIVYA DEVARJAN
+    -   Understanding and solving problems of diverse communities
+        -   ARMSTRONG PAME
+    -   Humane administration
+        -   PARAMESWARAN IYER
+    -   Building Public Trust
+        -   ARIF SHEIKH
+    -   Crisis management
+        -   DR. RAJENDRA BHARUD
+    -   Effective Public Service Delivery
+        -   P. NARAHARI
+    -   Positive work environment
+        -   KIRAN BEDI
+    -   Making Fair and Just Decisions
+
+### Tolerance and Compassion Towards Weaker Section
+
+-   **Compassion** is the motivation to act towards reliving the suffering of others.
+-   **Tolerance** - ability to accept diverse beliefs and opinions without prejudice.
+    -   Exercising restraint in sensitive matters
+    -   Expressing one's point of view in a respectful way.
+    -   E.g. In Jainism - **Anekāntavāda**
+    -   E.g. vegetarian not stopping others from eating meat.
+-   **Significance**
+    -   Social justice and harmony
+        -   E.g. PARAMESWARAN IYER - destigmatizing manual scavenging
+    -   Establish mutual trust and credibility
+        -   E.g. P. NARAHARI's efforts in making Gwalior disabled friendly.
+    -   Humane and accommodative administration
+        -   E.g. KIRAN BEDI's work to reform administration of Tihar Jail.
+    -   Inclusive growth
+        -   E.g. NHRC's role in mainstreaming the concerns of transgenders, disabled, women
+    -   Effective public service delivery
+        -   E.g. E. SHREEDHARAN completed Konkan railways before deadline
+    -   Peaceful conflict resolution
+    -   Protect Democratic Values [ISAIAH BERLIN]
+    -   Pluralism and Diversity
+    -   Preventing Extremism
+    -   Uphold the moral worth of every individual
+        -   E.g. S.R. SANKARAN - Fight against bonded labour
+    -   “especially in developing countries with paradox of modernity and tradition[F.W. RIGGS], civil servants, has to take side of the poor_.”_
+-   Example
+    -   People coming forward to help disabled Swiggy delivery executive
+    -   People donating hair to make wigs for cancer patients
+    -   Sarv Dharma Sambhav
+    -   AKBAR's Din-i Ilahi
+-   Intolerance
+    -   Biased perception, narrow view
+    -   Racism, communism, hate speech
+    -   Stagnation of knowledge
+    -   Reduce compassion
+    -   Examples of **intolerance**
+        -   US Capitol Hill storming
+        -   Oppression of Uighur Muslims in Xinjiang
+        -   Persecution of Rohingya's in Myanmar
+        -   Communal Riots, Son of Soil movements in India
+        -   Charlie Hebdo Killing
+        -   Mob Lynching
+        -   October 7 Hamas Attack as well as Israel's response
+-   Objectivity without compassion
+    -   Jharkhand - death due to starvation of girl due to non availability of Aadhar authentication
+
+### Anonymity
+
+-   Emphasize that permanent executive works from behind the seen
+-   Because of permanence of service and need of neutrality
+-   To practice tools of administration without bias
+-   Significance
+    -   Prevents misuse and abuse of power
+    -   Not elected - do not need public sanctions like politicians
+    -   Focus on getting the work done, not it's promotion
+    -   Inhibits populist thinking, enhances welfarism
+    -   Instills neutrality and impartiality
+        -   E.g. drafting a welfare scheme
+
+### Leadership
+
+-   Ability to influence and guide a group of people towards a specific goal/task.
+-   It involves act of influence
+-   Qualities of a good leader
+    -   Influence - ability to inspire and motivate others
+    -   Good communication
+        -   PM MODI's call for Swachh Bharat
+    -   People and service orientation
+    -   MAHATMA GANDHI
+    -   Integrity and Accountability
+        -   LAL BAHADUR SHASTRI taking responsibility for railway accident
+    -   Thought leadership - having a vision
+        -   E.g. A.P.J. ABDUL KALAM
+    -   Thoughtful response during emergencies
+        -   E.g. KUNDAN KUMAR created startup zone in Champaran for migrants during COVID-19
+    -   Being inclusive
+        -   E.g. MAHATMA GANDHI
+    -   Flexibility
+        -   Course correction
+    -   Emotional intelligence
+-   Leaders VS Administrators/Managers
+    -   Administration is process of working with and through others to accomplish agreed goals efficiently.
+    -   Essential role of administration - planning, organizing, leading, controlling.
+    -   Leadership - entails envisioning mission, developing strategy, inspiring people, changing culture
+    -   Administrators are appointed
+        -   Ability to influence based on formal authority
+    -   Leaders may be appointed or may emerge from a group
+    -   Leaders can influence others to perform beyond the actions dictated by formal authority
+    -   Managers get other people to do, leaders get other people to want to do
+    -   Leaders have a vision and shape people around that
+        -   Innovation, participating, course correction, criticism handling
+
+## 1. Public/Civil Services Values and Ethics in Public Administration
+
+**Status | Problems**
+
+-   Need for effective ethics structure
+    -   CS are implementers of public policies, thus have significant public interaction
+    -   Effective performance of duties
+-   What steps have I taken to become worthy of becoming public servant?
+    -   Education : by constantly learning new and diverse information which allows me to consider multiple viewpoints reducing the risk of bias and limited understanding.
+    -   Ethical reasoning : I use theories of ethics to enhance my awareness of ethical issues before society
+        -   E.g. I believe rising intolerance towards minorities is wrong and violation of democratic spirit.
+    -   Introspection : reflecting on what are my core ethical values and principles. Indomitable will to never compromise them
+        -   E.g. I don't lie or indulge in irresponsible activities
+    -   Staying open to feedback : helps me to identify faults in my reasoning, and allows me to learn and improve.
+    -   Practicing humility in daily life : recognizing my role as someone to help others in achieving their goals
+    -   Environment stewardship : I have made Lifestyle for environment as integral part of my life.
+        -   E.g. I carry cloth bags and refuse to take polyethene bags.
+    -   Follow rules and laws
+        -   E.g. I wear helmet while riding bike and stop at traffic signal even if nobody is watching
+-   Why ethics is important in public administration?
+    -   Maintaining public trust and legitimacy
+    -   Preventing corruption and abuse of power
+    -   Justice and Fairness
+    -   Upholding the rule of law and democracy
+    -   Setting an example for society
+    -   Protection of environment and wildlife
+    -   Progressive social change
+-   Ethically right legally wrong
+    -   Bending rule for compassion : Blood transfusion to a pregnant women during natural disaster without following procedures
+    -   Whistleblowing :
+    -   Civil disobedience : peaceful protest against unjust laws.
+-   Legally right ethically wrong
+    -   Intentional delay : governor using pocket veto on state bills.
+    -   Misuse of power : A police official entrusted to clear peaceful protesters use violent means without prior warning.
+    -   Freedom of speech : misuse of fundamental right to spread hate towards other community
+-   “In doing a good thing, everything is permitted which is not prohibited expressly or by clear implication”. Examine the statement with suitable examples in the context of a public servant discharging his/her duties.
+    -   Issues with such discretion
+        -   Risk of misuse of power
+        -   Undermines Rule of Law
+        -   Long term harm
+    -   Advantages of discretion
+-   In conclusion, while having good intention is essential, public servants should never operate outside the framework of established law and ethics.
+-   **Public interest** refers to the collective well-being and good of all citizens within a society
+    -   Principles - IOSHOLA
+    -   Procedures
+        -   Transparency and accountability
+        -   Public participation
+        -   Management of conflict of interest
+        -   Efficient public service delivery
+        -   Professionalism
+-   Ethics is essential foundation for effective and responsible public administration.
+
+### Accountability and Responsibility
+
+-   Accountability means being answerable for one's action and decisions to all stakeholders.
+    -   E.g. LAL BAHADUR SHASTRI resigned after railway accident.
+-   Includes
+    -   Answerability
+        -   To justify one's action
+    -   Enforcement
+        -   To take action in cases of omission
+    -   Grievance redressal
+-   Responsibility - accountability to oneself based on ethical reasoning
+    -   When accountability turns inwards
+    -   Based on ethical reasoning
+    -   Taking ownership of one's actions and decisions.
+-   Financial accountability
+-   Institutions and mechanisms
+    -   External (to citizens)- RTI, Elections, civil society, Media, Citizen's Charters, Whistle Blowers
+    -   Internal (within government)- system of checks and balances
+        -   Parliament, judiciary, CIC, CVC, Lokpal, internal audits, POC Act, E-gov mechanism (Pragati, NeGP)
+-   How to improve accountability
+    -   Need for citizen's charter
+    -   Devising standard operating procedures
+    -   Minimizing discretion
+
+### Ethical Governance
+
+-   According to **OCED,** Ethical governance means good governance which is also based on certain value premise.
+-   Values
+    -   Integrity
+    -   Fairness
+    -   social justice
+    -   Welfarism
+    -   Empathy
+    -   Tolerance
+    -   compassion towards weaker section
+
+### Strengthening of Ethical and Moral Values in Governance
+
+-   Promote transparency and accountability
+-   Educating public officials about ethics
+    -   Civil servants should not accept gifts
+    -   they should avoid conflicts of interest
+-   Encourage citizen participation
+-   Open governance initiatives
+-   Strengthen the rule of law
+
+### Philosophical Basis of Governance
+
+-   The philosophical basis of governance means fundamental principles about how societies should be ruled and organized.
+-   Virtue theory
+    -   for developing virtuous citizenry
+    -   PLATO and ARISTOTLE
+-   Divine command theory -
+    -   ROBERT FILMER, ST. AUGUSTINE
+-   Social Contract Theory :
+    -   For protecting inalienable rights of life, liberty, and property
+    -   THOMAS HOBBES, JOHN LOCKE, and ROUSSEAU
+-   Utilitarianism :
+    -   Governments job is to maximize happiness and well-being for the greatest number of people.
+    -   JEREMY BENTHAM and JOHN STUART MILL
+-   Marxism -
+    -   Human Emancipation, Egalitarianism
+-   Republicanism :
+    -   civic virtue, active citizenship, and public participation in governance. -ARISTOTLE, HANNAH ARENDT, JURGEN HABERMAS
+-   Justice Theories
+    -   For fair allocation of resources and opportunities
+    -   JOHN RAWLS
+
+### Philosophical Basis of Probity
+
+-   Virtue theory
+    -   Quality of virtuous character
+    -   ARISTOTLE
+-   Deontological Ethics
+    -   Probity means acting according to duty and one's moral obligations.
+-   Social Contract Theory
+    -   Probity is part of social contract, where individuals commit to acting honestly and with integrity in exchange for the benefits and trust provided by society.
+-   An administrative class that supposed to have all the qualities of **gentleman-statemen** as ARISTOTLE thought. (**THEOPHRASTUS**)
+
+## Ethical Concerns and Dilemmas
+
+-   Ethical dilemma is a situation in which an individual has to make a choice between two moral principles, making it hard to determine what is the right thing to do.
+-   Causes of ethical dilemmas
+    -   Conflict of values
+    -   Lack of clarity in policies, structures
+    -   Conflict of interest
+    -   Different perspectives
+    -   Changes in society - dynamism
+-   Process of resolving ethical dilemma - **RIE-DL**
+    -   Recognize the Dilemma:
+        -   Identify the values and principles at stake
+        -   Consider the potential consequence of different action on all stakeholders
+    -   Gather Information
+        -   Collect relevant information like - applicable laws, policies, and code of ethics.
+        -   Research how similar dilemmas were addressed in the past
+        -   Seek input from affected stakeholders
+    -   Analyze Options
+        -   Consider all possible courses of action and their potential consequences.
+        -   Evaluate each option against your ethical principles, legal constraints
+        -   Apply ethical theories like deontology, utilitarian, to analyze the options
+        -   Consider what you can justify to others based on rational thinking
+    -   Implement the Decision
+        -   Take action to implement your chosen course of action effectively and ethically.
+        -   Ensure transparency and accountability throughout the process
+    -   Evaluate and Learn
+        -   Reflect on the decision and its consequences
+        -   Use the experience to learn for future situations and make suggestions to improve existing procedures
+-   Role of innovativeness and creativity to resolve
+    -   Understanding the problem : through multiple perspective
+        -   P. NARAHARI
+    -   Thinking outside the box:
+        -   considering unconventional approaches
+            -   ARIF SHEIKH - Chuppi Tod / community policing
+        -   borrowing from other sectors
+            -   JAM from NANDAN NILEKANI
+        -   utilizing technology in innovative ways
+            -   ASHEESH SINGH - Indore
+    -   Engaging with diverse stakeholders, experts and public at large
+        -   DIVYA DEVARJAN
+    -   Finding common ground
+        -   Joint forest management
+-   Suppose the Government of India is thinking of constructing a dam in a mountain valley bound by forests and inhabited by ethnic communities. What rational policy should it resort to in dealing with unforeseen contingencies
+    -   Rational policy to consider
+        -   Comprehensive Environmental Impact Assessment (EIA)
+        -   Public hearing and Informed Consent
+        -   Plan to protect culture and traditions
+        -   Resettlement, rehabilitation and fair compensation
+        -   Risk Mitigation and Contingency Planning:
+            -   Natural disaster response protocol (floods, earthquakes, etc.)
+            -   Environmental protection measures
+        -   Establish monitoring systems
+        -   Build local capacity
+        -   Open communication and transparency
+-   Approach
+    -   Consequentialist (utilitarian)
+    -   Deontological
+    -   Rights
+    -   Contextualist
+    -   Justice and fairness
+    -   Virtue
+    -   Common good
+
+### Government Institutions
+
+-   Ethical concerns
+    -   Administrative discretion
+    -   Corruption
+    -   Administrative secrecy
+    -   Nepotism
+    -   Policy dilemmas
+    -   Politicization of bureaucracy
+    -   PAIRJEB
+-   Dealing with orders
+    -   Illegal - disobey
+    -   Questionable
+        -   Seek clarification
+        -   Ask to reconsider
+        -   Seek in writing
+        -   Approach superior's superior
+    -   Difference in opinion
+        -   Obey but place reservations on record
+            -   For further scrutiny by CAG, Judiciary
+    -   Seek transfer or resignation
+        -   Displays willingness to make personal sacrifice to uphold principles
+        -   Reinforces integrity
+
+### Private Institutions
+
+-   “Organizational values always derive from individual values. Individual is the foundation of a group, a society or a country as a whole."
+-   **Ethical Issues in institutions**
+    -   labour practices
+        -   Lack of fair wages
+        -   Violation of human rights
+            -   E.g. Employing child labour in factories
+        -   Safety and heath standards
+        -   Discrimination
+            -   E.g. glass cliff, glass ceiling
+        -   Sexual harassment
+        -   Disregard for social security
+            -   E.g. ELON MUSK fired 50% workforce of twitter
+    -   Environmental impact
+        -   Pollution and resource depletion
+        -   Improper waste disposal and mishandling of toxic materials
+    -   Business conduct
+        -   False and misleading claims
+            -   AI Washing
+            -   Greenwashing : making false claims about environmental sustainability
+        -   Fraud and corruption
+            -   E.g. Sahara Scam
+        -   Tax evasion
+            -   E.g. Harshad Mehta Scam
+        -   Product safety and quality
+        -   Anti-competitive practices and monopolization
+            -   E.g. APMC cartelization
+            -   Amazon, Walmart etc.
+        -   Favoritism, Nepotism and partisanship
+-   **Ethical issue of employees**
+    -   Taking undue advantages of benefits
+    -   Travel, sick leave
+    -   Breach of rules and regulations of the organization
+        -   E.g. insider trading
+        -   E.g. Moonlighting
+    -   Sexual harassment
+    -   Taking credit for others work
+        -   E.g. managers not recognizing contribution of employees
+    -   Misuse of companies resources
+    -   Excessive leaves
+    -   Not following instructions
+        -   Leaking trade secrets
+-   Guiding principles for companies
+    -   Respect for core human values
+    -   Respect for local tradition
+    -   Belief that context matters when deciding right or wrong decisions.
+-   **Ethical Dilemmas**
+
+### Ethical Issues in International Relations
+
+-   **International relations**
+    -   International relations (IR) is a field that studies interactions and relationships between sovereign states and other international actors.
+-   **Importance of ethics in international relations**
+    -   Promoting peace and security
+        -   Peaceful conflict resolution
+            -   India-Bangladesh border agreement
+        -   Non-proliferation
+            -   NPT
+        -   Cooperation during natural/man made disaster
+            -   2004 Indian ocean tsunami relief
+            -   Vaccine Maitri
+    -   Protecting human rights
+        -   E.g. sanctions against Russia
+    -   Human security
+        -   Freedom, human rights
+    -   Rule of law
+        -   Following UNCLOS in South China sea
+    -   Environment protection
+        -   UNFCCC
+        -   Paris agreement, Montreal Protocol
+    -   Sovereignty and non-interference
+        -   E.g. Sri Lanka
+    -   Economic development
+        -   Non predatory lending
+    -   International institutions
+        -   UN, ICJ
+-   Discuss the role of ethics and values in enhancing the following three major components of Comprehensive National Power(CNP)viz. human capital, soft power(culture and policies), and social harmony.
+    -   Role of Ethics and values in increasing CNP
+        -   Human capital
+            -   Responsibility, integrity
+            -   Development of skills and productive workforce
+            -   Critical thinking
+            -   Innovation, creativity, problem solving skills
+            -   Fairness, inclusivity
+            -   Promote merit, attract talent
+        -   Soft power
+-   **Challenges and limitations**
+    -   Subjectivity : Ethics is subject to disagreement
+        -   Chinese don't follow rule based international order
+    -   Enforceability : Issue in enforcement
+        -   States have offensive military capabilities
+    -   National interest and principles - difficult choice
+        -   Buying Russian oil
+-   Strength, peace and security are considered to be the pillars of international relations. Elucidate.
+    -   Strength - quality of being strong
+        -   Importance
+            -   Respect
+            -   Deterrence against attack
+            -   Defend interest
+        -   Components of strength
+            -   Military power
+            -   Economic prowess
+            -   Political influence
+            -   Soft power
+            -   Technological advancement
+        -   Issues
+            -   Arms race
+            -   Security dilemma
+            -   Exploit weaker nations
+    -   Peace - state when there is no war or civil disturbance
+        -   Importance
+            -   Trade
+            -   Cultural exchange
+            -   Protect human lives and well being
+        -   Components
+            -   Conflict resolution
+            -   Reduction of poverty, inequality
+            -   Justice
+    -   Security - the state of being free from danger
+        -   Importance
+            -   Protection from military aggression
+            -   Protection from internal rebellion
+            -   Terrorism and extremism
+        -   Components
+            -   Military
+            -   Economic
+            -   Environmental
+            -   Technology
+            -   Human security
+            -   Freedom from hunger, disease and repression
+-   ‘The will to power exists, but it can be tamed and be guided by rationality and principles of moral duty.’ Examine this statement in the context of international relations.
+    -   Reasons for will to power
+-   Ethical issues before launching war
+    -   Just War Theory -
+        -   Self defence, protecting atrocities, preventing humanitarian crisis
+    -   Principle of Proportionality
+        -   To avoid unnecessary destruction
+    -   Protecting civilians
+    -   Non use of nuclear, chemical and biological weapons
+-   **Concerns**
+    -   Climate change
+        -   Climate Justice
+        -   Differentiated impact - Global south is most prone to natural disasters
+            -   E.g. - Floods in Pakistan, Pacific Island countries etc.
+    -   Poverty, inequality
+    -   **Refugee crisis**
+        -   Ethical dimensions
+            -   Universal Declaration of Human Rights
+            -   Article 14
+            -   Non-Refoulement Principle
+            -   Compassion and Empathy
+            -   Human dignity
+        -   Challenges
+            -   Threat to national security
+            -   economic strain and social unrest
+            -   public anxieties and prejudice in accepting refugees
+        -   Way forward
+            -   fair and efficient asylum system
+            -   Providing safe and dignified life
+            -   International collaboration and responsibility-sharing
+            -   Addressing the root cause - collective security
+            -   Promoting Public Understanding
+            -   combating prejudice, encouraging empathy and inclusivity
+-   State sponsored terrorism
+    -   Good terrorist, bad terrorist
+    -   Children and women rights
+        -   Afghanistan, Iran
+    -   Violence
+    -   Civil liberties, Human Rights
+-   Genocide
+    -   UN Convention on Genocide in December **1948** - Genocide is **deliberate killing** of large number of people of particular ethnicity, religion, nation, etc.
+    -   Example
+        -   1933-1945 Holocaust
+        -   1994 - Rwanda
+            -   800,000 Tutsis were killed by Hutu Militia
+        -   Cultural genocide
+            -   Uyghur Muslims, Xinjiang China
+-   Organized crime
+    -   Arms trade
+    -   Tax heavens
+-   WAR
+    -   Mankind must put an end to war before war puts an end to mankind. - JOHN KENNEDY
+    -   When going to war is justified
+        -   protecting innocent human life
+        -   against external aggression
+        -   Defending moral values
+-   **Jus ad bellum (right to go to war) - LIC-AC-S**
+    -   Last resort : all other methods must tried first
+    -   Right intention : the intention of war is to right a wrong
+    -   Just cause : there must a good reason for going to war
+    -   Right authority : only public authorities are legitimate, terrorist organizations are not
+    -   Comparative justice - the suffering caused must be less then the suffering that exists
+    -   Probability of success : there is no point in fighting and wasting lives if you are not going to win
+-   **Jus in bello (law of war) - MDP**
+    -   Discrimination - act of war should not be directed at civilians
+        -   E.g. Bucha massacre
+    -   Minimum force - death and destruction should be limited
+        -   E.g. strikes on civilian infrastructure
+    -   Proportionality - the force used must be proportional to the wrong endured and to the possible good that may come
+-   **Jus post bello**
+    -   Concerns justice after a war, including peace treaties, reconstruction, war crimes trials, and war reparations.(RT)
+-   **The four Geneva Conventions**
+    -   Convention 1 - Protect soldiers from execution without judgement. Right to proper medical treatment and care to wounded soldiers
+        -   Protects wounded and sick soldiers on the battlefield.
+        -   Requires humane treatment of the wounded without discrimination.
+        -   Mandates respect for medical personnel and facilities, including the Red Cross emblem.
+    -   Convention 2 - Protection to shipwrecked soldiers, special protection to hospital ships.
+        -   Extends protection to wounded, sick, and shipwrecked members of armed forces at sea.
+        -   Similar protections as the First Convention, but applicable in maritime warfare.
+    -   Convention 3 - Defined prisoners of war and accorded them humane treatment
+        -   PoW must be protected against insult and public curiosity as well as act of violence or intimidation.
+        -   Provides detailed rules on the treatment of POWs, ensuring they are treated humanely, given medical care, and not subjected to torture or degrading treatment.
+    -   Fourth Geneva Convention (1949):
+        -   Protects civilians during times of war, particularly in occupied territories.
+        -   Prohibits deportation, hostage-taking, and the targeting of civilians, among other protections.
+-   War does not decide who is right but who is left.”
+-   Injustice anywhere is threat to justice everywhere
+-   Management of Global commons - Tragedy of commons [GARRET HARDIN]
+    -   **HAAO**
+    -   High seas
+    -   Atmosphere
+    -   Antarctica
+    -   Outer space
+    -   Ethical concerns - governance
+-   Way forward
+    -   Different actions are required by different agents in different contexts to respond appropriately, humanely and ethically to the challenges of climate change.
+    -   Taking enlightened view of balance - Panchsheel
+    -   Commitment to multilateralism, plurality, environmentalism, fair representation of south at global stage.
+    -   Preventing erosion of pubic trust
+-   **Conclusion**
+    -   International relations should become positive sum game benefiting all stakeholders.
+
+### Ethical Issues in Funding
+
+-   Doners attaching conditions to funding
+    -   IMF conditions for economic liberalisation
+-   Debt trapping
+    -   E.g. on account of Sri Lanka’s failure to pay debt, China took Hambantota port on a 99-year lease.
+-   Lack of Transparency and Accountability
+    -   Corruption and mismanagement of funds
+    -   FCRA, 2010 provisions flouted by Greenpeace
+-   Undue influence in funding compromises the autonomy (sovereignty)
+    -   Equatorial Guinea debt to China as much as 50% of GDP
+-   Environmental degradation
+    -   Palm oil cultivation led to deforestation of tropical rainforest in Indonesia
+-   Extension of foreign policy
+-   Corruption
+-   **Measures**
+    -   Transparency and disclosure
+    -   Due diligence before taking funds
+    -   Diversification across different creditors to spread risk
+    -   Environmental, Social, and Governance (ESG) consideration
+    -   Community and Stakeholder participation in the process
+    -   Regular Evaluation to meet ethical criteria
+
+## Ethical Guidance
+
+-   Indian
+    -   Dharmashastra
+    -   Arthashastra - code of conduct and traits for ideal king.
+    -   MG
+-   Western
+    -   Virtue ethics - PLATO & ARISTOTLE - virtues - wisdom, courage, temperance, justice
+    -   Weberian idea of bureaucratic morality
+    -   UN code of conduct for public officials.
+-   Imperatives for ethical reasoning
+    -   Accountability of administration
+    -   Rule of law and principle of legality
+    -   Professional integrity
+    -   Responsiveness of civil society
+    -   GANDHI's Talisman
+    -   Hierarchization of values
+
+### Laws
+
+-   Laws are rule which are enacted with due process by a competent authority
+-   Basic ethical standards that society expects everyone to follow
+-   Enforceable punishments
+    -   E.g. POSH Act, 2013
+    -   POCSO Act, 2012
+    -   IPC Provisions
+-   Purpose - promote common good and protect individual rights
+-   Enacted by formal authority
+-   Applicable to broader population
+-   For specific action and situations
+-   Laws: Speed limits, criminal codes, tax laws.
+-   Matsya Nyaya
+    -   Law of jungle
+    -   Bigger fish eating smaller fish
+-   How they provide ethical guidance
+    -   Setting boundaries of expected, permitted and prohibited actions
+        -   E.g. mandatory social audit under MGNREGA
+    -   Promote justice and fairness
+    -   Act as deterrence against misconduct
+        -   E.g. Suo moto disclosure of conflict of interest
+        -   E.g. murder
+    -   Adapt to evolving social values
+        -   Altruistic surrogacy
+    -   Help clarify the values to be used and procedure to be followed.
+
+| SEF-SOC | **Ethics** | **Laws** |
+|---|---|---|
+| Source | moral philosophy, personal beliefs, and societal values. | legislative bodies |
+| Enforcement | Voluntarily enforced by conscience | enforced by the state |
+| Flexibility | Evolve with individual and societal changes | More rigid requires formal amendments |
+| Scope | Broader and subjective | Narrower and uniform |
+| Objective | guide individuals toward virtuous living | maintain public order, protect rights, and punish wrongdoing |
+| Consequences of Violation | social alienation or crisis of conscience | Fines, imprisonment, punishment |
+| | - Laws can lead to ethical change<br>- E.g. Abolishing slavery by law<br>- E.g. Hindu Succession Act<br>- Abolition of Capital Punishment: | |
+| Impacts where | Ethics condition thoughts | Laws conditions actions |
+| Moral ambiguity | What is unethical may not always be illegal<br><br>- E.g. tax avoidance | What is legal may not always be ethical<br><br>- E.g. sati unethical, but legal till 1829<br>- Draconian laws - preventive detention |
+
+-   **Limitation**
+    -   Misinterpreted for unethical acts
+        -   Exploiting loopholes for tax evasion
+    -   Cannot address all possible ethical dilemmas
+    -   Knowledge of all laws and rules is difficult
+    -   They can sometime be in violation of civil/human rights.
+        -   Apartheid
+    -   Can be enforced by illegitimate authority without consent
+        -   Rowlett Act, Salt Tax
+
+### Rules
+
+-   Rules are a set of principles governing people.
+-   **Rules and Laws**
+
+| Laws | Rules |
+|---|---|
+| Enacted by legislative body<br><br>E.g. parliament | Can be set by individuals or organizations<br><br>E.g. SEBI |
+| Apply to everyone within nation | Apply to specific group<br><br>E.g. employees |
+| Written down in official documents | May be written but can be unwritten<br><br>E.g. traditions |
+| Address broader concern<br><br>E.g. law and order | Address small scale concerns<br><br>E.g. Central Services conduct rules , 1964 |
+| Laws: Speed limits, criminal codes, tax laws. | Dress code in school |
+
+-   **Role of ethics in formulating laws and rules**
+    -   Setting principles
+        -   Enumerate ethical principles
+    -   Ethics used in deciding penalties
+    -   To avoid bias and prejudice
+
+| Laws | Rules |
+|---|---|
+| Reflect fundamental ethical principle<br><br>E.g. justice, fairness, human rights | Reflect specific<br><br>E.g. impartiality, political neutrality |
+| Reflect cultural ethics | Reflects organisational ethics |
+| Ethical laws are product of public participation | Ethical rules may involve only relevant group |
+
+-   **Positive attitude**
+    -   Think creatively
+    -   Take bold decisions
+    -   Source of guidance
+    -   Envolve community in decision-making process
+-   Negative attitude
+    -   PAIRJEB
+-   **Examples**
+    -   All India Services conduct Rules, 1968
+    -   Draft public services bill,2006
+
+### Regulations
+
+-   Regulations are directives made by authorities to govern specific activities, industries, or sectors.
+-   They are **broader then rules**
+    -   E.g. SEBI regulations
+    -   E.g. RBI regulations
+
+### Conscience
+
+-   Conscience is inner sense of right or wrong
+-   Conscience is inner sense or faculty. It gives us sense of what is right or wrong.
+    -   E.g. Justice H.R. KHANNA's dissenting judgement in ADM Jabalpur
+-   Advantages of conscientious decision making
+    -   Questions unjust laws
+        -   ROSA PARK defiance against racial segregation in Montgomery
+    -   Impose an obligation to be moral even in absence of laws
+        -   Ethical AI and Biotechnology
+        -   E.g. EDWARD SNOWDEN - whistleblowing of espionage on civilians
+    -   Specific to individual
+        -   Provides moral guidance in ethical dilemmas which occurs in unique situations and circumstances
+        -   E.g. Doctor refusing to perform unnecessary surgery prescribed by hospital
+    -   Conscience can adapt and evolve alongside societal norms and personal growth
+        -   Laws can be outdated
+        -   E.g. Section 377 IPC
+    -   Not ethically correct to act on doubtful conscience
+        -   A doubtful law does not binds
+        -   E.g. leaking sensitive information by civil servant for transparency
+-   Limitations
+    -   Subjectivity : May be certain, doubtful, probable
+        -   can lead to inconsistencies and potential harm
+        -   E.g. caste/religion based discrimination
+    -   Prone to manipulation
+        -   propaganda and social pressure can manipulate individual consciences
+        -   E.g. HITLER's propaganda
+    -   Conscience lacks external enforcement mechanisms
+        -   No sanctions for unconscientious acts
+        -   E.g. underpaying workers by corporates
+    -   Unequal application : education, reflection, and exposure to diverse perspectives makes person more conscientious
+        -   E.g. someone in corrupt environment may not see an issue in taking bribes
+-   Crisis of conscience is a internal conflict which arises when individuals core moral principles clash with their obligation.
+    -   It's a struggle between what you know is right and what is convenient, tempting, or expected.
+        -   E.g. IPS officer monitoring peaceful protests, was ordered to take strict action.
+-   Incidence from personal life
+    -   I was working on developing an application in my company. I discovered that the application has critical security flaws that may threaten the security of lakhs of users. My colleague insisted on finishing the project on the deadline regardless of the risk. This situation presents a crisis of conscience where I have to make a decision on releasing the application with security risk or raising the concern to higher-ups and refusing to release, which may cause a delay or even financial loss.
+-   How I resolved this?
+    -   I raised the concern with my manager. He assured me not to worry of any retaliation and ensure that the security flaws are fixed before releasing.
+-   **How does it manifest in public domain?**
+    -   For public servant
+        -   Compassion v/s rules
+            -   Helping citizens in distress bypassing rules
+            -   Crisis situation
+        -   Ethical v/s legal
+            -   Whistleblowing
+        -   Integrity v/s following orders
+            -   Verbal orders of senior
+    -   For institutions
+        -   Environment v/s development
+        -   Substantive equality v/s formal equality
+            -   Affirmative action?
+        -   National security v/s freedom of speech and privacy
+        -   Development v/s community rights
+-   **How to resolve COC**
+    -   Recognize
+    -   Analyze
+        -   Self reflection and critical thinking
+    -   Seeking clarity : asking orders in writing
+    -   Consulting trusted people
+        -   Having diverse perspective helps in decision making
+    -   Prioritize values
+        -   Reflect to your core values and take decisions accordingly
+    -   Be prepared for consequences
+        -   Be responsible for decisions and face the consequence with integrity and courage.
+-   **What acts as guiding values?**
+    -   GANDHI's Talisman
+    -   Emotional intelligence
+    -   Critical thinking
+    -   Moral reasoning
+    -   Having strong ethical foundation
+-   Neither conscience nor laws and regulations are foolproof guides to ethical decision-making. Ultimately, the most reliable approach likely lies in a balanced combination of both.
+
+**_As a Source of Ethical Guidance_**
+
+### Code of Ethics | Code of Conduct
+
+-   Code of Ethics - is an **aspirational** document containing core ethical values, principles and ideals of the organization.
+    -   Values which behave like general principle to guide behaviour.
+-   Code of Conduct - is a **directional** document containing specific practices and behaviour, that are followed or restricted under the organization.
+-   _Purpose of Having Codes ?_
+    -   Minimum standard of behaviour required for all civil servants
+    -   Moral guidance in taking decisions
+    -   Professional standards in civil services
+    -   Sense of accountability, responsibility and tolerance.
+-   _Characteristics of code_
+    -   Desirable
+    -   Feasible
+    -   Enforceable
+    -   Justiciable - Punishment for breach
+    -   ![[Z9 Obsidian-files/Media/DOCX/GS4 15.png]]
+-   **Codes of ethics for civil servants**
+    -   Personal responsibility
+    -   Compliance with law
+    -   Limitation on acceptance of gift, rewards.
+    -   Limitation on political activities
+    -   Confidentiality
+    -   Build public trust
+    -   Manage conflict of interest - professionally and personally
+        -   Public interest is supreme
+        -   Disclose any clash of interest
+    -   Financial prudence
+    -   Accountability to citizen's
+    -   Non abuse of official position
+-   Issues
+    -   No Mention/framework of code of ethics in AIS(conduct) rule 1964
+
+| Code of Ethics | Code of Conduct |
+|---|---|
+| Aspirational document<br><br>Contains core ethical values and principles | Directional document<br><br>Contains specific practices and behaviors |
+| Broad context<br><br>Guide moral decision making | Narrow context<br><br>For day-to-day behaviour |
+| Not enforced<br><br>relies on persuasion and social influence | Enforceable<br><br>Attract disciplinary measures for violations |
+| Designed to promote ethics<br><br>Integrity, objectivity, rationality | Designed to protect wrong<br><br>Corruption, giving/receiving inappropriate gifts |
+| Abstract<br><br>Philosophical in nature | Concrete<br><br>Contains specific prescription |
+| Ex. Hippocratic oath for doctors<br><br>Ex. Corporate values | Ex. Medical guidelines<br><br>Ex. Employee handbook |
+
+-   Public service code
+    -   Is a comprehensive set of guidelines for governing conduct and functioning of public services.
+    -   Key features ( 2nd ARC 10th Report)
+        -   Public service values : IOSHOLA
+        -   Clearly outlined code of ethics and conduct
+        -   Provisions for punishment for transgression
+        -   Preventive measures for malicious complaints against civil servants
+    -   Issues in implementation
+        -   Implementation Hurdles : Resistance from bureaucracy
+        -   Lack of political will
+        -   Monitoring mechanism : under limited capacity and human resources
+        -   Rigidity : can adversely impact situational decision making
+            -   E.g. crisis management
+    -   Full implementation of PSC is essential to address challenges of public sector.
+-   Benefits of discipline
+    -   Orderly and smooth functioning
+        -   Because predictable environment
+    -   Accountability and performance
+        -   Non compliance may attract sanctions
+    -   Teamwork
+        -   Discipline establish trust and respect
+    -   Efficiency
+        -   Because of standardized procedures
+-   Limitations of excessive discipline
+    -   Can impede creativity, risk-taking
+    -   Reduce morale and engagement
+        -   Employee feels like cog in a machine
+    -   Poor decision-making
+        -   Overreliance on orders can hinder independent thinking
+    -   Conflicts and resistance
+        -   Excessive control and micromanagement can breed resentment
+-   Finding Balance
+    -   Outcome orientation
+        -   Allowing flexibility and encouraging ownership
+    -   Promote autonomy in decision making
+    -   Open communication
+        -   Encouraging employees to voice concerns and suggesting reforms
+-   In conclusion, while discipline is a valuable tool, it needs to applied thoughtfully by finding right balance.
+-   Both documents are essential for promoting a positive and responsible work environment
+
+### Conflict of Interest
+
+-   Conflict of interest - a situation in which a person is in a position to derive personal benefits from decisions made in official capacity.
+-   Types
+    -   Financial conflict
+        -   E.g. CHANDA KOCHHAR lending to Videocon
+    -   Non-financial conflict
+    -   Conflict of roles
+        -   Official duties
+        -   Private interests
+        -   Public interest
+-   Ways it manifest in decision making
+    -   Awarding contracts
+    -   Policy decisions
+    -   Resource allocation
+    -   Conflicting responsibility
+    -   Conflict in values
+-   Causes
+    -   Conflict in moral values
+        -   Evicting ST's from their land due to pressure from high authority
+    -   Family interest
+        -   Framing policies to benefit family business
+    -   Financial interest
+        -   Company offering financial benefits to lobby for a policy
+    -   Conflicting responsibility
+        -   Civil servant given additional charges with conflicting responsibility
+        -   E.g. mining and environment conservation portfolio
+    -   Outside pressure
+        -   From a political party
+    -   Conflicting organization
+        -   Civil servant being part of development work that has to clear trees, but also part of environmental NGO
+    -   Lack of awareness
+        -   Giving loans or contracts without knowing stakeholders
+
+| Actual | Potential |
+|---|---|
+| personal interest already impacted the professional duty | Possibility of impacting |
+| Ethical values are compromised | Ethical values in position to get compromised |
+| Requires immediate action<br><br>May involve disciplinary measures | Requires mitigation strategies<br><br>E.g. recusal, disclosing, appointing neutral decision maker |
+| Ex. A teacher using their school time for private tuition. | E.g. Justice U.U. LALIT recused himself from Ayodhya case because of previous involvement as a lawyer. |
+| Ex. Social media influencer promoting company they have invested in. | |
+
+-   How to resolve
+    -   Identify potential COI
+        -   Background checks
+    -   Suo moto disclosure of COI
+    -   Distance/Recusing oneself from apparent COI
+    -   Seeking help of neutral third party
+    -   Enhance objectivity
+    -   Active oversight
+    -   Punitive measures for non disclosure
+-   **Way forward**
+    -   2nd ARC - Ethics in governance - codify conflict of interests to help civil servants to navigate them effectively.
+-   Organizations should codify conflict of interests to ensure ethical conduct and minimize the risk of harm.
+
+## 1. Probity in Governance
+
+-   **Introduction**
+    -   A government is good when it aims at well being of whole community, bad when it aim's at it's own good. -ARISTOTLE
+-   **Probity -** it is the quality of having strong moral principles and strictly following them. It is integrity, honesty and commitment to public good.
+-   **Probity in governance** is procedural uprightness. It means following ethics in governance and allowing actions and decisions to withstand public scrutiny.
+-   **Need of** probity in governance - REDCARPET
+-   Principles of probity - IO-SHOLA
+-   Difficulties in practicing probity in present times
+    -   Pressure to deliver [neoliberal paradigm]
+    -   Political fragmentation and polarization : making it difficult for public officials to act objectively and prioritize the common good over partisan interests.
+    -   Pressure groups : lobbying activities can influence decision making that benefits broader public good.
+    -   Social media : misinformation can cloud judgement making it harder to understand truth
+    -   Economic pressure : financial hardship, personal ambitions can tempt public officials to compromise their principles
+-   **Significance**
+    -   Build trust in state institutions
+        -   E.g. ECI
+    -   Enhancing Credibility and Legitimacy
+        -   E.g. Social Audit mechanisms
+    -   Upholding public trust
+        -   E.g. RTI Act, 2005
+    -   Leads to good governance
+        -   E.g. T.N. SHESHAN's in electoral reforms
+    -   Helps in checking abuse and misuse of power and discretion
+        -   E.g. Lokpal and Lokayukta Act of 2013 instills independent oversight over public officials
+    -   Leads to better service delivery
+        -   E.g. E. SHREEDHARAN commitment of time bound completion of Delhi Metro
+    -   Fair and equitable distribution of resources
+    -   Institutional integrity
+    -   Promoting social welfare
+        -   E.g.
+    -   Societal expectation
+    -   Develop confidence in investors
+-   **Issue in India**
+    -   lack of will, lack of discipline
+        -   GUNNAR MYRDAL - 'soft society'
+-   Development trap - F.W. RIGGS
+    -   Failure to provide Capacity, differential treatment, equality
+-   Development Decay - S. HUNTINGTON
+    -   Political system becomes ineffective - corruption, lack of accountability, erosion of legitimacy.
+-   **Measures**
+    -   Define Clear Ethical Standards
+        -   Code of ethics (2nd ARC)
+    -   Transparency and Disclosure
+        -   RTI, Citizen's charter
+    -   Robust Accountability Mechanism -
+        -   Internal Committees, CVC, CIC, Lokpal
+    -   E-government initiatives
+        -   PRAGATI, NeGP, **Probity portal, e-HRMS 2.0 portal**
+    -   Promoting Work culture of Integrity
+    -   Public participation
+        -   Social audit, civil society
+    -   Protecting whistleblowers
+        -   Forming safe channels for reporting corruption
+    -   Effectively enforce Code of conduct
+        -   Biometric monitoring, lateral entry
+-   **Way forward**
+    -   NCRWC 'probity in governance
+        -   Focus on Legal, procedural aspects
+    -   TSR SUBRAMANIAN case - Civil service board
+-   **Conclusion**
+    -   Probity is vital ingredient for building a society where everyone can thrive.
+    -   We should strive towards a society where probity becomes a way of life, honesty becomes a routine expectation.
+
+### Concept of Public Service
+
+-   ARISTOTLE states, "A political society exists for the sake of noble actions, not mere companionship. It embodies the theoretical concept of expanding public interest."
+-   A public service is a service which is provided by the government to people living within its jurisdiction
+-   Key aspects of public service include:
+    -   Commitment to the public interest
+    -   Provision of essential services
+    -   Service-oriented mindset
+    -   Collaboration and partnerships
+    -   Professionalism and competence
+
+### Citizen's Charter
+
+-   [Citizen's charter](onenote:#Governance%20and%20Social%20Justice&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={A6699375-031B-E147-9E87-0460D44EA613}&object-id={81EB8158-9045-7845-8631-ABB4D7E2CCB6}&33&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+
+### Transparency
+
+**_In Government_**
+
+-   [Transparency and Accountability](onenote:#Governance%20and%20Social%20Justice&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={A6699375-031B-E147-9E87-0460D44EA613}&object-id={81EB8158-9045-7845-8631-ABB4D7E2CCB6}&BB&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+
+### Right To Information
+
+-   [Right to Information Act, 2005](onenote:#Governance%20and%20Social%20Justice&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={A6699375-031B-E147-9E87-0460D44EA613}&object-id={F27BD3A6-3D70-5D40-91FD-0C3542DED8FB}&23&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+
+### Work Culture
+
+-   Work culture refers to the collective values that exist within an organization, influencing the overall work environment.
+-   Significance of WC
+    -   Employee satisfaction
+        -   Retains talent
+    -   Productivity and performance
+        -   E.g. spurs to go extra mile
+    -   Build networks and team collaboration
+        -   Based on Mutual trust
+    -   Induce Innovation and Creativity
+        -   Because of freedom of expression
+    -   Conducive emotional environment at workplace
+        -   E.g. prevent anxiety, depression
+    -   Inclusivity and women's safety
+        -   Because of diversity and inclusivity
+    -   Sustainable financial performance
+        -   Maintain investor and shareholders confidence
+-   Work from home
+    -   Positives
+        -   Retention
+        -   Bigger talent pool
+        -   Productivity
+        -   Telecommunication
+    -   Negatives
+        -   Communication gap
+        -   Anxiety
+        -   Mutual trust, connection and mutual purpose
+
+| Coercion | Undue influence |
+|---|---|
+| explicit threats or intimidation<br><br>E.g. threat of transfer | is a form of manipulation that exploits trust<br><br>E.g. familial influence to leak sensitive information for personal gains |
+| overt/explicit in nature | subtle/implicit |
+| Creates hostile and fear-driven work culture<br><br>- Threatening to fire | can undermine fair decision-making<br><br>- E.g. luring for promotion |
+| Can erode trust and damage morale | can lead to biased practices, and conflicts of interest |
+
+-   Measures
+    -   Explicit core values
+        -   Code of ethics, code of conduct, citizen's charter
+    -   Improve transparency, accountability and feedback mechanisms
+    -   Internal Complaints Committee
+    -   Establishing system of checks
+
+### Quality of Service Delivery
+
+-   **Introduction**
+    -   "The quality of a nation's public service delivery reflects its commitment to the well-being and progress of its citizens"
+-   [Significance](onenote:#GS4&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={44232157-14DC-244B-9A67-E7D81ED82C04}&object-id={8B547FD1-CBE7-D54F-9990-467B5EB42184}&A5&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   **Issues in effective public service delivery**
+    -   Mismanagement : can delay crucial services, waste resources
+    -   Bureaucratic attitude : leads to slow decision-making
+        -   Avg. 59 months for land acquisition
+    -   Erosion of trust
+        -   Not prioritize their well-being of citizens erode public trust
+    -   Capacity constraints : lead to ineffective solutions
+        -   Overburdened public servants have limited capacity to deal with multitude of core issues.
+    -   Corruption :
+    -   Secrecy
+-   **Government Initiative**
+    -   Lokpal
+    -   E-governance
+        -   National e-governance plan (NGeP)
+        -   Government e-marketplace (GeM)
+    -   PRAGATI Initiative
+-   **How to increase quality of service delivery?**
+    -   Focus on citizens needs
+        -   Participatory planning and policy formulation - Kerala
+    -   E-governance
+    -   Establish independent regulatory mechanism
+    -   Encouraging reward and good work
+    -   Feedback Mechanism
+        -   DISHA - Gujarat for tribal areas
+    -   Social accountability
+        -   Community scorecard - Maharashtra, AP
+    -   Performance-based Incentives
+    -   Social audits
+        -   Ex - AP and Meghalaya
+-   Balance between core issues and peripheral issues
+    -   Prioritization : identify core issues that are most significant
+    -   Data-driven decision-making : utilize modern tools for making informed decisions
+    -   Open communication : with stakeholders to understand their concerns and provide solution
+
+### Utilization of Public Funds
+
+-   "The true measure of a society's progress is how wisely and effectively it utilizes its public funds." - JOHN F. KENNEDY
+-   [Significance](onenote:#GS4&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={44232157-14DC-244B-9A67-E7D81ED82C04}&object-id={8B547FD1-CBE7-D54F-9990-467B5EB42184}&A5&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+-   **Reasons for underutilization**
+    -   Lengthy approval processes, red tape : due to excessive legal and compliance burden
+    -   Inadequate planning
+    -   Lack of Capacity
+-   Reasons for misutilization
+    -   Political Interference
+    -   Lack of accountability
+    -   Corruption and other form of financial misconducts
+    -   Weak Monitoring and Oversight
+    -   Lack of Public Awareness and Participation
+-   Implication
+    -   Missed Development Opportunities :
+        -   For development goals like poverty reduction, healthcare, infrastructure development
+    -   Loss of Public Trust and Confidence
+    -   Limits economic growth - create vicious cycle of financial obligations
+        -   Debt/GDP - 83%
+-   **Way forward**
+    -   Strengthening Financial Management system
+        -   CAG
+        -   Public fund management system (PFMS)
+        -   DBT, FRBM use of JAM
+    -   Promote citizen engagement
+        -   Social audits
+    -   Open government initiatives
+        -   E-governance
+        -   E2E E-procurement and single window administrative mechanisms
+-   **Conclusion**
+    -   "Utilizing public funds responsibly is a commitment to ensuring that every rupee spent delivers maximum value and benefits to the people"
+
+### Challenges of Corruption
+
+-   **Introduction**
+    -   Word bank - “Corruption is the abuse of public funds or office for private or political gains.”
+    -   According to 2nd ARC 4th Report - Corruption is a manifestation of the failure of the ethics and value system in society.
+    -   According to Transparency International, India was 85 among 180 countries in the corruption perception index 2022.
+-   I sincerely believe in the words of DR. A.P.J. ABDUL KALAM. Corruption which is misuse of public office or position for personal gain is manifestation of erosion of ethics. For a society to become corruption free ethical development is of paramount importance.
+-   **Causes of corruption**
+    -   Institutional
+        -   Lack of Transparency and accountability
+            -   Coal and Fodder Scam
+        -   Weak law enforcement : does not create legal deterrence
+            -   GUNNAR MYRDAL - calling India as 'Soft State'
+        -   Over centralisation of administrative system
+            -   Legacy of colonial rule
+        -   Unregulated electoral funding
+            -   electoral bonds provisions without public disclosure
+    -   Individual
+        -   Greed and Self-Interest
+            -   The Panama Papers leak exposed tax evasions
+        -   Erosion of ethical values
+        -   Corruption to bypass bureaucratic hurdles and obtain essential resources.
+    -   Societal acceptance : considers corruption as way of doing things
+        -   E.g. bribing RTO officials to expedite process is considered necessary
+    -   Systemic and Structural Issues:
+        -   weak institutions, inadequate legal frameworks, and poor enforcement of laws.
+-   **Impact**
+    -   Erosion of Public Trust
+        -   Undermine legitimacy of government
+        -   Weaken democratic processes
+    -   Impaired public service delivery
+        -   Health, education, infrastructure development
+    -   Criminalization of politics
+        -   E.g. 43% criminal records; 29% serious charges - PRS Research
+        -   Vohra committee report highlight P-B-C nexus
+    -   Environment degradation
+        -   illegal exploitation of natural resources, unauthorized construction
+    -   Economic inequality
+        -   E.g. 10% have 80% wealth - Oxfam
+    -   Discourage Investment
+        -   E.g. 85/180 in corruption perception index
+    -   Undermine fair competition
+        -   E.g. monopolization, license raj
+    -   Loss of morale and motivation
+        -   Discourage honest public servants
+-   **Two types**
+    -   small level - people are forced to pay for the job otherwise entitled - plays bigger role in perception formation of corrupt country.
+        -   E.g. bribe taken by police in passport verification
+    -   high level - where affluent and powerful people get substantial gain as an act of corruption
+        -   E.g. 2G Scam
+-   **Government measures**
+    -   RTI Act, **2005**
+        -   Issue : huge backlog, delay in reply, limited Suo-moto disclosure
+        -   Solutions : adherence to time limit; digitization of information
+    -   Prevention of corruption act, **1988**
+        -   Issue : huge backlog of cases in CAT
+        -   Solution : time bound clearance of cases; efficient enforcement
+    -   Lokpal Act, **2013**
+        -   Issue - appointment, functioning and capacity
+        -   Solution - reducing dependence for funds, functions and functionaries
+    -   Code of conduct
+        -   Issue - poor enforcement mechanisms
+        -   Solution - monitoring and disciplinary action for transgression
+    -   Active Media
+        -   Issue : lack of investigative journalism; lack of protection
+        -   Solution : freedom of press; measures against retaliation by government
+-   Benami transactions prohibition amendment act, 2016
+-   Citizen charter, Social Audit
+-   Open governance initiative - PAHAL, DBT, PRAGATI Portal
+-   **Way Forward**
+    -   Value based education
+        -   Ramamurthy committee - emphasize moral education in schools
+    -   Transparency and accountability
+        -   Lokpal, Social Audits, Citizens Charter
+    -   Strengthening POA Act, 1988
+        -   2nd ARC suggests to include
+            -   Abuse of authority
+            -   Obstruction of justice
+    -   E-governance
+        -   E.g. - E-Auctions, DBT, Cashless transaction etc.
+    -   Whistle blower's protection
+        -   Ensuring confidentiality
+        -   Cover corporate whistleblowers
+    -   Time bound grievance redressal mechanism
+        -   E.g. RTI Act
+    -   Administrative reforms
+        -   In training, posting, transfers.
+    -   International cooperation to fight transnational corruption
+        -   United Nations Convention against Corruption (UNCAC)
+        -   E.g. M-Pesa in African Countries
+    -   Empowering CBI
+        -   granting greater autonomy, resources, and investigative powers
+    -   Regulatory frameworks
+        -   Code of ethics and code of conduct
+    -   Administrative decentralization with proper monitoring checks and balances
+    -   Work culture of Integrity
+    -   Ethical and spiritual training sessions
+    -   Primary socialisation
+        -   Teaching ethical values in parenting
+-   **Conclusion**
+    -   By addressing the causes and implementing solutions, we can move towards a society where ethical conduct prevails.
+    -   Corruption thrives in the shadows of secrecy. Shedding light on it is our collective responsibility
+
+### Whistleblowing
+
+-   **Introduction**
+    -   Whistleblowing means exposes wrongdoing or corruption within a organisation or system.
+-   Examples
+    -   SATYENDRA DUBEY, an IES officer
+        -   exposed corruption and illegal activities in NH2 construction
+        -   tragically lost his life
+    -   MANJUNATH SHANMUGAM
+        -   exposed the large-scale adulteration of petrol
+        -   murdered in 2005 by the petrol pump owner
+    -   EDWARD SNOWDEN
+        -   Exposed NSA collection of personal data of citizens
+        -   Led to termination of program under USA Freedom Act
+-   **Challenges for whistle-blowers**
+    -   Lack of Protections against retaliation
+        -   Face consequences like job loss, demotion, or harassment
+    -   Lack of legal protection
+        -   Deters whistleblowers to expose wrongdoings
+    -   Limited Anonymity
+        -   Lead to social stigma
+    -   Reputational Damage
+        -   character assassination, marginalization by co-workers
+    -   Emotional and Psychological Impact - mental health, anxiety, and trauma.
+-   **Measures**
+    -   Whistleblower protection laws
+        -   Whistleblower Protection Act, 2014
+    -   Confidential Reporting Channels
+        -   E.g. Reform Lokpal
+    -   Public appreciation
+        -   Crusade against corruption awards
+    -   Independent Oversight and Investigation
+        -   E.g. CVC, CBI
+    -   International Collaboration
+        -   E.g. MNC misconduct
+    -   Promoting conducive work environment
+        -   E-office
+    -   Dedication to public service
+-   **Conclusion**
+    -   **NEERAJ DUTTA Case, 2022**
+
+### Corporate Governance
+
+-   **Corporate governance** refers to the system of **rules, practices, and processes** by which companies are directed and controlled.
+-   "Good corporate governance is about leadership, integrity, and responsibility, all working together for the benefit of stakeholders." - WARREN BUFFETT
+-   ![[Z9 Obsidian-files/Media/DOCX/GS4 16.png]]
+-   Ethical cooperate governance
+    -   Cooperate social responsibility
+        -   ITC is operating around 2500 learning centers.
+    -   Adopting Fair market practices
+        -   Refraining from anti competitive activities
+        -   Unilever’s “Sustainable Living Plan”
+    -   Addressing environmental concern
+        -   Railways - carbon neutral by 2030
+    -   Strict adherence to laws and regulation
+        -   Code of conduct
+    -   Respecting diversity and promoting inclusivity
+        -   TATA's plan for LGBT+ inclusion in workforce
+-   Efficient cooperate governance
+    -   Competent leaders and efficient teams
+        -   NARAYAN MURTHY - Infosys
+    -   Risk management
+        -   HDFC Bank risk management framework
+    -   Innovation and technology
+        -   Reliance Jio in 4G rollout
+    -   Efficient resource utilisation
+        -   Apple - using recycled aluminium
+-   **Issues**
+    -   **Social**
+        -   Discrimination
+            -   5% women CEO's in India(Deloitte)
+        -   Sexism in workplace
+        -   False and misleading claims
+            -   Volkswagen’s emission scandal
+    -   **Governance**
+        -   Nepotism and favoritism
+            -   E.g. Satyam and Sahara scandal
+        -   Unfair market practices
+            -   E.g. Sun Pharma Insider Trading Case
+        -   Poor risk management
+            -   E.g. Nirav Modi case - PNB
+        -   Lack of internal audit, statutory audit
+            -   E.g. CHANDA KOCHHAR - ICICI
+        -   Anti competitive practices : predatory pricing
+            -   E.g. e-commerce like Amazon, Flipkart
+    -   Environment pollution
+        -   E.g. mining and thermal power
+-   **Measures**
+    -   Stakeholder participation - Ownership and control to shareholders
+    -   Ethical leadership
+        -   Independent BOD
+    -   Inclusivity
+        -   E.g. Norway mandated 40% board representation to other genders
+    -   Checks and balances
+        -   To prevent misuse and abuse of powers and information
+    -   Grievance redressal mechanism
+    -   Compassionate capitalism
+        -   NARAYAN MURTHY
+-   **Conclusion**
+    -   Good cooperate governance can ensure sustainable growth which entails planet, people and profit.
+    -   ![[Z9 Obsidian-files/Media/DOCX/GS4 17.png]]
+
+### Corporate Social Responsibility
+
+-   Corporate Social Responsibility (CSR) refers to the ethical obligation of companies to contribute to societal welfare beyond their profit motives.
+-   "CSR is not a mere gesture, but a way of doing business responsibly and sustainably." -NARAYANA MURTHY
+-   **Mandate**
+    -   The CSR concept in India is governed by **Section 135** of the **Companies Act, 2013.**
+        -   mandates companies with net profit greater than 5 crore to contribute 2% average profit for last 3 years.
+        -   Or, If a company’s net worth is Rs. 500 crore
+        -   Or, If Companies with an annual turnover of Rs. 1000 crore
+-   **Cooperate ethics**
+    -   GANDHI's Trusteeship Model
+    -   Economic Survey - Ethical wealth creation
+-   **Example**
+    -   Negative
+        -   Bhopal Gas Tragedy - Union Carbide
+        -   Large scale deforestation for production of Palm oil.
+        -   Toxic cough syrup allegedly killed 70 children's in Gambia
+    -   Positive
+        -   TATA - Compassionate capitalism
+        -   Patent pooling
+        -   Taj employees evacuating hostages during 26/11
+        -   Village transformation mission Maharashtra - Deutsche Bank, Tata Trust, HUL
+        -   Apple's commitment to be carbon neutral by 2030
+        -   Mahindra’s “Rise for Good” initiative
+        -   Unilever’s “Project Shakti”
+-   In contemporary world, corporate sector’s contribution in generating wealth and employment is increasing. In doing so, they are bringing in unprecedented onslaught on the climate, environmental sustainability and living conditions of human beings. In this background, do you Responsibility (CSR) is efficient and sufficient enough to fulfill the social roles and responsibilities needed in the corporate work mandated? Critically examine.
+    -   Effectiveness of CSR
+        -   Positive Impact on communities
+        -   Enhance companies reputation
+        -   Employee engagement
+    -   Limitations and criticism
+-   **Positive role of CSR**
+-   **Benefits**
+    -   Makes companies more profitable
+    -   Enhanced Brand Image
+        -   Tata Group high reputation
+    -   Customer Loyalty and Retention
+    -   Employee Engagement and Productivity
+        -   Positive work culture
+    -   Makes them sustainable
+    -   Resilience in long term
+    -   Reduce the intergenerational inequality
+    -   Promote inclusive growth
+    -   Build social capital
+        -   E.g. Tata Group
+    -   Reduce the carbon footprint and capacity building for sustainable long term business.
+    -   Short term pain on profits but fruitful dividends for years to come.
+-   **Issues**
+    -   Skewed expense : 44% towards education and only 6% towards poverty and hunger
+    -   Geographical Bias : Maharashtra and Karnataka almost account for 60% of CSR funds.
+    -   Greenwashing CSR activities
+        -   E.g. H&M's environment scorecard
+    -   Sportswashing
+        -   E.g. FIFA world cup 2022, Qatar
+-   Short term and ad-hoc plans
+-   Lack of accountability
+-   Corporate - NGO nexus
+-   **Way forward**
+    -   Bottom up approach -
+    -   Due diligence, disclosure norms
+    -   Social impact assessment
+    -   CSR -> CSV (Creating social value)
+    -   Uday Kotak Committee
+-   **Conclusion**
+    -   Following recommendations of NARAYAN MURTHY Committee, CSR can pave way for compassionate capitalism.
+    -   As HENRY DAVID THOREAU said - "Goodness is the only investment that never fails".
+
+### Social Capital
+
+-   Social capital refers to the networks, norms, and trust that exist within a community
+-   Improve governance
+
+-   Conflict of interest
+    -   Register the details
+    -   Restrict the involvement
+    -   Recruit the 3rd party
+    -   Remove the person
+    -   Relinquish one the intention
+    -   Resign as last resort
+-   Measure
+    -   Immediate action
+    -   Action that will bear fruit in long term
+    -   Extrapolating with inclusion of others having similar issues
+    -   Prevention measures
+    -   Detention measures
+-   Point of Contacts
+    -   Departmental bodies
+    -   Organizational bodies
+    -   State level bodies
+    -   National level bodies
+    -   Grievance redressal mechanism - ombudsman (Lokpal Lokayuktas)
+-   When a law is justified
+    -   Appropriate authority
+    -   Common good
+    -   Physically and morally possible
+    -   Conform to natural law
+    -   Without favor or ill will
+-   Line फ़ेक के मारो
+    -   A Humane approach is more reformatory and effective then a purely retributive approach.
+-   Alternative to layoff
+    -   Job sharing
+    -   Part time work
+    -   Voluntary layoff
+    -   Approved leave without payoff
+    -   Severance package
+
+
+
+### Vocab
+
+| |
+|---|
+| 1st/2nd/3rd Point of Contact/support |
+| Attitudinal change |
+| Anti-corruption agency |
+| Breach of trust |
+| Counseling |
+| Conduct rules |
+| Conflict resolution training |
+| Communication skills |
+| Compliance |
+| Cumulative effect |
+| Divide and rule |
+| Emotional Support |
+| Ethical conduct is not just about achieving tangible outcomes |
+| Feedback mechanism |
+| **Favouritism** |
+| Fairness and proportionality |
+| Human Resources |
+| Impartial, honest and objective assessment |
+| Integrity of the process |
+| Informed decision |
+| Inventory management system |
+| Internal audits |
+| Involve the community in the decision-making process |
+| Law enforcement agencies (~~police~~) |
+| Leadership development |
+| Morale and Motivation |
+| Meditation |
+| Memoirs |
+| Merit based process |
+| Populist polices |
+| Policy paralysis |
+| Psychological support |
+| Professional attitude |
+| Public interest |
+| Rulebook |
+| Reputation and integrity of the company/dept |
+| Maintain rule of law |
+| Speak up |
+| Social impact assessment |
+| Stress management techniques |
+| Severance package |
+| Setting boundaries |
+| Therapy |
+| Top down approach <> Bottom up approach |
+| Procedural justice |
+| Resource egalitarianism |
+| Undermine my authority as the head |
+| Siphoning |
