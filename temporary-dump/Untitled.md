@@ -1,0 +1,259 @@
+
+-   Confucius -> CONFUCIUS
+-   Amartya Sen -> AMARTYA SEN
+-```markdown
+## Governance
+- **Introduction**
+  - UNDP defines governance as "The exercise of economic, political and administrative authority in management of country's affairs."
+  - "Good governance is the foundation for progress, prosperity, and a just society." - KOFI ANNAN
+- **Quotes**
+  - No state becomes great by dwarfing it's own people. -MILL
+- **Governance include**
+  - Government institutions
+  - civil society organizations
+  - private sector entities
+- **Good Governance**
+  - **Aspects** - as per UNITED NATIONS DEVELOPMENT PROGRAM (UNDP)
+    - ![[Z9 Obsidian-files/Media/DOCX/Governance and Social Justice.png]]
+  - ![[Z9 Obsidian-files/Media/DOCX/Governance and Social Justice 1.png]]
+  - **REDCARPET**
+    - **R**esponsible
+    - **E**fficient, **E**ffective, **E**vidence Based
+    - **D**emocratic
+    - **C**onsensus Based - Legitimate
+    - **A**ccountability
+    - **R**ule Based
+    - **P**articipatory
+    - **E**quitable
+    - **T**ransparent
+  - **Barriers**
+  - **Pre conditions**
+  - **How to ensure**
+    - Minimum government, Maximum governance
+    - Office automation
+    - Data analytics, AI and ML
+    - Bureaucratic hurdles
+- **Government initiatives**
+  - **Trust based governance**
+    - Paperless governance
+    - JAN VISHWAS BILL
+    - PRASHASAN GAON KI ORE 2022
+  - **Good Governance Index**
+- **Conclusion**
+  - सबका साथ सबका विकास सबका विश्वास सबका प्रयास
+- Righteousness is the foundation stone of peace and good governance. -CONFUCIUS
+- Simple, moral, accountable, responsive, transparent (**SMART**) governance
+
+### Government policies: Issues & Suggestions
+- **General Issues**
+  - **FLUX**
+    - Freebies
+    - Leakages and misappropriations
+    - Underutilization
+    - Exclusion and Inclusion Errors
+    - Culture of impunity
+    - Administrative apathy
+    - Conflict of interest
+- **General suggestions**
+  - Rationalization of government spending
+  - Targeted and **agile delivery**
+  - Focus on capacity building
+- **Direct benefit Transfers**
+  - Presently 315 schemes of 53 ministries are under DBT, saved 2.23 lakh crores.
+- **Advantages**
+  - Targeted and efficient delivery
+    - minimizes the chances of diversion or misappropriation of funds.
+  - Reduced leakages: benefits reach the intended beneficiaries directly
+  - Transparency and Accountability
+  - Reduced Administrative Burden and cost saving by removing intermediate red tape
+  - Financial inclusion: encourage beneficiaries to maintain bank accounts
+  - Flexibility and Choice
+  - Data for Policy Planning
+    - evidence-based policy planning, program evaluation, and targeted interventions.
+- **Limitation**
+  - Digital divide: lack of digital literacy
+  - Exclusion errors: especially of some vulnerable sections
+  - Inadequate internet connectivity
+  - Power supply issues
+  - Technical glitches
+  - Lack of financial literacy
+  - Limited access to formal banking services
+  - Capacity constraints - administrative infrastructure, data management, monitoring, and grievance redressal.
+  - Trigger **inflation**
+  - **Unfair market practices - hoarding and storage**
+- **Sectors**
+  - Poverty
+  - Hunger
+  - Health and Well Being
+  - Education
+  - Gender
+  - Clean water and sanitation
+  - Energy
+  - Decent Work and Economy growth
+    - MGNREGS
+    - SKILL INDIA
+  - Industries, Infrastructure and Innovation
+    - DIGITAL INDIA
+    - STARTUP INDIA
+  - Inequality
+    - PM जन धन योजना - Financial Inclusion
+    - STAND UP INDIA
+  - Cities and communities
+    - SMART CITY
+    - स्वछ भारत अभियान
+  - Production and consumption
+    - MAKE IN INDIA
+  - Climate action
+  - Life below water
+  - Life on land
+  - Peace, justice and institutions
+
+## Development Process and Development Industry
+- **Introduction**
+  - PROF. AMARTYA SEN says, development means 'expansion of human freedoms', i.e. enhancement of the capacity of individuals to fully lead the 'kind of lives they value'.
+- **Economic goals and social goals**
+- **New development thinking - HIPS**
+  - **H**uman centric
+  - **I**nclusive
+  - **P**articipatory
+  - **S**ustainable
+    - ![[Z9 Obsidian-files/Media/DOCX/Governance and Social Justice 2.png]]
+- **Issues with doner dependency in development**
+  - Top-Down Approach: sideline local needs and governance
+  - Alignment with Donor Priorities rather then community needs
+    - E.g. overemphasis on health and education by NGOs in India
+  - create a dependency syndrome preventing them to become self-reliant
+  - Sustainability challenge when the funding period ends
+    - E.g. halted infrastructural projects
+  - Focus on quantifiable results could overlook qualitative aspects of community development
+- **Advantage of doner agencies**
+  - Provide essential resource that would be otherwise unavailable
+    - E.g. funding for infra projects by WORLD BANK
+  - Bring in expertise and innovative approaches
+    - E.g. advanced agricultural techniques by SWADESH FOUNDATION
+  - Flexible approach that might be unconventional for government agencies
+    - NGO PRATHAM "Teaching at the Right Level" approach effectiveness in improving literacy
+  - Act as a catalyst encouraging further investment and participation from other stakeholders
+  - Targeted delivery: focus on specific issues or populations
+    - NGO GOONJ addressing poverty through redistribution of urban waste
+  - Fill the governance gap
+    - Relief work during natural disasters - RED CROSS
+- **Way forward**
+  - Promote collaboration between all stakeholders
+  - Local capacity building in technical expertise and project execution
+  - Prioritizing local needs
+- **Various Civil society organisation and their Role**
+  - They are voluntary, not-for-profit organisations, for promoting public welfare and social cause.
+    - E.g. NGO, SHG, Philanthropic organisation etc.
+- **NGO**
+  - NGO's are voluntary, not-for-profit organisations, which functions independently of the government for promoting public welfare and social cause
+    - E.g. PRATHAM, GIVEINDIA, NAZ FOUNDATION
+- **Role**
+  - Social welfare and development
+    - NGO PRATHAM - ASER report
+    - TEACH INDIA movement
+    - CARE INDIA - Senior citizens
+    - GIVEINDIA
+    - NAZ FOUNDATION - Social Justice
+    - BETTER LIFE FOUNDATION - Rural development
+  - Policy advocacy
+  - Environmental concerns
+    - VANSHAKTI NGO
+      - Adapted blockchain technology to ensure trees planted are not reassigned.
+  - Disaster Relief and Humanitarian Assistance
+    - RED CROSS
+  - Partners in good governance
+    - Managing operations during COVID-19 - DOCTORS FOR YOU
+  - Empowering backward sections
+    - SWADESH FOUNDATION - farming techniques, cost saving methods
+  - Innovation and novelty
+    - E.g. AKSHAYPATRA developed chapati machines for mid day meal program.
+  - Citizens participation
+    - INDIA AGAINST CORRUPTION - ANNA HAZARE
+  - Need based working
+    - GOONJ - sanitary pads to rural women
+  - Safety valve
+  - International cooperation
+    - UNICEF, UNPF, WB, AMNESTY INTERNATIONAL
+  - Hold government accountable
+    - RIGHT TO INFORMATION (RTI) movement led to RTI ACT, 2005
+- **Issues - FAL**
+  - Top-Down approach
+  - Limited scale and reach compared to government programs
+  - Reliance on funding from external doners can limit their independence
+  - Lack of Transparency & Accountability
+    - 10% of which submit balance sheets
+  - Accreditation
+    - Only 2% NGO registered
+  - Engage in corrupt activities
+    - Only 10% file ITR
+  - Threat to national interest and Security
+    - PINJARA TOD - involvement in CAA Riots
+    - GREENPEACE led protest against KUNDANKULAM nuclear plant
+    - MERCY CORPS fuelled extremism in North east
+  - Corporate - NGO nexus: Tax evasion
+    - Shell NGOs
+  - Financial mismanagement of funds
+    - FCRA, 2010 violation by AMNESTY INTERNATIONAL
+  - Information warfare -
+    - (NSA AJIT DOVAL - New frontier of warfare)
+  - Mushrooming in urban clusters
+    - SHILU AO COMMITTEE REPORT
+  - Political objectives, vested interests
+  - Adhoc working - lacks continuity in service delivery
+- **Way forward**
+  - Social stock exchange - ISHAAT HUSSAIN COMMITTEE
+  - S VIJAY KUMAR COMMITTEE
+    - ![[Z9 Obsidian-files/Media/DOCX/Governance and Social Justice.jpeg]]
+    - Social Impact Auditing
+    - Regulation of NGO
+    - Use IT
+    - NITI AAYOG to oversee the interface between NGO and government
+  - Government support - National policy on voluntary sector
+  - Regulatory methods to check politicization and criminalization of NGOs
+  - Need for independent audits
+  - Non interference in sovereign matters
+- **Conclusion**
+  - 2ND ARC REPORT terms NGO as 'partners in good governance'
+- **Microfinance** refers to practice of providing small, affordable credit without any collateral to poor to start a business or invest in income generating activities.
+- **SHG**
+  - A self-help group (SHG) is a small, voluntary, and **economically homogeneous** group, who come together to collectively address their socio-economic challenges.
+  - 12 Million SHGs, 10 crore people, 88% women - ECONOMIC SURVEY
+    - ![[Z9 Obsidian-files/Media/DOCX/Governance and Social Justice 3.png]]
+  - **Benefits**
+    - Empower women through
+      - Financial independence; collective strength enabling them to voice concerns
+      - Leadership and skill development
+      - Making informed choices, take control of their lives, decision on family planning and reproductive health
+    - Social Support - against domestic violence, dowry, child marriage etc.
+      - MISSION SHAKTI - SHG
+    - Skill development
+      - E.g. SEWA by ELA BHATT provide training in various trades
+    - Poverty Alleviation and Sustainable Development
+      - JAY AMBE SHG - promoting small enterprise like canteens, tailoring units, handicraft
+    - Health and nutritional awareness
+      - NFHS 5 - 50% reduction in maternal mortality and 33% reduction in IMR
+    - Financial Inclusion
+      - Access to credit, and financial services
+      - Encourage regular savings among members
+      - Only 4% bad loans
+    - Social security: SHG help members to access life insurance, health insurance, enrol in pension schemes
+    - Economic Empowerment
+      - E.g. KUDUMBASHREE - pooling savings and offering microloans
+    - Women Entrepreneurship
+      - **E.g. 'LAKHPATI DIDI' scheme**
+      - E.g. LIJJAT PAPAD
+    - Diversify sources of income for resilience
+    - Market linkages
+    - Break patriarchy
+    - Grassroots Governance and Community Development
+    - Leadership development
+      - KUDUMBASHREE in Kerala has seen women SHG members becoming elected in PRI elections
+    - Investment in income generating activities
+  - **Challenges**
+    - Social Barriers
+      - patriarchal mindset, Social norms, gender inequality, caste-based discrimination
+    - Regional disparities
+      - 60% poor in north India - only accounts for 20% loans
+    - Administration
+      - Lack of
