@@ -968,7 +968,7 @@ These 3 minor movements together are also known as the **MILANKOVITCH CYCLE**.
         -   It leads to formation of Fissure Basalt Plateau. They form only on land and not on the ocean floor.
         -   Mantle plumes are also known as **hot spots**.
 
-### HOTSPOTS
+## HOTSPOTS
 
 ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 7.jpeg>)
 
@@ -988,6 +988,429 @@ These 3 minor movements together are also known as the **MILANKOVITCH CYCLE**.
     -   **Basalt** is a mafic (mg-fe) extrusive igneous rock formed from the rapid cooling of lava rich in magnesium and iron exposed at or very near the surface of a terrestrial planet or a moon. More than 90% of all volcanic rock on Earth is basalt, and the eruption of basalt lava is observed by geologists at about 20 volcanoes per year.
 -   **Difference between mantle plume island and converging plate islands**
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+### DIFFERENCE BETWEEN MANTLE PLUME ISLAND AND CONVERGING PLATE ISLANDS
+
+|   |   |
+|---|---|
+|**Mantle Plume Island**|**Converging Plate Island**|
+|- - - Mantle plumes are in general away from plate margins or trenches.<br>        - Though there are some exceptions also like ICELAND (where 2 plates meet)|- - - In the case of the converging plate islands, the islands would always be parallel to as well as near the trenches.|
+|- - - Mantle plume islands are newer just above the mantle plume/ hotspots activity regions. They are also volcanically active.|- - - But when we go away from the hotspot activity region. The islands would be older and volcanically inactive having formed and moved away from the hotspot region due to the normal asthenosphere convection, gradually moving the plates.|
+
+### HOTSPOT ACTIVITY OVER THE CONTINENT CRUST
+
+- When the hotspot activity takes place over the continental crust, it generally leads to the formation of basalt lava plateaus and rarely leads to the formation of shield volcanoes depending upon the particular erupting magma.
+    - An example of mantle plume eruption over continental crust is the DECCAN BASALT LAVA plateau.
+- Around 65 million years before the present, when the INDIAN SUBCONTINENT crust region was moving from south to north, it was located over the REUNION hotspot which was active then also.
+    - The mantle plume lava eruption over the INDIAN SUBCONTINENT region led to the formation of the DECCAN BASALT lava plateau region as the INDIAN SUBCONTINENT moved further north and hence away from the REUNION hotspot.
+    - The mantle plume eruption stopped over the subcontinent and continued over the oceanic floor region.
+    - Gradually, the INDIAN SUBCONTINENT united with the EURASIAN SUBCONTINENT and at the hotspot region an island was formed known as REUNION ISLAND.
+    - Similar lava plateaus are also formed in other parts of the world such as the COLUMBIA SNAKE LAVA plateau in NORTH AMERICA, the PATAGONIA plateau in SOUTH AMERICA, the SIBERIAN plateau in RUSSIA and also the MONGOLIAN plateau in MONGOLIA and the ETHIOPIAN plateau from where the NILE river starts in AFRICA.
+
+## VOLCANOES
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 18.png>)
+
+- The term is derived from the word **Volcano** which means “flow of lava”.
+    - It is below the Earth’s surface in the lithosphere crust is also volcanism which is called as **Intrusive volcano**.
+    - Once it erupts over the land surface, it is the flow of lava over the land surface. It is called as **extrusive**.
+- In the region, below the earth surface normally there are layers of sediments forming the crust or lithosphere region.
+    - In this region, as the lava flows through, it can move broadly **either near horizontally** between the layers or it can move relatively vertically across the layers.
+
+### Horizontal formation:
+
+- The simplest one is **sills**.
+- Others are **Laccolith** - the large dome-shaped mound which has a level base fed by a pipe
+- **Phacolith** - lens-shaped
+- **Lopolith** - saucer shape
+- **Batholith** - huge mass of igneous rocks
+
+### Vertical formation
+
+- **Dyke**
+
+### Extrusive volcanoes
+
+- It is grouped on the basis of the frequency of volcanic activity
+    - They are divided into 3 parts
+    - **Active** which have erupted frequently in the recent past.
+    - **Dormant** volcanoes are known to have erupted or shown signs of possible eruption in the future.
+    - **Extinct** volcanoes are volcanic formations, but have not erupted in human history.
+    - But this is not a very technical classification rather based on observation.
+    - Also, any active volcano can become dormant or extinct volcano can suddenly erupt and become eruptive or can show the signs of eruption but become dormant.
+    - The other classification is relatively more scientific as shown below:
+
+### Nature of magma and shape of formation
+
+- **Asthenosphere convection and magma volcanoes:**
+    - Over ocean floor: Mid oceanic ridges
+    - Over the continents: It does not take place over the continent. ⭐ (This statement is generally true for mid-oceanic ridge volcanism, but asthenosphere convection is a global process that influences plate tectonics, which in turn causes volcanism at continental rifts or subduction zones. The phrasing "It does not take place over the continent" might be too absolute if referring to *any* magma volcanoes related to asthenosphere convection, as continental rifting (e.g., EAST AFRICAN RIFT VALLEY) is driven by asthenosphere convection and produces volcanoes.)
+- **The mantle plume magma volcanoes**
+    - They can take place over the both ocean and continents.
+    - Over the ocean, it will form a shield volcano that is dome-shaped.
+    - Over the continent, mostly, it is a basalt lava plateau.
+    - And rarely, it will form, shield volcano domes such as the MAUNA LOA and KILAUEA dome peaks on the HAWAIIAN ISLAND.
+- **3 type of volcanos - less acidic, moderate acidic and most acidic**
+    - Less acidic — **Ash and cinder volcano**
+        ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 8.jpeg>)
+- Moderate acidic — **Strato volcano** - all the major volcanic peaks in the world
+- Most acidic —- **caldera cone volcanos** (upper part fully blown away during eruption, normally hollow region turns into lake called as crater or caldera)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 9.jpeg>)
+
+### Distribution of volcanoes
+
+- Volcanoes are generally found more along the plate margins such as converging and diverging plate boundaries and relatively lesser in the interiors of plates where they are found around the mantle plume region.
+    - When we see the global distribution of volcanoes, we find that the margins of the PACIFIC PLATE contains 2/3rd of the world's volcanoes.
+    - It is also known as the **PACIFIC RING OF FIRE** with more than 250 active volcanoes in the region.
+    - The other region known for volcanic activity includes the extension of the CIRCUM-PACIFIC BELT up to the ANDAMAN NICOBAR ISLANDS.
+    - Active volcanoes are also found in the EAST AFRICAN RIFT VALLEY, MEDITERRANEAN SEA region as also in the CARIBBEAN ISLANDS and some active volcanoes along the MID-ATLANTIC region.
+    - At some places, we also find hot water bodies which are related to underground volcanic regions of the present or past.
+    - These regions are known as natural hot water body regions, **geysers** or **hot springs**.
+
+## EARTHQUAKES
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 19.png>)
+
+- Surface waves are created when body waves hit the surface of the earth.
+    - These waves are created like waves on a water surface created due to a stone dropping in water.
+    - Surface waves travel only on the surface of the earth.
+    - There are two types of surface waves, the **RAYLEIGH WAVES** and **L WAVES** (**LOVE WAVES**).
+    - These surface waves are transverse waves where RAYLEIGH travels like water waves.
+    - Whereas LOVE WAVES travel snake-like, they are the reason for most of the destruction that we see during the earthquake.
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 10.jpeg>)
+
+- Earthquakes are also classified on the basis of the depth of their focus from the epicentre.
+    - The focus shallower than 70 km is known as **shallow-focus earthquake**, which has its effect only up to a narrow region.
+    - The second type of earthquake is between 70-300 km, known as **inter-mediate earthquakes**, they have their effect over a relatively inter-mediate region.
+    - Earthquakes with a focus deeper than 300 km are known as **deep-focus earthquakes**, they affect a relatively much wider region.
+    - Earthquakes are created due to seismic activities causing a sudden release of a considerable amount of energy in the earth's interior where the interior rocks surpass their elastic limit releasing considerable seismic energy creating seismic waves causing earthquakes.
+
+### Causes of earthquakes
+
+- Earthquakes can because naturally due to tectonic activities such as plate movement, mantle plume activities, volcanic activities, meteorites falling on earth can create huge earthquakes, landslides.
+- Human-induced earthquakes - due to mining activities when hollow regions collapse, groundwater extraction, construction and blasts and related activities, reservoir induced seismicity, nuclear explosion.
+
+### Measurement of seismic activity
+
+- We have two types of scales to measure seismic activities.
+    - **Intensity-based scale** and **measured amplitude** were used for calculated magnitude.
+    - Intensity-based scale is how strong the earthquake is as we feel it, it is subjective hence not very scientific.
+    - **Amplitude based** is based on measured shaking of the earth called amplitude, with a machine called a **seismograph**.
+    - We have magnitude-based scales - **RICHTER** and **moment-based**.
+    - We have two intensity-based scales- the **MERCALLI** scale (derived by MERCALLI) and **MEDVEDEV**.
+    - The MERCALLI scale was the first scale used for measuring earthquakes in 1902 and the scale is divided into twelve scale levels, ranging from level one which is an earthquake not even felt by human beings.
+    - The strong earthquakes as per this are from level-6 and extreme earthquakes are from level-12 where level 12 implies total destruction and ground seems to move like a wave and things are up in the air.
+    - But, the MERCALLI scale has a limitation because it is based on the perception of the people.
+
+#### MSK Scale
+
+- It is a macro - seismic scale used for giving national-level data of earthquakes dividing the regions into different earthquake-prone zones.
+    - For example, the government of INDIA has divided the whole country into four earthquake-prone zones starting from zone- II up to zone- V.
+    - Earlier we had a zone-I which was later on merged with zone-II.
+    - These 4 zones of INDIA are on the basis of level - 5-6 up to level 9 of the MSK scale.
+    - Zone 5 is the most destructive earthquake-prone zone in INDIA.
+        ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 11.jpeg>)
+
+#### Richter scale
+
+- The RICHTER scale is a more scientific scale.
+    - The magnitude is from 1-10.
+    - Magnitude is a measure of strength or amount of energy released during an earthquake.
+    - Each number increase in magnitude on the scale implies 10 times increase in the amplitude of the earthquake, which also means a nearly 31-32 times energy release increase as the magnitude scales are logarithmic scales.
+
+#### Moments Scale
+
+- The RICHTER scale has a limitation in that it is not very accurate in measuring earthquakes of magnitude more than 8 and hence a moment scale is developed for measuring earthquakes of more than 8.
+    - The moment scale is based on the total moment released of an earthquake, where the moment is the product of the distance that fault moves due to the earthquake and the energy required to move that distance.
+
+### Earthquake-prone regions in the world
+
+- On average, more than 50000 earthquakes happen annually.
+    - Nearly, 70% of all earthquakes occur in the CIRCUMPACIFIC region.
+    - Nearly 20% of earthquakes occur in the MEDITERRANEAN HIMALAYAN region from the ALPS up to the HIMALAYAS and also the mountains in CHINA, north of TIBET.
+    - The rest of all the regions on the earth get only the remaining 10% of the earthquake.
+    - The most intense earthquake ever measured in the world was in the 1960s in CHILE at a place called VALDIVIA with a magnitude of 9.5.
+    - One of the most intense regions in INDIA was in 1934 near the NEPAL-BIHAR border with 8.4 points.
+
+## TSUNAMI
+
+- The word **Tsunami** has a JAPANESE origin, meaning harbour waves.
+- But, in reality, the word tsunami is a misnomer because tsunami waves are not harbouring waves and are not created at the harbours but rather are created in deep oceans and open ocean regions.
+
+### Causes tsunami
+
+- Tsunami waves can be created on the deep ocean floors due to tectonic activities, can be caused by explosive Volcanoes on the ocean floors, also can be caused by deep water landslides and also by meteorite hits or by a nuclear explosion in the oceans also.
+- For a tsunami wave to be formed an earthquake of magnitude around 6.5 or is required as lower magnitude earthquakes do not cause a tsunami in general.
+
+### How the Tsunami is formed
+
+- For tsunamis to form we need a decent magnitude earthquake (magnitude equal to more than 6.5).
+    - Such a seismic activity leads to a tremendous amount of sudden release of energy and this released energy travels in the deep ocean as waves gradually move up to the surface of the ocean in the open ocean region.
+    - The Tsunami waves on the surface of the ocean in open oceans are very wide one wave from a very little height but very high speed which means very high kinetic energy
+    - This is due to the low friction provided by water.
+    - As the waves travel closer to the ocean coast, the ocean depth decreases and the waves start getting friction from shallower water.
+    - Hence, the waves speed starts to decrease and the high kinetic energy gradually starts to change into higher potential energy which means the higher height of the waves with lesser speed.
+    - Hence, the tsunami wave takes more height near the shallower coast and despite the lower speed, as compared to speed in the open ocean, away from the coast.
+    - Still, the speed on the coast is high enough to flood the whole coast and cause enough damage to humans before they could evacuate the coast.
+    - The tsunami wave height near the coast are up to 30 meters high and the wave speeds are up to 50 km per hour.
+    - This is why tsunami is so destructive.
+    - When a tsunami is created more than one tsunami wave is created.
+    - Every tsunami wave has a low part and a high part.
+    - During high tsunami waves, flooding of the coasts generally takes place due to fast-moving waves.
+    - Whereas the low waves generally lead to the ocean water receding and hence exposing the coastal continental shelf.
+    - People who do not understand this phenomenon might move towards the exposed continental shelf during the low tsunami wave without realising that a following high tsunami wave will succeed the low tsunami wave.
+    - Hence, again it will flood the coast, causing damage and loss of life.
+    - Hence, during a tsunami, one should not move toward the continental shelf even if the water is receding backwards.
+
+### Tsunami Genesis
+
+- **Tsunami genesis** is the process of formation of tsunamis and normally plate margins in the deep open ocean regions are considered as tsunamigenic regions.
+    - Such as the INDONESIAN tsunamigenic region, tsunamis form can affect INDIA'S eastern coast as well as MAKRAN, a tsunamigenic region near PAKISTAN-IRAN border can affect INDIA’S western coast.
+
+## GEOMORPHIC FORCES AND PROCESSES
+
+- **Geomorph** means changing the earth surface.
+- **Endogenic forces** - un-levelling the earth surface.
+- **Exogenic forces** - levelling the earth surface.
+- Endogenic and exogenic forces together are called **geomorphic processes/forces**, because they change the earth's surface continuously.
+
+### Types of forces
+
+- Sudden catastrophic forces and slow Diastrophic forces.
+    - Sudden - earthquakes and volcanoes.
+    - Diastrophic - Vertical and horizontal.
+        - Vertical forces (**Epeirogenic forces**)- Uplifting or subsiding. - mainland uplifting - continental building
+        - Horizontal forces (**orogenic forces**) - compressing and tensing. - mountain building through severe folding
+        - Earthquakes - involving local minor movements
+        - Plate tectonics - horizontal movements of crustal plates.
+
+### Endogenic processes
+
+- Diastrophism
+- Volcanism
+
+### Exogenic forces
+
+- Energy - solar energy.
+
+|   |   |   |
+|---|---|---|
+|**Forces**|**Agent**|**Processes**|
+|•        Running water|•        rivers and rains|Glacial process, fluvial process (rivers)|
+|•        ocean waves|•        waves|Waves process|
+|•        groundwater force|•        groundwater|Karst process|
+|•        wind force|•        winds|Aeolian processes|
+|•        glacial|||
+
+- The process of levelling the region is called **gradation**.
+    - Gradation is achieved by **degradation** and **aggradation**.
+    - Degradation of uplifted regions.
+    - Aggradation of depressed regions.
+
+### How is gradation achieved
+
+- Geomorphic processes are of two types exogenic and endogenic.
+    - The exogenic geomorphic process is gradation which involves degradation and aggradation which is achieved by **denudation**.
+    - The process of gradation involves 5 sub-processes.
+        - **Weathering** - breaking at the location. (in-situ).
+        - **Mass movement** - Moving broken material down the slope using gravity.
+        - **Erosion** - Breaking of material due to friction is called erosion.
+        - **Transportation** - by agents - (rivers, glaciers winds, waves, ground water)
+        - **Deposition**
+
+Degradation and aggradation is achieved by denudation
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 20.png>)
+
+#### Sub-processes of denudation
+
+##### Weathering
+
+- Weathering basically means breaking at the site.
+    - Three types of weathering take place in nature.
+        - **Physical weathering** - due to physical processes.
+        - **Chemical weathering** - involves chemical reactions and chemical processes.
+        - **Biological weathering** - involves biological reactions and biological processes.
+
+###### Physical weathering
+
+- Physical weathering takes place due to - loading or unloading, which means when rocks are loaded by other rocks they break under pressure.
+    - Similarly, rocks that were stable under pressure might break down when the overlying rocks are unloaded.
+- Temperature changes and related expansions.
+    - Temperature changes may cause expansions and contraction in the rock surfaces.
+    - If rock is broken layer by layer it is called **exfoliation**.
+- Freezing and melting are also called **thawing**.
+    - In thawing the water accumulated in the cracks freezes during very cold temperatures and due to freezing, ice tends to expand and hence it puts pressure on the rocks.
+    - Hence by putting pressure like this the rocks gradually break.
+- Salt also on absorbing water swells whereas on drying it contracts.
+    - Hence when salts in the rocks tend to become moist, they put pressure on the rocks and break them whereas on drying the pressure reduces.
+
+###### Chemical weathering
+
+- Chemical weathering involves different chemical reactions which take place with the rocks and gradually break them such as oxidation of rocks, reduction of rocks, solution etc.
+
+###### Biological weathering
+
+- It involves the actions of plants and animals that break the rock.
+    - Decaying of plants in the rocks breaks the rock.
+    - Roots grow in the rocks and break them.
+    - Animals decay on the rock, it weathers or breaks the rocks.
+    - Some animals can dig or break rocks.
+    - Humans, mine, constructs which contribute to the breaking of the rocks.
+
+##### Mass movement and mass wasting
+
+- **Mass movements** (also called **mass-wasting**) is the down-slope movement of a loose uncemented mixture of soil and rock particles that covers the Earth's surface by the force of gravity without the aid of a transporting medium such as water, ice, or wind.
+    - Types of mass movements- Slow mass movements and rapid mass movements.
+        - The slow mass - movements have two parts, soil creep and solifluction.
+        - Slow mass movement is the imperceptible slow movement of weathered soil material downslope.
+
+###### Slow mass movement
+
+- The slow mass movement is generally not perceptible to our eyes and rather we realise that it is taking place only when over a long period the removed material or the accumulated material become the evidence.
+    - The slow mass movements are further divided into **soil creep** which takes place in water unsaturated regions and hence there is no excessive water in the soil.
+    - The presence of water lubricates the soil and makes the soil movement easier.
+        - **Solifluction** takes place similar to soil creep with the only major difference being that here the soil is saturated with water and hence has surplus water available.
+
+###### Rapid movements
+
+- **Earth-flow** takes place when the soil is moving visibly but the soil is not water-saturated.
+    - The soil is held by some vegetation cover.
+- In the case of **mud-flow**, the soil is relatively saturated with water and the soil movement takes place in the absence of vegetation cover.
+- A huge amount of snow slipping of a slope at a very fast pace is called a **snow avalanche**.
+- In a **debris avalanche**, debris means the waste of weathered broken rock material accumulated in the upper parts of hills or mountains.
+    - When such a huge amount of debris tends to slip over the hill slope at a relatively fast speed we call it, debris avalanche.
+    - It is like a snow avalanche but the snow is replaced by debris.
+
+##### Landslide
+
+- It takes place when a part of the land on the hill weathers and tends to slip off on a relatively large scale.
+    - This normally happens when either due to earthquakes or large explosions such as dynamite explosions or excessive rainfall causing the water to seep deep into the hills.
+    - Hence a relatively deeper and bigger part of the slope breaks off.
+- We get a lot of earthquakes and explosions in the HIMALAYAS due to construction and also due to heavy rains in some areas.
+- In the WESTERN GHATS, though earthquakes do not take place, heavy rainfalls are a major cause of landslides especially in the southern hills like NILGIRIS.
+
+##### Transportation and erosion
+
+- 5 agents of erosion assisted by gravity - Rivers and rains, glaciers, ocean waves, groundwater and winds.
+
+###### Type of erosion
+
+**Corrasion and Abrasion**
+
+- In this relatively bigger rock parts such as gravel, pebble etc are rubbed in motion by relatively smaller parts such as sand or silt and the bigger parts get broken into smaller parts.
+    - This takes place in all types of in all five agents of erosion.
+
+**Attrition**
+
+- In attrition, similar size rock parts rub against each other while in motion and break into relatively smaller parts.
+    - It also takes place in all 5 agents.
+
+**Corrosion**
+
+- It takes place in water-based mediums, such as fluvial or river water, glacial water, ocean wave movements and groundwater.
+    - It does not take place in aeolian erosion, especially when the wind is dry.
+
+**Hydraulic action**
+
+- It takes place when relatively fast-moving water due to its flow-related pressure tend to break down rocks and their parts.
+    - This takes place mostly in ocean waves and river water breaking coastal rocks and rocks in waterfalls.
+
+**Plucking**
+
+- This takes place only in glacial agents which tends to pluck the rocks and form tills.
+
+**Deflation**
+
+- Deflation takes place only due to winds.
+
+## LANDFORMS
+
+- **Landform** basically means any unique feature on the land which we can see, we call as landforms.
+- The five agents form denudation from their own unique landscapes, which are the pieces of evidence that in a given region which agent is dominantly forming landforms.
+- Groundwater landforms are mostly formed in calcium-rich rock regions because calcium dissolves in water and hence gets eroded and forms different landforms.
+    - These calcium-rich regions are also called limestone regions.
+    - Such limestone landform regions are also called **karst regions**.
+- The five agents of denudation are mainly associated with the erosional processes and the depositional processes and hence these five agents of denudation mainly form different landforms either by erosion or by deposition.
+- Hence all the landforms due to exogenic geomorphic processes can broadly be grouped into erosional landforms or depositional landforms due to one of the five agents.
+
+#### _Endogenic geomorphic landforms_
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 21.png>)
+
+#### _Exogenic geomorphic landforms_
+
+- Fluvial (river) Erosional and depositional landforms.
+- Aeolian (wind) Erosional and depositional landforms.
+- Glacial Erosional and depositional landforms.
+- Coastal waves Erosional and depositional landforms.
+- Karts Erosional and depositional landforms.
+
+##### Landforms of fluvial (Riverine) Process
+
+- Rivers are natural medium or large streams of water flowing on the land surface, carrying water for the most part of the year, if not all part of the year.
+    - They generally start from high altitude places such as mountains or plateaus, flowing due to gravity to the lowest place possible which is generally the mean sea level then the river flows into the sea and that location is called the mouth of the river.
+- But, some rivers do not reach up to the ocean and water dries before they reach the ocean such as the GHAGHRA river in HARYANA or LUNI river in RAJASTHAN. These are called **inland drainage rivers**.
+- Every river has a course of life generally starting from high elevation regions and ending in the oceans.
+    ![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 12.jpeg>)
+
+###### Phases of rivers
+
+- **Youthful stage** - Fast erosion. First phase.
+- **Moderate** - Both erosion and deposition.
+- **Mature stage** - Finest silt is found here. More deposition.
+
+###### What all materials are carried by the river
+
+- When these rivers come to the mature stage they start to deposit first the boulder(big rocks), then the rocks, pebbles(rounded rocks) and gravels(1-2 mm), sand(0.05-1 mm), silt(0.05-0.005 mm), clay( <.005 mm) — this are the unresolved matters.
+- Different salts are also present in river water (very low concentration) and they are dissolved in water.
+- Parallel to the foothills of the HIMALAYAS towards to INDIA, NEPAL-BHUTAN side we find the initial deposits of the HIMALAYAN rivers, namely - boulders, rocks, pebbles and gravels. — This region is known as the **Bhabar region**. — this is where the river disappears between rocks (flowing below the rocks on the ground surface).
+    - The BHABAR will continue up to ASSAM.
+    - Hence this is Not very fertile, and only deep-rooted trees etc grows here.
+- South of the BHABAR region, we find another parallel belt having deposits of sand and silt, it is called the wet or **Terai region**.
+    - The TERAI region has a width of 10 to 20 km.
+    - It continues from KASHMIR up to ASSAM.
+    - This is a naturally dense vegetated region as the river reappears over the sandy silty soils.
+- As the tributary rivers continue to flow and meet their main rivers, They tend to deposit some of the silt on their way as also they tend to pass on their remaining silt and clay to the main river.
+- The north-western part where the INDUS, YAMUNA and GANGA flow, region is relatively higher in altitude.
+    - Hence slightly more slowly and hence deposited by the sand and silt of INDUS tributaries and GANGA and YAMUNA.
+    - It is known as the **Bhangar region**, sandy-silty and coarser soil.
+- The central and eastern part of GANGA and where it meets the BRAHMAPUTRA around ASSAM-BANGLADESH.
+    - The region is relatively low-lying and hence has finer silt and clay deposits known as the **Khadar region**.
+- This way the BHABAR, TERAI, BHANGRA and KHADAR together make the NORTH INDIAN PLAINS stretching from the JAMMU KASHMIR region up to the ASSAM region south and parallel to the HIMALAYAS.
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 22.png>)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 23.png>)
+
+###### Deltas
+
+- A river delta is a landform created by the deposition of sediment that is carried by a river as the flow leaves its mouth and enters slower-moving or stagnant water.
+    - This occurs where a river enters an ocean, sea, estuary, lake, reservoir, or another river that cannot carry away the supplied sediment.
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 24.png>)
+
+##### Ground water
+
+- Erosional - pools, sinkholes, Lapies, Limestone pavements.
+- Depositional - stalactites(hangs), stalagmites(rises up) and pillars
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 25.png>)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 26.png>)
+
+##### Glacier
+
+- Erosional - Cirque, Horns and Serrated Ridges, Glacial Valleys/Troughs
+- Depositional - Moraines, Eskers, Outwash Plains, Drumlins
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 13.jpeg>)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 14.jpeg>)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 27.png>)
+
+![Physical Geography - भौतिक भूगोल](<Z9 Obsidian-files/Media/DOCX/Physical Geography - भौतिक भूगोल 28.png>)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
     
