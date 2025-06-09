@@ -363,3 +363,84 @@
         -   Habitat Creation
             -   E.g. deep-sea brine pools and hydrothermal vents along mid-ocean ridges
 
+## Climatology
+### Factors/elements of Weather and Climate
+1.  Temperature.
+2.  Pressure.
+3.  Winds.
+4.  Humidity - Precipitation, Clouds, Condensation
+5.  Sunlight.
+
+### Earth’s Atmosphere – Composition & Structure
+1.  ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 6.png>)
+2.  **Troposphere** determines weather processes
+    -   Global wind circulation
+    -   Temperature gradient
+    -   Geochemical cycles -
+        -   Water cycle - vapor and cloud formation
+        -   Carbon cycle - respiration, photosynthesis
+    -   Weather system - cyclones, fronts, anticyclones, etc. develop here
+    -   Jet streams affects temperature and precipitation patterns
+    -   Insolation and absorption of outgoing terrestrial radiation
+    -   Heat Exchange : greenhouse effect
+
+### Solar Radiation, Heat Budget & Temperature
+1.  **Heat Budget**
+    -   **Vertical heat budget**
+        -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 7.png>)
+    -   **Horizontal heat budget** -
+        -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 8.png>)
+2.  **Factors affecting insolation** - Rotation, Revolution, Axial tilt, Aspect, clouds, sunspots
+3.  **Temperature**
+    -   latitude
+    -   altitude
+    -   distance from the sea
+    -   air-mass circulation
+    -   ocean currents
+    -   local aspects - Slope, Vegetation, surface
+
+### Atmospheric Circulation & Weather Systems
+1.  **Winds have forces** -
+    -   pressure gradient force
+    -   frictional force
+    -   Coriolis force
+    -   gravitational force acts downward
+    -   ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 9.png>)
+2.  **Temperature inversion**
+    -   **Radiation** - Cold winter nights, clear sky, still air.
+    -   **Subsidence** - Valley breeze (day -> air moves up the valley), mountain breeze(night -> cool air -> down the valley)
+    -   **Marine** - Land breeze (night), sea breeze(day)
+    -   **Frontal**
+        -   **Air mass**: homogeneous, little horizontal variation in temperature and moisture
+            -   Maritime tropical (mT)
+            -   Continental tropical (cT)
+            -   Maritime polar (mP)
+            -   Continental polar (cP)
+            -   Continental arctic (cA)
+        -   **Fronts**: (middle latitudes, steep gradient in temperature and pressure)
+            -   (a) Cold; (b) Warm; (c) Stationary; (d) Occluded
+
+#### Precipitation
+-   Sleet
+-   Hail
+-   Snow
+
+#### Cyclones
+
+| _Extra Tropical Cyclones_ | _Tropical Cyclones_ |
+| :--- | :--- |
+| - Clear frontal system<br>- Cumulus clouds<br>- Large area, land and sea<br>- Mid and high latitude<br>- Anticlockwise cyclonic circulation<br>- West to east | - Violent storms, heavy rainfall<br>- Higher wind velocity<br>- cumulonimbus clouds<br>- East to west<br>- Originate over Sea<br>- Cyclones (Indian Ocean), Hurricanes (Atlantic), Typhoons (Pacific and South China Sea), and Willy-willies (Australia). |
+
+##### Conditions
+-   Large sea surface ( >27° C)
+-   Coriolis force
+-   Small variations in the vertical wind speed
+-   A pre-existing weak- low-pressure area or low-level-cyclonic circulation
+-   Upper level atmospheric divergence
+
+![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 10.png>)
+
+1.  **Tornadoes** generally occur in middle latitudes. The tornado over the sea is called _water spouts_.
+
+### World Climate
+1.  ![Geography](<Z9 Obsidian-files/Media/DOCX/Geography 11.png>)
