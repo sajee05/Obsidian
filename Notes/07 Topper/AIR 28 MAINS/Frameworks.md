@@ -4,23 +4,23 @@ Sunday, 11 September 2022
 
 7:52 PM
 
-|   |   |
-|---|---|
-|||
-|Filler lines||
-||- - Complex issue and require nuanced examination<br>    - Tumultuous journey<br>    - Complex interplay|
-|Synonyms||
-|Way forwards|- - Prospects<br>    - Looking ahead|
-|NO|- - Unlikely<br>    - Far-fetched|
-|YES|- - Likely<br>    - Probably<br>    - Expected<br>    - Possibly|
-|Multiple|- - Multifaceted<br>    - Multidimensional<br>    - Numerous<br>    - Manifold<br>    - Myriad|
-|GS4 quote|Justification for Statement<br><br>Key Aspects of the Quote|
-|Antonyms||
-|||
-|Critical Analysis||
-||- - Simplistic causality<br>        - Oversimplification - …. Is complex interplay of multiple factors<br>    - Overemphasis on something|
-|मस्ट यूज़||
-||- - Comprehensive and inclusive<br>    - Collaborative and holistic approach<br>    - Comprehensive and multi-dimensional approach<br>    - Combination of economic, strategic, political, and cultural factors|
+|                   |                                                                                                                                                                                                                 |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                   |                                                                                                                                                                                                                 |
+| Filler lines      |                                                                                                                                                                                                                 |
+|                   | - - Complex issue and require nuanced examination<br>    - Tumultuous journey<br>    - Complex interplay                                                                                                        |
+| Synonyms          |                                                                                                                                                                                                                 |
+| Way forwards      | - - Prospects<br>    - Looking ahead                                                                                                                                                                            |
+| NO                | - - Unlikely<br>    - Far-fetched                                                                                                                                                                               |
+| YES               | - - Likely<br>    - Probably<br>    - Expected<br>    - Possibly                                                                                                                                                |
+| Multiple          | - - Multifaceted<br>    - Multidimensional<br>    - Numerous<br>    - Manifold<br>    - Myriad                                                                                                                  |
+| GS4 quote         | Justification for Statement<br><br>Key Aspects of the Quote                                                                                                                                                     |
+| Antonyms          |                                                                                                                                                                                                                 |
+|                   |                                                                                                                                                                                                                 |
+| Critical Analysis |                                                                                                                                                                                                                 |
+|                   | - - Simplistic causality<br>        - Oversimplification - …. Is complex interplay of multiple factors<br>    - Overemphasis on something                                                                       |
+| मस्ट यूज़         |                                                                                                                                                                                                                 |
+|                   | - - Comprehensive and inclusive<br>    - Collaborative and holistic approach<br>    - Comprehensive and multi-dimensional approach<br>    - Combination of economic, strategic, political, and cultural factors |
 
 |   |   |
 |---|---|
