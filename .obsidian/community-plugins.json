@@ -41,5 +41,6 @@
   "calendar",
   "obsidian-tasks-plugin",
   "obsidian42-brat",
-  "phrasesync"
+  "phrasesync",
+  "obsidian-linter"
 ]
