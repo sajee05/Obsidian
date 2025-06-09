@@ -1,0 +1,818 @@
+## Vocab
+-   Digitization of traditional knowledge
+-   PPP in R&D
+
+## Frameworks
+-   Measures
+    -   Reverse engineering
+    -   Transfer of technology agreements
+    -   Research Parks and Technology Business Incubators (TBIs)
+-   **Government initiatives**
+    -   IMPRINT (Impacting Research Innovation and Technology) initiative
+    -   Atal Tinkering Labs
+-   General way forward
+    -   Fair use
+    -   Prevent Plagiarism
+-   Government initiatives
+    -   National Research Foundation - 50000 crore funding to research
+    -   National Quantum Mission - 6000 crore - aimed to build 1000 q-bit computer
+    -   Rashtriya Vigyan Puraskar
+    -   India AI Mission
+    -   Semiconductor mission
+-   Article 51A(j) to strive towards excellence in all spheres
+
+## S&T Developments & their Applications & Effects in Everyday Life
+-   Dimensions of Everyday life
+    -   Communication: Internet and smartphones
+    -   Transportation: Electric vehicles
+    -   Healthcare: vaccines
+    -   Education: Online learning platforms
+    -   Energy: renewable energy
+    -   Food: Fortified foods
+    -   Water resource management: Reverse osmosis systems; rainwater harvesting
+    -   Entertainment: television
+    -   Environment: carbon capture and storage technologies
+    -   Agriculture:
+        -   GM Crops
+        -   Farm mechanization
+        -   Chemical like fertilizers and pesticides
+        -   irrigation technology and electric pumps
+        -   Precision agriculture
+    -   Manufacturing
+    -   Services
+-   Chemicals in Food
+    -   Artificial Sweetening Agents
+    -   Food Preservatives
+-   Drugs
+    -   Antacid
+    -   Antihistamines
+    -   Neurologically Active Drugs
+        -   Tranquilizers
+        -   Analgesics
+    -   Antimicrobials
+        -   Antibiotics
+        -   Antiseptic and Disinfectant
+        -   Anti-Fertility Drugs, etc.
+-   Cleansing Agents
+    -   Soaps
+    -   Synthetic detergents
+-   Glass
+-   Water Softener
+-   Water Purification/Disinfection
+-   Microwave Oven, etc.
+-   Blue LEDs
+    -   Impact on everyday life
+        -   Energy Efficiency: reducing electricity consumption and lowering carbon emissions.
+        -   Longer Lifespan: reducing the frequency of replacements and associated costs
+        -   Improved Lighting Quality: flicker-free illumination.
+        -   Technological Advancements: such as LCD and OLED screens used in smartphones, televisions, and computers.
+        -   Environmental Benefit: reduced GHG emission
+        -   Medical Applications: phototherapy for neonatal jaundice.
+        -   Displays and Screens
+-   Drones
+    -   National Drone Policy 2021
+    -   E.g. TAPAS - DRDO
+-   Technology used during **Covid 19**
+    -   Contact tracing - GPS, Bluetooth, QR Code
+    -   Telemedicine
+    -   Work from home
+    -   Virtual learning
+    -   Supply chain management
+-   Bose-Einstein statistics and revolution in the field of physics
+    -   New State of Matter: Bose-Einstein Condensates that is super cool and super unexcited
+    -   Development of Quantum Mechanics
+    -   Help in explaining superfluidity and superconductivity
+        -   MRI machines and maglev trains
+    -   Development of quantum computing
+        -   Quantum bits (qubits) based on bosonic system
+    -   Astrophysics: study of black holes, neutron stars, and the early universe
+    -   Laser Technology
+    -   Particle Physics
+    -   Educational and research
+
+## 4th Industrial Revolution
+-   Cyber Physical Systems
+    -   Growing interconnectedness, smart automation and blurring line between physical, digital and biological world.
+    -   Rapid change in technology, industry and society in 21st century.
+-   Technologies
+    -   AI, Robotics, Internet of Things (IoT), Blockchain, 3D printing
+    -   Augmented and Virtual Reality (AR/VR)
+    -   Advanced Materials
+    -   Clean Energy Technologies
+    -   Edge Computing
+    -   Autonomous Vehicles
+    -   Drones
+-   Significance
+    -   societal order, changing world order, emergence of new leaders as seen from past, who would exercise more hegemonic power, authority and rising inequality, basically Darwinism.
+
+## Medicine
+-   **Application** of medical science in daily life
+    -   Health Monitoring Devices - wearable devices - tracks heart rate, blood pressure, and activity levels.
+    -   Assistive Devices - prosthetics, mobility aids
+    -   Disease Prevention and Management
+    -   Diagnostic Technologies - X-rays, CT scans, and MRI, blood, urine, and genetic analysis.
+    -   Telemedicine
+    -   Medical Treatments
+    -   Mental Health Support - psychotherapies, medication
+    -   Health Education and Awareness
+    -   Research and Innovation
+-   Indian Vaccines
+    -   Covid shield - Oxford AstraZeneca - weakened corona virus
+    -   COVAXIN - Bharat Biotech + ICMR - Inactivated vaccine
+    -   Gemcovac-19 - mRNA vaccine
+
+## Achievements of Indians
+-   Mathematics - S RAMANUJAN
+-   Agriculture - Dr. MS SWAMINATHAN (Green Revolution)
+-   CV **RAMAN** - Nobel Prize in Physics in 1930 - Raman scattering (Bharat Ratna)
+-   Acharya **JAGADISH CHANDRA BOSE** - Physics, biology, and early telecommunications. Radio waves and plant physiology.
+-   **SATYENDRA NATH BOSE** - Physicist - Bose-Einstein statistics -> quantum statistics -> quantum physics
+-   **MEGHNAD SAHA** - Astrophysicist and mathematician - Saha ionization equation.
+-   Homi Jehangir **BHABHA** - Nuclear physicist - "father of Indian nuclear program"
+-   Subrahmanyan **CHANDRASEKHAR** - Astrophysicist - Chandrasekhar limit
+    -   Maximum mass that a white dwarf star can attain without collapsing under its own gravity ( = 1.44*Msun)
+-   A.P.J. Abdul **KALAM** - Aerospace engineering - India's first satellite launch vehicle and ballistic missile systems. (Bharat Ratna)
+-   Vikram **SARABHAI** - Physicist and astronomer -> 'father of India's space program' -> founded ISRO
+-   Mokshagundam **VISVESVARAYA** - Engineer -> irrigation systems, dam construction, urban planning. (Bharat Ratna)
+-   Har Gobind **KHORANA** - Nobel Prize in Medicine in 1968, Biochemist -> genetics and molecular biology, DNA and the genetic code.
+-   Tessy **THOMAS** - "Missile Woman of India" -> Project Director for Agni-IV, Agni-V
+-   C.N.R. **RAO** - Chemist -> field of materials chemistry
+
+## Indigenization of technology and Developing new technologies
+-   Indigenization of technology means modifying existing technology to meet the local needs.
+-   Examples
+    -   Indigenous cryogenic engine used in the third stage of GSLV.
+-   Benefits
+    -   Economic
+        -   Reduced dependence on imports can save foreign exchange
+        -   Job creations and industrial growth
+        -   Enhances R&D base in India
+    -   Social
+        -   Increase accessibility and affordability of technology for local people
+        -   Promote innovation and entrepreneurship
+    -   Environmental
+        -   Adapt to and mitigate impact of climate change
+-   Challenges
+    -   High initial investment
+    -   Require long term commitment and skilled personnel
+    -   Competition from established players
+-   Areas of Indigenization of technology
+    -   Defence
+    -   **Nuclear**
+-   India stack and digital public goods
+    -   Digital public goods are digital technologies and software tools that are provided without profit motive and for larger well being of society.
+-   Way forward
+    -   National Level Indigenization Policy
+
+## SPACE
+-   McKinsey estimates the size of the global space industry to be **$630 Bn in 2023.** It is expected to grow 9% per annum and reach $1.8 Tn by 2035.
+    -   **India’s space economy,** valued at **$8.4 Bn in 2023**, currently accounts for 2-3% of the global space economy.
+-   United Nations Office for Outer Space Affairs (UNOOSA)
+-   Outer space treaty, 1967
+-   Nuclear Thermal and Nuclear Electric Propulsion rockets
+-   Indian Space Policy 2023
+-   The Space Liability Convention of 1972
+-   Zero Debris Charter
+-   Stakeholders
+    -   ISRO
+    -   IN-SPACe: Indian National Space Promotion and Authorisation Centre
+        -   For promotion of private entities
+    -   NSIL - New Space India Limited: commercial arm of ISRO
+-   **Advantages | Importance** of having a space programme
+    -   Technological Advancement
+        -   aerospace, communications, materials science, robotics
+        -   fosters innovation and contributes to the growth of high-tech industries within the country.
+    -   National Security
+        -   Satellite-based communication, surveillance, intelligence gathering, and missile defence systems
+            -   E.g. NAVIC
+    -   Scientific Research and Exploration
+        -   Astronomy, astrophysics, planetary science, and Earth observation.
+        -   Exploration of other celestial bodies
+            -   E.g. Chandrayaan, Mangalyaan
+    -   Socio-Economic growth
+        -   Satellite launches, satellite services
+            -   E.g. airtel-one web
+        -   remote sensing applications
+            -   Gramsat
+        -   Facilitating schemes like SVAMITVA, PM Gati Shakti, Smart Cities, Agriculture, Water Mapping
+    -   Disaster Management and Communication
+    -   International Prestige and Collaboration
+        -   E.g. LUPEX, NISAR
+    -   Education and Inspiration:
+        -   Careers in science, technology, engineering, and mathematics (STEM)
+-   **Challenges and consideration**
+    -   Cost and Resources: require significant financial investment and skilled personnel
+    -   Technological hurdles
+    -   Long term commitment: require sustained funding and support
+-   **Achievements of ISRO**
+    -   Mars Orbiter Mission
+    -   Chandrayaan
+    -   LVM3 (GSLV-III)
+    -   Indian Cryogenic Engine
+    -   NAVIC
+    -   Aditya-L1
+-   Upcoming missions
+    -   Gaganyaan
+    -   NISAR
+    -   MOM2
+    -   Shukrayaan (venus)
+-   **Webb Telescope**
+    -   Is a Infrared telescope collaboration between NASA, European Space Agency (ESA), and the Canadian Space Agency.
+    -   Features
+        -   Present at second Lagrange point
+        -   Operate in Infrared spectrum allowing to observe objects obscured by cosmic dust.
+        -   JWST's 6.5-meter segmented mirror
+        -   A five-layer sunshield
+        -   High precision
+        -   Engineering marvel
+        -   Look for new born galaxies
+    -   Key goals
+        -   Early Universe Observation
+        -   Understanding evolution of galaxies
+        -   Examining the lifecycle of star and planetary system
+        -   Investigations across the fields
+            -   E.g. astronomy and cosmology.
+        -   Studying our own Solar System, comets, asteroids, Jovian planets
+        -   Search for signs of life on faraway planets.
+        -   Understanding dark matter and dark energy.
+        -   formation and growth of blackholes
+-   Potential benefits for humanity
+    -   [Advantages | Importance of having a space programme](onenote:#ST&section-id={DA2D6583-6393-3942-9C6F-2F119C30EFDD}&page-id={CBF04816-01F1-BD41-AABF-F9CD4278B81C}&object-id={BB5CFF13-6BBA-E34C-958F-B150DD9B3F36}&91&base-path=https://d.docs.live.net/9b24b3fb5359b984/Documents/My%20Notebook/short%20notes.one)
+    -   Expand boundaries of human knowledge and understanding of universe
+    -   Interdisciplinary technological innovation - astronomy, material science, robotics, AI, Nanotech
+    -   Inspiration future generations of scientists and engineers.
+    -   Potential for discovery of extra-terrestrial life
+    -   Philosophical insights: addresses fundamental questions about our place in the universe.
+-   **Gaganyaan** Mission
+    -   First manned mission proposed to be launched soon.
+    -   Technology constraints (*life cycle approach)
+        -   Life support system
+        -   Space suit and crew support system
+        -   Crew ejection module
+        -   Astronaut training
+        -   launch vehicle reliability
+    -   Logistical constraints
+        -   Capacity
+        -   Astronaut training facilities
+        -   Lack of sophisticated equipment's
+    -   Way forward
+        -   Integrated Air Drop Test (IADT), Pad Abort Test (PAT) and Test Vehicle (TV) flights
+-   **Space station**
+    -   plans to build a space station by 2030, following the success of its Gaganyaan mission
+    -   modular, 20-tonne structure capable of hosting astronauts for 15-20 days and can be extended
+    -   Objectives and benefits
+        -   Scientific Research: platform for conducting microgravity experiments
+        -   Technological Advancement: life support systems, space habitats, and orbital modules
+        -   Educational advancement in fields such as astronomy, materials science, biology, and medicine
+        -   Commercial Opportunities: satellite servicing, space tourism
+        -   Human Spaceflight Experience: help Indian astronaut in future inter-planetary missions
+        -   Joint missions and collaborative research with global space agencies
+        -   National Prestige
+        -   Inspiration for careers in STEM
+-   **Artemis Accords**
+    -   Non-binding guidelines regarding the return of humans to the moon permanently under Artemis program.
+    -   Features
+        -   Plans for a base on the lunar surface,
+        -   multiple spacecraft to ferry humans and cargo
+        -   an orbiting space station
+        -   con**stellation** of satellites to help with navigation and communication.
+    -   Peaceful use of space, registration, and liability.
+    -   Extract and utilise space resources.
+-   **Chandrayaan**
+    -   Why south pole?
+        -   Unexplored Territory
+        -   Permanent Shadowed Regions
+            -   Temperature as low as -230°C. -> preserve ancient volatiles, such as water ice and organic molecules.
+    -   Mission objectives
+        -   Soft Landing on Lunar Surface
+        -   Lunar Surface Analysis
+        -   Technological Demonstration
+        -   Deployment of Rover: harsh lunar environment and difficult terrain
+        -   Demonstration of Communication Capabilities:
+        -   Conduct in-situ scientific experiments
+    -   Systems in the Spacecraft Launched
+        -   Launch vehicle - LVM3
+        -   Vikram Lander
+            -   Landing Gear System
+            -   Navigation Sensor
+            -   Onboard Computer
+            -   Communication System
+            -   Solar Panels
+        -   Pragyaan Rover
+            -   Scientific Instruments:
+-   India's Space station (Bharatiya Antariksha Station)
+    -   Current Plan
+        -   First module to be launched by 2028 and completion by 2035.
+        -   Capable of accommodating 3 astronauts up to 20 days
+        -   It will weigh around 20 tonnes
+
+## IT
+-   **Web 3.0**
+    -   Decentralized online ecosystem based on blockchain technology and multiverse.
+-   **5G**
+    -   **Introduction**
+        -   According to McKinsey, 5G is expected to create a cumulative economic impact of $1 trillion in India by 2035.
+        -   It is the next generation cellular technology that will provide faster and more reliable communication with ultra-low latency.
+    -   5G is expected to form the backbone of emerging technologies such as the Internet of Things (IoT) and machine to machine communications.
+    -   Sensor-embedded network - allow real time relay of information across diverse fields.
+    -   3 factors - coverage, speed, latency
+        -   Has ultra-reliable low latency (ranging between10 milliseconds and 1 millisecond)
+        -   Mainly works in 3 bands, namely low, mid and high-frequency spectrum
+            -   Low Frequency - large coverage, limited speed(100 MBPS)
+            -   High frequency - extremely limited coverage, very high speed (2-20 GBPS)
+-   **Applications | Impact in everyday life**
+    -   Connectivity - video calls, smart homes, mobile computing etc.
+    -   Governance
+    -   Social welfare - health - remote surgery and prescription, education and skill training
+    -   Agriculture - smart and data-driven farming
+    -   Industrial automation
+    -   ![[Z9 Obsidian-files/Media/DOCX/S&T.png]]
+-   **Challenges**
+    -   Rural inclusion - concerns of inequality in society
+    -   Security and right to privacy
+    -   Infrastructure intensive
+    -   Regulatory restrictions
+    -   Network investment
+-   **Way forward**
+    -   Judicious use of spectrum (Idle spectrum must be freed up)
+    -   Develop internal capacities
+    -   5G start-ups in design and manufacturing
+-   **Conclusion**
+    -   5G will act as the catalyst for Digital India—a watershed moment in digital transformation.
+-   Blockchain technology
+
+## Computers
+-   **Artificial Intelligence**
+    -   A McKinsey study reviewing the impact of AI on the Sustainable Development Goals (SDGs) finds that AI may act as an enabler on 79% of all SDG targets.
+-   AI can add $1 Trillion to GDP and 20 million jobs by 2030- NASSCOM.
+-   AI refers to the ability of **machines to perform cognitive tasks** like thinking, perceiving, learning, problem solving and decision making that normally requires human intelligence.
+-   **Chat GPT**
+    -   ChatGPT is an advanced language model designed to generate human-like text response. It is based on the GPT-3.5 architecture, which stands for "Generative Pre-trained Transformer 3.5.
+-   **Generative Pre-trained Transformer 3** (**GPT-3**) is an NLP Model that uses deep learning to produce human-like text.
+-   **Applications** | Effects in everyday life
+    -   Business application (sales, marketing etc.)
+    -   Improving productivity
+        -   Automation of workflows like reports, summaries, drafts documents
+    -   Automation
+    -   Creative content generation
+        -   Open AI's DALL-E
+    -   innovation and scientific advancements
+    -   artistic exploration by enhancing creative process
+    -   Decentralised internet through web 3.0
+    -   Healthcare advancements: AlphaFold by Google DeepMind.
+    -   Clinical Diagnosis
+        -   Early detection and diagnosis: of disease like cancer, cardiac issues
+        -   Better accuracy in analyzing medical images like X-rays, MRI scans, CT scans
+        -   Faster analysis of patient's data and medical records
+        -   Personalized medication as per patients lifestyle, genetics, medical history
+        -   Drug discovery and effective development of new treatments
+-   **Issues**
+    -   Economic
+        -   **Job Displacement**
+            -   85 million jobs may be lost to AI by 2025 [WEF Report]
+        -   Digital have nots
+    -   Ethical
+        -   privacy, bias, data security, IPR Violations
+            -   New York Times sued OpenAI
+        -   Generative AI - plagiarism, fake news, propaganda.
+        -   Inappropriate/Offensive content
+        -   **Artificial hallucination**
+    -   Environmental
+        -   High energy consumption
+    -   Security
+        -   Cybersecurity
+        -   Privacy; data security
+    -   Algorithmic biases which can reinforce societal biases
+    -   Social
+        -   Digital divide
+            -   Between peoples, businesses, nations
+        -   Stereotyping and prejudice
+        -   Manipulated media; misinformation, fake news
+        -   Deep fakes
+    -   Regulation and Governance:
+    -   Superintelligent AI: existential risks
+    -   Lack of AI research in India
+    -   Threat to Privacy of the Individual
+        -   Data breach and cyberattacks
+        -   Unauthorized access can lead to leak of sensitive information
+        -   Data misuse for other purposes
+        -   Informed consent issue
+        -   Regulatory challenges
+-   **Measures**
+    -   Ethical AI
+        -   **“AI ombudsman”**
+        -   REAIM 2023 - Responsible AI in military
+    -   Regulatory guardrails
+        -   EU AI Act
+        -   DEEP FAKES Accountability Act in the U.S.
+    -   Job Transition economic policies
+        -   Reskilling and Upskilling Programs
+            -   E.g., ‘**FutureSkills PRIME’** by MeitY & IT and NASSCOM
+            -   Responsible AI for Youth
+        -   Social Safety Nets:
+            -   UBI
+            -   RAISE: Responsible AI for Social Empowerment
+    -   Education and public awareness
+        -   Integrating AI awareness into school courses
+    -   Transparency and accountability
+        -   Development of regulatory algorithms
+        -   Technical debt and regulatory audits of code/algorithms
+        -   E.g. COBIT ERM Frameworks.
+    -   Inclusive and Representative Datasets:
+    -   Public-Private Partnerships
+    -   IndiaAI Mission
+        -   Rs 10,300 crore
+    -   AI Projects
+        -   BHASHINI-[BHASHa INterface for India]
+        -   National Supercomputing Mission
+        -   MeitY Quantum Computing Applications Lab
+        -   Centre of Excellence for Artificial Intelligence
+        -   National Centre on AI (NCAI)
+-   **International**
+    -   Global Partnership on Artificial Intelligence (GPAI) - OCED (India - founding member)
+    -   Responsible AI for Social Empowerment (RAISE)
+    -   US - proposed AI Bill of Rights Blueprint
+    -   Bletchley Declaration - UK Summit on AI Safety
+-   **Regulation of AI - Complex Adaptive System**
+    -   Establishing expert regulatory body [Bibek Debroy]
+    -   Open licensing of core algorithms for external audits (transparency)
+    -   Incident reporting protocols for failures (AI accountability)
+    -   Manual controls and authorization checkpoints
+        -   Empowers humans to intervene
+    -   Guardrails: implementing limits on AI behaviours
+        -   By law enforcement agencies
+-   **Way forward**
+    -   Meity launched IndiaAI in 2023, covering all AI-related research.
+    -   Whole of society and whole of world approach
+    -   strike the right balance between AI promotion and AI governance
+-   **Conclusion**
+    -   Need for multi-stakeholder efforts on global cooperation so AI is used in a manner that is “trustworthy, human rights-based, safe and sustainable, and promotes peace”.
+-   **Quantum Computing**
+    -   Quantum computing is a field of computing that utilizes principles from quantum mechanics to solve complex problems. Unlike classical computers that use bits (0s and 1s), quantum computers use qubits.
+    -   **Features**
+        -   Superimposition
+        -   Entanglement: is a unique quantum phenomenon where two or more qubits become linked, sharing the same fate.
+        -   Use quantum gates
+-   **Application**
+    -   Efficiently solve complex problems
+    -   Encryption of private keys
+    -   Identifying and Treating diseases
+    -   Materials Science
+    -   Machine Learning
+    -   Weather Forecasting
+    -   Space Research
+-   **Effects** in everyday life
+    -   *SPECIALTY
+-   **Issues**
+    -   Scalability
+    -   High Resource Requirements
+    -   Security Concerns:
+        -   Can be used for hacking and compromising systems of adversary's critical infrastructure
+    -   Ethical and Societal Implications
+    -   Access and Affordability
+-   **Government initiatives**
+    -   National Mission on Quantum Technology and Application, 2020
+    -   Quantum Computing Applications Lab (QCAL):
+    -   Quantum-enabled Science and Technologies (QuEST) funding
+-   **Way forward**
+    -   Indigenization of quantum technology
+    -   Promote developers, students and scientists.
+-   V Kamakoti Committee for financing research and development
+    -   ![[Z9 Obsidian-files/Media/DOCX/S&T.jpeg]]
+-   **Metaverse**
+    -   The Metaverse is defined as a **spatial computing platform** that offers digital experiences as an alternative to or replica of the real world.
+    -   Built on the foundation of blockchain technology.
+    -   ![[Z9 Obsidian-files/Media/DOCX/S&T 1.png]]
+-   **Cloud computing**
+    -   It is the **on-demand delivery of IT resources (**computing power, storage, and databases**) over the Internet** with pay-as-you-go pricing.
+    -   Types
+        -   Infrastructure as a Service (IaaS)
+        -   Platform as a Service (PaaS)
+        -   Software as a Service (SaaS)
+    -   Security implication
+        -   Data privacy
+        -   Data jurisdiction
+        -   Dependence on a third party
+    -   Government initiative
+        -   “GI Cloud” – **‘Meghraj’**, by the Government of India to harness the benefits of cloud computing.
+-   **Blockchain technology**
+    -   sophisticated database system
+    -   Information is stored in blocks - linked together in a chain
+    -   across a network of computers in a peer-to-peer network.
+    -   using cryptographic hashing
+-   **Neurocomputing** is a field of computer science that draws inspiration from the structure and function of the human brain to create new computing paradigms. It aims to develop artificial neural networks (ANNs) that can mimic the brain's ability to learn, adapt, and perform complex tasks, such as pattern recognition, decision-making, and natural language processing.
+-   Argument for using digital technology
+    -   Increased access to vast amount of data on diverse topics
+        -   E.g. ChatGPT
+    -   Objective and data-driven decision-making
+        -   E.g. Big data analysis for soil health
+    -   Real time analysis
+        -   E.g. Gati Shakti Portal
+    -   Transparency and accountability
+        -   E.g. SWIFT Portal
+    -   Virtual simulation can help predicting potential outcomes
+        -   E.g. Disaster drills in Metaverse
+-   Arguments against using digital technology
+    -   Filter bubbles: can create echo chambers
+        -   Social media profiling based on likes
+    -   Algorithmic bias - may reinforce existing bias
+        -   Credit score based on socio-economic profiling exacerbate inequality
+    -   irrational decisions based on misinformation and fake news
+        -   E.g. Deepfakes to influence public opinion during elections
+    -   errors and misinterpretations
+        -   Artificial hallucination
+    -   Privacy
+        -   E.g. Pegasus
+
+## Robotics
+-   the branch of technology that deals with the design, construction, operation, and application of robots
+-   **3D printing - additive manufacturing**
+    -   Manufacturing technique that creates three-dimensional objects by adding material layer by layer.
+-   ![[Z9 Obsidian-files/Media/DOCX/S&T 1.jpeg]]
+-   Applications
+    -   Medical
+        -   Producing custom implants and prosthetics
+        -   organ and tissue replacements through bioprinting
+    -   Prototyping and Product Development
+        -   create miniature building models
+    -   Consumer Goods
+        -   smartphone cases, décor items
+    -   Space Exploration
+        -   NASA has used 3D printing on the International Space Station
+    -   Environmental Sustainability
+        -   3D printing to reduce construction waste
+-   The 4 Ds Of Robotization: Dull, Dirty, Dangerous And Dear
+-   Optimus - humanoid robot - SpaceX
+-   Issac Asimov’s Three Laws of Robotics:
+    -   First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+    -   Second Law: A robot must obey the orders given it by human beings, except where such orders would conflict with the First Law.
+    -   Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+## Nano-technology
+-   **Introduction**
+    -   Nanotechnology involves manipulating matter on an atomic, molecular, and supramolecular scale, typically below 100 nanometers.
+-   **Significance**
+    -   Interdisciplinary Applications
+    -   Enhanced Properties
+    -   Biocompatibility: interact with living tissues without causing harm.
+        -   Implants, prosthetics, drug delivery system
+    -   Corrosion Resistance
+    -   Design Flexibility
+-   **Applications - HEDC**
+    -   Healthcare
+        -   Targeted drug delivery systems-
+            -   Liposomal nanoparticles used to deliver chemotherapy drugs directly to cancer cells
+        -   Enhance Diagnostics tools -
+            -   Quantum dots used in medical imaging
+            -   E.g. cardiac disease - nanochips to check plague in artilleries.
+            -   E.g. cancer - nano flares
+        -   Regenerative Medicine
+            -   Nanofibers used in wound dressings
+        -   Antimicrobial Treatment
+            -   Silver nanoparticles used in medical devices to prevent bacterial infections
+        -   Cancer Treatment
+            -   Gold nanoparticles used to deliver heat to tumor cells selectively destroying them
+        -   Stem cell technology - e.g. magnetic nano particles to isolate group of stem cells
+-   Energy - e.g. perovskite nanoparticles used in PV cells
+-   Environment e.g. nano filters, pollution monitoring, and remediation techniques.
+-   Electronics and Computing:
+    -   Carbon nanotubes are used in transistors to create powerful microprocessors
+-   Materials Science: Graphene is incredibly strong and conductive
+-   Defence
+    -   Nano-composite materials
+-   Automotive Industry
+    -   Nano-coatings on car bodies make them scratch-resistant
+-   Space
+    -   Lightweight spacecraft
+-   Consumers
+    -   Nano-filters
+    -   Glass screens
+    -   Electronic devices
+-   Bio-materials
+    -   Nano-capsules, DNA nano-chips
+-   Agriculture
+    -   Nanopesticides and Nanofertilizers
+        -   E.g. Silver nanoparticles
+    -   Nanosensors
+        -   monitor soil conditions, nutrient levels, and plant health
+        -   E.g. Carbon nanotubes
+    -   Nanocarriers
+        -   targeted delivery of growth regulators to specific plant tissues
+    -   Nanostructured seed coatings
+        -   Silicon dioxide nanoparticles
+-   Nanoparticles of Titanium Dioxide (TiO2)
+-   Carbon nanotubes (CNT)
+    -   Tube made up of carbon atoms rolled up in form of hexagonal lattice to form a hollow cylinder.
+    -   **Properties (Uses)**
+        -   Electrical Conductivity
+            -   Energy storage
+            -   Electricity transmission
+        -   Strength And Elasticity
+            -   Wearable technology
+            -   automotive parts
+        -   Thermal Conductivity And Expansion
+            -   thin-film electronics
+        -   Electron Emission
+        -   Non bio toxic
+            -   Biomedical devices
+            -   Biomedical implants
+-   **Issues**
+    -   Health and Safety
+    -   Environmental Impact:
+        -   Can enter food chain and cause bio-magnification
+        -   Environmental pollution
+    -   Ethical Considerations
+        -   Can be used in biological weapons
+    -   Regulatory Challenges
+    -   Societal Implications:
+    -   Public Perception and Awareness:
+-   **Way forward**
+    -   Nano Mission - by DST
+    -   Centre for Nano and Soft Matter Sciences (CeNS) in Bengaluru
+    -   iCAT - US
+    -   INSPIRE (Innovation in Science Pursuit for Inspired Research) Scholarships
+    -   V Kamakoti committee - Spending on R&D 0.67% -> 2% of GDP
+    -   National nanoscience and technology mission
+    -   International collaborations
+-   **Polymers**
+
+## Bio-technology
+-   **Introduction**
+    -   UNCBD defines biotechnology as any **technological application that uses biological systems** or living organisms to make or modify products or processes for specific use.
+-   Applied biotechnology refers to the use of biological systems and organisms to develop products and technologies for human welfare
+-   **Achievements | Application**
+    -   Agriculture
+        -   HYV Crops - GM Crops
+            -   e.g. BT Cotton, GM Mustard
+        -   Biofortification
+            -   Golden Rice, enriched with Vitamin A
+        -   Agriculture Inputs - Bio fertilizers, pesticides etc.
+            -   E.g. Nano Urea
+    -   Health
+        -   Molecular Diagnosis
+            -   RTPCR tests during COVID-19
+            -   Recombinant DNA (rDNA) - Genetically engineered Insulin
+        -   Vaccine development - (mRNA) - Pfizer, Moderna
+        -   Stem cells therapy - organs and tissues regeneration
+            -   Advantage - self renewal, less invasive, incurable disease, low side effects, high success rate
+        -   Gene therapy - to cure rare genetic disease
+            -   CRISPER-Cas9 - HIV and AIDS therapy
+        -   Genome Sequencing
+        -   Biopharmaceuticals - Inventing new drugs using recombinant DNA technology.
+-   Environment
+    -   Bioremediation: Using microorganisms to clean up environmental pollutants
+        -   Oil-eating bacteria
+    -   Treatment of waste - phytoremediation
+    -   Biodegradable plastics
+    -   Biofuels
+    -   Bio filters
+    -   Biosensors
+-   **Effects** in everyday life
+    -   Economic development
+    -   Social (SDG)
+        -   Poverty reduction
+        -   Food security
+        -   Health
+-   **Issues**
+    -   Potential Health Risks - genetically modified organisms (GMOs)
+    -   Access and Equity - 'health divide'
+    -   Privacy of genetic data
+    -   Environmental Impact - e.g. GM Crops
+    -   Ethical issues - genetic engineering or cloning
+-   **Way forward**
+    -   Comprehensive strategy: National Biotechnology Development Strategy
+    -   Government Support
+        -   Biotechnology Industry Research Assistance Council (BIRAC)
+    -   Skill development: scientists, researchers, and professionals in biotechnology and related fields.
+    -   Strong emphasis on R&D
+    -   Increasing investments from both public and private sectors, VC and FDI
+    -   Biotechnology infrastructure development
+    -   Public-Private Partnerships:
+    -   V. Kamakoti Committee
+        -   Promote FDI
+    -   *Life cycle approach
+        -   Industry-academia linkage
+        -   IPR policy
+        -   Regulation
+
+## IP Rights
+-   **Introduction**
+    -   Intellectual Property Rights (IPRs) are legal rights that grant creators protection for their inventions, designs, artistic works, and brands.
+-   IP is intangible property that is product of **human intellect,** creativity and innovation.
+-   India has been ranked 40th out of 53 countries on the Global Intellectual Property Index.
+-   Global innovation index 2022 - India at 40/132.
+-   **Types of IPR**
+    -   ![[Z9 Obsidian-files/Media/DOCX/S&T 2.png]]
+    -   Patents -
+        -   Exclusive right, can be granted for product or industrial process having economic significance.
+        -   limited period - e.g. 20 years
+        -   Criteria - novelty, non-obviousness, and utility.
+            -   E.g. Novartis (failed on novelty)
+        -   Granted under Indian patent Act 1970
+    -   Invention
+        -   A new process or product with significant difference from the existing one
+        -   Requirement - Novelty, Non-obviousness, Utility
+    -   Trademark
+        -   Graphical representation to establish distinctively
+            -   E.g.- logo
+        -   Trademark Act, 1999
+    -   Trade Secret
+        -   A device or technique used in manufacturing process having commercial value, competitive advantage.
+    -   Copyrights
+        -   Excusive right for artistic material for producing, publishing etc.
+        -   Copyrights are **automatic upon creation** and do not require registration.
+    -   Geographical Indicators
+-   **Significance of IPR**
+    -   Encourages Innovation and Creativity
+        -   Patent to population ratio- USA- 1:6000, China- 1:25000, India - 1:600000
+    -   Creating a culture of research and development
+    -   Attracting Foreign Direct Investment (FDI): Pharma Companies
+    -   Drives Economic Growth: fostering entrepreneurship, investment, job creation
+    -   Facilitates Technology Transfer and Collaboration
+        -   E.g. Tata partnership with Airbus
+    -   Boosting Knowledge-Based Industries:
+        -   pharmaceuticals, IT, biotechnology,
+    -   Boost export
+    -   Promoting R&D and Higher Education: IITs, NITs, increasingly filing patents
+-   **Challenges**
+    -   Balancing IP rights with accessibility and affordability
+        -   E.g. essential medicines, educational resources
+    -   Enforcement challenge
+        -   E.g. Piracy, plagiarism, counterfeiting
+    -   Adjudication delays
+        -   no special IP courts set up to deal with cases
+    -   Evergreening of patents
+    -   Patenting of traditional knowledge(TK)
+-   **Issues**
+    -   Pharmaceutical and Software Patents
+        -   Section 3(k) bars patentability of computer programs per se or algorithms.
+    -   Compulsory licensing
+        -   Section 3d of Patents Act, 2007 and power to issue compulsory licenses.
+        -   Section 84 provides for Exception to IP rules - legally pay fee and use a patented product
+            -   Grounds?
+                -   Reasonable need
+                -   Patent outside india
+                -   Essential and Not affordable
+        -   Issues - Export of medicines manufactured using compulsory licensing
+            -   E.g. Bayer Corporation case
+-   **R&D Problems**
+    -   Infrastructure
+        -   India spends only around 0.65% of its GDP on R&D. China- 2.1%, USA 2.8%
+        -   brain drain - lack of attractive opportunities.
+    -   Lack of **private participation**
+        -   Global R&D is 65-70%, for India it is 35%
+-   **IPR Regime in India**
+    -   The Copyright Act, **1957**
+    -   The Patents Act, **1970**
+        -   process patent regime, But due to obligations arising out of the TRIPS Agreement, India had to amend the Patents Act in 2005, and switch to a **product patents regime** across the pharma, chemicals, and biotech sectors.
+    -   The Trademarks Act, **1999**
+    -   The Geographical Indications of Goods (Registration and Protection) Act, 1999
+    -   The Designs Act, 2000
+    -   The Intellectual Property Appellate Board (IPAB)
+    -   Patents (Amendment) Rules, 2024
+    -   ![[Z9 Obsidian-files/Media/DOCX/S&T 3.png]]
+-   **International** Agreements Related to IPRs
+    -   **TRIPS** Agreement under WTO
+    -   Patent Cooperation Treaty (**PCT**) - **WIPO**
+    -   Berne Convention - governs copyright
+    -   Paris Convention - for the Protection of Industrial Property
+    -   Madrid Protocol - trademarks
+    -   Nagoya protocol - Prior Informed Consent (**PIC**) and Access and Benefit-Sharing (**ABS**)
+-   **Government initiatives**
+    -   National IPR Policy 2016
+        -   Cell for IPR Promotion and Management (CIPAM)
+        -   National Intellectual Property Awareness Mission (NIPAM)
+    -   Patent Facilitation Centers (PFCs):
+        -   To help MSME and academic institutions
+    -   Intellectual Property Literacy and Awareness
+        -   NIPAM, IP Nani and Chotu
+    -   Digitization and modernization
+        -   e-filing system for trademarks and patents
+    -   encouragement to international patent filing (SIP-EIT Scheme, Patents Prosecution Highway)
+    -   National Research Foundation (NRF) for centralized research funding
+        -   50000-crore initiative
+    -   Traditional Knowledge Digital Library (TKDL)
+    -   Traditional Healer Empowerment Program
+    -   Visiting Advanced Joint Research (VAJRA) Faculty - invites oversees scientists to serve as adjunct faculties in Indian public institutions.
+    -   Global initiative for academic network (GIAN)
+
+## Miscellaneous
+-   Microorganism in meeting fuel shortage
+    -   Biofuel production
+        -   Bioethanol: bacteria fermenting sugars into ethanol
+        -   Biodiesel
+        -   Biomethane
+    -   Waste-to-Energy Conversion
+        -   Microbes can convert organic waste material into biofuel like methane
+    -   Enhanced Oil Recovery: certain microorganism known to enhance extraction of trapped oil in reservoir
+    -   Advantages: Renewable, Environmentally friendly, support livelihoods of farmers
+    -   Challenges: scalability, technical challenges, economic feasibility, food security,
+    -   Government initiatives:
+        -   National Biofuel Policy 2018
+-   Protecting traditional knowledge
+    -   Traditional Knowledge Digital Library (TKDL): digitize traditional medicinal knowledge in a searchable database
+    -   Collaboration with International Patent Offices
+    -   Biological Diversity Act, 2002: regulates access to biological resources and ensure fair sharing of benefits
+    -   The Indian Patents Act includes provision to prevent patenting of plant based patents
+    -   International Advocacy
+    -   Awareness and Capacity Building
