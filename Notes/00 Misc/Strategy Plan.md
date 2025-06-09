@@ -5,6 +5,9 @@
 2. [[Strategy Plan# Current Affairs |Current Affairs ]]
 3. [[Strategy Plan# Mapping|Mapping]]
 4. [[Strategy Plan# Economics |Economics ]]
+	1. [[Strategy Plan## ### *steady* word = mostly wrong. (PYQ analysed.)|### *steady* word = mostly wrong. (PYQ analysed.)]]
+		1. [[Strategy Plan### *steady* word = mostly wrong. (PYQ analysed.)|*steady* word = mostly wrong. (PYQ analysed.)]]
+		2. [[Strategy Plan### **%** |**%** ]]
 5. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
 	1. [[Strategy Plan## Saturation|Saturation]]
 	2. [[Strategy Plan## Lectures |Lectures ]]
@@ -115,6 +118,22 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 **current affairs based**
 
 ![[image-36.png]]
+
+### *steady* word = mostly wrong. (PYQ analysed.)
+ 
+### **%** 
+- 0-50% = chances high of correct.
+- 50-80% = 50/50
+- above 90%= if you know it then okay, else 100% wrong.
+
+![[image-38.png]]
+
+![[image-39.png]]
+
+![[image-40.png]]
+
+![[image-41.png]]
+
 
 
 ---
