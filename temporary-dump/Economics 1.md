@@ -1,4 +1,4 @@
-**Economics**
+[[Governance]][[other]][[other]][[Economy]][[Society]][[other]]**[[Economics]]**
 
 Thursday, 6 October 2022
 
@@ -6,7 +6,7 @@ Thursday, 6 October 2022
 
 - - Chapters as per Sriram IAS
 
-Chapter - 1 Economy and Economics
+Chapter - 1 [[Economy]] and [[Economics]]
 
 Chapter - 2 Economic Growth and its Measures
 
@@ -14,7 +14,7 @@ Chapter - 3 Growth and Development: Alternative Measures
 
 Chapter - 4 Planned Economic Development and NITI Aayog
 
-Chapter - 5 Five Trillion Dollar Economy
+Chapter - 5 Five Trillion Dollar [[Economy]]
 
 Chapter - 6 Fiscal Policy
 
@@ -58,7 +58,7 @@ Chapter - 25 Infrastructure-II
 
 Chapter - 26 Foreign Direct Investment
 
-Chapter - 27 Indian Agriculture
+Chapter - 27 Indian [[Agriculture]]
 
 Chapter- 28 Land Reforms
 
@@ -244,11 +244,10 @@ Chapter- 28 Land Reforms
             - Poverty line : 4800 rupees per household per month consumption expenditure in urban areas
 
 - - Rangarajan committee (2013):
-        - It was constituted to review the Tendulkar committee report and suggest some alternate ways to measure poverty
+        - It was constituted to r[[Agriculture]]endulkar committee report and suggest some alte[[Agriculture]]to measure poverty
         - Divided consumption expenditure into two parts:
             - i)Normative: food and non-food expenditure
-            - ii)Behavioural
-        - Poverty line: 47 rupees per person per day
+            - ii)Behaviou[[Environment]] - Poverty line: 47 rupees per person per day
         - Alternate suggestion: Ability of household to save to measure poverty line.
         - It presented the Tendulkar committee's recommendations in a more organized way.
 
@@ -269,7 +268,7 @@ Chapter- 28 Land Reforms
 
 - - **Based on extreme poverty:**
         - **Low-income Extreme Poverty as defined by World Bank - $1.90/per capita/per day**
-        - **Though we can’t eliminate poverty WB says we must eliminate extreme poverty**
+        - **Though we can’t eliminate pov[[Economy]] says we must eliminate extreme poverty**
         - **In the year 2000, it was $1 per day (on the basis of PPP)**
             - **In 2010: $1.25 per day**
             - **In 2019: $1.9 per day**
@@ -295,7 +294,7 @@ Chapter- 28 Land Reforms
             - The number of Indian rupees to buy the same basket of goods in India will be a PPP value of 1.9 dollars in India
             - 1.9 dollars can’t be simply multiplied with the market exchange rate (1 dollar equals 70 Rs) to arrive at the equivalent amount of rupees needed in India
             - This is because goods in the US are generally costly due to higher standards of living
-        - In India, one will need a lesser amount of money to buy the same basket of goods as it will be generally cheaper
+        - In India, one will need a lesser amount of money to buy the same basket of goods as it will be general[[Frameworks]]
             - Hence PPP exchange rate < market exchange rate (not always true)
             - say जो चीज़ ख़रीदने में US में 100 रुपए देने पड़ रहे थे वह India में 20 रुपए में आ जाएगी (basket mein से)
             - If there is equal inflation then PPP exchange rate will **not** change.
@@ -303,7 +302,7 @@ Chapter- 28 Land Reforms
         - PPP ER are estimated by WB periodically.
             - At its simplest value of one item such as apples may be taken and equated to arrive at PPP ER
             - However, there are multiple products in an economy and their values in 2 different economies may not always be equally proportional
-                - Example: Apple I phone in the USA is 1000 dollars, in India its 1 lakh rupees
+                - Example: Apple I phone in the USA is 1000 dollars, in India its 1 l[[Economy]]ees
                 - Equating them we arrive at a PPP ER of 1 dollar = 100 Rs
                 - WB carries out an elaborate exercise in which it **decides a basket of goods** and then finds and equates its values in different countries to arrive at PPP ER
             - There are simpler measures like the **Big Mac index** which measures and equates the price of Mc Donalds burger
@@ -374,7 +373,7 @@ H-WAGES (नरेंद्र मोदी या हाई wages)
     - It measures poverty by asking questions and assessing the response to deprivation criteria.
     - If a household is found to be deprived on 3/10 criteria(MPI>0.3) then it is considered as MPI poor.
     - MPI ranges from 0-1, The higher value implies higher multidimensionally poor.
-    - MPI assesses the poverty in the country from different surveys and then extrapolates that number as a national level to find out the headcount ratio of multidimensionally poor people.
+    - MPI assesses the poverty in the co[[other]] from different surveys and then extrapolates that number as a national level to find out the headcount ratio of multidimensionally poor people.
 
 **India's progress on poverty.**
 
@@ -387,7 +386,7 @@ H-WAGES (नरेंद्र मोदी या हाई wages)
         - There is a strong correlation between growth and poverty alleviation.
         - Every 1% increase in growth rate is associated with a 0.6% increase in the pace of poverty reduction.
     - The growth rate of the population declined and the growth rate of the economy increases leading to higher per capita increases and more resources in the hands of the government.
-    - Thus higher growth created conditions in which the government had more resources to spend on poverty alleviation and to reduce vulnerabilities of the people at the bottom.
+    - Thus higher growth created conditions in which the government had more resources to spend on pov[[Economy]]leviation and to reduce vulnerabilities of the people at the bottom.
     - All measures of poverty, official estimates, world bank estimates, MPI estimates point to the fact that India has uplifted millions out of poverty at a record pace.
     - However a considerable reduction in poverty, there is still a long way to go before the poor are actually insulated from various dimensions of deprivation.
     - India is now a low-middle-income country, at its income level, the poverty line is 3.2 dollars/ person/day, whereas the official poverty line is still coincidentally, close to 1.9 dollars/person/day.
