@@ -1,17 +1,17 @@
 **Plan of the lecture:**
 
 - Poverty
-    - Unemployment
-    - National income accounting
-    - Measurement of national income
-    - Inflation
-    - Monetary policy
-    - Government budgeting
-    - Taxation
-    - Financial Market
-    - Balance of Payment including Exchange rate, IMF, World Bank and WTO
-    - Infrastructure
-    - Investment models
+- Unemployment
+- National income accounting
+- Measurement of national income
+- Inflation
+- Monetary policy
+- Government budgeting
+- Taxation
+- Financial Market
+- Balance of Payment including Exchange rate, IMF, World Bank and WTO
+- Infrastructure
+- Investment models
 
 ## POVERTY
 
