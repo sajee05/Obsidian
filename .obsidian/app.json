@@ -7,5 +7,7 @@
   "strictLineBreaks": true,
   "attachmentFolderPath": "Z9 Obsidian-files/Media",
   "newFileLocation": "folder",
-  "newFileFolderPath": "temporary-dump"
+  "newFileFolderPath": "temporary-dump",
+  "foldIndent": true,
+  "showIndentGuide": false
 }
