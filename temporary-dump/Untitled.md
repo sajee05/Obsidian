@@ -1,1 +1,91 @@
-[[Economics#NATIONAL INCOME ACCOUNTING|nationalincome]]
+### Bhakti & Sufi Movements
+
+- - **Introduction**
+        - Bhakti movement began in South India in 7th Century AD that turned from religious doctrine into a popular movement for equality around the country.
+
+- - Spread of Bhakti and Sufi Movements
+        - Began in the 7th Century AD in the state of Tamil Nadu.
+            - Alwars अल्वर (devote of Lord Vishnu)
+                - Prabhandam प्रबंदम and Prabhandakavyams प्रबंध काव्यम
+            - Nayannar नयनारस (devotee of Lord Shiva)
+                - Tevaram तेवारम and Thevacrams तेवाक्रमस
+        - 8th century - Adi Shankracharya - Advait Vedanta
+        - 11th Century - Ramanujacharya - Vishisht Advaitvada
+        - Madhav Acharya - Dvaitvada
+        - 12th Century AD - Basavanna - Lingayats (Veershaiva)
+        - Jayadeva (12 century A.D.) - last great name in Sanskrit poetry - Gitagovinda
+        - 13th Century - Vari Varkari of Pandharpur
+            - Gyandev, Namdev and Tukaram
+
+- - North India
+        - Saguna सगुण bhakti
+            - Tulsidas, Surdas, Meerabai, Shakardev, etc
+        - Nirguna निर्गुण Bhakti
+            - Kabir(Bijak, Doha), Guru Nanak (15th -16th Century)
+    - Sufi Movement:
+        - Silsilah
+            - Chishti
+                - Khwaja Muinuddin Chishti
+                - Khanqah in Ajmer
+            - Suhrawadi
+                - Bahauddin Zakariya
+                - Punjab and Multan
+            - Nakshabandi
+                - Khwaja Bahauddin Naqshbandi
+                - Orthodox
+        - Bashara बाशरा - They believe in the Islamic law Shariat (those who have वास्ता)
+        - Besara बेशरा - They did not believe in Shariat
+    - Women Poets of Bhakti
+        - Andal अंदाल (An Alwar saint)
+        - Karaikkal Ammaiyar - devotee of shiva - Nayannar
+    - Ramananda was the first Bhakti saint to use 'Hindi' for propagating his message.
+    - ![Art and Culture](<Z9 Obsidian-files/Media/DOCX/Art and Culture.jpeg>)
+
+- - Nature of Bhakti Movement
+        - Professed devotion to god
+            - Example: Mirabai’s poems to Lord Krishna.
+        - Local Language
+            - Example: Kabir's couplets in Hindi
+        - Focused on simple lifestyle
+            - Example: Narsi Mehta's Vaishnav Janto
+        - Social Reform : against caste system.
+            - Example: Basavanna advocated for casteless society
+        - Egalitarian
+        - Universal ideals of tolerance and pluralism
+            - Example: Guru Nanak's hymns emphasized universal brotherhood and equality.
+        - Amalgamation with the folk culture
+            - Used music, folklore, drama for spreading message
+        - Secular, Non-sectarian
+            - Example: Sant Tukaram’s abhangas in Marathi
+        - Participation of women
+            - Andal
+        - Promoted ethical conduct - humility, compassion, honesty to attain salvation
+            - Example: The teachings of Chaitanya Mahaprabhu
+
+- - Contribution to Indian Culture
+        - Pluralism and diversity
+            - Kabir resonate with both Hindu and Muslim spiritual themes
+        - Enriched Indian literature in various languages
+        - Promoted local languages
+            - Example: The works of Surdas in Braj Bhasha
+        - Musical development : Influenced classical and folk music traditions
+            - Example: The compositions of Tulsidas in the Ramcharitmanas
+        - Social Reforms
+            - Challenged caste-based discrimination and patriarchal norms
+        - Inspired festivals and tradition
+            - Example : Janmashtami celebrations influenced by Bhakti traditions
+        - Inspired temple architecture and sculptures
+            - Example: The Vitthala Temple in Hampi
+        - Development of philosophical thought
+            - Ramanuja and Madhva expanded on Vedanta philosophy with a focus on devotion.
+
+- - Challenges faced
+        - Orthodox resistance
+            - Example: Hindu priests resisted anti-caste rhetoric of Bhakti saints.
+        - Their ideas were integrated into social structure without transformation
+            - Example: Bhakti concept of devotion influenced Hinduism, but without changing ritual practices
+        - Localized impact
+        - Focused on individual and its relationship with god
+
+- - **Conclusion**
+        - Bhakti movement set a spiritual discourse of indian culture transcending the barriers of caste, gender, religion in worship through devotion.
