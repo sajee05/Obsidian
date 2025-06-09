@@ -3,7 +3,6 @@
   "obsidian-doubleshift",
   "edit-history",
   "obsidian-enhancing-export",
-  "various-complements",
   "smart-composer",
   "obsidian-vault-changelog",
   "file-explorer-note-count",
@@ -41,5 +40,6 @@
   "kikijiki-habit-tracker",
   "calendar",
   "obsidian-tasks-plugin",
-  "obsidian42-brat"
+  "obsidian42-brat",
+  "phrasesync"
 ]
