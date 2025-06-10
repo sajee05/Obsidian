@@ -4,9 +4,6 @@ sr-ease: 410
 sr-due: 2026-06-01
 tags: []
 ---
-
-### [[MOCs]] - [[AIR 16 Madhav Agarwal| AIR 16 Mains]] - [[AIR 28 MAINS]]
----
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
 ---
@@ -24,6 +21,8 @@ tags: []
 - [[MOC GS1|GS1]] || [[MOC GS2|GS2]] || [[MOC GS3|GS3]] || [[MOC GS4|GS4]]
 - [[MOC Essay|Essay]]
 - [[MOC Topper Notes|GS Topper Notes]]
+###  [[AIR 16 Madhav Agarwal| AIR 16 Mains]] *Base*
+- [[AIR 28 MAINS]]
 ---
 -  📺 [[Lecture Notes|Socio Lecture Notes]]
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
