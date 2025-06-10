@@ -1,1600 +1,1193 @@
-
-#### Syllabus
-
-1. Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections.
-2. Issues relating to poverty and hunger.
-3. Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources.
-
-## Common Points
-
-- - **Social Justice:**
-        - **List of Acts/Policies**
-            - **Child Labour Prohibition Act 1986 same year as that EPA’86**
-            - **SC ST (Prevention of Atrocities) Act, 1989**
-            - RTI Act **2005**
-            - Maintenance & Welfare of Parents & Sr. Citizens Act 2007
-            - RTE Act 2009
-            - POCSO (Protection of Children from Sexual Offences Act) Act 2012
-            - National Policy for Children 2013
-            - National Mental Health Policy 2014
-            - JJ Act 2015
-
-#### Right of PwD Act 2016
-
-- - - - Mental Healthcare Act **2017**
-            - National Health Policy 2017
-            - Consumer Protection (Amendment) 2019
-
-#### TG Persons (Protection of Rights) Act 2019
-
-- - - - National Education Policy **2020** (**not 2019**)
-        - If question comes on **vulnerable sections - also include** migrants, slum dwellers, farmers apart from covered below
-        - **Data Points: PwD (2.21%), Old Age (8.6% → 16% 2041), ST (8.6%), TG**
-
-**(4.8 lakh, 50-60 lac), Edu (3% spending target 6%), Health (2.1%**
-
-**spending target 2.5%)**
-
-- - - **Best Practices for Vulnerable Sections: PwD** (Chattisgarh 1 seat panchayat; Comprehensive Newborn Screening), **Old Age**
-
-(multi-generational homes), **Children** (Bal Snehi Panchayat, Brazil Bolsa Familia Program), **ST** (Xaxa Commitee, Namath Basai), **TG** (Yogyakarta Principles, Karnataka 1% horizontal res; Odisha SWEEKTRI Scheme,
-
-NALSA, Navtez Singh Johar called for sensitization, Expand Article 15 similar to S. Africa include sexual orientation), **Education** (Finland Model-make teaching attractive & lucrative, RP Tiwari Cmt); **RJ laws** for min income/gig workers
-
-- - - **General WFs**: Data collection, Sensitization & Awareness programmes, Grievance redressal; More representation (don’t stop yourself from writing these even if they’re common pts); Digitisation & Tech
-        - **Way Fwd for Vulnerable Sections**: Need for anti-discrimination law to address challenges faced by vulnerable sections (Article 15 does not cover discrimination based on disability, sexual orientation, linguistic identity, physical appearance, eating preferences, etc.)
-        - ![GS2 SocialJustice](<Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 4.jpeg>)**Concl**: **SDG-10** aims to reduce inequalities (same can be quotes for SC/ST/NE region) (**10.4 for migrants**)
-
-## Social Justice PYQs (categorised as per syllabus)
-
-#### Vulnerable Sections
-
-- - - General
-            - 2014: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?
-            - 2018: Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
-            - 2013: Restructuring of Centrally sponsored schemes: merits, demerits, way fwd
-            - Consumer Protection (Amendment) 2019 (questions on same lines asked in 2012)
-            - National Population Policy (cover basics only)
-            - Acts asked in exams (read their current status/success): PCPNDT, POCSO,
-        - Child
-            - 2016: National Child Policy 2016: Provisions, status of its implementation
-            - 2012, 2007, 2003: Child Labour: Act? Steps to get rid?
-        - PwD & mentally challenged
-            - 2017: Rights of Persons with Disabilities Act, 2016: Provisions, merits, demerits, way fwd
-            - 2006: Mentally challenged persons: Problems in their rehabilitation (topic in news)
-            - 2002: Schemes and policies for Welfare of the Disabled
-        - Women
-            - “The reservation of seats for women in the institution of local self- government has had a limited impact on the patriarchal character of the Indian political process”. Comment.
-        - Other to be covered: STs, manual scavengres,
-
-#### Issues relating to poverty and hunger
-
-- - **Poverty & Hunger**
-        - 2021: Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. (Answer in 150 words) 10
-        - 2020: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.
-        - 2013: Mid-Day Meal: Twin objectives, latest mandates and success
-        - Efforts taken by GOI as of now to tackle both? Measures needed?
-        - 2015: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators.
-        - 2017: ‘Poverty Alleviation Programmes in India remain mere show pieces until and unless they are backed by political will’. Discuss with reference to the performance of the major poverty alleviation programmes in India.
-        - 2019: There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food-budget – Elucidate
-    - GS1
-        - Limitation of G Schemes wrt poverty
-        - Forms of deprivation and examples to eradicate
-
-Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources.
-
-#### Human Resources (Cover India @75)
-
-- - - “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?
-        - 2018: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
-
-#### 2019: Despite Consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive
-
-- - **Education (Cover SDG achievements/shortcomings from Mains 365 Pg 76; Also cover quip noting)**
-        - How have digital initiatives in India contributed to the functioning of the educational system in the country? Elaborate your answer.(GS1-2020)
-        - 2020: National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement
-        - Entry of foreign educational institutions in India: SWOT analysis
-        - Should the premier institutes like IITs/ IIMs be allowed to retain premier status, allowed more academic independence in designing course and also decide mode/ criteria of selection of students. Discuss in light of the growing challenges.
-        - How to harmonize private investment and quality of education (context of Yashpal committee)
-        - Read about **Trend of literacy rate** over the years? State of education in India?
-
-#### Health
-
-- - - 2020: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.
-        - Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain
-        - ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the WASH scheme.
-        - Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?
-        - Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest?
-
-## Social Justice Content
-
-### Vulnerable Sections
-
-#### Vulnerable Sections
-
-- - - General Way Fwd:
-            - Need for anti-discrimination law to address challenges faced by vulnerable sections (Article 15 does not cover discrimination based on disability, sexual orientation, linguistic identity, physical appearance, eating preferences etc.)
-        - General
-            - 2014: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?
-                - Issues wrt schemes for vulnerable sections leading to their exclusion in entrep:
-
-Govt job preference- reservation and lower threshold of marks makes them focus on govt jobs instead of entrep
-
-#### MGNREGA- focusing on 100 days of work rather in developing skilled jobs
-
-**Attempts at UBI- self sufficiency for basic needs hamper entrep spirit**
-
-Rural policies such as PURA, RURBAN for stopping urban migration-hampers diversity in entrep ecosystem
-
-Social prejudice by upper sections- discrimination when they try to do entrep due to major govt policies for them (leads to their ‘Silent segregation’) eg: No house to minorities, rejected from job as on wheelchair, etc
-
-Gender prejudice by women estb biz- seen as extra-progressive(Focus on marriage karlo)
-
-- - - - - However- welfare state basic req of common min standards to all, also govt schemes give them dignity which help in building confidence and promots entrep
-            - 2018: Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
-                - Issues of multiplicity- conflicting judgements, NHRC overlapping functions wrt women, dalits, interest of women and children are related, duplication of fx, etc
-                - Cons in merging- Overburdened commision, diff issues of diff vulnerable section, need special experts, ST very diff from others
-                - Therefore improve existing org-reforms covered in polity along with note on Umbrella HRC [Umbrella Human Rights](https://quip.com/to8OAfF3ykpg#bSZACAzWWsh) [Commission: GS-2 Polity & Constitution](https://quip.com/to8OAfF3ykpg#bSZACAzWWsh)
-
-#### 2013: Restructuring of Centrally sponsored schemes: merits, demerits, way fwd
-
-- - - - - **CSS (Article 282)** are implemented by the states, planned by the centre **on subjects of State/concurrent list**
-                - Funding- General- 60;40, Spc category- 90-10
-                - Need:
-
-**National Framework for Dev**- eradicate poverty, protect vulnerable sections
-
-#### Aid state in financial resources
-
-Complement existing state schemes- double benefit to sections
-
-- - - - - State issues
-
-Encroachment on state ability to govern and functions
-
-**Proliferation & Duplication**- too many schemes, state has schemes with same functions
-
-One size fits all- **neglect local requirements**
-
-**Limted flexibilty** to implement
-
-- - - - - Steps taken
-
-Shivraj singh C on CSS- **Reduced schemes from 66 to 28** (earlier was 147 )divided into **3 categories: Core of the Core, Core schemes, Optional Schemes**
-
-**Involving states in preparing guidelines** of schemes for flexibility
-
-More flexi-funds, transfers to consolidated fund of state rather than direct implementing agencies
-
-#### WF- Perf linked financing to combat state disownership of schemes while giving more flexibilty to implement; 15th FC - Article 282 require an in depth holistic review
-
-- - - - **Consumer Protection (Amendment) 2019 (questions on same lines asked in 2012)**
-                - No need to refer image
-
-■
-
-- - - - - Product Liability: If a consumer suffers an injury, property damage or death due to defective goods /services → company will be liable to pay for damages
-
-#### Jurisdiction: District upto 1cr, State 1-10 cr, National >10 cr
-
-- - - - - Complaints can be **filed electronically**, cases can be heard through **video conferencing**
-                - New body CCPA can intervene to protect consumers from unfair trade practices. It can also launch class action against a company, order recall or refund of products
-                - **Punishment** - Fines upto ₹ 50 lakhs + upto 5 years jail
-
-#### Mental Health
-
-- - - - 💡: Key Stats → Lancet 1 in 7 Indian has mental disorder, Suicide rate 16.3 per lakh (Global avg 10.6); 0.01 mental hospital for every 1 lakh-WHO; Read bold points
-            - As per WHO - 7.5% of the population, suffer from mental health issues; Suicide was the leading cause of deaths among young people — aged 15 to 39 — in 2016; **WHO has labelled India as the world’s ‘most depressing country’**
-                - According to Lancet, 1 in 7 people in India had mental disorder raning from mild to severe in 2017
-                - Suicide rate was 16.3 per 1 lakh population in 2016 (global avg 10.6)
-                - In news: COVID, **Withdrawal by Naomi Osaka** from French open
-
-COVID-19 lockdown aggrevated need for MHC (mental health care)
-
-Withdrawal by Naomi Osaka from French open
-
-- - - - Why focus on mental health? **Can reduce life expectancy by 10-25 yrs (as per WHO)**
-                - Impacts your thoughts, behaviors and emotions
-                - Important part in the health of your relationships
-                - Contributes to our decision making process, how we cope with stress
-                - Can reduce life expectancy by 10-25 yrs (as per WHO)
-                - Depressive disorders more prevalent among females (due to sexual abuse, discrimination issues)
-            - Measures taken:
-                - **National Mental Health Policy 2014** (**promote mental health**, **promote destigmatization**, ensure socio-economic inclusion, right based approach) National Adolescent Health Programme
-                - **Mental Healthcare Act 2017** - brought **right based approach**, **removed penal provision for suicide** by presuming mental stress (Section 309 IPC had jail for attempting suicide)
-                - India’s 1st National Mental Health **Helpline ‘Kiran’**
-                - **Ayushman Bharat** also has component for MHC
-                - Medical staff - Distressed/burned out during prolonged 2nd wave of pandemic
-
-#### Issues:
-
-- - - - - Lack of awareness and sensitivity about the issue eg: difficult to differentiate between feeling sad and depression
-                - **Tagged as ‘lunatics’ by the society** (ironic as community based residential centres are regarded an imp component of MHC)
-                - Low level of psychiatrists, psychologists, nurses, mental health units in general hospitals, full fledged mental hospitals (WHO data says India has 0.01 mental hospital for every 1 lakh)
-                - **Violations of human rights** have been reported **in mental asylums** and also at homes
-
-#### Way Fwd:
-
-- - - - - India could reduce the treatment gap for mental disorders, increase the number of personnel in the mental health sector, work towards reducing discriminatory attitudes, and devise an integrated approach for detecting, treating, and managing patient needs. More counselling facilities, especially in rural areas, with special support for women through the provision of women doctors are needed. More telemedicine, telephone-based helpline numbers, and mental health apps could help. Communities and families have an important role in this regard and so do
-
-community-based programmes. School-based programmes on mental health can improve the mental health of children. More fund allocation for treatment of mental health, especially to those States in need of funds, could do wonders. The pandemic may be the best time to explore
-
-various policy options including creating online mental health awareness. Media and big data analysis can also play deciding role
-
-- - - - Conclusion: **Everyone is fighting their own battle, some more silently than others**. Society needs to be compassionate and empathetic towards all. State mental health institutions, general hospitals, private practice, and NGOs can together help achieve the dream of mental health care for all
-
-**PwD**
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-Stat (2.21% Census 2011); Issues in General (Vidhi Centre for Legal Policy-50% NCERTs on DIKSHA portal not accessible to visually impaired; Ltd underst of D→ Ineff policy making; ‘Retribution of past karma’; Spcl issues in pandemic, Under-reporting due to stigma); Right of PwD Act **2016** (Provisions-disab inc to 21; **4/5% reservation in govt jobs/higher edu**; child-18yrs RTE; penalties for offences; Issues-rules not made by states, no data as earlier data based on 7 disab); **Way Fwd** (Prof caretakers; incentives for pvt to give jobs to them; **Comprehensive Newborn Screening** (CNS) programme by Kerela); No need to refer bold
-
-Measures taken (**Accessible India**; ALIMCO-Wheelchairs, Tricycles; Guidelines by Edu Min in 2021 to make content more accessible; **Chattisgarh** became first state
-
-elect/nominate one PwD in each panchayat; 4/5% reservation); **SC held that reservation for PwD is horizontal reservation and therefore does not fall within the 50% cap; 2022**: D/o Emp of PwD released **draft of National Policy for PwD** - which shifts focus from medical model of disability to a **social or human rights model of disability** (India signed UN Convention of Rights of PwD; Incheon Asia & Pacific decade of PwD 2013-22); Role played by officer P Narhari for accessibility
-
-#### 2002: Schemes and policies for Welfare of the Disabled
-
-- - - **Accessible India Campaign** 2014 focus on 3 verticals - built environment, public transportation and ICT
-            - Ramps in public buildings / railways / airports; toilets for wheelchair users, disabled-friendly websites, etc.
-            - **Hires auditors** to check public buildings & websites
-            - Grants are provided
-        - Rights of Persons with Disabilities Bill, 2016: **4% in government jobs** and
-
-**5% in higher education** institutes
-
-- - - Assistance to Disabled Persons (ADIP) for purchase of Fitting Devices e.g. Tricycles, Wheelchairs, Crutches → Implemented by **ALIMCO**
-        - DeenDayal Disabled Rehabilitation Scheme: Under this scheme financial assistance is provided to NGOs for providing various services to PwD like schools, training centres
-        - National Fellowship for Students with Disabilities
-        - **Best Practice: Chattisgarh** became first state to which will have **one differently abled member** (either elected or nominated) in **each panchyat**; CG has 6% of diff abled people
-        - 2021: Guidelines issued by Education ministry to **make digital content more accessible** (various modes text,audio,video,sign lang) for the children with disabilities
-        - **2021: SC** held that PwD have right to reservation **even in promotions** (irrespective of fact the candidate developed disablity after gaining employment
-
-#### 2017: Rights of Persons with Disabilities Act, 2016: Provisions, merits, demerits, way fwd
-
-- - - Facts: Census 2011 - 2.21%; As per Social Development Report 2016 - 56% disabled are men and 70% in rural areas
-        - Constitutional Protection:
-            - Art. 41: The State shall, within the limits of its economic capacity make effective provision for the right to work, right to education and right to public assistance in cases of unemployment, old age, sickness and disablement
-            - **7th Sch: State List Entry 9:** Relief of the disabled and unemployable
-        - Issues faced by PwD
-            - The education system is not inclusive (study by Vidhi Centre for Legal Policy showed that more than half of the NCERT textbooks on DIKSHA platform were not accessible to visually impaired)
-            - Ineffective policy making due to ltd. understanding of disability
-            - A large number of **disabilities are preventable yet health infra**
-
-cannot manage the same
-
-#### Underreporting due to social stigma
-
-- - - - Disability treated as medical problem and not as social problem (disability is the perception of society towards PwD which denies them social/eco dev)
-            - PwD is seen as retribution of past karma
-            - **Woeful infrastructure** (health, transp, tech) to access basic services remain
-            - Suffers from triple jeopardy - disability, social stigma and poverty
-            - People with disabilities have special issues during virus outbreak: The people who cannot see rely on touch (cannot touch due to contagious virus); the ones who cannot hear rely on lip reading which gets blocked by a mask
-            - Ambiguity in definition of disability (as disabilities increased from 7 to 21)
-        - Provisions of the Act:
-            - The types of disabilities have been increased from 7 to 21 (Acid attack victims, mental illeness have been included)
-            - Clause of benchmark disability of 40% to avail reservation benefits
-            - Increases the quantum of reservation for people suffering from disabilities from 3% to 4% in government jobs and from 3% to 5% in higher education institutes
-            - Stress has also been given to ensure accessibility in public buildings in a prescribed time-frame
-            - Spcl provision for child with disability → age under RTE act increased to 18 years
-            - Prov. for chief commissioners, advisory bodies, national and state level funds
-            - Penalties for offences committed against persons with disabilities
-        - Cons:
-            - Non-implementation due to states not forming rules for the act (despite part of state list)
-            - Enforcement issues due to lack of proper data (data of census 2011 based on 7 disabilities)
-        - Way Fwd:
-            - Prevention: **Kerala** has already started an early prevention programme. **Comprehensive Newborn Screening (CNS)**
-
-**p**rogramme seeks early identification of deficits in infants and reduce the state's burden of disability
-
-- - - - Destigmatization of disability through **awareness and discussion on public platforms**
-            - Create institute for training professional caretakers following NSDA guidelines
-            - Giving political voices to PwD
-
-#### Using CSR funds for PwD
-
-- - - - Inclusive education without labelling
-            - e-learning, incentives for pvt. employers recruiting PwD
-
-**Children**
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: UNCRC says anybody <18=child; **Issues** (Health-32% stunting & 18% wasting (~~NFHS-5~~), Education-Only 20% of Classs 3 can read -ASER, Child Marriage-1/3
-
-world’s child brides/**30.2%** married before 18, Child Labour-33mn **Census 2011** in 5-18 yrs, Adoption-as per UNICEF - India has 30mn orphans/abandoned, Sexual abuse, Mental health-1 in 7 depressed); Read legislations and their drawbacks; **Measures taken** (NCPCR, Legislations, ICDS, PENCIL Portal, Project MASOOM, CARA) **Best practices** [Bal Snehi Panchayat (Lattur Village), Brazil’s successful Bolsa Familia programme (cash transfers for child friendly changes), Project Sampoorna Assam to fight malnutrition; FLAG Programme with PLA approach to reduce IMR in Jharkhand]; **Concl:** Children=future of nation, **Role of NCPCR**, Article **39(f)**-dignity of children (Role played by NCPCR -Bal Swaraj (COVID-Care link) for children in need of protection; asked UTs/states to upload data of children who have lost their parents)
-
-- - Intro (with stats on their status)
-        - As per United Nations Convention on the Rights of the Child (UNCRC), anybody below 18 is a child. It provides for basic fundamental rights such as Right to survival, Right to Protection from violence, Express their opinions
-    - Issues (Health, Education, Child Marriage, Child labour, Adoption, Sexual abuse, mental health)
-        - Health: Stunting at ~38% - POSHAN target is 25% it was 50% in 2000; World’s half undernourished children in India
-        - Education: Only 16% can read text prescribed for their level in Class 1 (ASER 2019)
-        - Child marriage: India has 1/3rd of the global child bride; 30.2% of all married women were married before age 18 (Census 2011)
-
-#### Cultural issues (Akha teej in RJ); Witnessed ⬆ during
-
-**lockdown** as the weddings were restricted to housed due to COVID norms; Laxed implementation **Prohibition of Child Marriage Act 2006**
-
-- - - Child labour: Census 2011 - 10.1 mn working in 5-14 age group; 60% child (btw 14-17) engaged in hazardous entrep
-        - As per UNICEF, India has over 30 mn orphan and abandoned children (makes them even more vulnerable)
-            - SC directed that social media posts for adoption violates JJ Act (as JJ Act provided for correct procedure & final order is passed by prescribed authority)
-            - The privacy of orphaned children needs to procted which will otherwise violate sec 74 of JJ Act (NCPCR highlighted that personal details being leaked to pvt bodies from govt sources)
-            - Lax enforcement of adoption rules have led to child trafficking
-        - Sexual abuse and child pornography, Juvenile delinquency
-        - 1 out of 5 children in school suffering from depression
-    - Other points:
-        - According to ASER 2019 report, gap between learning outcomes of children with mothers who were educated upto Standard 12th or higher was 40% more than children of uneducated mothers
-        - Lancet Report says because of rise in temperature, infants will bear the greatest burden of malnutrition and rising food prices
-        - Most Missing Women and Children from MH, MP and WB (Draw a hotspot map quoting NCRB)
-    - Constitutional/Legal protection (basic features of law)
-        - National Policy for Children 2013
-            - Brought to give effect to UNCRC - Policy marked children as an important national asset
-            - Area Provision Implementation
-                - **Survival, Health and Nutrition**: It states the right to life, survival, health and nutrition is an inalienable right of every child
-                - **Education and development**: equal right to learning, knowledge and education, with due regard for special needs
-                - **Protection**: State shall create a caring, **protective and safe environment for all children**
-                - Participation: Support to develop skills, to form aspirations and express their views
-                - National/State Coordination and **Action Groups** to **ensure field level implementation** of child related schemes
-                - Draft child protection policy 2018 by MWCD
-
-Basic points + framework for inst (inc corporates) for their respon vis-a-vis children
-
-#### Child Labour Prohibition Act 1986 (amended 2016) - same year as that EPA’86
-
-- - - - Below 14-No, 14-18- Non hazardous;
-            - **Measures taken**: ILO Convention **182**, PENCIL portal, **National Child Labour Project (NCLP) Scheme (rehab centres), Bachpan Bachao Andolan**
-            - **Challenges**: in regulation & lax implementation; A means of survival for many; Informal nature of economy,
-
-#### Industrialist-Political-bureaucratic-nexus; Abuse of legal provision (as allowed in some situations provides a leeway eg: household enterprises to evade laws);
-
-- - - - **Way Fwd**: **Social labeling** of products marking them as CL free;
-
-**Data collection**; Community role; Proper implementation of law
-
-- - - **POCSO (**Protection of Children from Sexual Offences Act**) Act 2012**
-            - Child meaning age **less than 18 years**; **Aim:** Address sexual abuse & exploitation of children; Legal obligation under UNCRC
-            - **Provisions**: Investigation in **2m and trial in 6m**; child-friendly mechanisms at every stage of the judicial process; Estb **special courts**, **gender neutral** law, burden of proof on accused, **death penalty**for aggravated assault; Rehab by child welfare comittees
-            - 2019: Defining child pornography; Widening the scope of aggravated penetrative sexual assault
-            - Impact/fallback of POCSO: **Conviction rate** in POCSO cases in 2016 (the latest year for which data is available) was **only 28.2%**; Child victim in rape cases have ⬆; Issues wrt to **consensual relationships** (where there is no sexual abuse but consent based
-
-relation between 2 children)
-
-- - - - - **M365**: 1 in 4 cases under POCSO is romantic case (90%+ result in acquittals)
-                - **Challenges**: **Proving the age** of the child (which document is needed no clarity), **Weak police system**, **Forensic samples** (not collected or ill-handled), **Overburdened judiciary**, **Lack of accountability of NCPCR (working not open** to public scrutiny)
-            - Suggestions: Nationwide assessment of the impact of POCSO Act, Police reforms, Awareness, Judicial overhaul
-
-#### JJ Act 2015
-
-- - - - Child less than 16 (16-18 henious crimes tried as an adult); **Need under UNCRC, Hague Convention**
-            - Deals with following aspects: For child in need of protection; Child in conflict with law; Crime against a child; Child legally available for adoption
-            - **CARA (Central Adoption Resource Authority) under JJ** for adoption related issues (CARA got statutory status from this act); **Child welfare committees** at local level - 1 woman compulsory
-            - **2021 Amendments**: **DM/ADM can issue order** for adoption, **redefines serious offences**, made some offences bailable (promoting reformative justice), all offences will be tried by Children’s court
-        - Govt. has approved setting up of 1023 Fast-track Special courts of which 389 are exclusively for POCSO
-        - Article 39 (f): children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment
-        - NC for Protection of Child Rights (NCPCR)
-            - Statutory body under PCR Act 2005; **Powers of civil court; Reports to CG**
-            - monitoring agency of child related laws, child courts, est at C & S levels
-            - 1 + 6 members (of which 2 must be women); Similarly we have
-
-**SCPCR** at state levels
-
-- - Govt schemes
-        - ICDS- Centrally spon scheme
-            - District child protection society in every district for identifying family/child at risk of destitution
-            - Database on child- tackle child trafficking etc
-            - Fin resources to state to eff imp JJ act, Protection of children act etc
-            - Nutrition- Asha, anganwadi
-        - National child labour project- eliminate child labour through identification, Pencil portal
-        - Can write schemes related to education, mother health etc
-        - Create Paediatric units in all 736 districts and to establish Paediatric Centre of Excellence in each State/UT
-        - **Project MASOOM** - to tackle child pornography
-        - Odisha adminstration cash prize to person who provides info on child marriages
-        - **Case Study: Bal Snehi Panchayat (Child-friendly panchayat)-** Set up in villages to enable children learn their rights and compel rural administrators to provide basic amenities necessary for the development of their villages **(Lattur Village, MH)**
-        - ‘**YuWaah**’- Generation Unlimited initiative: Launched by **UNICEF** - to tackle the urgent challenge of investing in their **learning and training**
-        - Lessons from **Brazil’s successful Bolsa Familia programme** where **cash transfers** were low made to low income groups on condition that they for example send their kids to school, properly vaccinate them, etc.
-    - Case Laws:
-        - Sampurna behrua case 2018- mandatory registration of childcare institutions
-        - Bachpan Bachao Andolan- 2013- Mandatory FIR for cases of missing and abduction of children
-
-#### Jharkhand- FLAG programme and PLA (particpatory action and learning approach) technique to reduce NMR and MMR (on the job training given to ASHA workers, etc)
-
-- - Way forward
-        - Cover above measures with prescriptive tone
-
-**Old Age/ Senior Citizens**
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: Stat (8.6% Census 2011 expected **16% by 2041**; 70% in rural-same as PwD; Feminiz 1033); Issues (LASI Report **75%** atleast one chronic disease; Nuclear families; Digi illiteracy; Infra inaccessible or lack of care infra; Feminisation of old age; Loneliness); Schemes (Vyaya Vandana, National Social Assistance Programme-NSoAP, PM-JAY, ITax benefits, Rashtriya Vayoshree Yojana,Project ELDERLINE-14567, Maintenance & Welfare of Parents & Sr. Citizens Act 2007, SACRED Portal for jobs/online employment exchange portal; SAGE Initiative for silver economy; Religious tourism CM Tirtha Yatra); Way Fwd (**Swiss 'Time Bank' concept;** Multi-generational homes Germany; Inheritance right for women, Push Silver Economy for services around elders; ⬇ TFR calls for geriatric care) Concl: Decade of Healthy Ageing 2020-30 by WHO; No need to read bold points
-    - Stats:
-        - Living in rural areas (71%); Regional variations (kerela is aging while bihar is young);
-        - Feminization of ageing: Sex ratio 1033 in 2011
-    - Issues:
-        - Health issues: **LASI 2020** report, **75%** of the elderly population of India suffers from **one or more chronic diseases** such as arthritis, hypertension, etc
-        - **Nuclear Families:** Isolation & neglect due to disintegration of joint families, change in value system, old ppl no longer seen as a source of wisdom
-        - Lack of preparedness - **no formal awareness program for planning**
-        - State infrastructure proved inadequate
-        - Income insecurity, **Physical** and emotional **abuse**, Digital illiteracy
-    - Govt. Efforts
-        - NSoAP, PM-JAY
-        - Maintenance & Welfare of Parents & Sr. Citizens Act 2007 - **Maintenance of parents is obligatory** and justiciable (Sec 125 of CrPC)
-
-#### National Policy for Senior Citizens 2011
-
-- - - - Mainstream the concerns of sr. citizens spcl. older women
-            - Promote the care of SC within family & inst. care should be last resort
-            - Creation of inclusive age friendly society
-            - Recognize elderly as productive asset of society
-            - Promote income security, old age pension; Provide employment opportunities
-        - Income Tax benefits
-        - PM Vaya Vandana Yojana: ~8% assured return (extended till March 2023)
-        - Rashtriya Vayoshree Yojana - Physical aids/assisted living devices for SCs belonging to BPL
-        - Vayoshreshtha Samman - National award given to eminent senior citizens & institutions
-        - Project ELDERLINE (**Call centres by M/o SJ**)
-    - Way Fwd
-        - Need to tap the **longevity dividend** eg: as counsellors
-        - **Digital empowerment** of elderly; Government owned old age home
-        - Special focus on women and in rural areas (inheritance rights)
-        - Multi-generational homes as existing in Germany
-        - Develop the culture of preventive (sanitation) & **promotive health care (yoga)**
-    - Concl
-        - Decade of Healthy Ageing (2020-2030) is endorsed by WHO (replaces previous active ageing)
-
-**Scheduled Tribes**
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - **Siddhi Tribal Case in MP**
-    - 💡: **Stat** (8.6% pop, 90% rural, 700-75 PVTG; 40% in BPL comp to 21% nat avg; Census 2011 Literacy of 59% vs nat avg 74%); **Measures taken**-Constitutional (5th & 6th Schedules; 350A, Art 338A, 15(4), 16(4) reservation) ; Schemes
-
-(NEP-vernacular lang; Van Dhan-TRIFED-MSP, Janjatiya Gaurav Diwas, Tribal Museums, Eklavya model resi schools, Scheme for dev of PVTG-central sector scheme, North Eastern Council headed by PM, Island Dev Authority for 2 Island groups); Laws (Forest Act removed bamboo-now right to fell them in forest areas; RTF Act - forest rights; RFCTLARR Act 2013); **Issues** (Health-STs a/c for Half of malaria deaths in India; Child malnutrition is 50% higher in ST; Tobacco/alcohol, mistrust for modern vaccines; Education-lower literacy rate 59% vs Nat 74%, lang barriers-350A not fulfilled, location of schools; PVTG-popu
-
-⬇, HR violation; Eco-commodification of trad knowledge; land dispossession (2
-
-lakh+ cases pending); Rigid culture-Kerela couple ostracized for 2 decades for “marrying wrongly”; Dev Induced displacement: forms more than 40% of the displaced population while share in popu only 8.6%); **Way forward**: Xaxa Committee 2013 (Gram S consent for land acq; Tribal chair in UGC now HEC;
-
-Sep medical colleges for tribal areas); Namath Basai Kerela-teaching in local lang; Expert Committee in 2018-Recommended National Mission on Tribal Health; Others-Adequate data for better targeting, De-addicion drives, youth deradicalisaiton in LWE areas, Promoting Tribal art initiatives via ‘Aadi Vyapar’, e-commerce); Recent incidents in Guna and Dewas (show the state of tribal women); 🔥 First ST President since independence can act as force multiplier for tribal growth; **Bezbaruah** Committee (protection of tribals)
-
-- - - Other Issues (from Only IAS Post Indep file): **CAG 2018** report said underutilization of funds allocated for tribal welfare
-        - **Xaxa Commitee**: Judicial Commission to look into the **matters of Naxal Offences/Cases** under which many Tribals were arrested; Recommended giving **Mining Rights to the Tribal Cooperatives (follow model by AP where TC used for marketing MFP); Officials should be punished** for delayed implementation of FRA/PESA 1999; **Increasing the power of Gram Panchayat** to check land acq
-        - 🧨 **Issues with FRA 2006** (15 years): Lack of political will (emphasis on
-
-EoDB, EPA dilution), Ltd. power devolution to grab sabha; Complex/cumbersome legal process; Fin and H.Resource crunch with Tribal Ministry; Tussle b/w GS and revenue/forest dept; NCST not working actively; **1/3rd claims rejected** as per M/o Tribal (non occupation before specified date, non-forest land claimed, multiple claims)
-
-- - - **Eco-Tourism** can be promoted and govt must empower **JFM committees (Mindnapur Model)** to oversee this; Food items of tribes and their culture should be part of tourist resorts; Training to handle tourists, prepare hygienic food etc (**Kalinje Ecotourism Model in MH** that is based on **community based conservation** - also created several jobs); _Sahariya Tribe being trained for Cheetah Tourism in MP_
-        - _Unfortunate MP Tribal urination case shows the pity state of HR in the country for tribals_
-    - Intro (with stats on their status)
-        - 8.6% of population (90% in rural areas)- 2011 census; ~700 tribes with 75 as PVTG
-        - Livelihood status- 40% tribal BPL vis a vis 20.5% non tribals 😢
-        - Education- Literacy for ST- 59% (National avg- 73%) 😢
-        - Health- Life expentancy 63.9 (National-67), 80% tribal children undernourished and suffering from anaemia 😢
-        - Sex ratio- 990/1000 (National avg -933) 😃
-    - Provision:
-        - Constitutional (5th & 6th Schedules; Art 338A, 15(4), 16(4) reservation); Schemes (NEP-vernacular lang; Van Dhan-TRIFED-MSP, Janjatiya Gaurav
-
-Diwas, Tribal Museums, Eklavya model resi schools, Scheme for dev of PVTG-central sector scheme); Laws (Forest Act removed bamboo; RTF Act
-
-- forest rights; RFCTLARR Act 2013)
-
-- - Constitutional/Legal protection (basic features of law)
-        - ~~Art 46- State promote edu and eco intrests of weaker sections esp SC,ST.~~
-        - ~~Art 275- grant in aid to states under 5,6 schedule areas~~
-        - ~~Art 330- R in LS for SC/ST , Art 332- R in SLA for SC/ST~~
-        - ~~Art 338A - National commision for ST~~
-        - ~~Art 29(conserve distinct lang,script), Art 15(4)- sp prov for SC/ST, Art~~ ~~16(4)- Reservation~~
-    - Govt schemes
-        - Eklavya model residential schools (EMRS) - Budget 2019- every block with 50% ST or 20000 Tribals- school by 2022
-            - 2021: **MoU has been signed with Microsoft** for digital transformation of EMRS
-        - Van dhan yojana- TRIFED- value addition, training for minor forest produce
-        - ~~Scheme for dev of PVTG-central sector scheme~~
-        - ~~Van bandhu kalyan yojana~~
-        - ~~Janjatiya Gaurav Diwas (Tribal Pride Day), Tribal Museums~~
-        - ~~Indian Forest Act 2017 - removed Bamboo from definition of tree~~
-        - ~~NEP 2020 advocated for vernacular language education till Class V~~
-    - Issues
-        - (Health-tobacco/alcohol, mistrust for modern vaccines, child nutrition; Education-lower literacy rate 59% vs Nat 73%, lang barries-350A not fulfilled; PVTG-popu ⬇, HR violation; Eco-commodification of trad knowlegde; land dispossession; Rigid culture-Kerela couple ostracized for
-
-2 decades)
-
-- - - Health
-            - Mental illness and comp larger addictions of tobacco and alcohol
-            - Disease burden of communicable diseses like malaria,HIV,TB , NCD such as hypertension, diab etc
-            - Issues of inadequate nutrition wrt child, mother safety
-            - Mistrust for modern vaccines and medicines
-            - Lack of Infra & HR in tribal areas due to urban life culture
-        - Education
-            - Traditional attitide for girl education
-            - Linguisitic barriers for imparting modern edu, also mother tounge cont prov(350A not fulfilled)
-            - Teachers unavailibility
-            - Apathy of tribal leadership- more concerned with autonomy rather than what to do with it
-        - Issues of PVTG, other denotified groups
-            - Assertive tribal groups take major dev funds
-            - Declining population- esp in A&N
-            - Non timber forest collection hampered due to shrinking forest availability
-        - Economic issues
-            - Issues wrt getting Indv and community FR under Forest rights act 2006
-            - Land alienation wrt dev projects
-            - Inadequate entrep potentials
-        - Legal issues
-            - Issues in legal acts- PESA, SC/ST Atrocities, FRA etc
-        - Social
-            - Rigid rules and customs reduce autonomy (Kerala couple ostracized for almost 2 decades for marrying against customs)
-    - Way forward:
-        - Xaxa Committee 2013 (Gram S consent for land acq; Tribal chair in UGC; Sep medical colleges for tribal areas); Namath Basai Kerela-teaching in local lang; Others-Adequate data for better targeting, De-addicion drives, youth deradicalisaiton in LWE areas)
-        - Health
-            - Bottom up approach with mix of modern and traditional medicine
-            - De-addicion drives, data on tribal diseases, specialised HR for tribals, mobile medical camps
-            - Emergency transportaion for expectant mothers
-        - Edu
-            - Sp institutions like Dantewada livelihood college- offer S.D courses
-            - Local teacher recruitment and training
-            - Spl girl schools to promote edu
-        - Other(eco,legal,displacement issues)
-            - Adequate data for better targeting of govt scheme
-            - Need to win them back from LW extremism
-            - need to establish agro-based training institutions and related labour-intensive processing industries in tribal regions.
-            - Explore 5,6 th schedule demands wherever possible
-
-**Transgender**
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: **Meaning** (gender does not match the g assigned at birth) **Stats** (4.8 lakh census 2011 but hidden 50-60 lac); **Issues** (Social excl-99% faced
-
-rejection-NHRC 2018; Eco excl-96% denied job-have to badhai/sex work; Health-mental/HIV/expensive sex alignment surgeries; Ghost citizens with no
-
-rep; HR abuse/hate crimes; Issues of rural LBGTQ unherd eg: athelete Dutee chand) **Efforts** (NALSA 2014-3rd Gender in govt doc, Self-determ, Provide avenues within OBC quota; TG Persons (Protection of Rights) Act 2019-read provisions, issues in bold); **Best Practices** (Karnataka 1% horizontal resrv in govt services; Garima Griha Yojana; SWEEKRUTI Scheme of Odisha-issue smart i-cards + skilling); **Way Fwd** (Navtez Singh Johar case asked GOI to sensitize to eliminate stigma against LGBTQ+; Need to expand Article 15 to include sexual orientation/gender (like South Africa did in 1996); Grievance redressal; More representation); **Concl** SDG-10 aims to reduce inequalities (same can be quotes for SC/ST/NE region); **Yogyakarta Principles** recognise freedom of sexual orientation and gender identity as part of Human Rights; **Note:** Male & Female are mere normative categories rather than being natural; In NALSA judgement, Justice Sikri said TG is umbrella term and includes gay, bisexual, lesbian)
-
-- - LGB**T**QIA+ (Have to face abuse of pseudo medical therapy to turn them
-
-hetrosexual; Homophobia; Seen an mental disorder; other pts and suggestions same as TG; Personalities in news: Dutee Chand-Hoisted rainbow flag in CWG 2022, Alan Turing); NGOs working for TG: Asha Deep Foundation
-
-#### TG Persons (Protection of Rights) Act 2019
-
-- - - **Provisions**:
-            - Defines TG for puprose of act: gender does not match the gender assigned at birth
-                - **Prohibits discrimination** wrt denial of social services(H,E,J) etc, goods, **right to movement**, renting, public office; **Right to residence** (cannot be sep from family unless by law)
-            - **Grievance redressal mechanism**: every estab must appoint complaint officer
-            - Recognition of identity by DM- even after Sex reassignment surgery
-            - National **Council** for TG Persons setup with representatives from multiple stakeholders
-                - Functions: **Redress grievances**, **advise the centre** wrt policies/prog, **Monitor and evaluate them**, **Review and coordinate** with all govt, and non govt bodies
-            - **Penalties & Jail for offences** (bonded labour, denial of use of public places, removal from house)-**6m to 2 years**
-
-#### Issues:
-
-- - - - **SC NALSA Judgement entitled TG persons to enjoy eco/soc/cultural/pol rights w/o discrimination → Act does not address civil rights such as mariage, adoption, partnership rights; Does not define ‘discrimination’**
-            - **Punishments are less** as **compared to _cisgender_** (a person whose gender identity matches their sex at birth) woman where punishment can be life sentence or even a death penalty
-    - General
-- **No right to self identification** (rather subjected to bureaucratic scrutiny) along with no mech for review and appeal
-- **No provision for affirmative action for reservation** in employment and education despite **SC advise in NALSA Judgement**
-- **Demand for a commission but a council** has been set up (lesser powers)
-    - 4.8 Lakh (census 2011) - estimated to be 50-60 lakhs (kept secret to avoid discrimination)
-    - Constitutional Protection: 14, 15, 16, 19, 21
-    - Issues faced
-        - Social exclusion- 99% faced social rejection atleast once (NHRC Study 2018)
-        - Economic exclusion: 96% TGs are denied jobs taking low paying jobs such as badhais, sex work, begging (NHRC Study 2018)
-        - Health: Barriers to access health services- lack of specialised treatment, vulnerable to HIV aids and mental health issues, expensive sex alignment surgeries
-        - Termed as ghost citizens as merely 30k are registered with Elec commission
-        - Legal hurdles wrt documents, discrimination in family laws such as Hindu marriage act, H Succesion act
-        - Prone to multiple forms of violence- sexual, physical etc
-        - Same-sex marriage is not legalised - violates FR 14,15,21 of LGBTQIA+ community (atleast 29 countries around the world have legalised it)
-    - Govt. Efforts
-        - NALSA vs UOI 2014: ‘Third Gender’ to be incl in official documents; Right for self-determination; Provide for avenues within OBC quota
-
-#### TG Persons (Protection of Rights) Act 2019
-
-- - - - Provisions:
-                - Defines TG for puprose of act: gender does not match the gender assigned at birth
-
-**Prohibits discrimination** wrt denial of social services(H,E,J) etc, goods, right to movement, renting, public office; **Right to residence** (cannot be sep from family unless by law)
-
-- - - - - **Grievance redressal mechanism**: every estab must appoint complaint officer
-                - Recognition of identity by DM- even after Sex reassignment surgery
-                - National **Council** for TG Persons setup with representatives from multiple stakeholders
-
-Functions: Redress grievances, **advise the centre** wrt policies/prog, Monitor and evaluate them, **Review and coordinate** with all govt, and non govt bodies
-
-- - - - - Penalties & Jail for offences (bonded labour, denial of use of public places, removal from house)-6m to 2 years
-
-#### Issues:
-
-- - - - - No right to self identification (rather subjected to bureaucratic scrutiny) along with no mech for review and appeal
-                - **No provision for affirmative action for reservation** in employment and education despite **SC advise in NALSA Judgement**
-                - Demand for a commission but a council has been set up (lesser powers)
-                - **Punishments are less** as **compared to cisgender** (a person whose gender identity matches their sex at birth) woman where punishmen can be life sentence or even a death penalty
-        - State level initiatives
-            - Welfare boards set up by Kerela, MH, TN; ‘Transgender Community Help Desk’ set up at Cyberabad police station which will not only redress grievances but also provide job links, life skills, counselling, etc.
-            - National Portal launched to issues I-cards w/o physical interface or any visit to office
-            - ‘Garima Greh’ - shelter for TG person (pilot project of M/o SJE); Chattisgarh Govt. inducted 13 members of community into state police
-            - Best Practice: SWEEKRUTI Scheme by Odisha govt (where Smart cards are issues to provide equal opportunities and protect the right); Karnataka has become the first state in the country to provide 1% horizontal reservation for TG in govt services
-        - Way Fwd
-            - The law must be implemented in letter and spirit to fulfil its objective. At the same time, society needs to erase its biases and accept transgender people as equal human beings with humility.
-            - Adress grievance of T community wrt bills
-            - SDG-10 aims to reduce inequalities (same can be quotes for SC/ST/NE region)
-            - Need for sensitization programmes for various stakeholder (police, prison, judges, health professionals, education, workplaces)
-    - Larger term that includes transgender is LGBTQIA+ community
-        - Famous personalities: **Dutee Chand, Alan Turing**, Frank Kameny (American activist)
-        - Madra HC directed Union Ministry of SJ & Emp to upload details of NGOs with address/contact that provided services for these communities
-            - Make appropriate change in existing infra to accomodate their housing needs
-            - Coordinate with police wrt to offences committed against them
-        - Issues: **Have to face pseudo-medical therapy** wherein LGBT person given physical and emotional abuse so he/she gets ‘cured’ and becomes heterosexual; Challenges in employment; Challenges in personal relationship; **Homophobia** (prejudice against gay people); Different sexual orientation is seen as **mental disorder**
-        - Way Fwd:
-            - Navtez Singh Johar case asked GOI to sensitize general public and officials to eliminate stigma against LGBTQ+
-            - Need to expand Article 15 to include sexual orientation/gender (like South Africa did in 1996)
-            - UK passed Alan Turning Law to grant amnesty and pardon to previous convicts
-
-#### The current state of queer community is incompatible with country’s lilberal and inclusive constitution
-
-- - - - More steps need to taken by legislative route rather than just jurisprudence
-
-### Poverty
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: **Concepts** (SDG-1: Half P, Zero homeless); **Development paradox** in India-fastest growing economy but 22%; Divergence of **Hunger** ⬆🥺 and poverty ⬇; AS said P is lack of capab not income); **Data** (UNDP’s
-
-MPI-28%,S.Tend-Ind:21.9%,R:25.7%,U:13.7% 2011); **Causes** (Population-Poverty trap-low income-low edu/health-lowHRD=Trap; Agri not viable NABARD S; Corruption/leakages; Multiple definition makes eval diff-highly politicised issue; Low Social mobility-40% ST poor; Failure of trickle down; Regional varinace 40% in CG_1% in A&N; Feminization of agri); **Schemes** (MGNREGA, NSoAP, Gareeb Kalayan Package, ADP-115 distt, NRLM, Awas Y, Jan Dhan, PM-JAY); **Success** (Reduced poverty from 45% to 21%; 415mn out during FY06-FY21 as per MPI 2023; Improv shown in BNI; **3 crore** houses sanctioned under PMAY(R+U)); **Way**
-
-**Fwd** (Bottom up rural agri reforms; Quasi-UBI-for most deprived groups; Micro-targeting vulnerable; Panchayat led plan article 243; Kudumbashree; Effective distribution of wealth; Use of Technology (UN President lives of 800 mn transformed); Cost effective high frequency surveys; Focusing on
-
-MPI-education, health, living stds; Read only Urban Poverty Question 2008) **Why Schemes fail** (USe SICk FOUJI + plethora of schemes, Socio issues- like **patriachy and caste** based discrimination in identification; Definition itself politicised); We need **safety nets** like risk insurance, strong public health services to ensure people taken out of poverty are are not pushed back due to “**accidents of life**”
-
-- - - **Hidden Dimensions of Poverty**: **Psychological** (affects mental health, self-esteem, and social status, leading to marginalisation), **Structural barriers** (barriers such as lack of access to quality education, healthcare, and employment opportunities), **Environmental** (located in areas prone to environmental hazards, which exacerbates their vulnerability; lack of clean water/sanitation); **IMF and WB calls for** fostering inclusive dialogue & engaging communities via bottom up planning and strong institutions;
-        - **The Poverty Trap**: A vicious cycle where poverty itself creates barriers to escaping it. Limited access to education and healthcare can hinder opportunities for better jobs and income generation. Investing in education, healthcare, and social safety nets can empower individuals and communities to break free from the poverty trap
-
-#### MPI 2023 Findings: by UNDP
-
-- - - **25 countries, including India, successfully halved their global MPI** values within 15 years; **415 million**people in India were lifted out of poverty from 2005-**06** to 2019-**21**
-        - 1.1 billion out of 6.1 billion people (just more than 18%) live in acute multidimensional poverty across 110 countries. **Sub-Saharan Africa** (534 million) and **South Asia** (389 million) are home to **approximately five out of every six poor people**
-        - Said lack of comprehensive data during the period of the COVID-19 pandemic poses challenges in assessing immediate prospects
-        - Although low-income countries constitute only 10% of the population included in the MPI, these are where 35% of all poor people reside
-
-#### 2023 National MPI Report by NITI
-
-- - - Significant decline in multidimensional poverty; from **24.85% (2015-16) to 14.96% (2019- 2021). Approximately 13.5 crore Indians escaped poverty during this period.**
-
-#### The number of states with less than 10% multidimensional poor doubled from 7 to 14
-
-- - - ‘**BIMARU’ states**, viz., Bihar, UP, MP, Odisha, and Rajasthan witnessed the **fastest decline**
-        - **Issues**: Despite progress, **nearly one in seven Indians remains multidimensionally poor (wahi 14%)**, indicating the persistent challenges in addressing poverty and inequality. **Bihar has one-third population multi-dimensionally poor**. **WF**: **Generic wale health, education, jobs, public goods for New India,** data driven, **NGOs for randomised trials, Agri growth hub &spoke**
-
-**Extra Content Poverty**
-
-- - Poverty is the lack of sufficient money to meet the minimum standard of living-including food, clothing, shelter, health and education
-    - Developmental Paradox → India becoming fastest growing economy but still host 22% of world poor
-    - Poverty is not only about poverty; it is also about inequality
-    - Targets under SDG 1 - End poverty in all its forms everywhere
-        - Reduce to half from 21% to 10.95% population living below poverty line
-        - Target of zero homeless
-        - 100% household coverage with atleast 1 memb having health insurance
-    - Various dimensions of poverty:
-        - Financial, Health, Housing, Vulnerabilities to disasters, Gender specific vulnerability
-    - Causes for its continuance
-        - **Social Causes**: Population explosion (High fertility rates causing poverty trap due to lack of family planning); Social barriers faced by vulnerable sections; Access to eduation; Gender inequality
-        - **Economic Causes**: Agriculture no longer viable (NABARD survey), Jobless growth, Inflation; Debt trap due to low asset base; Inequality (Oxfam report)
-        - **Political Causes**: Unable to excercise legal rights; Used as vote banks; No coodiation PM-Kisan not implemented by West Bengal
-        - **Governance Issues**: Corruption/leakages; Resource curse; Not releasing personal consumption data/employment data (hampers data driven reforms) eg MGNREA Wage leakages
-            - Mutilple definitions of poverty - makes evaluation of policy effect difficult
-        - Other Challenges:
-            - Regional Variance: Much of India's poverty is concentrated in rural areas and in low-income States. The differences bw states is stark - CG has 39.9% whereas A&N Islands has 1%
-            - **Feminisation of poverty**, especially rural poverty (P impacts women>men)
-        - Upcoming challenges:
-            - Threats due to changing climate → inc in frequency of disasters
-            - Intensification due to COVID pandemic
-    - Defining poverty
-        - National:
-            - Alagh Committee (1979) determined a poverty line based on a minimum daily requirement of 2400 and 2100 calories for an adult in Rural and Urban area respectively
-            - Lakdawalla (1993) - Focused on Calories Intake + Clothing + Shelter
-            - **Suresh Tendulkar Committee** (2005-09) - Committee defined poverty line at monthly per capita expenditure ₹ 816 (rural), ₹ 1000 (urban)
-                - 21.9% (All India), **25.7% (Rural India), 13.7% (Urban area) in 2011-12**
-                - Covers food + non food (education, health, electricity and transport)
-            - C. Rangarajan Committee suggested poverty line @monthly expenditure for family of five: ₹ 4860 (Rural), ₹ 7035 (Urban) - this report is not accepted (this report covered food, non-food,
-
-non-food behaviour such as entertainment etc) - 29.5% were considered poor
-
-- - - - - To remove any criticism that many poor would be left behind if poverty line as per Tendulkar committee is adopted, NITI Aayog has underlined that **Tendulkar committee will only be used to track progress in combating poverty** rather than identifying the poor for entitlements. SECC data as suggested by Saxena and Hashim committee will be used for entitlements
-            - Socio Economic Caste Census 2011
-        - International:
-            - World Bank’s **International Poverty Line** (IPL) stands at person living daily on **US$1.90 - 21% Indians** below this mark
-            - **MPI by UNDP** is based on a survey with set of 10 questions spread across 3 dimensions viz. health, education and standard of living - **28%** Indians are poor
-    - Issues in determining P based on income alone? (UPSC 2020 question)
-        - Studies such as the MPI, Human Development Index, and the Gini coefficient stresses the need diff dimesions of poverty
-        - Traditionally, poverty refers to lacking enough resources to provide the basic necessities of life – food, clean water, shelter and clothing. But modern economists extend the term to include access to health care, education and even transportation
-        - Other dimensions
-
-#### Amartya sen- Poverty not absence of income rather capability
-
-(need for skill dev, edu)
-
-#### disempowerment politically- migrants
-
-- - - - poor quality of work wrt potential- eg watchman despite being educated
-
-#### social exclusion - reserved categories, tribals
-
-- - - - **living** in areas that are **environmentally hazardous**
-            - rural-urban disparity
-            - the threat of violence
-    - 3 Reasons why it is clear that the poverty estimation needs a relook
-        - In 2019, the global Multidimensional Poverty Index reported that India lifted 271 million citizens out of poverty between 2006 and 2016 but after that period, there is a downward trend
-        - The last time that ‘India reported an increase in poverty was in the first 25 years after Independence, when from 1951 to 1974, the population of the poor increased from 47% to 56%’. So, India is again a “country of mass poverty” after 45 years. Also there is a fall in the monthly per capita consumption expenditure of 2017-18 for the first time since 1972-73, which the Government withheld citing concerns with the quality of data collected
-        - Hunger issues data, NFHS-5 data
-    - Govt efforts to eradicate P & its evaluations
-        - Integrated Rural Development Programme (IRDP): assistance to the rural poor in the form of subsidy and bank credit for productive employment opportunities through successive plan periods
-        - Jawahar Rozgar Yojana: employment opportunities for the unemployed and underemployed in rural areas through the creation of economic
-
-infrastructure and community assets
-
-- - - Green revolution- helped in attaining the food security in country
-        - Food for Work Programme: enhancing food security through wage employment( Garibi hatao focus)
-        - Annapurna Scheme: provide 10 kg of free food grains a month for the eligible senior citizens- target groups of ‘poorest of the poor’ and ‘indigent senior citizens’ who dont have anyone to take care of them
-    - Current schemes:
-        - (MGNREGA) 2005: 100 days assured employment every year to every rural household( 33% jobs to women), if not provided employment within 15 days- entitled to a daily unemployment allowance from NREGA Guarantee fund est be C and S
-        - National Rural Livelihood Mission: Aajeevika (2011): jobs with regular
-
-income to rural poor on a monthly basis. Forming Self Help groups etc
-
-- - - - Other rural initiatives- PURA, RURBAN etc
-        - National Urban Livelihood Mission: organizing urban poor in Self Help Groups, opportunities for skill development leading to market-based employment , set up self-employment ventures by ensuring easy access to credit
-        - Pradhan Mantri Kaushal Vikas Yojana: focus on fresh entrant to the labour market
-        - Pradhan Mantri Jan Dhan Yojana: scheme particularly targets the unbanked poor- DBT etc
-        - Pradhan Mantri Awas Yojana (Gramin–PMAY-G) was launched in 2016- subsidy to low income groups
-        - PM Svanidhi Scheme
-    - Successes:
-
-#### Improvement shown by Bare Necessities Index in ES21
-
-- - - Steadily improving score on the Human Development Index
-        - Between **2006 and 2016, India lifted 271 million people** out of
-
-multi-dimensional poverty, which is the fastest in the World, says UNDP in 2019
-
-#### Reduction in poverty from 45% to 21% (compared to pre NEP 1991)
-
-- - - Housing for all by 2022 - **more than 1 crore houses built**
-        - PMJDY opened 381 million bank accounts (203 mn by women)
-        - Others: PM-JAY, PAHAL Scheme for cyclinders;
-        - The increase in public expenditure (by 1.5 percentage points from 6.2 to 7.7 per cent of GDP during 2014-20) in social sectors including health and education affirms the commitment of the state & central Governments towards maximising social well-being
-    - Reasons for failure:
-        - Policy issues- Leakages and corruption in **identification of beneficiaries**, inadequate monitoring
-        - Lack of authentic data — refrained from releasing consumption surveys
-            - Issues wrt diff sections-**inadequate data on migrants**, diff to identify and give benefits to tribals (Andaman)
-        - Issues in **poverty line- highly politicised issue** (More people-fiscal issues)- no C,S govt want to accept inc intensity (Multi-D) of poverty
-        - **Plethora of schemes** → Multiplicity → Confusion in implementation or working in silos (**thin distribution of funds across wide schemes** rather than micro targetting)
-        - Issus in schemes- eg MGNREGA 100 days are not provided in many states, diff in getting unemployment allowance (write other basic issues of schemes- limited finance,bad imp etc)
-        - Socio issues- like **patriachy and caste** based discriminaton wrt identifying beneficaries by gram sabha
-        - Problems of **coordination with govts** at state & local level
-    - Way forward (any commitee rec?)
-        - Key to eradicating rural P is **bottom-up agricultural reforms** along with creating productive non-farm emp
-        - Eco survey 2016-17- **Quasi-UBI** (UBI to most deprived groups- automatically will come above poverty line)- along with other social sector services
-        - **Focusing on Multdim P** - Better nutrition, health, sanitation, skill dev, edu etc
-        - **Micro targeting vulnerable sections**- migrants, manual scavengers, PVTG etc
-        - Grassroot level participation rather than imposition of plans (**Panchayat led plans for poverty eraditionarticle 243)**
-
-#### KUDUMBASHREE (poverty eradication and women empowerment
-
-programme of Kerela)
-
-- - - Enhancing Female- LF participation rate (currently only 23%)- lowest in BRICS
-        - Ensuring min wage, Social security
-        - Using ICT to tackle corruption eg: PRAGATI platform
-        - **How to tackle inequalities** - _The Inequality Virus Report: Oxfam International_
-            - Invest in free universal healthcare, education, and other public services (as they act as foundation to reduce inequality and prevent it to grow further)
-            - Reintroduce wealth taxes and ensure financial transaction taxes
-            - **Invest in a green economy that prevents** further degradation of our planet
-        - Universal Social Security can be provided by leveraging existing schemes such as PM Garib Kalyan Yojana and ensure there is no exclusion error (currently there are more than 500 DBT schemes of centre, state, other - this needs to be aligned)
-        - Other measures for health, education, HR can also be quoted
-
-Conclusion: Poverty eradication should not be the goal of the government but goal of the government policies should be to create prosperity.
-
-### Hunger
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: **Stats** (Rank 111 GHI 2022, 107/101 last year, SDG2); NFHS-4 1/2 women anaemic + 1/3 low BMI; Stunting **low height-age** at ~32% - POSHAN target is 25% it was 50% in 2000 (Mission25 by 2022); World’s half undernourished
-
-children in India despite being 3rd largest economy in PPP-Paradox); Paradox of Plenty highlighted by **WEF in 19-20** (produce 290 mn mt, need to feed 230 mn mt-shows issue is of distrib not prod-artificial crisis); **Causes** [Food sec vs Environment; Poverty-SOFI Report cannot get even nutrient adeq diet; Governance-PDS leakage, 1 in 3 PM Matru ⛔; Wastage-cover n plinth + UNEP 50 kg per capita; Urban Migration-access issues]; **Hidden Hunger-**80% adolescents-UNICEF [Diversity in PDS ⛔; Triple burden-under nutrition+obesity+ hidden hunger; Inst baby deliveries ⛔; Sanitation/Illiteracy]; **Govt Schemes** (Accessability & Affordability-PDS/ONORC, Increase Agri
-
-Prod-via MSP, PMKISAN, Price stability-Op Green; Nutritious F- ICDS, food fortification; PM Poshan Shakti Nirman Yojana earlier MDM, National Millets Mission, POSHAN Tracker); **Issues with G Scheme** (72% funds of POSHAN in ICT; 1 in 3 PM Matru=⛔, Many states unable to allocate houses under PM-Awas within timeline) **Way Fwd** (Community Canteens; Balanced diet; Avoid high calorie food; Food banking networds by NGOs; Crop diversification+fortification); **Best Practice** (Project Sampoorna-Buddy Mothers in anganwadis of Assam to reduce malnutrition; Breast milk bank AP, Centralised Canteen in MH); **Concl** (WFP says if hunger ✔ then peace in world
-
-⛔; Will allow us to achieve the goal of attaining “Kuposhan Mukt Bharat" by 2022); Life Cycle Approach to Hunger (Malnutrition → poor learning outcomes
-
-→ poor skill and incomes → impact on family and kids → cycle repeats); Read [Govt effort](https://quip.com/3nvLAFBLy1hj#GEOACAvUA7M)s only;
-
-- - - Impact of hunger: Affects educational development earns 20% less than other adults; Additional medical costs for the states to bear
-        - Food Security Topic Forum IAS (Nutri-puzzles, Largest storage via PACS; Asian Enigma; ‘Food budget squeeze’, Exchange entitlement decline)
-        - **Government Stance:** Disputes GHI but lacks empirical evidence-No NSS nutritional survey since 2011-12
-
-#### Govt efforts
-
-- - - MDM revamped to **PM Poshan Shakti Nirman Yojana** (**nutritional experts**, even students of pre-primary level, **nutritional gardens, Intergrate women & FPOs in the cycle**, supplementary nutrition for children in aspirational districts and those with high prevalence of anaemia)
-
-#### Features of Poshan Abhiyaan (National Nutrition Mission)
-
-- - - - **Incentivizing Anganwadi Workers** for using IT based tools, **Introducing measurement of height of children** at the Anganwadi Centres (AWCs), **Social Audits** of nutrition prog, Setting-up Nutrition Resource Centres, Involving masses through Jan Andolan for their participation on nutrition through various activities
-        - **Eat right movement** by FSSAI
-        - Gross Value Added in agriculture per worker is continously ⬆
-        - 2.75% of of net area under organic farming (1.07% in 15-16)
-
-#### 2022:
-
-- - - Nutrition fallout due to school closure: FCI Data shows that offtake of grains under MDMS **reduced by 22%**YoY in months of April-May 2020 (due to lockdown). Thus we need effective measures → Connecting local small farmers in school feeding system; Boosting School Nutrition Gardens (already part of MDMS), Sourcing locally produced fruits and vegetables
-
-#### ~~Refer → Food security, Hunger, Malnutrition and Social Security Forum~~ ~~doc from IPAD (take 5-10 mins)~~
-
-**Extra Content Hunger**
-
-- - Intro and stats:
-        - Global Nutrition report 2020-India is among 88 countries that are likely to miss global nutrition targets by 2025
-        - Adult nutrition- 51% women have anaemia, 20% adult have diabetes
-        - 50% of malnourished children of the world are in India
-        - Chief Nutritionist UNICEF India termed **malnutrition** as the single gravest threat that blocks India’s development
-        - Global Hunder Index 2020: Ranked 94 among 107 countries, far behind countries such as Nepal, PK, BG (India comes under ‘serious hunger’ category) - 2021 ranked 101 out of 116 countries
-            - Performance on the Indicators: (as per report) (use current status in beginning showing need to do more and improvement as success story later)
-                - Undernourishment: 14% of India’s population is undernourished (2017-19). It was 16.3% during 2011-13.
-                - Child Stunting: 37.9%, it has improved significantly, from 54% in 2000 to less than 35% now.
-                - Child Mortality: 3.7%, it was 5.2% in 2012.
-                - Child Wasting: 20%, it was 15.1% in 2010-14.
-        - Simpler points:
-            - NFHS-4 (2015-16) points out that almost half of the pregnant women aged between 15 and 49 years are anaemic and more than one-third of women have a low Body Mass Index
-            - 38.40% (>one-third) of children under age 5 years are stunted (2015-16)
-        - Comprehensive National Nutrition Survey 2016-18 revealed that over 40 million children are chronically malnourished, and more than half of
-
-Indian women aged 15-49 years are anaemic.
-
-- - - Targets under Poshan Abhiyaan
-            - Stunting and wasting by 2% a year (total 6% until 2022) among children.
-            - Anaemia by 3% a year (total 9%) among children, adolescent girls and pregnant women and lactating mothers.
-            - The target of the mission is to bring down stunting among children in the age group 0-6 years from 38.4% to 25% by 2022
-        - SDG 2 - Zero Hunger - End hunger in all forms by 2030 & ensure access to nutritious and sufficient food all year round
-        - Paradox of Plenty: India’s food-grain output in 2019-2020 is estimated to be over 290 million tonnes, and as per World Economic Forum, India needs approximately 230 million tonnes of food per year to feed its population _(_**_The food crisis of the India/or the world is largely artificial. It is an issue of distribution and not of production_**_)_
-        - Nutrition is key for foundational growth of kids, boosting immunity, in case of girls nutrition there can be **impact of future generations**
-    - Causes for Hunger
-        - Poverty: As per **SOFI Report by FAO -** Indian poor cannot afford a nutrient-adequate diet let alone a healthy diet (Basic energy sufficient diet, Nutrient adequate diet and Healthy diet are the three kinds of diets used in the report)
-        - Food wastage
-        - Rising food inflation - making healthy diet unaffordable
-        - Governance issues: Midday Meal crisis in Bihar, **ICDS is affected by lack of trained personnel,** leakage (paradox of plenty- inc production but **leakage/wastage- PDS rice getting exported** in cheap; grains stored via **covered and plinth storage**)
-        - Food, energy and water security are inter-linked with **strong feedback loops**. **Enhancing food security may lead to diminished water and energy security**
-        - Issues of **urban migration**- inaccesibilty to get food from PDS
-        - Diversion of agri land to commercial uses- land fragmentation affects self sufficiency of rural population
-        - Effects of climate change- erratic monsoons, droughts affecting agri, famines
-        - Chances of man made conflicts(war) annd natural- COVID
-        - ICDS services were non functional or severly impacted during COVID pandemic
-        - Women more often forego meals to feed their children (WB, 60% of those who are hungry are females in India)
-
-#### Hidden hunger/malnutrition
-
-- - - - Dietary ignorance- not knowing about nutritious food
-                - Inadequate mother education
-                - Obesity- **junk food also malnutritution**- Non Communicable D’s (double burden of malnutrition and obesity together)
-            - **Lack of diversity in PDS**- Pulses, millets other protein rich diet absent, inadequate fortified food
-            - **Triple Burden:** Malnutirtion, Obesity, Lack of micro-nutrients (zinc, iron, calcium)
-            - **Inadequate institutional deliveries** in rural, tribal areas - **affect nutrition of new born child**, inadequate breast- feeding
-
-#### Lack of inadequate sanitation, illiteracy (i.e poverty not the only cause of H)
-
-- - - - Socio-cultural factors- lack of protien acc to weight requirement due to majorly veg diet in many communities
-            - Malnutrition affects cognitive ability, workforce days and health, impacting as much as 16% of GDP (World Food Programme and World Bank); This with zero hunger we can build a wealthier nation too
-    - Relationship of P and H
-
-#### Life Cycle Approach to Hunger
-
-- - - - Toddler & Infant - Delays brain development & brings illness
-            - Children - Learning difficulties
-            - Adults - Limits earning and working capabilities
-            - Family - Lack of access to meds, food and other necessities for healthy pregancies
-            - This makes the complete cycle and repeat in processs
-
-#### Govt efforts
-
-- - - For Food Availability/Agri Production increase → **MSP**, fertilizer subsidy,
-
-#### PM-KISAN
-
-- - - For Food Affordability → **National Food Security Act, One Nation One Ration Card**
-        - For Price Stability → Buffer stock with FCI, **Operation Green**
-        - For Nutritious Food → Poshan Abhiyaan 2018, Mid-day meal, **ICDS**, Food Fortification, National **Millet Mission**, Poshan Tracker to monitor service **delivery by 14 lakh anganwadis**
-            - MDM revamped to **PM Poshan Shakti Nirman Yojana** (**nutritional experts**, even students of pre-primary level, **nutritional gardens, Intergrate women & FPOs in the cycle**, supplementary nutrition for children in aspirational districts and those with high prevalence of anaemia)
-
-#### Features of Poshan Abhiyaan (National Nutrition Mission)
-
-- - - - **Incentivizing Anganwadi Workers** (AWWs) for using IT based tools, **Introducing measurement of height of children** at the
-
-Anganwadi Centres (AWCs), **Social Audits** of nutrition prog, Setting-up Nutrition Resource Centres, Involving masses through Jan Andolan for their participation on nutrition through various activities
-
-- - - Zero Hunger Programme – launched on 2017 with the aim to make farm inventions, Organising the farming system for nutrition, Setting up genetic gardens for biofortified plants and initiating Zero hunger training.
-        - **Eat right movement** by FSSAI
-        - Gross Value Added in agriculture per worker is continously ⬆
-        - 2.75% of of net area under organic farming (1.07% in 15-16)
-    - Issues in schemes of govt.
-        - Mid-day meal scheme: The 2019-20 Budget allocation was ₹11,000 crore and revised estimates are only ₹9,912 crores
-        - Misplaced focus with: 72% of total expenditure of Poshan Abhiyaan going into ICT expenditure
-        - Global Nutrition Report 2020 has stated that India is among 88 countries that are likely to miss global nutrition targets by 2025
-        - 1 in 3 payments for maternity benefit scheme 'Pradhan Mantri Matru Vandana Yojana' credited to wrong account: NITI Aayog report
-    - International efforts to combat H and M in India
-        - Zero Hunger by World food prog (Noble Peace prize 2020)
-        - **‘Fight Hunger First’ by Welthungerlife** in rural areas of Ind and Bang.
-    - Way forward
-        - A renewed approach to **Community Canteens** would not only achieve nutritional security for migrant workers but would also create new jobs, save fiscal resources
-        - **Balanced diets** including micronutrients; **Discourage munching of high calorie snacks** im urban youth
-        - Creation of **food banking networks** (food storage and distribution
-
-depots) that work with civil society and development agencies on getting food already available to those who need it
-
-- - - Promote **crop diversification and food fortification**. Invest in R&D for more nutritious crops (Agrobiodiversity)
-        - Best Practices:
-
-#### Breast milk bank at ADP of TN named Ramanathapuram
-
-- - - - **Centralised Kitchens in MH for student in residential schools**, known as Ashram Shalas
-        - Increase women’s control over farming decisions by keeping land titles on their names
-        - Nutrient supplementation programs like- Vitamin A supplementation, Iron supplementation
-        - Mission mode action in districts with high malnutrition
-        - Harness expertise of SGH, NGO to complement PRI efforts
-        - If we want to reduce malnutrition and food insecurity, we have to address the problem of affordability of healthy diets
-        - Also talk about schemes related to child health, sanitation - as all these have direct r’ship to parameters such as wasting/stunting
-
-Conclusion: World Food Programme received Nobel Peace Prize 2020; WFP says ‘there won’t be peaceful world as long as there is hunger’
-
-### PYQs relating to poverty and hunger
-
-#### Poverty & Hunger
-
-- - - 2020: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.
-            - Incidence- proportion of people who are under the poverty line
-            - Intensity- means multidimensional (weighted average number of deprivations poor people experience at the same time)
-            - Factors other than poverty covered in content below
-            - The **Global Multidimensional Poverty Index (MPI)** compares acute multidimensional poverty for 107 countries in developing regions.
-            - Of these people, 1.3 billion people (22%) are identified by the global MPI as multidimensionally poor, India is 62nd among 107 countries and **27.91% headcount ratio**
-            - If a person is **deprived in a third or more of ten** (weighted) indicators, the global MPI identifies them as ‘MPI poor’.
-            - One adult in six is multidimensionally poor compared with one child in three, hence **children are more prone to multidimensional poverty** than adults.
-        - 2013: Mid-Day Meal: Twin objectives, latest mandates and success
-            - Twin objective: Tackle malnutrition and increase school enrolements
-            - Mandate: provided hot cooked meal having nutritional standards of 450 calories and 12 gm of protein for primary (I- V class) and 700 calories and 20 gm protein for upper primary (VI-VIII class), free of charge
-            - It’s a centrally sponsored scheme launched in 1995
-            - Success:
-                - Increased school enrolments - quote data from education topic
-                - Serving more than 120 mn students’
-                - Better learning outcomes: A total of 72% children who availed mid-day meals in government schools said they could concentrate better on studies after meals (as per National Institute of Nutrition survey)
-                - Improved nutritional intake → evidenced by reduced percentage of stunting
-                - Helped break caste barriers as students eat together
-        - 2017: Efforts taken by GOI as of now to tackle both? Measures needed?
-        - 2015: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators
-            - Agree and quote domestic as well as international data showing reduction
-            - However issues in govt schemes, multi-dimensionally poverty
-            - Highlight urban and rural poverty status
-            - Issues in eradicating rural poverty- agri,low skills jobs etc
-            - Issues in eradicating urban poverty- Migrant influx, sanitation, slums etc
-            - Poor households of urban India are emerging hotspots for hunger and ill-health and children there live in worse conditions than in
-
-rural areas - UNICEF
-
-- - - - - Discuss issues wrt urbanisation such as slums, urbanisation of pandemic
-                - However, rural poverty is different as it suffers from lack of choices
-            - Way forward for both
-        - 2017: ‘Poverty Alleviation Programmes in India remain mere show pieces until and unless they are backed by political will’. Discuss with reference to the performance of the major poverty alleviation programmes in India.
-            - Covered below along with issues
-        - 2019: There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food-budget – Elucidate
-            - Cover how poverty is reducing using stats
-            - Bring in hidden hunger: Despite increase in real income of the people over the last two decades, overall calorie consumption and nutritional intake has not commensurately increased - mention Global Hunger Index
-            - Then substantiate the second statement of the questions:
-                - Expenditure below potential - in various sectors 6% education; 2.5% in health; compared to other BRICS
-                - Food Budget Squeeze - due to Inc in expenditure on education,healthcare,transportation,fuel and lighting
-                - Reduced exp by govt has led to urban and the rural poor dependent on market prices → exposing poor to market volatility
-                - Migrants have to spend large portion on travelling, accomodation, etc.
-            - Conclude using way forward points
-        - Questions from GS-1
-            - 2018: ‘Despite implementation of various programmes for eradication of poverty by the government in India, poverty still exists’. Explain by giving reasons.
-                - Limitation of G Schemes wrt poverty has to be covered along with causes of poverty
-                - Reasons for failure covered below in notes
-            - 2016: “An essential condition to eradicate poverty is to liberate the poor from deprivation.” Substantiate this statement with suitable examples. (Forms of deprivation and examples to eradicate)
-                - Cover various dimension of poverty using framework of MPI and explain how each dimensions leads to poverty (eg lack of edu- ignorant- poverty)
-                - Also mentions measures taken in form of schemes by the govt. in each of the above area
-                - Cover way forward in the end
-
-#### 2008: The conditions of the urban poor are more deplorable than that of their rural counterparts. Give your views
-
-- - - - - Urbanisation also complements poverty: one of the principal challenges confronting cities is the staggering number of ‘urban poor’
-                - In India, for several decades post-Independence, elimination of poverty superseded all other priorities of government. There has **massive inc in R-U migration & this phenomenon is universally acknowledged as the urbanisation of poverty**. The visible face of which can be seen from the fact that one in seven among urban areas is living in slums. **Differences among rural and urban poor** are as follows:
-
-In villages, internal distances are small and every village corner is easily accessible. In cities, intra-city travel gets more difficult to negotiate, traffic congestion multiplies - thus need to spend more money **(producitvity also reduced due to pollution**
-
-#### - ILO)
-
-While environment, soil, water resources and forest cover could be under threat on account of production processes in villages, cities are additionally greatly threatened by pollution levels
-
-What really differentiates the **urban poor is the lack of adequate housing** and basic services. Urban poor are also much more deprived in the areas of **sanitation** and infrastructure
-
-**Higher cost of living in urban centres** w/o corresponding increase in income
-
-**Urban crimes** has negative impact on women as well as family values for their children; **Social Anonymity**
-
-Inadequate say in urban governance compared to Gram sabha in rural
-
-While within **rural society (rural rich and rural poor) is far less stratified** compared to urban society (urban rich and urbnan poor). Thus the deprivations of poverty, unlike in rural areas, hit the urban poor hard, because they see what the others have and what they don’t. **(psychological - inferiority complex)**
-
-During COVID, **urban poor had to face increased risk of getting infected** due to closer settlements, job losses, rural eco not able to absorb them, **Lack of social protection for urban poor** (while rural areas have PM-KISAN, MGNREGA - nothing like this for urban poor)
-
-Issues of Urban Poverty: **Wage slavery, Lost in the cycle of Informal jobs,** Diversity in regional trends (rising in UP, MP, Odisha and reducing in GJ, Kerela, TN, PJ)
-
-- - - - - **Measures for Urban poor**: **PMAY (Urban)**, **DAY-NULM**, **Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014,** Pradhan Mantri **Shram Yogi Maan-dhan**, Atal Pension, other insurance schemes, Food grains distribution, **PMSVANidhi**
-                - WF: Build a **credible Database of the urban poor** and migrants, along with mapping their skills; Urban planning should be decentralised by focusing on smaller cities and towns. This will lessen the burden of migrant population on megacities; Reform the Urban Governance (by better tech/finance/wider public participation/Convergence and accountability)
-                - Thus, the **past practice** of seeing all poverty in a rural light and **applying rural solutions in urban conditions will not yield the expected results**.
-            - 2018: Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success. (Aspirational Districts' Programme: Objectives - Convergence, Collab and Competition)
-                - **Paradox:** India envisages to become $5 trillion by 2024-25- but not consistent reflected in UNDP’s Human Development Index wherein India is ranked 132
-                - India has significant **inter-state and inter-district variations- to remove this heterogeneity**, the government 2018 launced the ‘Transformation of Aspirational Districts’ programme (ADP).
-                - Features:
-
-The **115 districts** were identified from 28 states, at least one from each state.
-
-Programme is **anchored by NITI Aayog. In addition, individual Ministries to drive the progress** of
-
-districts
-
-ADP is based on 49 indicators from the **5 identified thematic areas**- Health & Nutrition, Education, Agriculture & Water Resources, Financial Inclusion & Skill Development, and Basic Infrastructure
-
-With States as the main drivers, ADP seeks to focus on the strength of each district, **identify low-hanging fruits for immediate improvement, measure progress, and rank**districts
-
-- - - - - The broad contours of the programme are:
-
-**Convergence (of Central & State Schemes**) which brings together the horizontal and vertical tiers of the government
-
-**Collaboration** (**of Central, State level ‘Prabhari’ Officers & District Collectors**) which enables impactful partnerships between government, market and civil society
-
-**Competition among districts** driven by a spirit of the mass movement, it fosters accountability on district governments
-
-- - - - - Impacts
-
-**Decentralization of Development** based on ground realities and targeted welfare
-
-Inclusive approach: uplift those districts which have shown relatively lesser progress in achieving key social outcomes by using various developement data over the years
-
-Improved Implementation: **Spurred by competition based on outcomes**, local governments target their efforts for imp.
-
-**Health outcomes in ADP** saw an increase in
-
-registering pregnant women into the health system,
-
-**institutional delivery** of babies
-
-- - - - - Challenges
-
-#### Issues wrt Left wing extremism- creating difficulties in dev prog
-
-**Issues of federal tensions** in case **unilateral approaches by Niti Aayog**- eg in case of states of not ruling party govt, **issues wuth identifying beneficiary**
-
-Might include **political interference in ranking of districts**- what if disctrict MLA is cabinet minister
-
-Insufficiency and **lack of complete localised data**: Data high-quality administrative data is critical to improving programme implementation and design at the local level
-
-#### The Delta ranking itself is largely focused on assessing quantity (that is, coverage of access) rather than quality.
-
-_On-time delivery of textbooks in schools are part of the ranking index, However, textbook delivery may or may not be a problem in districts._
-
-**Insufficient budgetary resources** and other basic points
-
-- - - - - Way Forward
-
-#### A more simplified ranking index- ability to analyse by locals for greater participation (bottom up ranking)
-
-**Independent surveys** can be used to **validate administrative data,** this will help improve data quality.
-
-**Building** each **district’s internal capacity** to produce reliable and actionable data, and promoting a culture of data use, can be made a priority for the ADP.
-
-**Financial autonomy to local governments** should be provided.
-
-Initial evidence suggests that the ADP has already
-
-**contributed towards improving the lakhs of lives**.
-
-Therefore, it is critical to carefully document and learn from the ADP’s experiences
-
-#### 2020: COVID-19 pandemic accelerated class inequalities and poverty in India. Comment.
-
-- - - - - Intro on COVID 19- lockdowns- sudden impact
-                - Class inequalities: Oxfam Report - Wealth increase of 10 men during pandemic could buy vaccines for all
-                - Migrants - invisible to govt
-                - Restaurants, movie halls, gyms (MSME dominant) closed whereas large captial industries like automobile, food processing limited impact
-                - Education became online which was accessible to privelged few → leading to futher class ineq
-                - Local businesses run by MSMEs, Street Vendors, Construction workers — were hurt disproportionately more during COVID thus leading to greater divides
-                - Salaried workers who form the backbone of middle class - saw huge job losses
-                - Tech industries flourished- use of zoom call etc- most biz going online- affected offine providers
-                - Agri impact- inc buying of FMCG products compared to agri wholesalers (more money to big co’s like ITC)
-                - Dual burden on females increased further with all family under one roof
-
-However pandemic showed inc imp of retailers of basic services which have been taken for granted- vegetable seller, dairy, cleaning, newspaper, gas provider etc
-
-### Education
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-#### 💡: Think of Essay Nudge points (commodification of education, thinkers, quotes, Finland Model), Success, SDG4, Issues, Measures taken, NEP 2020, Way Fwd, PYQs (only Online Education Question)
-
-- - - An investment in knowledge pays the best interest- Benjamin Franklin; Education system can be used as a transformative tool by state
-
-#### Success of govt measures
-
-- - - ASER- Increased school Enrolment: now crossed 97% with the proportion of **children who are out of school falling below 3% for the first time (6-13); GER - Elementary (97%), Secondary (79%), Higher secondary (51%), Higher (26%) - Draw Graph #diagram**
-        - At the time of freedom- **Literacy rate 12-13 per cent. Today, as per 2011 census- 74.4 per cent** (Kerala with 93.91 and Mizoram with 91.58 per cent)**#diagram**
-    - **Targets under SDG 4 - Quality Education**
-        - **100% Enrollment ratio** from class 1 to 10
-
-#### 100% schools having teacher-pupil ratio lower than 30:1
-
-- - - **Other aims**- gender parity, adult education, edu for sustainable future, job ready skills etc
-
-#### Issues & Challenges faced (Discuss based on different stakeholders- student, school, teachers, governance, society, COVID implication + PESTEL points)
-
-- - - **General:** Students, School (infra issues-sports,library,transp), Governance (Inadq public funds 3%GDP vs 6%byNEP; focus on infra rather than learning outcomes; Poor accountability), Teachers, Society (**Perceptive bias** against public sector education, Economic divide, Social Inequity quote ST data/women), COVID implication (Edu Min-**overall 22% schools had Internet**, **govt only 12%**; Unprepared teachers, Passive learning, Digital divide or edu altogether forgone; Solution: **e-gadget library** in every distt, Operation Buniyaad, One class One Channel)
-        - **Primary:** Students (poor learning outcomes at foundation - Only 20% can read text prescribed for their level in Class 3 - ASER), School (**1/2 anganwadis** no tap water; 40% schools no playground), Teachers (**9** lakhvacancies-201**6**; untrained, absenteeism); **Learning Poverty** (% of 10 yr olds who cannot read/write)
-        - **Secondary**: Students (**dropout due to fin const after RTE**), School (**Macaulay clerical rote learning,** Curriculum issues,
-
-3Es-Education/Employment/English), Governance (Dual control b/w Department of Education & State boards)
-
-- - - **Higher:** Students (poor employability **only** ~**45% employable** India Skills Report **2021**; Low Gross Enrolment Ratio (GER) 26% comp to US 88%, Brazil 51%) College (**Only 14% NAAC rated;** Low R&D 0.8%;
-
-industry-academia collab; **only 3** univ in top 200 QS World Univ Ranking 2022), Governance (**Major budget** to premier inst and central univ; **state**
-
-**univ lag behind**; centralised, lacks autonomy), Society (**only 17% women in IITs STEM** Course-NITI SDG Report; same 17% is also the literacy gap b/w male/female); India has a **persistent trade deficit in education services** (more students go out)
-
-#### Govt Measures
-
-- - Primary Education
-
-#### RTE Act 2009 - also mandates 25% reservation for disadvantaged sections of the society even in pvt schools
-
-- - - **Samagra Shiksha Abhiyaan** subsumes the three Schemes of Sarva Shiksha Abhiyan (SSA), Rashtriya Madhyamik Shiksha Abhiyan (RMSA) and Teacher Education
-        - **DIKSHA 2.0** - digital platform for teachers to train themselves (similar program NISHTA)
-
-#### Delhi’s ‘Happiness curriculum’, Operation Buniyaad
-
-- - - Shagun - Report cards of 15 lakh schools will be uploaded - for direct feedback of common people
-        - **Rashtriya Avishkar Abhiyan**: Motivate 6-18 years children to pursue Science, Mathematics and Technology
-
-#### Mid-Day Meal School (PM Poshan Shakti Nirman)
-
-- - - **STARS Project of World Bank** - an initiative for **governance and assessment reforms** at school level specially early education and vocational training; **NIPUN Bharat** (numerical literacy upto 5/8)
-    - Secondary Education
-        - **Operation Digital Board** - provide 2 smart classrooms for every secondary school by by 2023
-        - Pariksha Pe Charcha programme by PM
-        - **National Digital Library of India** is being developed to help students to prepare for entrance and competitive examination
-        - Estab of **National Testing Agency** for conducting of entrance examinations
-
-#### Sustainable Action for Transforming Human Capital (SATH) focusses on two main sectors - Educationand Health and to build three ‘Role Model’ States. (3 states chosen were Odisha, MP, JH)
-
-- - - - **SATH-E** aspires to be a ‘saathi’, to the educational system with the student and the teacher at its centre”
-
-#### Critical interventions including school mergers, remediation program, training, monitoring teacher recruitment, utilization of Management Information System (MIS)
-
-- - Higher Education
-        - **Rashtriya Uchchatar Shiksha Abhiyan (**⭐**RUSA**⭐**) -** create new universities through upgradation of existing autonomous colleges
-        - **Five-year (2019-24) vision plan ‘Education Quality Upgradation and Inclusion Programme’ (EQUIP)-**double GER, 50 inst in top 1000 global rankings, high quality accreditation, India as global study destination (INSAT)
-        - **Institution of Eminence (IoE)**–10 public (will get more funding), 10 private for world class univ
-        - **SWAYAM 2.0** – online degrees by top uni, SWAYAM PRABHA – DTH Educational Channels- for high quality edu content to remote locations
-        - **Budget 2022-23** announced the **establishment of a Digital university**
-
-#### AISHE, NIRF rankings
-
-- - - **Prime Minister’s Research Fellows (PMRF) Scheme** to enhance the quality of technical researc
-
-#### Providing technical education such as engineering in local languages
-
-at the highest level
-
-- - - Revitalising Infrastructure and Systems in Education (RISE) by 2022- funding to central uni like AIIMS,IIM etc through HEFA (mobile 1 lakh cr for funding from school to higher edu), better research, infra etc
-    - Performance Grading Index by Education Ministry
-        - Score is assigned to States & UTs based on 70 parameters such as access, equity, governance process, infra, learning outcomes. This can help nudge states to get into competitive mode
-        - Latest scores for 2019-20 show that southern and western states are on firm ground while those in central, eastern & parts of NE india lack resources (thus with strong political will resource sharing system can be set up to share best practices among various states)
-        - With strong political imperative, India can bring a much needed rennaissance in education system
-
-#### National Education Policy 2020 (not 2019)
-
-- - Key Features:
-        - School Education
-            - Targets **100% GER** in preschool to secondary (**upto class 10th**) level by **2030**
-            - **Universal access for children** of 3-6 years
-            - National Mission for Foundational Literacy & Numeracy - **NIPUN Bharat**
-            - The current 10+2 system to be replaced by a new 5+3+3+4 curricular structure starting from age 3-8 and likewise
-            - **Vocational Education** to start from Class 6 with **Internships**
-            - Teaching up to at least Grade 5 to be in **mother tongue**/regional language
-        - Higher Education
-            - Aim of **50% GER**- adding additional 3.5 cr seats
-            - **Flexible courses** with multiple exit options with certificates; **Academic banks of credits** to enable easy transfer of credits btw uni’s
-            - **National Research Foundation**-for coordinating, promoting R&D in country
-            - It also paves the way for **foreign universities to set up campuses in India**
-            - **Higher Education Commision for India (HECI)** as single umbrella body for **entire Higher edu**except medical and legal edu (UGC,AICTE bye bye) - **Note: for health its -National Medical Commission**
-                - 4 verticals- National Higher Education Regulatory Council (NHERC) for regulation,General Education Council (GEC) for standard setting,Higher Education Grants Council (HEGC) for funding, National Accreditation Council (NAC) for accreditation.
-        - General
-            - National Assessment Centre- '**PARAKH**' has been created to
-
-#### assess the students
-
-- - - - It emphasizes setting up of **Gender Inclusion Fund, Special Education Zones** for disadvantaged regions and groups
-            - It also aims to **increase the public investment in the Education sector to reach 6% of GDP** at the earliest
-
-#### Challenges
-
-- - - Policy is **silent on how funds** will be raised
-        - Education = **Concurrent Subject** will need support from states
-        - Draft policy - **extension of RTE** to include early education **before 6 yrs absent in NEP**
-        - **Ambitious targets for 50% GER** in higher education and 100 % in secondary education (from current 25.8% & 68% respectively)
-        - **Too much stress on vocational edu** from early schooling **may lead to inc dropping rates**
-        - NEP recommendation of mother tongue to be medium of instruction till grade 5- **should not hamper future requirements** (Eng now a global language) as well as not hinder interstate movt.
-    - WF
-
-#### Real test of any policy is its implementation
-
-- We need to actualise **3 cardinal principles** of education policy - **access, equity and quality**
-
-Way Forward
-
-- - Our institutions will have to **imbibe the spirit of entrepreneurial thinking**
-
-having ability to solve rural and other critical issues facing vulnerable sections
-
-- - Adaptation to IR 4.0- Using AI, Big data, Machine learning for edu as well as preparing for future ready workforce - eg: AI to personalise learning for differntly abled
-    - Laser focus for 50% GER- will mean that 1 in 4 graduates of world would be Indian
-    - RTE needs to be extended to 16 years with gradually to 18 for controlling child marriages and better Demo dividend.
-    - Universities are melting pot of various ideas- damaging reputation of uni due to politicisation should not hamper their ability to bring cross-cutting ideas for sustaining India’s growth and democracy
-    - **Mandatory registration of school teachers** and administrators with professional regulatory bodies, **similar to lawyers with bar councils**, is a fundamental change required in the education sector (Consequently, it would be possible to take punitive action against a school administrator or teacher, separately from the school)
-
-#### We need to weed out people who running schools as NPOs to earn profits
-
-- - Making **Teaching an attractive and lucrative career**:By devising a
-
-well-structured **promotion policy and incentive** plan for faculty to attract and retain qualified faculty (**Lessons from Finland)**
-
-- - **RP Tiwari Committee 2020:** Suggesting multiple ways of transforming HEIs into Multi-Disciplinary Institutions (rather than single stream); need one such HEI in every distt by 2030
-    - The **perceptive bias** against public sector primary education **requires consistent nation-wide efforts**
-
-#### Online Education: Boon or Bane?
-
-- - **-ves:** Lack of access to internet, required infra; Problem worsens for lower income groups; Attending real time lectures is a challenge; **Teachers find hard to adapt** and prepare separate material for online classes; Online **not an alternative to lab or practical training**; Differently abled students find it difficult to cope up and may are left behind; **Reduces** development of **social capital** as there is **lack of interaction among likes** instead there is just vertical lecture from teachers; Cyber-bullying; **Punctuality and formality suffer -** pupil take classes casually; **Malpractices during online exam**; **Individual attention** becomes difficult;
-    - **+ves:** The advantage of reaching many more people shall overcome the -ves from loss human touch; Gandhiji’s Nai Talim focused on self study and experitential learning; Using AI to personalise learning for differntly abled students; **Overcome staff shortages; Short video lessons/ MOOCs keep students engaged; (Pts similar to NDHM)**
-    - **Conclusion**: We need to ensure that sufficient digital infrasturture incl hardware is provided to deliver education in time of adversity; There is a **need for state intervention to ensure equity; Solution: e-gadget library in every distt, Operation Buniyaad; PM eVIDHYA (one nation one digital platform) is a good step; Digital Universities suggested by Budget 2023**
-
-**Extra Content Education**
-
-- - GS-1 2020: How have digital initiatives in India contributed to the functioning of the educational system in the country? Elaborate your answer
-
-#### Can be extended to BB-NISAR from just ICT centric
-
-- - 2020: National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient the education system in India. Critically examine the statement
-        - Aims of SDG4: 100% enrolement; Gender parity, adult education, edu for sustainable future, job ready skills, etc
-        - List down points of NEP 2020 under the framework above
-    - 2015: Entry of foreign educational institutions in India: SWOT analysis
-        - Enlist issues faced by current higher education framework
-        - Positives:
-            - Bring **increased investments**
-            - Mere presence of foreign edu- inc competition among domestic edu
-            - Bring multidisciplinary syllabus- focus on critical thinking
-            - Global best practices, curriculum, interface with students of other nations
-            - **Bridge the gap in education** wrt teacher efficiency, tech use, quality and updated content
-        - Issues:
-            - Reputed **teachers** at indian inst. **May switch to foreign** inst. leading to -ve impact on indian inst.
-            - No assurity of better quality- inc westernisation
-            - **Not necessary that top inst will come**- low grade inst for profit seeking may come
-            - Increased costs of operation → burden on students
-            - Not a panacea to all problem - need to focus on improving current education env as well
-            - Issues wrt **repatriation of funds**
-        - However despite challenges, FEI’s will give the much needed diversity and depth in India’s HE inst
-    - 2014: Should the premier institutes like IITs/ IIMs be allowed to retain premier status, allow more academic independence in designing course and also decide
-
-mode/ criteria of selection of students. Discuss in light of the growing challenges.
-
-- - - Why needed- Research needs autonomy, political interference and over regulation affects morale of professors, curtailing their right to free speech against govt policies affects critical evaluation of existing schemes
-        - Benefits of allowing (how it will address current growing challenges)
-            - Guide other institutes in the country
-            - Better ability of tap univ-industry collab
-            - Cover other challenges of HEI’s
-            - Currently they are unable to fill reserved faculty positions for SC/ST/OBC (**Over 60% OBC, SC positions vacant in IIMs**) — IIM/IITs seek exemption from such faculty quota requirement
-        - Future Challenges
-            - Selection without guidance of govt. may not be inclusive
-            - Lack of uniformity within various institutes
-            - Need to align courses with broad objectives of nation with govt handholding
-        - Way Fwd- Autonomy wrt course and selection (apart from legal req) is prerequisite for quality edu- should be given to all inst apart from premier ones (need for middle path wrt autonomy and need for regulation)
-    - 2009: How to harmonize private investment and quality of education (context of Yashpal committee)
-        - Basic merits and challenges wrt privatisation of edu.
-    - Read about Trend of literacy rate over the years? State of education in India?
-        - The literacy rate at all India level has steadily increased from 18.32% in 1951 to 72.98% in 2011 and the increase in literacy rates for females and males were from 8.86% and 27.15% to 64.63% and 80.9% respectively as per population censuses
-
-### Health
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - **Health is real wealth. Not gold or silver- Gandhiji** (COVID highlighted its imp and woke up govt’s from slumber)
-    - Niti Aayog- Need for accessible,affordable and quality health care
-    - ⭐**Art 47**- duty of state to raise level of nutrition and to **improve public health**
-    - **Future investments** in health care need to **holistic** and **avoid ‘saliency bias’**
-
-of COVID pandemic (ES 21)
-
-- - Write this dimensions in Health question: **Palliative care** (terminally ill patients) plus **Geriatric care**, **WASH**, **Malnutrition**, **AMR** etc for sure → comprehensive coverage
-    - Ayushman Bharat - Reduced OOP from 62% in 2015 to **47%** in 2020; Safdarjung Hospital doctor case
-
-#### Current Status
-
-- - **Issues faced and status (Categorise as per stakeholders: Govt, Pvt, Citizen, Hospital, Society, Infra, Regional, Vulnerable section, etc) - New challenges, neglect of traditional medicine**
-        - Govt exp **1.6% (both C+S)** in 2019-20 (up from 1.4% in 2017); **Target 2.5%** NHP 2017
-        - Out of pocket exp on healthcare - **47%** of current health exp- shows need for more exp by govt- vicious circle of poverty and bad health for poor
-        - Over **80% Indians not** covered under **health insurance-NSSO** Survey [86%(Rural) and 82%(Urban) NO health insurance]
-            - **Gap in India’s insurance coverage** for 30% of India’s population, or 40 crore individuals named as **the ‘missing middle’ - NITI Aayog**
-        - Disparity: 70% population in rural but **73%** hospital beds in urban
-            - Manipur 75% children vaccination but Nagaland only 12%
-        - 🤔**MMR- 97**/lakh live births (**Target 70 SDG**), ~~U5 mortality rate 38~~ (2018; Target 11 SDG), **IMR 27** (**Target 12 SDG**)
-        - 🤔Non availability of skilled workforce: **Brain drain** to GCC, Europe, etc
-        - Weak governance and accountability: Incorrect second dose given in UP, Health tragedies in Gorakhpur Hospital, Chhattisgarh **Sterilization camps**, Kolkata hospital tragedy and many others put the serious question of accountability, if any mishap occur; Vyapam scam;
-
-**Centre-state tensions (consensus** 🚫**)**
-
-- - - Health workforce density: India has a **doctor-population ratio of 1:1456**, against the WHO benchmark of **1:1000;** Health Education (pitfalls, lack of seats - Ukraine)
-        - 🤔 **Issues at PHC**: Limited services (childcare, pregnancy rather than
-
-ENT, diagnosis); **81% shortage of specialists in rural areas (minister’s reply to LS)**; Limited focus on NCD and mental health care needs (despite their diseases burden - 2 out of 3)**; 1 in 5 doctor in rural areas is a quack**)
-
-- - - **Other general issues**: **Lack of single database** for healthcare service; **Social barriers** (**lack of reproductive rights to women; Geriatric care inadeq**); Neglect of **traditional health care system; Curative > Preventive; High charges & rejection by pvt players; New challenges**
-
-(AMR, Obesity, **dependence on china API 70% (target to reduce it by 25% by 2024), regulating health startups**)
-
-- - **Successes:**
-        - UNDP HDR- **Life expectancy inc by 11.5 years btw 1990 and 2018**
-
-(currently 69.7 years) #diagram
-
-- - - **Institutional deliveries: 88.6% (NFHS-5) -** (38.7% in 2005-06)
-        - Under Ayushman Bharat-**1 free treatment every 3 sec (NITI), 5 crore in 5 years**
-        - The **childhood vaccination** is largely a success
-        - Continously reducing the impact of epidemics of AIDS, tuberculosis, malaria (one of the target under SDG3)
-    - **SDG Goal 3** (70-MMR/11-U5MR targets, Reduce communicable and NCDs; Death by road and substance abuse need to be ⬇; Achieving UHC-in sub point) **Imp of PHC** (**1978** Alma Ata Declaration identified PHC as critical for health for all, Reduces cost & pressure on later stages; **Promote health awareness, First**
-
-**pt of contact**)
-
-- - - **UHC** means that all individuals and communities **receive the full spectrum of health services** they need **without suffering financial hardship**
-    - 🤔**Measures Taken: Primary** (1.5 lakh H&WC in Ayushman Bharat; Target
-
-2/3rd budget under NHP to PHC; Measures-Aapke Dwar Ayushmaan to spread awareness); **Other** [New NMC for quality med edu; Ayushman Bharat,
-
-1. Sanjeevni, National Health Mission (universal access to healthcare, RMNCH+A, also CD+NCD are focused; Targets 2.1 TFR); **Women**-PM Matru Vandana, Laqsha; PM **BJP**; National Digital Health Mission (read below);
-
-**Misc-AYUSH/TKDL/Yoga day**, tax on harmful goods, 4% Health cess, Swatchh Bharat, **POSHAN, ASHA** workers, etc)]; **PM Ayushman Bharat Health Infrastructure Mission (PM ABHIM) - post-pandemic infrastructure, critical health hospital in every block,** comprehensive surveillance, diagnostics and treatment facilities
-
-- - **National Digital Health Mission** - integrated digital health infrastructure - Key Features
-        - Digital systems such as **HealthID** (repository of prescription, med tests), **DigiDoctor** (repository of doctor details), **Health Facility Registry** (both pvt and public health facilities), etc.
-
-#### NDHM is implemented by the National Health Authority
-
-- - - NHDM was envisaged by National Health Policy 2017
-        - **Benefits**: Informed dec making; Faster reimbursement of claims; Better research; Evidence based policy making; Better info on services of Health facility; Geo and demography based monitoring
-    - **Key Recommendation: 15th FC** (SG must inc to >8% of their GDP by 2022; Shifting ‘public health’ to concurrent list; right to health as a fundamental right - also in _Parmanand Katara_); Interface between health startups and hosiptals;
-
-National vaccination policy to prevent vaccinable diseases; **PHC reform** (Expanding role; ~~set up 1.5 lakh HWC fast~~; rules based referral to Sec/tertiary; Turning PHC into polyclinics-Cuban Model); Digitalisation; Behavioral change (Swastha Bharat Andolan is needed); Focusing on ‘One Health Policy’ as recom by WHO
-
-- - **NITI Aayog Recommendations:** Expansion of pvt sector beyond metropolitan to Tier2/3 cities; Focus on miniaturized diagnostics/equip manuf;
-    - Lessons from Pandemic: Good health care infra led to low fatality eg: 0.48% in Kerela; Need pvt sector price regulation; Control irrational use of steroids;
-    - **Best practices: Cuba** has one of the most effective primary healthcare systems in the world, the system provides **community-based polyclinic** (larger medical facility than an individual clinic but smaller than a hospital); **Universal Health Insurance–Turkey**; **YSR Aarogyasri Health Insurance Scheme** of AP (aim is to provide Universal Health Coverage to **BPL families**); **e-Sanjeevni OPD (Kunti distt JH)**
-
-#### PYQs relevant portions:
-
-- - - **Prof. Amartya Sen** has lamented about the primary education and health care situation in India and advocated for reforms. According to him:
-            - **Without** developing **social sectors** like school education and basic health-care services, **and without carrying out land reforms**, it will not be possible for India to have a participatory economic growth
-        - More than 50% of the population has no access to safe drinking water and **about 200,000 people die every year for lack of access to safe water**
-        - Refer **digitalization image** below, no need to read PYQs
-
-**Extra Content Health**
-
-- - **SDG 3 - Good Health and Well-being**
-        - MMR target(70), Under 5 mortality target (11), health workers target(55)
-        - Gives other aims of reducing communicable diseases like malaria, dengue, pandemics also NCD such as diabetes, BP
-        - Controlling deaths by road accidents, substance abuse
-        - By 2030, ensure universal access to sexual and reproductive health-care services
-        - Achieving UHC (UHC means that all individuals and communities receive the full spectrum of health services they need without suffering financial hardship)
-    - Importance of primary healthcare
-        - Meets promotive, preventive, curative health- first point of contact
-        - 1978 Alma Ata Declaration identified primary health care as the key to the attainment of the goal of Health for All
-        - Promote health awareness and education in rural areas- eg in time of pandemics
-        - ~~Investment in primary reduces cost at secondary and tertiary stages for~~ ~~both govt and people~~
-        - ~~Reduces the need for expensive secondary and tertiary healthcare (if~~ ~~PHC works better, it would reduce pressure on other two)~~
-
-Issues/ Challenges
-
-- - ~~Primary~~
-        - ~~Limited focus on NCD (despite their diseases burden >60%) and mental~~ ~~health care needs~~
-        - ~~Limited services: Although Primary Health Care system exists in India but~~ ~~its scope is limited to pregnancy care, limited childcare, etc (A district~~ ~~hospital in India has 11 support services on an average against IPHS~~ ~~identified 14 support services)~~
-        - ~~In Rural areas we’ve 1 PHC for every village (there is a shortfall of nearly~~ ~~3600 PHCs for rural areas)~~
-    - ~~Secondary & Tertiary~~
-        - Denial of treatments by pvt hospitals seen during COVID, exorbitant costs
-        - Attack on health workers, shortage of critical health items-ppe kits etc
-    - Others
-        - Infrastructure issues
-            - ~~Health workforce density: India has a doctor-population ratio of~~ ~~1:1456, against the WHO benchmark of 1:1000~~
-            - ~~Huge skew - urban to rural doctor density ratio being 3.8:1~~
-            - ~~Govt produce 50% doc but 80% work in private~~
-            - ~~Unqualified doctors- 1 in 5 doctors in rural areas- quacks~~
-            - ~~HD Report 2020 says that India has 8 beds for 10k ppl (while China~~ ~~has 40 beds for same pop)~~
-        - Budgetary issues: Spending low compared to 3% in China and 8.3 % in the USA (eg: allocation to National Health Mission have declined in real terms)
-        - Social barriers faced by vulnerable sections eg: lack of reproductive rights with women
-        - Social barriers faced by vulnerable sections eg: lack of reproductive rights with women
-        - Low insurance penetration → High out of pocket expense (OOP has regressive nature, thus impacting poorest among the poor disproportionately more)
-        - No single database for healthcare service → hampers data driven policy reforms
-        - Challenges posed by hunger, poverty, family planning,
-        - Less focus on preventive health care [of all health care spending - 7% preventive and 80% curative (FY17)]
-        - Neglect of traditional health care system
-        - Inter-state variation in per capita spending - low in states of BH, JH, UP (Odisha has same per capita exp as UP in 2010 but now has made it more than 2x - this got reflected in its better mgmt of pandemic)
-        - Stigmatisation of various diseases such as TB, HIV
-        - **India as a major exporter:** For several decades, healthcare workers are exported to developed nations, particularly to the Gulf Cooperation Council countries, Europe and other English-speaking countries.
-            - As per OECD data, around 69,000 Indian trained doctors worked in the UK, US, Canada and Australia, along with 56,000 nurses in 2017 (brain drain of healthcare workers from India to developed nations, which unfortunately has culminated in the shortage of nurses and doctors)
-        - Fighting AMR
-        - Overcharging and irrational care provided by private players (need for comprehensive regulation which checks this issue)
-        - Dependence on China for 70% of API
-        - Health startups: Non-uniform regulatory and validation standards, long gestation, lack of fin incentives
-    - ~~Success stories~~
-        - ~~UNDP HDR- life expectancy inc by 11.5 years btw 1990 and 2018~~ ~~(currently 69.7 years)~~
-        - ~~Institutional deliveries: 90% in rural, 96% in urban areas~~
-        - ~~Best practices: Cuba has one of the most effective primary healthcare~~ ~~systems in the world, the system provides community-based polyclinic~~
-        - ~~Continously reducing the impact of epidemics of AIDS, tuberculosis,~~ ~~malaria (one of the target under SDG3)~~
-        - ~~In West Bengal and Kerala in India – states in which primary healthcare is~~ ~~co-managed by panchayats – health outcomes are better~~
-        - ~~Mortality rate of Kerela only 0.5% (compared to MH ~2%) - shows success~~ ~~of developed healthcare in reducing overall burden~~
-
-Govt Measures
-
-- - Primary (1.5 lakh HWC in Ayushman Bharat; 2/3rd share target under NHP to PHC)
-        - The National Health Policy (NHP) 2017 advocated 2.5% GDP exp and allocating resources of up to two thirds of the total health budget to Primary Health care (current primary is 49%)
-        - Ayushman Bharat - Transform 1.5 lakh sub-health centres into health and wellness centres (HWC) by 2022
-    - Other (New NMC for quality med edu; Ayushman Bharat, e-Sanjeevni, National Health Mission (universal access to healthcare, RMNCH+A, CD+NCD; Targets 2.1 TFR, MMR of 1/1000); Women-PM Matru Vandana, Laqsha; PM BJP, National Digital Health Mission (read below); Misc-AYUSH/TKDL/Yoga day, tax on harmful goods, Swatchh Bharat, POSHAN, ASHA workers, etc)
-        - National Digital Health Mission - integrated digital health infrastructure - Key Features
-            - Digital systems such as HealthID (repository of prescription, med tests), DigiDoctor (repository of doctor details), Health Facility registry (both pvt and public health facilities), etc.
-            - NDHM is implemented by the National Health Authority
-            - NHDM was envisaged by National Health Policy 2017
-        - National Medical Commission Act - to replace MCI (issues of substandard edu,doc)
-            - NMC- will focus on high quality medical edu system and structure, regulate medical inst, guidelines for 50% seats in pvt colleges
-            - 3 autonomous boards for UG/PG edu, ratings of institutions, ethics
-            - Medical advisory council to understand demand of states, uniform NEET, National exit test for license to practice
-            - Issues- less elected and more nominated members in NMC unlike MCI, more union powers and limited rep of states (only few by rotation in NMC but all in MCI), fee cap of 50% may discourage pvt investment
-        - Ayushman Bharat
-            - World largest state funded **scheme, 2 components**- PM-JAY (5 lakh per family pa (~**50 cr beneficiaries**), Health & wellness centres
-            - Features- No cap on family size, national portability, Imp by National Health authority, first health scheme with privacy policy, flexibility to states in designing packages, council for coord bte C&S
-            - Significance- Niti- 22000+ hospitals collaborated, **1 free treatment every 3 sec, road to UHC**, dec poverty as each year 6-7 cr people
-
-fall below poverty line, converges RSBY and senior citizen health insurance
-
-- - - - **Concerns**- challenges to funding to sustain scheme, **health state subjects- conflicts**, issues wrt private- overcharging, premium may be low acc to biz requirements, **Not for primary but secondary/tertiary**
-            - Conclusion- Inc public infra along with better imp however policy is paradigm shift for best healthcare at lowest cost
-        - Poshan Abhiyaan
-        - National Health Mission 2005/2013:
-            - 2013 subsumed the National Rural Health Mission and the National Urban Health Mission
-            - Main programmatic components include Health System Strengthening in rural and urban areas for -
-
-Reproductive-Maternal- Neonatal-Child and Adolescent Health (RMNCH+A), and Communicable and Non-Communicable Diseases. Envisages achievement of universal access to equitable, affordable & quality health care services that are accountable and responsive to people's needs
-
-- - - - Targets: TFR to 2.1; Reduce MMR to 1/1000 live births; IMR to 25/1000 live births; Reduce household out-of-pocket expenditure; Prevention and reduction of anaemia in women aged 15–49 years
-        - Women related programs: PM Matru Vandana Yojana, Janani Suraksha Yojana. Laqshya Initiative,
-        - eSanjeevani: Telemedicine Service Platform of Ministry of Health & Family Welfare
-            - Support for expanding National Architecture of eSanjeevani Teleconsultation platform to provide upto 5 lakhs
-
-tele-consultations per day (present 50,000 Tele-consultations per day)
-
-- - - States need to increase their spending to 8% of their budget (as recommended by 15th FC and National Health Policy 2017) (66% of total health spending is done by states therefore they have crucial role to play; bal 33% by centre)
-        - Role played by ASHA workers (awareness, primary health care, preparedness)
-        - Role played by Swatchh Bharat in sanitation (110 mn toilets in 5 yrs)
-        - TB: NIKSHAY (web enabled app)
-        - Promotion of AYUSH - TKDL, Yoga Day,
-        - PM **BHARTIYA JANAUSHADI PARIYOJANA** - opened 7500th Mar’21 of
-
-which 1000 by women (Total target 10k stores) - The program has led to family savings, emp generation, women emp, demand for AYUSH meds, social emp as their are spcl incentives for SC/ST/North east
-
-- - - Raising taxes on harmful commodities
-
-#### Way Forward
-
-- - Primary
-        - Accelerate estb of 1,50,000 Health and wellness centres, mobile HWC’s
-        - Services of NCD, mental health along with rules based referral to secondary and tertiary
-        - Basic measures wrt infra, workers, training, co-ord, supply chain of medicines
-        - **Swasth** Bharat Jan Andolan- Efficient healthcare should be a political agenda for people
-        - Expanded role of PHC (refer image)
-    - Secondary & Tertiary
-    - Others
-        - National Health policy rec Public health mgmt cadre with clear career structure and recruitment policy
-        - Incentive, trainings, internship wrt serving in rural and neglected areas to combat urban skewed Health HR
-        - Focusing on one health policy as rec by WHO to better predict and manage pandemics
-        - States need to increase their spending to 8% of their budget (as recommended by 15th FC and National Health Policy 2017)
-        - Vibrant and seamless interface bw hospital and startups to solve problems (eg: using NetMed, etc for delivery for backward sections)
-        - Systematically addressing the broader determinants of health (including social, economic, environmental, as well as people’s characteristics and behaviours) - health alone cannot work w/o social and edu dev
-        - High-Level Group constituted under the 15th Finance Commission recommended declaration of the right to health as a fundamental right. It also recommended moving the subject of “public health” to be moved from State List to Concurrent List
-        - Increase in public spending from 1% to 2.5-3% can reduce OOP exp from 65% to 30%
-        - Best Practice: YSR Aarogyasri Health Insurance Scheme of AP (aim is to provide Universal Health Coverage to BPL families)
-            - Brazil Primary Health Care, Universal Health Insurance – Turkey
-        - Infra needs of rural areas need to be built in a better manner (as more than 65% pop cannot be left vulnerable)
-        - National Vaccine policy can be drafted which caters to **vaccine preventable diseases such as pneumonia**specially among adults
-
-(building on the momentum of COVID-19; The childhood vaccination is largely a success)
-
-- - 2020: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of **geriatric and maternal health care**. Discuss. (10 marks)
-        - Cover issues facing old age and maternal then govt schemes for them and then way forward
-    - 2018: Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain
-        - Imp of PHC , issues facing and way forward given above
-    - 2017: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the **WASH scheme**.
-        - More than 50% of the population has no access to safe drinking water and **about 200,000 people die every year for lack of access to safe water**
-        - Need for WASH- health, edu,nutrition,gender justice, prevent poverty and deaths etc
-        - Schemes- Swatch bharat abhiyaan, suvidha ,Jal jeevan yojana(NRDWP), Atal bhujal yojana, Jal shakti yojana, Namami gange, **Darwaza Band Campaign**,
-        - Segments such
-            - Identification through SECC for effective targeting
-            - Sanitation- Rural and urban open defecation segments, protecting manual scavengers
-            - Water- rural tap connections, people suffering due to waterborne diseases, issues of contaminated water- arsenic, fluoride polln diseases
-            - Hygiene- women sanitary pads req, child health & nutrition req,
-
-#### 2016: Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?
-
-- - - Health comes under Article 21 and RTE as Article 21A
-        - **Prof. Amartya Sen** has lamented about the primary education and health care situation in India and advocated for reforms. According to him:
-            - **Without** developing **social sectors** like school education and basic health-care services, and **without carrying out land reforms**, it will not be possible for India to have a participatory and widely shared economic growth
-            - Education and health care are not only vital for quality of life, they have much to contribute to economic development and social change
-        - Cover way fwd for both areas based on content above
-
-#### 2015: Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest?
-
-- - - Limitations of current infra in brief
-        - Cover how pvt. sector bridges the gap
-            - Funds, Tech, Quality infra, better service, trust (**Ministers resorting to pvt care during COVID**)
-        - Issues of pvt sectors- COVID eg, high cost, denial , false doc clinics etc
-        - Other viable alternatives:
-            - PPP Model
-            - Strengthening public sector- inc GDP exp, road to UHC etc
-            - Insurance Model eg: Ayushman Bharat
-            - Developing skill sets of ANM, AWW, ASHA workers
-
-### Human Resources
-
-💡 **Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._**
-
-- - 💡: HCI 2020 (0.49 score), HDI 2022-132/191, Lesser time to tap DD popu will stabilise at 2041 as per ES; 3 pillars: Long and healthy life/Access to knowledge/A decent standard of living; Different vulnerable sections in mind (manual scav, others studied above; Use one of their crucial issue to talk about lack of HRD)
-    - Stats:
-        - **Human Capital Index 2020**: Score of **0.49** in 2020 report which means **Indian child born today will be49% as productive as future worker at age 19** compared to another worker who have enjoyed complete education and full health
-        - **HDI Report 2022** - **132/191**; Between 1990 and 2022, India’s HDI value increased from 0.429 to 0.633, an **increase of abt 50%; SDG Investor**
-
-#### Map - find white space showing areas of potential for investors;
-
-Gender Inequality Index: India has been ranked 122
-
-- - - - **India vs Global comparison (as per HDI Report): Mean years of schooling (6.7** **vs 8.6), Life exp (67** **vs 71), GNI per capita ($6500 vs $16,700)**
-        - **According to the ILO**, India spends **less than one per cent of GDP** on **care work infrastructure and services,** including pre-primary education, maternity, old- age care, disability and sickness benefits, and long-term care. This is despite it rising old-age dependency ratio, urbanisation, climate change etc
-
-#### DD = Potential for eco growth based on the age structure of population
-
-- - - - As per UNDA, India will stabilise its population 12 years earlier than expected - we’ve even lesser time to realise our DD
-    - **Issues in HR: Inequalities**, **Jobless growth**, Health, Edu, **Skill dev**, **Financial inclusion**, **Gender justice**, Poverty, Social discrimination, **Pol disempowerment**, **Unemployement**
-
-#### Caste as barrier to economic transformation: Ownership and land inequality; Elite bias in higher education; Caste based entry barriers in modern sectors (eg: in startups)
-
-- - - **Think of terms of Vulnerable Sections**- Children, Elderly, Tribals, SCs, Manual scavengers, Physically disabled
-            - Study HD through the lens of A long and healthy life, Access to knowledge, and A decent standard of living (ie. 3 pillars of HDI Index by UNDP)
-        - **2018 Ques**: We need to move away from **welfare approach** (directly giving the benefits) **vs capability approach (teaching how to fish)**
-    - **Best Practices:**
-        - **China: Success in manufacturing is a direct outcome of the investment in human capital;**
-        - **Social Stock Exchange to mobilise capital for HRD (Ishant Hussain Committee)**
-        - **Revise SDGs below (the world we want to see in 2030)**
-        - **Vikalp Skill Voucher in Maharashtra** - vouchers to get trained at accredited instituted (migration, urban transformation, HRD) - always add this examples where you talk about skill development in GS
-        - ‘Maa’ committees in Uttar Pradesh to check mid-day meal quality
-        - State Knowledge Advisory Board in Andhra Pradesh - to tranform state into a knowledge hub
-        - "Kerala Infrastructure and Technology for Education (KITE) is a Government of Kerala establishment set up to foster, promote and
-
-implement modernisation of educational institutions in the state of Kerala"
-
-- - ![GS2 SocialJustice](<Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 5.jpeg>)
-
-![GS2 SocialJustice](<Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 6.jpeg>)Use below image for skill development and HRD (topic in syllabus ‘Human Resources’)
-
-- - 2016: “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?
-        - Need, Govt schemes wrt education, skill dev, innovation(atal tinkering lab), issues and way forward
-        - DD = Potential for eco growth based on the age structure of population
-        - As per UNDA, India will stabilise its population 12 years earlier than expected - we’ve even lesser time to realise our DD
-        - To realise DD we need concentrated efforts by various ministries as issues are linked for eg: Improved nutrition → better learning outcomes (idea of Mid May Meal)
-    - 2018: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
-        - Concept demands - to evaluate welfare approach (directly giving the benefits) vs capability approach (teaching how to fish)
-        - Intro on food subsidy- brief on PDS,NFSA
-        - Only focus on hunger but not nutrition affects social sector such as edu,health,skill dev, female potential
-        - Imp of nutrition- mental strength, longer life, building capability
-        - Ending hunger and malnutrition will not be achieved by focusing on food security and agriculture alone.
-        - Need to tackle ineffective human dev policies by reforms in skill dev, edu, health, nutrition as well inc exp and cutting non essential hunger exp (NITI says reduce food subsidy) etc
-    - 2019: Despite Consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive
-        - Issues wrt dimensions covered above and write way forward for inclusive and balanced dev
+## SYLLABUS
+
+1.  Welfare schemes for vulnerable sections of the population by the Centre and States and the performance of these schemes; mechanisms, laws, institutions and Bodies constituted for the protection and betterment of these vulnerable sections.
+2.  Issues relating to poverty and hunger.
+3.  Issues relating to development and management of Social Sector/Services relating to Health, Education, Human Resources.
+
+## COMMON POINTS
+
+-   **Social Justice:**
+    -   **List of Acts/Policies**
+        -   **Child Labour Prohibition Act 1986** same year as that **EPA’86**
+        -   **SC ST (Prevention of Atrocities) Act, 1989**
+        -   **RTI Act 2005**
+        -   **Maintenance & Welfare of Parents & Sr. Citizens Act 2007**
+        -   **RTE Act 2009**
+        -   **POCSO (Protection of Children from Sexual Offences Act) Act 2012**
+        -   **National Policy for Children 2013**
+        -   **National Mental Health Policy 2014**
+        -   **JJ Act 2015**
+        -   **Right of PwD Act 2016**
+        -   **Mental Healthcare Act 2017**
+        -   **National Health Policy 2017**
+        -   **Consumer Protection (Amendment) 2019**
+        -   **TG Persons (Protection of Rights) Act 2019**
+        -   **National Education Policy 2020** (**not 2019**)
+-   If question comes on **vulnerable sections - also include** migrants, slum dwellers, farmers apart from covered below
+-   **Data Points**: **PwD** (2.21%), **Old Age** (8.6% → 16% 2041), **ST** (8.6%), **TG** (4.8 lakh, 50-60 lac), **Edu** (3% spending target 6%), **Health** (2.1% spending target 2.5%)
+-   **Best Practices for Vulnerable Sections**: **PwD** (Chattisgarh 1 seat panchayat; Comprehensive Newborn Screening), **Old Age** (multi-generational homes), **Children** (Bal Snehi Panchayat, Brazil Bolsa Familia Program), **ST** (Xaxa Commitee, Namath Basai), **TG** (Yogyakarta Principles, Karnataka 1% horizontal res; Odisha SWEEKTRI Scheme, NALSA, Navtez Singh Johar called for sensitization, Expand Article 15 similar to S. Africa include sexual orientation), **Education** (Finland Model-make teaching attractive & lucrative, RP Tiwari Cmt); **RJ laws** for min income/gig workers
+-   **General WFs**: Data collection, Sensitization & Awareness programmes, Grievance redressal; More representation (don’t stop yourself from writing these even if they’re common pts); Digitisation & Tech
+-   **Way Fwd for Vulnerable Sections**: Need for anti-discrimination law to address challenges faced by vulnerable sections (Article 15 does not cover discrimination based on disability, sexual orientation, linguistic identity, physical appearance, eating preferences, etc.)
+-   ![[Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 4.jpeg]]
+-   **Concl**: **SDG-10** aims to reduce inequalities (same can be quotes for SC/ST/NE region) (**10.4 for migrants**)
+
+## SOCIAL JUSTICE PYQS (CATEGORISED AS PER SYLLABUS)
+
+### VULNERABLE SECTIONS
+
+#### GENERAL
+
+-   2014: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?
+-   2018: Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
+-   2013: Restructuring of Centrally sponsored schemes: merits, demerits, way fwd
+-   Consumer Protection (Amendment) 2019 (questions on same lines asked in 2012)
+-   National Population Policy (cover basics only)
+-   Acts asked in exams (read their current status/success): PCPNDT, POCSO,
+
+#### CHILD
+
+-   2016: National Child Policy 2016: Provisions, status of its implementation
+-   2012, 2007, 2003: Child Labour: Act? Steps to get rid?
+
+#### PWD & MENTALLY CHALLENGED
+
+-   2017: Rights of Persons with Disabilities Act, 2016: Provisions, merits, demerits, way fwd
+-   2006: Mentally challenged persons: Problems in their rehabilitation (topic in news)
+-   2002: Schemes and policies for Welfare of the Disabled
+
+#### WOMEN
+
+-   “The reservation of seats for women in the institution of local self- government has had a limited impact on the patriarchal character of the Indian political process”. Comment.
+-   Other to be covered: STs, manual scavengers,
+
+### ISSUES RELATING TO POVERTY AND HUNGER
+
+-   **Poverty & Hunger**
+    -   2021: Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. (Answer in 150 words) 10
+    -   2020: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest United Nations Multidimensional Poverty Index Report.
+    -   2013: Mid-Day Meal: Twin objectives, latest mandates and success
+    -   Efforts taken by GOI as of now to tackle both? Measures needed?
+    -   2015: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators.
+    -   2017: ‘Poverty Alleviation Programmes in India remain mere show pieces until and unless they are backed by political will’. Discuss with reference to the performance of the major poverty alleviation programmes in India.
+    -   2019: There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food-budget – Elucidate
+-   #### GS1
+    -   Limitation of G Schemes wrt poverty
+    -   Forms of deprivation and examples to eradicate
+
+### ISSUES RELATING TO DEVELOPMENT AND MANAGEMENT OF SOCIAL SECTOR/SERVICES RELATING TO HEALTH, EDUCATION, HUMAN RESOURCES
+
+#### HUMAN RESOURCES (COVER INDIA @75)
+
+-   “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?
+-   2018: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
+-   2019: Despite Consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive
+
+#### EDUCATION (COVER SDG ACHIEVEMENTS/SHORTCOMINGS FROM MAINS 365 PG 76; ALSO COVER QUIP NOTING)
+
+-   How have digital initiatives in India contributed to the functioning of the educational system in the country? Elaborate your answer.(GS1-2020)
+-   2020: National Education Policy 2020 is in conformity with the Sustainable Development Goal-4 (2030). It intends to restructure and reorient education system in India. Critically examine the statement
+-   Entry of foreign educational institutions in India: SWOT analysis
+-   Should the premier institutes like IITs/ IIMs be allowed to retain premier status, allowed more academic independence in designing course and also decide mode/ criteria of selection of students. Discuss in light of the growing challenges.
+-   How to harmonize private investment and quality of education (context of Yashpal committee)
+-   Read about **Trend of literacy rate** over the years? State of education in India?
+
+#### HEALTH
+
+-   2020: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of geriatric and maternal health care. Discuss.
+-   Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain
+-   ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the WASH scheme.
+-   Professor Amartya Sen has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?
+-   Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest?
+
+## SOCIAL JUSTICE CONTENT
+
+### VULNERABLE SECTIONS
+
+#### VULNERABLE SECTIONS
+
+##### GENERAL WAY FWD:
+
+-   Need for anti-discrimination law to address challenges faced by vulnerable sections (Article 15 does not cover discrimination based on disability, sexual orientation, linguistic identity, physical appearance, eating preferences etc.)
+
+##### GENERAL
+
+-   2014: Do government’s schemes for up-lifting vulnerable and backward communities by protecting required social resources for them, lead to their exclusion in establishing businesses in urban economies?
+    -   Issues wrt schemes for vulnerable sections leading to their exclusion in entrep:
+        -   Govt job preference- reservation and lower threshold of marks makes them focus on govt jobs instead of entrep
+        -   **MGNREGA**- focusing on 100 days of work rather in developing skilled jobs
+        -   **Attempts at UBI**- self sufficiency for basic needs hamper entrep spirit
+        -   Rural policies such as **PURA**, **RURBAN** for stopping urban migration-hampers diversity in entrep ecosystem
+        -   Social prejudice by upper sections- discrimination when they try to do entrep due to major govt policies for them (leads to their ‘Silent segregation’) Ex: No house to minorities, rejected from job as on wheelchair, etc
+        -   Gender prejudice by women estb biz- seen as extra-progressive(Focus on marriage karlo)
+    -   However- welfare state basic req of common min standards to all, also govt schemes give them dignity which help in building confidence and promots entrep
+-   2018: Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case.
+    -   Issues of multiplicity- conflicting judgements, **NHRC** overlapping functions wrt women, dalits, interest of women and children are related, duplication of fx, etc
+    -   Cons in merging- Overburdened commision, diff issues of diff vulnerable section, need special experts, **ST** very diff from others
+    -   Therefore improve existing org-reforms covered in polity along with note on [Umbrella Human Rights Commission: GS-2 Polity & Constitution](https://quip.com/to8OAfF3ykpg#bSZACAzWWsh)
+-   2013: Restructuring of Centrally sponsored schemes: merits, demerits, way fwd
+    -   **CSS (Article 282)** are implemented by the states, planned by the centre **on subjects of State/concurrent list**
+    -   Funding- General- 60;40, Spc category- 90-10
+    -   Need:
+        -   **National Framework for Dev**- eradicate poverty, protect vulnerable sections
+        -   Aid state in financial resources
+        -   Complement existing state schemes- double benefit to sections
+    -   State issues
+        -   Encroachment on state ability to govern and functions
+        -   **Proliferation & Duplication**- too many schemes, state has schemes with same functions
+        -   One size fits all- **neglect local requirements**
+        -   **Limted flexibilty** to implement
+    -   Steps taken
+        -   **Shivraj singh C** on **CSS**- **Reduced schemes from 66 to 28** (earlier was 147 )divided into **3 categories: Core of the Core, Core schemes, Optional Schemes**
+        -   **Involving states in preparing guidelines** of schemes for flexibility
+        -   More flexi-funds, transfers to consolidated fund of state rather than direct implementing agencies
+    -   **WF**- Perf linked financing to combat state disownership of schemes while giving more flexibilty to implement; **15th FC** - **Article 282** require an in depth holistic review
+-   **Consumer Protection (Amendment) 2019** (questions on same lines asked in 2012)
+    -   No need to refer image
+    -   ■
+    -   **Product Liability**: If a consumer suffers an injury, property damage or death due to defective goods /services → company will be liable to pay for damages
+    -   **Jurisdiction**: District upto 1cr, State 1-10 cr, National >10 cr
+    -   Complaints can be **filed electronically**, cases can be heard through **video conferencing**
+    -   New body **CCPA** can intervene to protect consumers from unfair trade practices. It can also launch class action against a company, order recall or refund of products
+    -   **Punishment** - Fines upto ₹ 50 lakhs + upto 5 years jail
+
+##### MENTAL HEALTH
+
+-   💡: Key Stats → Lancet 1 in 7 Indian has mental disorder, Suicide rate 16.3 per lakh (Global avg 10.6); 0.01 mental hospital for every 1 lakh-WHO; Read bold points
+-   As per **WHO** - 7.5% of the population, suffer from mental health issues; Suicide was the leading cause of deaths among young people — aged 15 to 39 — in 2016; **WHO has labelled India as the world’s ‘most depressing country’**
+    -   According to **Lancet**, 1 in 7 people in India had mental disorder raning from mild to severe in 2017
+    -   Suicide rate was 16.3 per 1 lakh population in 2016 (global avg 10.6)
+    -   In news: **COVID**, **Withdrawal by Naomi Osaka** from French open
+        -   **COVID-19** lockdown aggrevated need for **MHC** (mental health care)
+        -   Withdrawal by **Naomi Osaka** from French open
+-   Why focus on mental health? **Can reduce life expectancy by 10-25 yrs (as per WHO)**
+    -   Impacts your thoughts, behaviors and emotions
+    -   Important part in the health of your relationships
+    -   Contributes to our decision making process, how we cope with stress
+    -   Can reduce life expectancy by 10-25 yrs (as per **WHO**)
+    -   Depressive disorders more prevalent among females (due to sexual abuse, discrimination issues)
+-   Measures taken:
+    -   **National Mental Health Policy 2014** (**promote mental health**, **promote destigmatization**, ensure socio-economic inclusion, right based approach) **National Adolescent Health Programme**
+    -   **Mental Healthcare Act 2017** - brought **right based approach**, **removed penal provision for suicide** by presuming mental stress (Section 309 IPC had jail for attempting suicide)
+    -   India’s 1st National Mental Health **Helpline ‘Kiran’**
+    -   **Ayushman Bharat** also has component for **MHC**
+    -   Medical staff - Distressed/burned out during prolonged 2nd wave of pandemic
+-   Issues:
+    -   Lack of awareness and sensitivity about the issue Ex: difficult to differentiate between feeling sad and depression
+    -   **Tagged as ‘lunatics’ by the society** (ironic as community based residential centres are regarded an imp component of **MHC**)
+    -   Low level of psychiatrists, psychologists, nurses, mental health units in general hospitals, full fledged mental hospitals (**WHO** data says India has 0.01 mental hospital for every 1 lakh)
+    -   **Violations of human rights** have been reported **in mental asylums** and also at homes
+-   Way Fwd:
+    -   India could reduce the treatment gap for mental disorders, increase the number of personnel in the mental health sector, work towards reducing discriminatory attitudes, and devise an integrated approach for detecting, treating, and managing patient needs. More counselling facilities, especially in rural areas, with special support for women through the provision of women doctors are needed. More telemedicine, telephone-based helpline numbers, and mental health apps could help. Communities and families have an important role in this regard and so do community-based programmes. School-based programmes on mental health can improve the mental health of children. More fund allocation for treatment of mental health, especially to those States in need of funds, could do wonders. The pandemic may be the best time to explore various policy options including creating online mental health awareness. Media and big data analysis can also play deciding role
+-   Conclusion: **Everyone is fighting their own battle, some more silently than others**. Society needs to be compassionate and empathetic towards all. State mental health institutions, general hospitals, private practice, and **NGOs** can together help achieve the dream of mental health care for all
+
+##### PWD
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   Stat (2.21% Census 2011); Issues in General (Vidhi Centre for Legal Policy-50% NCERTs on DIKSHA portal not accessible to visually impaired; Ltd underst of D→ Ineff policy making; ‘Retribution of past karma’; Spcl issues in pandemic, Under-reporting due to stigma); Right of PwD Act **2016** (Provisions-disab inc to 21; **4/5% reservation in govt jobs/higher edu**; child-18yrs RTE; penalties for offences; Issues-rules not made by states, no data as earlier data based on 7 disab); **Way Fwd** (Prof caretakers; incentives for pvt to give jobs to them; **Comprehensive Newborn Screening** (CNS) programme by Kerela); No need to refer bold
+-   Measures taken (**Accessible India**; **ALIMCO**-Wheelchairs, Tricycles; Guidelines by Edu Min in 2021 to make content more accessible; **Chattisgarh** became first state elect/nominate one **PwD** in each panchayat; 4/5% reservation); **SC** held that reservation for **PwD** is horizontal reservation and therefore does not fall within the 50% cap; **2022**: D/o Emp of **PwD** released **draft of National Policy for PwD** - which shifts focus from medical model of disability to a **social or human rights model of disability** (India signed **UN Convention of Rights of PwD**; **Incheon Asia & Pacific decade of PwD 2013-22**); Role played by officer **P NARHARI** for accessibility
+-   2002: Schemes and policies for Welfare of the Disabled
+    -   **Accessible India Campaign** 2014 focus on 3 verticals - built environment, public transportation and **ICT**
+        -   Ramps in public buildings / railways / airports; toilets for wheelchair users, disabled-friendly websites, etc.
+        -   **Hires auditors** to check public buildings & websites
+        -   Grants are provided
+    -   **Rights of Persons with Disabilities Bill, 2016**: **4% in government jobs** and **5% in higher education** institutes
+    -   **Assistance to Disabled Persons (ADIP)** for purchase of Fitting Devices Ex: Tricycles, Wheelchairs, Crutches → Implemented by **ALIMCO**
+    -   **DeenDayal Disabled Rehabilitation Scheme**: Under this scheme financial assistance is provided to **NGOs** for providing various services to **PwD** like schools, training centres
+    -   **National Fellowship for Students with Disabilities**
+    -   **Best Practice: Chattisgarh** became first state to which will have **one differently abled member** (either elected or nominated) in **each panchyat**; **CG** has 6% of diff abled people
+    -   2021: Guidelines issued by Education ministry to **make digital content more accessible** (various modes text,audio,video,sign lang) for the children with disabilities
+    -   **2021: SC** held that **PwD** have right to reservation **even in promotions** (irrespective of fact the candidate developed disablity after gaining employment
+-   2017: **Rights of Persons with Disabilities Act, 2016**: Provisions, merits, demerits, way fwd
+    -   Facts: Census 2011 - 2.21%; As per Social Development Report 2016 - 56% disabled are men and 70% in rural areas
+    -   Constitutional Protection:
+        -   Art. 41: The State shall, within the limits of its economic capacity make effective provision for the right to work, right to education and right to public assistance in cases of unemployment, old age, sickness and disablement
+        -   **7th Sch: State List Entry 9**: Relief of the disabled and unemployable
+    -   Issues faced by **PwD**
+        -   The education system is not inclusive (study by **Vidhi Centre for Legal Policy** showed that more than half of the **NCERT** textbooks on **DIKSHA** platform were not accessible to visually impaired)
+        -   Ineffective policy making due to ltd. understanding of disability
+        -   A large number of **disabilities are preventable yet health infra** cannot manage the same
+        -   **Underreporting due to social stigma**
+        -   Disability treated as medical problem and not as social problem (disability is the perception of society towards **PwD** which denies them social/eco dev)
+        -   **PwD** is seen as retribution of past karma
+        -   **Woeful infrastructure** (health, transp, tech) to access basic services remain
+        -   Suffers from triple jeopardy - disability, social stigma and poverty
+        -   People with disabilities have special issues during virus outbreak: The people who cannot see rely on touch (cannot touch due to contagious virus); the ones who cannot hear rely on lip reading which gets blocked by a mask
+        -   Ambiguity in definition of disability (as disabilities increased from 7 to 21)
+    -   Provisions of the Act:
+        -   The types of disabilities have been increased from 7 to 21 (Acid attack victims, mental illeness have been included)
+        -   Clause of benchmark disability of 40% to avail reservation benefits
+        -   Increases the quantum of reservation for people suffering from disabilities from 3% to 4% in government jobs and from 3% to 5% in higher education institutes
+        -   Stress has also been given to ensure accessibility in public buildings in a prescribed time-frame
+        -   Spcl provision for child with disability → age under **RTE** act increased to 18 years
+        -   Prov. for chief commissioners, advisory bodies, national and state level funds
+        -   Penalties for offences committed against persons with disabilities
+    -   Cons:
+        -   Non-implementation due to states not forming rules for the act (despite part of state list)
+        -   Enforcement issues due to lack of proper data (data of census 2011 based on 7 disabilities)
+    -   Way Fwd:
+        -   Prevention: **Kerala** has already started an early prevention programme. **Comprehensive Newborn Screening (CNS) programme** seeks early identification of deficits in infants and reduce the state's burden of disability
+        -   Destigmatization of disability through **awareness and discussion on public platforms**
+        -   Create institute for training professional caretakers following **NSDA** guidelines
+        -   Giving political voices to **PwD**
+        -   Using **CSR** funds for **PwD**
+        -   Inclusive education without labelling
+        -   e-learning, incentives for pvt. employers recruiting **PwD**
+
+##### CHILDREN
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: **UNCRC** says anybody <18=child; **Issues** (Health-32% stunting & 18% wasting (~~NFHS-5~~), Education-Only 20% of Classs 3 can read -ASER, Child Marriage-1/3 world’s child brides/**30.2%** married before 18, Child Labour-33mn **Census 2011** in 5-18 yrs, Adoption-as per **UNICEF** - India has 30mn orphans/abandoned, Sexual abuse, Mental health-1 in 7 depressed); Read legislations and their drawbacks; **Measures taken** (**NCPCR**, Legislations, **ICDS**, **PENCIL Portal**, **Project MASOOM**, **CARA**) **Best practices** [Bal Snehi Panchayat (Lattur Village), Brazil’s successful Bolsa Familia programme (cash transfers for child friendly changes), Project Sampoorna Assam to fight malnutrition; FLAG Programme with PLA approach to reduce IMR in Jharkhand]; **Concl:** Children=future of nation, **Role of NCPCR**, Article **39(f)**-dignity of children (Role played by **NCPCR** -Bal Swaraj (**COVID**-Care link) for children in need of protection; asked **UTs**/states to upload data of children who have lost their parents)
+-   Intro (with stats on their status)
+    -   As per **United Nations Convention on the Rights of the Child (UNCRC)**, anybody below 18 is a child. It provides for basic fundamental rights such as Right to survival, Right to Protection from violence, Express their opinions
+-   Issues (Health, Education, Child Marriage, Child labour, Adoption, Sexual abuse, mental health)
+    -   Health: Stunting at ~38% - **POSHAN** target is 25% it was 50% in 2000; World’s half undernourished children in India
+    -   Education: Only 16% can read text prescribed for their level in Class 1 (**ASER 2019**)
+    -   Child marriage: India has 1/3rd of the global child bride; 30.2% of all married women were married before age 18 (**Census 2011**)
+        -   Cultural issues (**Akha teej** in **RJ**); Witnessed ⬆ during **lockdown** as the weddings were restricted to housed due to **COVID** norms; Laxed implementation **Prohibition of Child Marriage Act 2006**
+    -   Child labour: Census 2011 - 10.1 mn working in 5-14 age group; 60% child (btw 14-17) engaged in hazardous entrep
+    -   As per **UNICEF**, India has over 30 mn orphan and abandoned children (makes them even more vulnerable)
+        -   **SC** directed that social media posts for adoption violates **JJ Act** (as **JJ Act** provided for correct procedure & final order is passed by prescribed authority)
+        -   The privacy of orphaned children needs to procted which will otherwise violate sec 74 of **JJ Act** (**NCPCR** highlighted that personal details being leaked to pvt bodies from govt sources)
+        -   Lax enforcement of adoption rules have led to child trafficking
+    -   Sexual abuse and child pornography, Juvenile delinquency
+    -   1 out of 5 children in school suffering from depression
+-   Other points:
+    -   According to **ASER 2019** report, gap between learning outcomes of children with mothers who were educated upto Standard 12th or higher was 40% more than children of uneducated mothers
+    -   **Lancet Report** says because of rise in temperature, infants will bear the greatest burden of malnutrition and rising food prices
+    -   Most Missing Women and Children from **MH**, **MP** and **WB** (Draw a hotspot map quoting **NCRB**)
+-   Constitutional/Legal protection (basic features of law)
+    -   **National Policy for Children 2013**
+        -   Brought to give effect to **UNCRC** - Policy marked children as an important national asset
+        -   Area Provision Implementation
+            -   **Survival, Health and Nutrition**: It states the right to life, survival, health and nutrition is an inalienable right of every child
+            -   **Education and development**: equal right to learning, knowledge and education, with due regard for special needs
+            -   **Protection**: State shall create a caring, **protective and safe environment for all children**
+            -   Participation: Support to develop skills, to form aspirations and express their views
+            -   National/State Coordination and **Action Groups** to **ensure field level implementation** of child related schemes
+            -   Draft child protection policy 2018 by **MWCD**
+                -   Basic points + framework for inst (inc corporates) for their respon vis-a-vis children
+    -   **Child Labour Prohibition Act 1986** (amended 2016) - same year as that **EPA’86**
+        -   Below 14-No, 14-18- Non hazardous;
+        -   **Measures taken**: **ILO Convention 182**, **PENCIL portal**, **National Child Labour Project (NCLP) Scheme** (rehab centres), **Bachpan Bachao Andolan**
+        -   **Challenges**: in regulation & lax implementation; A means of survival for many; Informal nature of economy, **Industrialist-Political-bureaucratic-nexus; Abuse of legal provision (as allowed in some situations provides a leeway Ex: household enterprises to evade laws);**
+        -   **Way Fwd**: **Social labeling** of products marking them as **CL** free; **Data collection**; Community role; Proper implementation of law
+    -   **POCSO (Protection of Children from Sexual Offences Act) Act 2012**
+        -   Child meaning age **less than 18 years**; **Aim:** Address sexual abuse & exploitation of children; Legal obligation under **UNCRC**
+        -   **Provisions**: Investigation in **2m and trial in 6m**; child-friendly mechanisms at every stage of the judicial process; Estb **special courts**, **gender neutral** law, burden of proof on accused, **death penalty**for aggravated assault; Rehab by child welfare comittees
+        -   2019: Defining child pornography; Widening the scope of aggravated penetrative sexual assault
+        -   Impact/fallback of **POCSO**: **Conviction rate** in **POCSO** cases in 2016 (the latest year for which data is available) was **only 28.2%**; Child victim in rape cases have ⬆; Issues wrt to **consensual relationships** (where there is no sexual abuse but consent based relation between 2 children)
+        -   **M365**: 1 in 4 cases under **POCSO** is romantic case (90%+ result in acquittals)
+        -   **Challenges**: **Proving the age** of the child (which document is needed no clarity), **Weak police system**, **Forensic samples** (not collected or ill-handled), **Overburdened judiciary**, **Lack of accountability of NCPCR (working not open** to public scrutiny)
+        -   Suggestions: Nationwide assessment of the impact of **POCSO Act**, Police reforms, Awareness, Judicial overhaul
+    -   **JJ Act 2015**
+        -   Child less than 16 (16-18 henious crimes tried as an adult); **Need under UNCRC, Hague Convention**
+        -   Deals with following aspects: For child in need of protection; Child in conflict with law; Crime against a child; Child legally available for adoption
+        -   **CARA (Central Adoption Resource Authority) under JJ** for adoption related issues (**CARA** got statutory status from this act); **Child welfare committees** at local level - 1 woman compulsory
+        -   **2021 Amendments**: **DM/ADM can issue order** for adoption, **redefines serious offences**, made some offences bailable (promoting reformative justice), all offences will be tried by Children’s court
+-   Govt. has approved setting up of 1023 Fast-track Special courts of which 389 are exclusively for **POCSO**
+-   Article **39 (f)**: children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment
+-   **NC for Protection of Child Rights (NCPCR)**
+    -   Statutory body under **PCR Act 2005**; **Powers of civil court; Reports to CG**
+    -   monitoring agency of child related laws, child courts, est at C & S levels
+    -   1 + 6 members (of which 2 must be women); Similarly we have **SCPCR** at state levels
+-   Govt schemes
+    -   **ICDS**- Centrally spon scheme
+    -   District child protection society in every district for identifying family/child at risk of destitution
+    -   Database on child- tackle child trafficking etc
+    -   Fin resources to state to eff imp **JJ act**, Protection of children act etc
+    -   Nutrition- **Asha**, anganwadi
+    -   National child labour project- eliminate child labour through identification, **Pencil portal**
+    -   Can write schemes related to education, mother health etc
+    -   Create Paediatric units in all 736 districts and to establish Paediatric Centre of Excellence in each State/**UT**
+    -   **Project MASOOM** - to tackle child pornography
+    -   Odisha adminstration cash prize to person who provides info on child marriages
+    -   **Case Study: Bal Snehi Panchayat (Child-friendly panchayat)**- Set up in villages to enable children learn their rights and compel rural administrators to provide basic amenities necessary for the development of their villages (**Lattur Village, MH**)
+    -   ‘**YuWaah**’- Generation Unlimited initiative: Launched by **UNICEF** - to tackle the urgent challenge of investing in their **learning and training**
+    -   Lessons from **Brazil’s successful Bolsa Familia programme** where **cash transfers** were low made to low income groups on condition that they for example send their kids to school, properly vaccinate them, etc.
+-   Case Laws:
+    -   **Sampurna behrua case 2018**- mandatory registration of childcare institutions
+    -   **Bachpan Bachao Andolan**- 2013- Mandatory **FIR** for cases of missing and abduction of children
+-   **Jharkhand**- **FLAG** programme and **PLA** (particpatory action and learning approach) technique to reduce **NMR** and **MMR** (on the job training given to **ASHA** workers, etc)
+-   Way forward
+    -   Cover above measures with prescriptive tone
+
+##### OLD AGE/ SENIOR CITIZENS
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: Stat (8.6% Census 2011 expected **16% by 2041**; 70% in rural-same as **PwD**; Feminiz 1033); Issues (**LASI Report 75%** atleast one chronic disease; Nuclear families; Digi illiteracy; Infra inaccessible or lack of care infra; Feminisation of old age; Loneliness); Schemes (**Vyaya Vandana**, **National Social Assistance Programme-NSoAP**, **PM-JAY**, **ITax** benefits, **Rashtriya Vayoshree Yojana**,**Project ELDERLINE-14567**, **Maintenance & Welfare of Parents & Sr. Citizens Act 2007**, **SACRED Portal** for jobs/online employment exchange portal; **SAGE Initiative** for silver economy; Religious tourism **CM Tirtha Yatra**); Way Fwd (**Swiss 'Time Bank' concept;** Multi-generational homes Germany; Inheritance right for women, Push Silver Economy for services around elders; ⬇ **TFR** calls for geriatric care) Concl: **Decade of Healthy Ageing 2020-30** by **WHO**; No need to read bold points
+-   Stats:
+    -   Living in rural areas (71%); Regional variations (kerela is aging while bihar is young);
+    -   Feminization of ageing: Sex ratio 1033 in 2011
+-   Issues:
+    -   Health issues: **LASI 2020** report, **75%** of the elderly population of India suffers from **one or more chronic diseases** such as arthritis, hypertension, etc
+    -   **Nuclear Families:** Isolation & neglect due to disintegration of joint families, change in value system, old ppl no longer seen as a source of wisdom
+    -   Lack of preparedness - **no formal awareness program for planning**
+    -   State infrastructure proved inadequate
+    -   Income insecurity, **Physical** and emotional **abuse**, Digital illiteracy
+-   Govt. Efforts
+    -   **NSoAP**, **PM-JAY**
+    -   **Maintenance & Welfare of Parents & Sr. Citizens Act 2007** - **Maintenance of parents is obligatory** and justiciable (Sec 125 of **CrPC**)
+    -   **National Policy for Senior Citizens 2011**
+        -   Mainstream the concerns of sr. citizens spcl. older women
+        -   Promote the care of **SC** within family & inst. care should be last resort
+        -   Creation of inclusive age friendly society
+        -   Recognize elderly as productive asset of society
+        -   Promote income security, old age pension; Provide employment opportunities
+    -   **Income Tax** benefits
+    -   **PM Vaya Vandana Yojana**: ~8% assured return (extended till March 2023)
+    -   **Rashtriya Vayoshree Yojana** - Physical aids/assisted living devices for **SCs** belonging to **BPL**
+    -   **Vayoshreshtha Samman** - National award given to eminent senior citizens & institutions
+    -   **Project ELDERLINE** (**Call centres by M/o SJ**)
+-   Way Fwd
+    -   Need to tap the **longevity dividend** Ex: as counsellors
+    -   **Digital empowerment** of elderly; Government owned old age home
+    -   Special focus on women and in rural areas (inheritance rights)
+    -   Multi-generational homes as existing in Germany
+    -   Develop the culture of preventive (sanitation) & **promotive health care (yoga)**
+-   Concl
+    -   **Decade of Healthy Ageing (2020-2030)** is endorsed by **WHO** (replaces previous active ageing)
+
+##### SCHEDULED TRIBES
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   **Siddhi Tribal Case in MP**
+-   💡: **Stat** (8.6% pop, 90% rural, 700-75 **PVTG**; 40% in **BPL** comp to 21% nat avg; Census 2011 Literacy of 59% vs nat avg 74%); **Measures taken**-Constitutional (5th & 6th Schedules; 350A, Art 338A, 15(4), 16(4) reservation) ; Schemes (**NEP**-vernacular lang; **Van Dhan-TRIFED-MSP**, **Janjatiya Gaurav Diwas**, Tribal Museums, **Eklavya model resi schools**, Scheme for dev of **PVTG**-central sector scheme, **North Eastern Council** headed by **PM**, Island Dev Authority for 2 Island groups); Laws (Forest Act removed bamboo-now right to fell them in forest areas; **RTF Act** - forest rights; **RFCTLARR Act 2013**); **Issues** (Health-STs a/c for Half of malaria deaths in India; Child malnutrition is 50% higher in **ST**; Tobacco/alcohol, mistrust for modern vaccines; Education-lower literacy rate 59% vs Nat 74%, lang barriers-350A not fulfilled, location of schools; **PVTG**-popu ⬇, **HR** violation; Eco-commodification of trad knowledge; land dispossession (2 lakh+ cases pending); Rigid culture-Kerela couple ostracized for 2 decades for “marrying wrongly”; Dev Induced displacement: forms more than 40% of the displaced population while share in popu only 8.6%); **Way forward**: **Xaxa Committee 2013** (**Gram S** consent for land acq; Tribal chair in **UGC** now **HEC**; Sep medical colleges for tribal areas); **Namath Basai Kerela**-teaching in local lang; Expert Committee in 2018-Recommended **National Mission on Tribal Health**; Others-Adequate data for better targeting, De-addicion drives, youth deradicalisaiton in **LWE** areas, Promoting Tribal art initiatives via ‘**Aadi Vyapar**’, e-commerce); Recent incidents in **Guna** and **Dewas** (show the state of tribal women); 🔥 First **ST** President since independence can act as force multiplier for tribal growth; **Bezbaruah** Committee (protection of tribals)
+-   Other Issues (from Only **IAS** Post Indep file): **CAG 2018** report said underutilization of funds allocated for tribal welfare
+-   **Xaxa Commitee**: Judicial Commission to look into the **matters of Naxal Offences/Cases** under which many Tribals were arrested; Recommended giving **Mining Rights to the Tribal Cooperatives (follow model by AP where TC used for marketing MFP); Officials should be punished** for delayed implementation of **FRA/PESA 1999**; **Increasing the power of Gram Panchayat** to check land acq
+-   🧨 **Issues with FRA 2006** (15 years): Lack of political will (emphasis on **EoDB**, **EPA** dilution), Ltd. power devolution to grab sabha; Complex/cumbersome legal process; Fin and H.Resource crunch with Tribal Ministry; Tussle b/w **GS** and revenue/forest dept; **NCST** not working actively; **1/3rd claims rejected** as per M/o Tribal (non occupation before specified date, non-forest land claimed, multiple claims)
+-   **Eco-Tourism** can be promoted and govt must empower **JFM committees (Mindnapur Model)** to oversee this; Food items of tribes and their culture should be part of tourist resorts; Training to handle tourists, prepare hygienic food etc (**Kalinje Ecotourism Model in MH** that is based on **community based conservation** - also created several jobs); _Sahariya Tribe being trained for Cheetah Tourism in MP_
+-   _Unfortunate MP Tribal urination case shows the pity state of HR in the country for tribals_
+-   Intro (with stats on their status)
+    -   8.6% of population (90% in rural areas)- 2011 census; ~700 tribes with 75 as **PVTG**
+    -   Livelihood status- 40% tribal **BPL** vis a vis 20.5% non tribals 😢
+    -   Education- Literacy for **ST**- 59% (National avg- 73%) 😢
+    -   Health- Life expentancy 63.9 (National-67), 80% tribal children undernourished and suffering from anaemia 😢
+    -   Sex ratio- 990/1000 (National avg -933) 😃
+-   Provision:
+    -   Constitutional (5th & 6th Schedules; Art 338A, 15(4), 16(4) reservation); Schemes (**NEP**-vernacular lang; **Van Dhan-TRIFED-MSP**, **Janjatiya Gaurav Diwas**, Tribal Museums, **Eklavya model resi schools**, Scheme for dev of **PVTG**-central sector scheme); Laws (Forest Act removed bamboo; **RTF Act** - forest rights; **RFCTLARR Act 2013**)
+-   Constitutional/Legal protection (basic features of law)
+    -   ~~Art 46- State promote edu and eco intrests of weaker sections esp SC,ST.~~
+    -   ~~Art 275- grant in aid to states under 5,6 schedule areas~~
+    -   ~~Art 330- R in LS for SC/ST , Art 332- R in SLA for SC/ST~~
+    -   ~~Art 338A - National commision for ST~~
+    -   ~~Art 29(conserve distinct lang,script), Art 15(4)- sp prov for SC/ST, Art 16(4)- Reservation~~
+-   Govt schemes
+    -   **Eklavya model residential schools (EMRS)** - Budget 2019- every block with 50% **ST** or 20000 Tribals- school by 2022
+        -   2021: **MoU** has been signed with **Microsoft** for digital transformation of **EMRS**
+    -   **Van dhan yojana- TRIFED**- value addition, training for minor forest produce
+    -   ~~Scheme for dev of PVTG-central sector scheme~~
+    -   ~~Van bandhu kalyan yojana~~
+    -   ~~Janjatiya Gaurav Diwas (Tribal Pride Day), Tribal Museums~~
+    -   ~~Indian Forest Act 2017 - removed Bamboo from definition of tree~~
+    -   ~~NEP 2020 advocated for vernacular language education till Class V~~
+-   Issues
+    -   (Health-tobacco/alcohol, mistrust for modern vaccines, child nutrition; Education-lower literacy rate 59% vs Nat 73%, lang barries-350A not fulfilled; **PVTG**-popu ⬇, **HR** violation; Eco-commodification of trad knowlegde; land dispossession; Rigid culture-Kerela couple ostracized for 2 decades)
+    -   Health
+        -   Mental illness and comp larger addictions of tobacco and alcohol
+        -   Disease burden of communicable diseses like malaria,HIV,TB , **NCD** such as hypertension, diab etc
+        -   Issues of inadequate nutrition wrt child, mother safety
+        -   Mistrust for modern vaccines and medicines
+        -   Lack of Infra & **HR** in tribal areas due to urban life culture
+    -   Education
+        -   Traditional attitide for girl education
+        -   Linguisitic barriers for imparting modern edu, also mother tounge cont prov(350A not fulfilled)
+        -   Teachers unavailibility
+        -   Apathy of tribal leadership- more concerned with autonomy rather than what to do with it
+    -   Issues of **PVTG**, other denotified groups
+        -   Assertive tribal groups take major dev funds
+        -   Declining population- esp in **A&N**
+        -   Non timber forest collection hampered due to shrinking forest availability
+    -   Economic issues
+        -   Issues wrt getting Indv and community **FR** under **Forest rights act 2006**
+        -   Land alienation wrt dev projects
+        -   Inadequate entrep potentials
+    -   Legal issues
+        -   Issues in legal acts- **PESA**, **SC/ST Atrocities**, **FRA** etc
+    -   Social
+        -   Rigid rules and customs reduce autonomy (**Kerala** couple ostracized for almost 2 decades for marrying against customs)
+-   Way forward:
+    -   **Xaxa Committee 2013** (**Gram S** consent for land acq; Tribal chair in **UGC**; Sep medical colleges for tribal areas); **Namath Basai Kerela**-teaching in local lang; Others-Adequate data for better targeting, De-addicion drives, youth deradicalisaiton in **LWE** areas)
+    -   Health
+        -   Bottom up approach with mix of modern and traditional medicine
+        -   De-addicion drives, data on tribal diseases, specialised **HR** for tribals, mobile medical camps
+        -   Emergency transportaion for expectant mothers
+    -   Edu
+        -   Sp institutions like **Dantewada** livelihood college- offer **S.D** courses
+        -   Local teacher recruitment and training
+        -   Spl girl schools to promote edu
+    -   Other(eco,legal,displacement issues)
+        -   Adequate data for better targeting of govt scheme
+        -   Need to win them back from **LW** extremism
+        -   need to establish agro-based training institutions and related labour-intensive processing industries in tribal regions.
+        -   Explore 5,6 th schedule demands wherever possible
+
+##### TRANSGENDER
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: **Meaning** (gender does not match the g assigned at birth) **Stats** (4.8 lakh census 2011 but hidden 50-60 lac); **Issues** (Social excl-99% faced rejection-NHRC 2018; Eco excl-96% denied job-have to badhai/sex work; Health-mental/HIV/expensive sex alignment surgeries; Ghost citizens with no rep; **HR** abuse/hate crimes; Issues of rural **LBGTQ** unherd Ex: athelete **Dutee chand**) **Efforts** (**NALSA 2014**-3rd Gender in govt doc, Self-determ, Provide avenues within **OBC** quota; **TG Persons (Protection of Rights) Act 2019**-read provisions, issues in bold); **Best Practices** (**Karnataka** 1% horizontal resrv in govt services; **Garima Griha Yojana**; **SWEEKRUTI Scheme of Odisha**-issue smart i-cards + skilling); **Way Fwd** (**Navtez Singh Johar** case asked **GOI** to sensitize to eliminate stigma against **LGBTQ+**; Need to expand Article 15 to include sexual orientation/gender (like South Africa did in 1996); Grievance redressal; More representation); **Concl SDG-10** aims to reduce inequalities (same can be quotes for **SC/ST/NE** region); **Yogyakarta Principles** recognise freedom of sexual orientation and gender identity as part of Human Rights; **Note:** Male & Female are mere normative categories rather than being natural; In **NALSA** judgement, Justice **Sikri** said **TG** is umbrella term and includes gay, bisexual, lesbian)
+-   **LGB**T**QIA+** (Have to face abuse of pseudo medical therapy to turn them hetrosexual; Homophobia; Seen an mental disorder; other pts and suggestions same as **TG**; Personalities in news: **Dutee Chand**-Hoisted rainbow flag in **CWG 2022**, **Alan Turing**); **NGOs** working for **TG**: **Asha Deep Foundation**
+-   **TG Persons (Protection of Rights) Act 2019**
+    -   **Provisions**:
+        -   Defines **TG** for puprose of act: gender does not match the gender assigned at birth
+        -   **Prohibits discrimination** wrt denial of social services(H,E,J) etc, goods, **right to movement**, renting, public office; **Right to residence** (cannot be sep from family unless by law)
+        -   **Grievance redressal mechanism**: every estab must appoint complaint officer
+        -   Recognition of identity by **DM**- even after Sex reassignment surgery
+        -   National **Council** for **TG** Persons setup with representatives from multiple stakeholders
+            -   Functions: **Redress grievances**, **advise the centre** wrt policies/prog, **Monitor and evaluate them**, **Review and coordinate** with all govt, and non govt bodies
+        -   **Penalties & Jail for offences** (bonded labour, denial of use of public places, removal from house)-**6m to 2 years**
+    -   **Issues**:
+        -   **SC NALSA Judgement** entitled **TG** persons to enjoy eco/soc/cultural/pol rights w/o discrimination → Act does not address civil rights such as mariage, adoption, partnership rights; Does not define ‘discrimination’
+        -   **Punishments are less** as **compared to _cisgender_** (a person whose gender identity matches their sex at birth) woman where punishment can be life sentence or even a death penalty
+-   General
+    -   **No right to self identification** (rather subjected to bureaucratic scrutiny) along with no mech for review and appeal
+    -   **No provision for affirmative action for reservation** in employment and education despite **SC** advise in **NALSA Judgement**
+    -   **Demand for a commission but a council** has been set up (lesser powers)
+-   4.8 Lakh (census 2011) - estimated to be 50-60 lakhs (kept secret to avoid discrimination)
+-   Constitutional Protection: 14, 15, 16, 19, 21
+-   Issues faced
+    -   Social exclusion- 99% faced social rejection atleast once (**NHRC Study 2018**)
+    -   Economic exclusion: 96% **TGs** are denied jobs taking low paying jobs such as badhais, sex work, begging (**NHRC Study 2018**)
+    -   Health: Barriers to access health services- lack of specialised treatment, vulnerable to **HIV** aids and mental health issues, expensive sex alignment surgeries
+    -   Termed as ghost citizens as merely 30k are registered with Elec commission
+    -   Legal hurdles wrt documents, discrimination in family laws such as Hindu marriage act, H Succesion act
+    -   Prone to multiple forms of violence- sexual, physical etc
+    -   Same-sex marriage is not legalised - violates **FR** 14,15,21 of **LGBTQIA+** community (atleast 29 countries around the world have legalised it)
+-   Govt. Efforts
+    -   **NALSA vs UOI 2014**: ‘Third Gender’ to be incl in official documents; Right for self-determination; Provide for avenues within **OBC** quota
+    -   **TG Persons (Protection of Rights) Act 2019**
+        -   Provisions:
+            -   Defines **TG** for puprose of act: gender does not match the gender assigned at birth
+            -   **Prohibits discrimination** wrt denial of social services(H,E,J) etc, goods, right to movement, renting, public office; **Right to residence** (cannot be sep from family unless by law)
+            -   **Grievance redressal mechanism**: every estab must appoint complaint officer
+            -   Recognition of identity by **DM**- even after Sex reassignment surgery
+            -   National **Council** for **TG** Persons setup with representatives from multiple stakeholders
+                -   Functions: Redress grievances, **advise the centre** wrt policies/prog, Monitor and evaluate them, **Review and coordinate** with all govt, and non govt bodies
+            -   Penalties & Jail for offences (bonded labour, denial of use of public places, removal from house)-6m to 2 years
+        -   **Issues**:
+            -   No right to self identification (rather subjected to bureaucratic scrutiny) along with no mech for review and appeal
+            -   **No provision for affirmative action for reservation** in employment and education despite **SC** advise in **NALSA Judgement**
+            -   Demand for a commission but a council has been set up (lesser powers)
+            -   **Punishments are less** as **compared to cisgender** (a person whose gender identity matches their sex at birth) woman where punishmen can be life sentence or even a death penalty
+    -   State level initiatives
+        -   Welfare boards set up by **Kerela**, **MH**, **TN**; ‘Transgender Community Help Desk’ set up at **Cyberabad** police station which will not only redress grievances but also provide job links, life skills, counselling, etc.
+        -   National Portal launched to issues I-cards w/o physical interface or any visit to office
+        -   ‘**Garima Greh**’ - shelter for **TG** person (pilot project of M/o **SJE**); **Chattisgarh** Govt. inducted 13 members of community into state police
+        -   Best Practice: **SWEEKRUTI Scheme by Odisha** govt (where Smart cards are issues to provide equal opportunities and protect the right); **Karnataka** has become the first state in the country to provide 1% horizontal reservation for **TG** in govt services
+    -   Way Fwd
+        -   The law must be implemented in letter and spirit to fulfil its objective. At the same time, society needs to erase its biases and accept transgender people as equal human beings with humility.
+        -   Adress grievance of T community wrt bills
+        -   **SDG-10** aims to reduce inequalities (same can be quotes for **SC/ST/NE** region)
+        -   Need for sensitization programmes for various stakeholder (police, prison, judges, health professionals, education, workplaces)
+-   Larger term that includes transgender is **LGBTQIA+** community
+    -   Famous personalities: **Dutee Chand**, **Alan Turing**, **Frank Kameny** (American activist)
+    -   **Madra HC** directed Union Ministry of **SJ & Emp** to upload details of **NGOs** with address/contact that provided services for these communities
+        -   Make appropriate change in existing infra to accomodate their housing needs
+        -   Coordinate with police wrt to offences committed against them
+    -   Issues: **Have to face pseudo-medical therapy** wherein **LGBT** person given physical and emotional abuse so he/she gets ‘cured’ and becomes heterosexual; Challenges in employment; Challenges in personal relationship; **Homophobia** (prejudice against gay people); Different sexual orientation is seen as **mental disorder**
+    -   Way Fwd:
+        -   **Navtez Singh Johar** case asked **GOI** to sensitize general public and officials to eliminate stigma against **LGBTQ+**
+        -   Need to expand Article 15 to include sexual orientation/gender (like South Africa did in 1996)
+        -   **UK** passed **Alan Turning Law** to grant amnesty and pardon to previous convicts
+    -   The current state of queer community is incompatible with country’s lilberal and inclusive constitution
+    -   More steps need to taken by legislative route rather than just jurisprudence
+
+### POVERTY
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: **Concepts** (**SDG-1**: Half P, Zero homeless); **Development paradox** in India-fastest growing economy but 22%; Divergence of **Hunger** ⬆🥺 and poverty ⬇; **AS** said P is lack of capab not income); **Data** (**UNDP’s MPI**-28%,**S.Tend**-Ind:21.9%,R:25.7%,U:13.7% 2011); **Causes** (Population-Poverty trap-low income-low edu/health-lowHRD=Trap; Agri not viable **NABARD S**; Corruption/leakages; Multiple definition makes eval diff-highly politicised issue; Low Social mobility-40% **ST** poor; Failure of trickle down; Regional varinace 40% in **CG**_1% in **A&N**; Feminization of agri); **Schemes** (**MGNREGA**, **NSoAP**, **Gareeb Kalayan Package**, **ADP**-115 distt, **NRLM**, **Awas Y**, **Jan Dhan**, **PM-JAY**); **Success** (Reduced poverty from 45% to 21%; 415mn out during **FY06-FY21** as per **MPI 2023**; Improv shown in **BNI**; **3 crore** houses sanctioned under **PMAY(R+U)**); **Way Fwd** (Bottom up rural agri reforms; Quasi-UBI-for most deprived groups; Micro-targeting vulnerable; Panchayat led plan article 243; **Kudumbashree**; Effective distribution of wealth; Use of Technology (**UN** President lives of 800 mn transformed); Cost effective high frequency surveys; Focusing on **MPI**-education, health, living stds; Read only Urban Poverty Question 2008) **Why Schemes fail** (USe **SICk FOUJI** + plethora of schemes, Socio issues- like **patriachy and caste** based discrimination in identification; Definition itself politicised); We need **safety nets** like risk insurance, strong public health services to ensure people taken out of poverty are are not pushed back due to “**accidents of life**”
+-   **Hidden Dimensions of Poverty**: **Psychological** (affects mental health, self-esteem, and social status, leading to marginalisation), **Structural barriers** (barriers such as lack of access to quality education, healthcare, and employment opportunities), **Environmental** (located in areas prone to environmental hazards, which exacerbates their vulnerability; lack of clean water/sanitation); **IMF** and **WB** calls for fostering inclusive dialogue & engaging communities via bottom up planning and strong institutions;
+-   **The Poverty Trap**: A vicious cycle where poverty itself creates barriers to escaping it. Limited access to education and healthcare can hinder opportunities for better jobs and income generation. Investing in education, healthcare, and social safety nets can empower individuals and communities to break free from the poverty trap
+-   **MPI 2023 Findings: by UNDP**
+    -   **25 countries, including India, successfully halved their global MPI** values within 15 years; **415 million**people in India were lifted out of poverty from 2005-**06** to 2019-**21**
+    -   1.1 billion out of 6.1 billion people (just more than 18%) live in acute multidimensional poverty across 110 countries. **Sub-Saharan Africa** (534 million) and **South Asia** (389 million) are home to **approximately five out of every six poor people**
+    -   Said lack of comprehensive data during the period of the **COVID-19** pandemic poses challenges in assessing immediate prospects
+    -   Although low-income countries constitute only 10% of the population included in the **MPI**, these are where 35% of all poor people reside
+-   **2023 National MPI Report by NITI**
+    -   Significant decline in multidimensional poverty; from **24.85% (2015-16) to 14.96% (2019- 2021). Approximately 13.5 crore Indians escaped poverty during this period.**
+    -   The number of states with less than 10% multidimensional poor doubled from 7 to 14
+    -   ‘**BIMARU’ states**, viz., Bihar, UP, MP, Odisha, and Rajasthan witnessed the **fastest decline**
+    -   **Issues**: Despite progress, **nearly one in seven Indians remains multidimensionally poor (wahi 14%)**, indicating the persistent challenges in addressing poverty and inequality. **Bihar has one-third population multi-dimensionally poor**. **WF**: **Generic wale health, education, jobs, public goods for New India,** data driven, **NGOs for randomised trials, Agri growth hub &spoke**
+
+#### EXTRA CONTENT POVERTY
+
+-   Poverty is the lack of sufficient money to meet the minimum standard of living-including food, clothing, shelter, health and education
+-   Developmental Paradox → India becoming fastest growing economy but still host 22% of world poor
+-   Poverty is not only about poverty; it is also about inequality
+-   Targets under **SDG 1** - End poverty in all its forms everywhere
+    -   Reduce to half from 21% to 10.95% population living below poverty line
+    -   Target of zero homeless
+    -   100% household coverage with atleast 1 memb having health insurance
+-   Various dimensions of poverty:
+    -   Financial, Health, Housing, Vulnerabilities to disasters, Gender specific vulnerability
+-   Causes for its continuance
+    -   **Social Causes**: Population explosion (High fertility rates causing poverty trap due to lack of family planning); Social barriers faced by vulnerable sections; Access to eduation; Gender inequality
+    -   **Economic Causes**: Agriculture no longer viable (**NABARD** survey), Jobless growth, Inflation; Debt trap due to low asset base; Inequality (**Oxfam** report)
+    -   **Political Causes**: Unable to excercise legal rights; Used as vote banks; No coodination **PM-Kisan** not implemented by West Bengal
+    -   **Governance Issues**: Corruption/leakages; Resource curse; Not releasing personal consumption data/employment data (hampers data driven reforms) Ex: **MGNREA** Wage leakages
+        -   Mutilple definitions of poverty - makes evaluation of policy effect difficult
+-   Other Challenges:
+    -   Regional Variance: Much of India's poverty is concentrated in rural areas and in low-income States. The differences bw states is stark - **CG** has 39.9% whereas **A&N Islands** has 1%
+    -   **Feminisation of poverty**, especially rural poverty (P impacts women>men)
+-   Upcoming challenges:
+    -   Threats due to changing climate → inc in frequency of disasters
+    -   Intensification due to **COVID** pandemic
+-   Defining poverty
+    -   National:
+        -   **Alagh Committee (1979)** determined a poverty line based on a minimum daily requirement of 2400 and 2100 calories for an adult in Rural and Urban area respectively
+        -   **Lakdawalla (1993)** - Focused on Calories Intake + Clothing + Shelter
+        -   **Suresh Tendulkar Committee (2005-09)** - Committee defined poverty line at monthly per capita expenditure ₹ 816 (rural), ₹ 1000 (urban)
+            -   21.9% (All India), **25.7% (Rural India), 13.7% (Urban area) in 2011-12**
+            -   Covers food + non food (education, health, electricity and transport)
+        -   **C. Rangarajan Committee** suggested poverty line @monthly expenditure for family of five: ₹ 4860 (Rural), ₹ 7035 (Urban) - this report is not accepted (this report covered food, non-food, non-food behaviour such as entertainment etc) - 29.5% were considered poor
+        -   To remove any criticism that many poor would be left behind if poverty line as per **Tendulkar committee** is adopted, **NITI Aayog** has underlined that **Tendulkar committee** will only be used to track progress in combating poverty rather than identifying the poor for entitlements. **SECC** data as suggested by **Saxena** and **Hashim committee** will be used for entitlements
+        -   **Socio Economic Caste Census 2011**
+    -   International:
+        -   **World Bank’s International Poverty Line (IPL)** stands at person living daily on **US$1.90 - 21% Indians** below this mark
+        -   **MPI by UNDP** is based on a survey with set of 10 questions spread across 3 dimensions viz. health, education and standard of living - **28%** Indians are poor
+-   Issues in determining P based on income alone? (**UPSC 2020** question)
+    -   Studies such as the **MPI**, **Human Development Index**, and the **Gini coefficient** stresses the need diff dimesions of poverty
+    -   Traditionally, poverty refers to lacking enough resources to provide the basic necessities of life – food, clean water, shelter and clothing. But modern economists extend the term to include access to health care, education and even transportation
+    -   Other dimensions
+        -   **Amartya sen**- Poverty not absence of income rather capability (need for skill dev, edu)
+        -   disempowerment politically- migrants
+        -   poor quality of work wrt potential- Ex: watchman despite being educated
+        -   social exclusion - reserved categories, tribals
+        -   **living** in areas that are **environmentally hazardous**
+        -   rural-urban disparity
+        -   the threat of violence
+-   3 Reasons why it is clear that the poverty estimation needs a relook
+    -   In 2019, the global **Multidimensional Poverty Index** reported that India lifted 271 million citizens out of poverty between 2006 and 2016 but after that period, there is a downward trend
+    -   The last time that ‘India reported an increase in poverty was in the first 25 years after Independence, when from 1951 to 1974, the population of the poor increased from 47% to 56%’. So, India is again a “country of mass poverty” after 45 years. Also there is a fall in the monthly per capita consumption expenditure of 2017-18 for the first time since 1972-73, which the Government withheld citing concerns with the quality of data collected
+    -   Hunger issues data, **NFHS-5** data
+-   Govt efforts to eradicate P & its evaluations
+    -   **Integrated Rural Development Programme (IRDP)**: assistance to the rural poor in the form of subsidy and bank credit for productive employment opportunities through successive plan periods
+    -   **Jawahar Rozgar Yojana**: employment opportunities for the unemployed and underemployed in rural areas through the creation of economic infrastructure and community assets
+    -   Green revolution- helped in attaining the food security in country
+    -   **Food for Work Programme**: enhancing food security through wage employment(**Garibi hatao** focus)
+    -   **Annapurna Scheme**: provide 10 kg of free food grains a month for the eligible senior citizens- target groups of ‘poorest of the poor’ and ‘indigent senior citizens’ who dont have anyone to take care of them
+-   Current schemes:
+    -   (**MGNREGA**) 2005: 100 days assured employment every year to every rural household( 33% jobs to women), if not provided employment within 15 days- entitled to a daily unemployment allowance from **NREGA Guarantee fund** est be C and S
+    -   **National Rural Livelihood Mission: Aajeevika (2011)**: jobs with regular income to rural poor on a monthly basis. Forming Self Help groups etc
+    -   Other rural initiatives- **PURA**, **RURBAN** etc
+    -   **National Urban Livelihood Mission**: organizing urban poor in Self Help Groups, opportunities for skill development leading to market-based employment , set up self-employment ventures by ensuring easy access to credit
+    -   **Pradhan Mantri Kaushal Vikas Yojana**: focus on fresh entrant to the labour market
+    -   **Pradhan Mantri Jan Dhan Yojana**: scheme particularly targets the unbanked poor- **DBT** etc
+    -   **Pradhan Mantri Awas Yojana (Gramin–PMAY-G)** was launched in 2016- subsidy to low income groups
+    -   **PM Svanidhi Scheme**
+-   Successes:
+    -   **Improvement shown by Bare Necessities Index in ES21**
+    -   Steadily improving score on the **Human Development Index**
+    -   Between **2006 and 2016, India lifted 271 million people** out of multi-dimensional poverty, which is the fastest in the World, says **UNDP** in 2019
+    -   **Reduction in poverty from 45% to 21% (compared to pre NEP 1991)**
+    -   Housing for all by 2022 - **more than 1 crore houses built**
+    -   **PMJDY** opened 381 million bank accounts (203 mn by women)
+    -   Others: **PM-JAY**, **PAHAL Scheme** for cyclinders;
+    -   The increase in public expenditure (by 1.5 percentage points from 6.2 to 7.7 per cent of **GDP** during 2014-20) in social sectors including health and education affirms the commitment of the state & central Governments towards maximising social well-being
+-   Reasons for failure:
+    -   Policy issues- Leakages and corruption in **identification of beneficiaries**, inadequate monitoring
+    -   Lack of authentic data — refrained from releasing consumption surveys
+        -   Issues wrt diff sections-**inadequate data on migrants**, diff to identify and give benefits to tribals (**Andaman**)
+    -   Issues in **poverty line- highly politicised issue** (More people-fiscal issues)- no C,S govt want to accept inc intensity (Multi-D) of poverty
+    -   **Plethora of schemes** → Multiplicity → Confusion in implementation or working in silos (**thin distribution of funds across wide schemes** rather than micro targetting)
+    -   Issus in schemes- Ex: **MGNREGA** 100 days are not provided in many states, diff in getting unemployment allowance (write other basic issues of schemes- limited finance,bad imp etc)
+    -   Socio issues- like **patriachy and caste** based discriminaton wrt identifying beneficaries by gram sabha
+    -   Problems of **coordination with govts** at state & local level
+-   Way forward (any commitee rec?)
+    -   Key to eradicating rural P is **bottom-up agricultural reforms** along with creating productive non-farm emp
+    -   **Eco survey 2016-17**- **Quasi-UBI** (**UBI** to most deprived groups- automatically will come above poverty line)- along with other social sector services
+    -   **Focusing on Multdim P** - Better nutrition, health, sanitation, skill dev, edu etc
+    -   **Micro targeting vulnerable sections**- migrants, manual scavengers, **PVTG** etc
+    -   Grassroot level participation rather than imposition of plans (**Panchayat led plans for poverty eraditionarticle 243)**
+    -   **KUDUMBASHREE** (poverty eradication and women empowerment programme of **Kerela**)
+    -   Enhancing Female- **LF** participation rate (currently only 23%)- lowest in **BRICS**
+    -   Ensuring min wage, Social security
+    -   Using **ICT** to tackle corruption Ex: **PRAGATI** platform
+    -   **How to tackle inequalities** - _The Inequality Virus Report: Oxfam International_
+        -   Invest in free universal healthcare, education, and other public services (as they act as foundation to reduce inequality and prevent it to grow further)
+        -   Reintroduce wealth taxes and ensure financial transaction taxes
+        -   **Invest in a green economy that prevents** further degradation of our planet
+    -   Universal Social Security can be provided by leveraging existing schemes such as **PM Garib Kalyan Yojana** and ensure there is no exclusion error (currently there are more than 500 **DBT** schemes of centre, state, other - this needs to be aligned)
+    -   Other measures for health, education, **HR** can also be quoted
+-   Conclusion: Poverty eradication should not be the goal of the government but goal of the government policies should be to create prosperity.
+
+### HUNGER
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: **Stats** (Rank 111 **GHI 2022**, 107/101 last year, **SDG2**); **NFHS-4** 1/2 women anaemic + 1/3 low **BMI**; Stunting **low height-age** at ~32% - **POSHAN** target is 25% it was 50% in 2000 (Mission25 by 2022); World’s half undernourished children in India despite being 3rd largest economy in **PPP**-Paradox); Paradox of Plenty highlighted by **WEF in 19-20** (produce 290 mn mt, need to feed 230 mn mt-shows issue is of distrib not prod-artificial crisis); **Causes** [Food sec vs Environment; Poverty-**SOFI Report** cannot get even nutrient adeq diet; Governance-**PDS** leakage, 1 in 3 **PM Matru** ⛔; Wastage-cover n plinth + **UNEP** 50 kg per capita; Urban Migration-access issues]; **Hidden Hunger**-80% adolescents-**UNICEF** [Diversity in **PDS** ⛔; Triple burden-under nutrition+obesity+ hidden hunger; Inst baby deliveries ⛔; Sanitation/Illiteracy]; **Govt Schemes** (Accessability & Affordability-**PDS/ONORC**, Increase Agri Prod-via **MSP**, **PMKISAN**, Price stability-Op Green; Nutritious F- **ICDS**, food fortification; **PM Poshan Shakti Nirman Yojana** earlier **MDM**, **National Millets Mission**, **POSHAN Tracker**); **Issues with G Scheme** (72% funds of **POSHAN** in **ICT**; 1 in 3 **PM Matru**=⛔, Many states unable to allocate houses under **PM-Awas** within timeline) **Way Fwd** (Community Canteens; Balanced diet; Avoid high calorie food; Food banking networds by **NGOs**; Crop diversification+fortification); **Best Practice** (**Project Sampoorna**-Buddy Mothers in anganwadis of Assam to reduce malnutrition; Breast milk bank **AP**, Centralised Canteen in **MH**); **Concl** (**WFP** says if hunger ✔ then peace in world ⛔; Will allow us to achieve the goal of attaining “**Kuposhan Mukt Bharat**" by 2022); Life Cycle Approach to Hunger (Malnutrition → poor learning outcomes → poor skill and incomes → impact on family and kids → cycle repeats); Read [Govt effort](https://quip.com/3nvLAFBLy1hj#GEOACAvUA7M)s only;
+-   Impact of hunger: Affects educational development earns 20% less than other adults; Additional medical costs for the states to bear
+-   Food Security Topic Forum **IAS** (Nutri-puzzles, Largest storage via **PACS**; Asian Enigma; ‘Food budget squeeze’, Exchange entitlement decline)
+-   **Government Stance:** Disputes **GHI** but lacks empirical evidence-No **NSS** nutritional survey since 2011-12
+-   **Govt efforts**
+    -   **MDM** revamped to **PM Poshan Shakti Nirman Yojana** (**nutritional experts**, even students of pre-primary level, **nutritional gardens, Intergrate women & FPOs in the cycle**, supplementary nutrition for children in aspirational districts and those with high prevalence of anaemia)
+    -   **Features of Poshan Abhiyaan (National Nutrition Mission)**
+        -   **Incentivizing Anganwadi Workers** for using **IT** based tools, **Introducing measurement of height of children** at the Anganwadi Centres (**AWCs**), **Social Audits** of nutrition prog, Setting-up Nutrition Resource Centres, Involving masses through **Jan Andolan** for their participation on nutrition through various activities
+    -   **Eat right movement** by **FSSAI**
+    -   Gross Value Added in agriculture per worker is continously ⬆
+    -   2.75% of of net area under organic farming (1.07% in 15-16)
+-   2022:
+    -   Nutrition fallout due to school closure: **FCI** Data shows that offtake of grains under **MDMS** **reduced by 22%**YoY in months of April-May 2020 (due to lockdown). Thus we need effective measures → Connecting local small farmers in school feeding system; Boosting School Nutrition Gardens (already part of **MDMS**), Sourcing locally produced fruits and vegetables
+-   ~~Refer → Food security, Hunger, Malnutrition and Social Security Forum doc from IPAD (take 5-10 mins)~~
+
+#### EXTRA CONTENT HUNGER
+
+-   Intro and stats:
+    -   **Global Nutrition report 2020**-India is among 88 countries that are likely to miss global nutrition targets by 2025
+    -   Adult nutrition- 51% women have anaemia, 20% adult have diabetes
+    -   50% of malnourished children of the world are in India
+    -   Chief Nutritionist **UNICEF India** termed **malnutrition** as the single gravest threat that blocks India’s development
+    -   **Global Hunder Index 2020**: Ranked 94 among 107 countries, far behind countries such as Nepal, **PK**, **BG** (India comes under ‘serious hunger’ category) - 2021 ranked 101 out of 116 countries
+        -   Performance on the Indicators: (as per report) (use current status in beginning showing need to do more and improvement as success story later)
+            -   Undernourishment: 14% of India’s population is undernourished (2017-19). It was 16.3% during 2011-13.
+            -   Child Stunting: 37.9%, it has improved significantly, from 54% in 2000 to less than 35% now.
+            -   Child Mortality: 3.7%, it was 5.2% in 2012.
+            -   Child Wasting: 20%, it was 15.1% in 2010-14.
+    -   Simpler points:
+        -   **NFHS-4 (2015-16)** points out that almost half of the pregnant women aged between 15 and 49 years are anaemic and more than one-third of women have a low **Body Mass Index**
+        -   38.40% (>one-third) of children under age 5 years are stunted (2015-16)
+    -   **Comprehensive National Nutrition Survey 2016-18** revealed that over 40 million children are chronically malnourished, and more than half of Indian women aged 15-49 years are anaemic.
+    -   Targets under **Poshan Abhiyaan**
+        -   Stunting and wasting by 2% a year (total 6% until 2022) among children.
+        -   Anaemia by 3% a year (total 9%) among children, adolescent girls and pregnant women and lactating mothers.
+        -   The target of the mission is to bring down stunting among children in the age group 0-6 years from 38.4% to 25% by 2022
+    -   **SDG 2** - Zero Hunger - End hunger in all forms by 2030 & ensure access to nutritious and sufficient food all year round
+    -   **Paradox of Plenty**: India’s food-grain output in 2019-2020 is estimated to be over 290 million tonnes, and as per **World Economic Forum**, India needs approximately 230 million tonnes of food per year to feed its population _(_**_The food crisis of the India/or the world is largely artificial. It is an issue of distribution and not of production_**_)_
+    -   Nutrition is key for foundational growth of kids, boosting immunity, in case of girls nutrition there can be **impact of future generations**
+-   Causes for Hunger
+    -   Poverty: As per **SOFI Report by FAO** - Indian poor cannot afford a nutrient-adequate diet let alone a healthy diet (Basic energy sufficient diet, Nutrient adequate diet and Healthy diet are the three kinds of diets used in the report)
+    -   Food wastage
+    -   Rising food inflation - making healthy diet unaffordable
+    -   Governance issues: Midday Meal crisis in Bihar, **ICDS is affected by lack of trained personnel,** leakage (paradox of plenty- inc production but **leakage/wastage- PDS rice getting exported** in cheap; grains stored via **covered and plinth storage**)
+    -   Food, energy and water security are inter-linked with **strong feedback loops**. **Enhancing food security may lead to diminished water and energy security**
+    -   Issues of **urban migration**- inaccesibilty to get food from **PDS**
+    -   Diversion of agri land to commercial uses- land fragmentation affects self sufficiency of rural population
+    -   Effects of climate change- erratic monsoons, droughts affecting agri, famines
+    -   Chances of man made conflicts(war) annd natural- **COVID**
+    -   **ICDS** services were non functional or severly impacted during **COVID** pandemic
+    -   Women more often forego meals to feed their children (**WB**, 60% of those who are hungry are females in India)
+-   **Hidden hunger/malnutrition**
+    -   Dietary ignorance- not knowing about nutritious food
+    -   Inadequate mother education
+    -   Obesity- **junk food also malnutritution**- **Non Communicable D’s** (double burden of malnutrition and obesity together)
+    -   **Lack of diversity in PDS**- Pulses, millets other protein rich diet absent, inadequate fortified food
+    -   **Triple Burden:** Malnutirtion, Obesity, Lack of micro-nutrients (zinc, iron, calcium)
+    -   **Inadequate institutional deliveries** in rural, tribal areas - **affect nutrition of new born child**, inadequate breast- feeding
+    -   **Lack of inadequate sanitation, illiteracy (i.e poverty not the only cause of H)**
+    -   Socio-cultural factors- lack of protien acc to weight requirement due to majorly veg diet in many communities
+    -   Malnutrition affects cognitive ability, workforce days and health, impacting as much as 16% of **GDP** (**World Food Programme** and **World Bank**); This with zero hunger we can build a wealthier nation too
+-   **Relationship of P and H**
+    -   **Life Cycle Approach to Hunger**
+        -   Toddler & Infant - Delays brain development & brings illness
+        -   Children - Learning difficulties
+        -   Adults - Limits earning and working capabilities
+        -   Family - Lack of access to meds, food and other necessities for healthy pregancies
+        -   This makes the complete cycle and repeat in processs
+-   **Govt efforts**
+    -   For Food Availability/Agri Production increase → **MSP**, fertilizer subsidy, **PM-KISAN**
+    -   For Food Affordability → **National Food Security Act, One Nation One Ration Card**
+    -   For Price Stability → Buffer stock with **FCI**, **Operation Green**
+    -   For Nutritious Food → **Poshan Abhiyaan 2018**, Mid-day meal, **ICDS**, Food Fortification, **National Millet Mission**, **Poshan Tracker** to monitor service **delivery by 14 lakh anganwadis**
+        -   **MDM** revamped to **PM Poshan Shakti Nirman Yojana** (**nutritional experts**, even students of pre-primary level, **nutritional gardens, Intergrate women & FPOs in the cycle**, supplementary nutrition for children in aspirational districts and those with high prevalence of anaemia)
+        -   **Features of Poshan Abhiyaan (National Nutrition Mission)**
+            -   **Incentivizing Anganwadi Workers (AWWs)** for using **IT** based tools, **Introducing measurement of height of children** at the Anganwadi Centres (**AWCs**), **Social Audits** of nutrition prog, Setting-up Nutrition Resource Centres, Involving masses through **Jan Andolan** for their participation on nutrition through various activities
+    -   **Zero Hunger Programme** – launched on 2017 with the aim to make farm inventions, Organising the farming system for nutrition, Setting up genetic gardens for biofortified plants and initiating Zero hunger training.
+    -   **Eat right movement** by **FSSAI**
+    -   Gross Value Added in agriculture per worker is continously ⬆
+    -   2.75% of of net area under organic farming (1.07% in 15-16)
+-   Issues in schemes of govt.
+    -   Mid-day meal scheme: The 2019-20 Budget allocation was ₹11,000 crore and revised estimates are only ₹9,912 crores
+    -   Misplaced focus with: 72% of total expenditure of **Poshan Abhiyaan** going into **ICT** expenditure
+    -   **Global Nutrition Report 2020** has stated that India is among 88 countries that are likely to miss global nutrition targets by 2025
+    -   1 in 3 payments for maternity benefit scheme '**Pradhan Mantri Matru Vandana Yojana**' credited to wrong account: **NITI Aayog** report
+-   International efforts to combat H and M in India
+    -   Zero Hunger by **World food prog** (**Noble Peace prize 2020**)
+    -   ‘**Fight Hunger First’ by Welthungerlife** in rural areas of Ind and Bang.
+-   Way forward
+    -   A renewed approach to **Community Canteens** would not only achieve nutritional security for migrant workers but would also create new jobs, save fiscal resources
+    -   **Balanced diets** including micronutrients; **Discourage munching of high calorie snacks** im urban youth
+    -   Creation of **food banking networks** (food storage and distribution depots) that work with civil society and development agencies on getting food already available to those who need it
+    -   Promote **crop diversification and food fortification**. Invest in **R&D** for more nutritious crops (Agrobiodiversity)
+    -   Best Practices:
+        -   **Breast milk bank at ADP of TN named Ramanathapuram**
+        -   **Centralised Kitchens in MH for student in residential schools**, known as **Ashram Shalas**
+    -   Increase women’s control over farming decisions by keeping land titles on their names
+    -   Nutrient supplementation programs like- Vitamin A supplementation, Iron supplementation
+    -   Mission mode action in districts with high malnutrition
+    -   Harness expertise of **SGH**, **NGO** to complement **PRI** efforts
+    -   If we want to reduce malnutrition and food insecurity, we have to address the problem of affordability of healthy diets
+    -   Also talk about schemes related to child health, sanitation - as all these have direct r’ship to parameters such as wasting/stunting
+-   Conclusion: **World Food Programme** received **Nobel Peace Prize 2020**; **WFP** says ‘there won’t be peaceful world as long as there is hunger’
+
+#### PYQS RELATING TO POVERTY AND HUNGER
+
+##### POVERTY & HUNGER
+
+-   2020: “The incidence and intensity of poverty are more important in determining poverty based on income alone”. In this context analyse the latest **United Nations Multidimensional Poverty Index Report**.
+    -   Incidence- proportion of people who are under the poverty line
+    -   Intensity- means multidimensional (weighted average number of deprivations poor people experience at the same time)
+    -   Factors other than poverty covered in content below
+    -   The **Global Multidimensional Poverty Index (MPI)** compares acute multidimensional poverty for 107 countries in developing regions.
+    -   Of these people, 1.3 billion people (22%) are identified by the global **MPI** as multidimensionally poor, India is 62nd among 107 countries and **27.91% headcount ratio**
+    -   If a person is **deprived in a third or more of ten** (weighted) indicators, the global **MPI** identifies them as ‘**MPI** poor’.
+    -   One adult in six is multidimensionally poor compared with one child in three, hence **children are more prone to multidimensional poverty** than adults.
+-   2013: Mid-Day Meal: Twin objectives, latest mandates and success
+    -   Twin objective: Tackle malnutrition and increase school enrolements
+    -   Mandate: provided hot cooked meal having nutritional standards of 450 calories and 12 gm of protein for primary (I- V class) and 700 calories and 20 gm protein for upper primary (VI-VIII class), free of charge
+    -   It’s a centrally sponsored scheme launched in 1995
+    -   Success:
+        -   Increased school enrolments - quote data from education topic
+        -   Serving more than 120 mn students’
+        -   Better learning outcomes: A total of 72% children who availed mid-day meals in government schools said they could concentrate better on studies after meals (as per **National Institute of Nutrition** survey)
+        -   Improved nutritional intake → evidenced by reduced percentage of stunting
+        -   Helped break caste barriers as students eat together
+-   2017: Efforts taken by **GOI** as of now to tackle both? Measures needed?
+-   2015: Though there have been several different estimates of poverty in India, all indicate reduction in poverty levels over time. Do you agree? Critically examine with reference to urban and rural poverty indicators.
+    -   Agree and quote domestic as well as international data showing reduction
+    -   However issues in govt schemes, multi-dimensionally poverty
+    -   Highlight urban and rural poverty status
+    -   Issues in eradicating rural poverty- agri,low skills jobs etc
+    -   Issues in eradicating urban poverty- Migrant influx, sanitation, slums etc
+    -   Poor households of urban India are emerging hotspots for hunger and ill-health and children there live in worse conditions than in rural areas - **UNICEF**
+    -   Discuss issues wrt urbanisation such as slums, urbanisation of pandemic
+    -   However, rural poverty is different as it suffers from lack of choices
+    -   Way forward for both
+-   2017: ‘Poverty Alleviation Programmes in India remain mere show pieces until and unless they are backed by political will’. Discuss with reference to the performance of the major poverty alleviation programmes in India.
+    -   Covered below along with issues
+-   2019: There is a growing divergence in the relationship between poverty and hunger in India. The shrinking of social expenditure by the government is forcing the poor to spend more on non-food essential items squeezing their food-budget – Elucidate
+    -   Cover how poverty is reducing using stats
+    -   Bring in hidden hunger: Despite increase in real income of the people over the last two decades, overall calorie consumption and nutritional intake has not commensurately increased - mention **Global Hunger Index**
+    -   Then substantiate the second statement of the questions:
+        -   Expenditure below potential - in various sectors 6% education; 2.5% in health; compared to other **BRICS**
+        -   Food Budget Squeeze - due to Inc in expenditure on education,healthcare,transportation,fuel and lighting
+        -   Reduced exp by govt has led to urban and the rural poor dependent on market prices → exposing poor to market volatility
+        -   Migrants have to spend large portion on travelling, accomodation, etc.
+    -   Conclude using way forward points
+-   Questions from **GS-1**
+    -   2018: ‘Despite implementation of various programmes for eradication of poverty by the government in India, poverty still exists’. Explain by giving reasons.
+        -   Limitation of G Schemes wrt poverty has to be covered along with causes of poverty
+        -   Reasons for failure covered below in notes
+    -   2016: “An essential condition to eradicate poverty is to liberate the poor from deprivation.” Substantiate this statement with suitable examples. (Forms of deprivation and examples to eradicate)
+        -   Cover various dimension of poverty using framework of **MPI** and explain how each dimensions leads to poverty (Ex: lack of edu- ignorant- poverty)
+        -   Also mentions measures taken in form of schemes by the govt. in each of the above area
+        -   Cover way forward in the end
+-   2008: The conditions of the urban poor are more deplorable than that of their rural counterparts. Give your views
+    -   Urbanisation also complements poverty: one of the principal challenges confronting cities is the staggering number of ‘urban poor’
+    -   In India, for several decades post-Independence, elimination of poverty superseded all other priorities of government. There has **massive inc in R-U migration & this phenomenon is universally acknowledged as the urbanisation of poverty**. The visible face of which can be seen from the fact that one in seven among urban areas is living in slums. **Differences among rural and urban poor** are as follows:
+        -   In villages, internal distances are small and every village corner is easily accessible. In cities, intra-city travel gets more difficult to negotiate, traffic congestion multiplies - thus need to spend more money **(producitvity also reduced due to pollution - ILO)**
+        -   While environment, soil, water resources and forest cover could be under threat on account of production processes in villages, cities are additionally greatly threatened by pollution levels
+        -   What really differentiates the **urban poor is the lack of adequate housing** and basic services. Urban poor are also much more deprived in the areas of **sanitation** and infrastructure
+        -   **Higher cost of living in urban centres** w/o corresponding increase in income
+        -   **Urban crimes** has negative impact on women as well as family values for their children; **Social Anonymity**
+        -   Inadequate say in urban governance compared to **Gram sabha** in rural
+        -   While within **rural society (rural rich and rural poor) is far less stratified** compared to urban society (urban rich and urbnan poor). Thus the deprivations of poverty, unlike in rural areas, hit the urban poor hard, because they see what the others have and what they don’t. **(psychological - inferiority complex)**
+        -   During **COVID**, **urban poor had to face increased risk of getting infected** due to closer settlements, job losses, rural eco not able to absorb them, **Lack of social protection for urban poor** (while rural areas have **PM-KISAN**, **MGNREGA** - nothing like this for urban poor)
+        -   Issues of Urban Poverty: **Wage slavery, Lost in the cycle of Informal jobs,** Diversity in regional trends (rising in **UP**, **MP**, **Odisha** and reducing in **GJ**, **Kerela**, **TN**, **PJ**)
+    -   **Measures for Urban poor**: **PMAY (Urban)**, **DAY-NULM**, **Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014,** **Pradhan Mantri Shram Yogi Maan-dhan**, Atal Pension, other insurance schemes, Food grains distribution, **PMSVANidhi**
+    -   **WF**: Build a **credible Database of the urban poor** and migrants, along with mapping their skills; Urban planning should be decentralised by focusing on smaller cities and towns. This will lessen the burden of migrant population on megacities; Reform the Urban Governance (by better tech/finance/wider public participation/Convergence and accountability)
+    -   Thus, the **past practice** of seeing all poverty in a rural light and **applying rural solutions in urban conditions will not yield the expected results**.
+-   2018: Mention core strategies for the transformation of aspirational districts in India and explain the nature of convergence, collaboration and competition for its success. (**Aspirational Districts' Programme**: Objectives - Convergence, Collab and Competition)
+    -   **Paradox:** India envisages to become $5 trillion by 2024-25- but not consistent reflected in **UNDP’s Human Development Index** wherein India is ranked 132
+    -   India has significant **inter-state and inter-district variations- to remove this heterogeneity**, the government 2018 launced the ‘Transformation of Aspirational Districts’ programme (**ADP**).
+    -   Features:
+        -   The **115 districts** were identified from 28 states, at least one from each state.
+        -   Programme is **anchored by NITI Aayog. In addition, individual Ministries to drive the progress** of districts
+        -   **ADP** is based on 49 indicators from the **5 identified thematic areas**- Health & Nutrition, Education, Agriculture & Water Resources, Financial Inclusion & Skill Development, and Basic Infrastructure
+        -   With States as the main drivers, **ADP** seeks to focus on the strength of each district, **identify low-hanging fruits for immediate improvement, measure progress, and rank**districts
+    -   The broad contours of the programme are:
+        -   **Convergence (of Central & State Schemes**) which brings together the horizontal and vertical tiers of the government
+        -   **Collaboration** (**of Central, State level ‘Prabhari’ Officers & District Collectors**) which enables impactful partnerships between government, market and civil society
+        -   **Competition among districts** driven by a spirit of the mass movement, it fosters accountability on district governments
+    -   Impacts
+        -   **Decentralization of Development** based on ground realities and targeted welfare
+        -   Inclusive approach: uplift those districts which have been shown relatively lesser progress in achieving key social outcomes by using various developement data over the years
+        -   Improved Implementation: **Spurred by competition based on outcomes**, local governments target their efforts for imp.
+        -   **Health outcomes in ADP** saw an increase in registering pregnant women into the health system, **institutional delivery** of babies
+    -   Challenges
+        -   **Issues wrt Left wing extremism- creating difficulties in dev prog**
+        -   **Issues of federal tensions** in case **unilateral approaches by Niti Aayog**- Ex: in case of states of not ruling party govt, **issues wuth identifying beneficiary**
+        -   Might include **political interference in ranking of districts**- what if disctrict **MLA** is cabinet minister
+        -   Insufficiency and **lack of complete localised data**: Data high-quality administrative data is critical to improving programme implementation and design at the local level
+        -   **The Delta ranking itself is largely focused on assessing quantity (that is, coverage of access) rather than quality.**
+        -   _On-time delivery of textbooks in schools are part of the ranking index, However, textbook delivery may or may not be a problem in districts._
+        -   Insufficient budgetary resources and other basic points
+    -   Way Forward
+        -   **A more simplified ranking index- ability to analyse by locals for greater participation (bottom up ranking)**
+        -   **Independent surveys** can be used to **validate administrative data,** this will help improve data quality.
+        -   **Building** each **district’s internal capacity** to produce reliable and actionable data, and promoting a culture of data use, can be made a priority for the **ADP**.
+        -   **Financial autonomy to local governments** should be provided.
+        -   Initial evidence suggests that the **ADP** has already **contributed towards improving the lakhs of lives**.
+        -   Therefore, it is critical to carefully document and learn from the **ADP’s** experiences
+-   2020: **COVID-19** pandemic accelerated class inequalities and poverty in India. Comment.
+    -   Intro on **COVID 19**- lockdowns- sudden impact
+    -   Class inequalities: **Oxfam Report** - Wealth increase of 10 men during pandemic could buy vaccines for all
+    -   Migrants - invisible to govt
+    -   Restaurants, movie halls, gyms (**MSME** dominant) closed whereas large captial industries like automobile, food processing limited impact
+    -   Education became online which was accessible to privelged few → leading to futher class ineq
+    -   Local businesses run by **MSMEs**, Street Vendors, Construction workers — were hurt disproportionately more during **COVID** thus leading to greater divides
+    -   Salaried workers who form the backbone of middle class - saw huge job losses
+    -   Tech industries flourished- use of zoom call etc- most biz going online- affected offine providers
+    -   Agri impact- inc buying of **FMCG** products compared to agri wholesalers (more money to big co’s like **ITC**)
+    -   Dual burden on females increased further with all family under one roof
+    -   However pandemic showed inc imp of retailers of basic services which have been taken for granted- vegetable seller, dairy, cleaning, newspaper, gas provider etc
+
+### EDUCATION
+
+-   💡: Think of Essay Nudge points (commodification of education, thinkers, quotes, Finland Model), Success, **SDG4**, Issues, Measures taken, **NEP 2020**, Way Fwd, **PYQs** (only Online Education Question)
+-   An investment in knowledge pays the best interest- **Benjamin Franklin**; Education system can be used as a transformative tool by state
+-   Success of govt measures
+    -   **ASER**- Increased school Enrolment: now crossed 97% with the proportion of **children who are out of school falling below 3% for the first time (6-13); GER - Elementary (97%), Secondary (79%), Higher secondary (51%), Higher (26%) - Draw Graph #diagram**
+    -   At the time of freedom- **Literacy rate 12-13 per cent. Today, as per 2011 census- 74.4 per cent** (Kerala with 93.91 and Mizoram with 91.58 per cent)**#diagram**
+-   **Targets under SDG 4 - Quality Education**
+    -   **100% Enrollment ratio** from class 1 to 10
+    -   **100% schools having teacher-pupil ratio lower than 30:1**
+    -   Other aims- gender parity, adult education, edu for sustainable future, job ready skills etc
+-   Issues & Challenges faced (Discuss based on different stakeholders- student, school, teachers, governance, society, **COVID** implication + **PESTEL** points)
+    -   **General:** Students, School (infra issues-sports,library,transp), Governance (Inadq public funds 3%**GDP** vs 6%by**NEP**; focus on infra rather than learning outcomes; Poor accountability), Teachers, Society (**Perceptive bias** against public sector education, Economic divide, Social Inequity quote **ST** data/women), **COVID** implication (Edu Min-**overall 22% schools had Internet**, **govt only 12%**; Unprepared teachers, Passive learning, Digital divide or edu altogether forgone; Solution: **e-gadget library** in every distt, **Operation Buniyaad**, **One class One Channel**)
+    -   **Primary:** Students (poor learning outcomes at foundation - Only 20% can read text prescribed for their level in Class 3 - **ASER**), School (**1/2 anganwadis** no tap water; 40% schools no playground), Teachers (**9** lakhvacancies-201**6**; untrained, absenteeism); **Learning Poverty** (% of 10 yr olds who cannot read/write)
+    -   **Secondary**: Students (**dropout due to fin const after RTE**), School (**Macaulay clerical rote learning,** Curriculum issues, 3Es-Education/Employment/English), Governance (Dual control b/w Department of Education & State boards)
+    -   **Higher:** Students (poor employability **only** ~**45% employable** India Skills Report **2021**; Low Gross Enrolment Ratio (**GER**) 26% comp to **US** 88%, Brazil 51%) College (**Only 14% NAAC rated;** Low **R&D** 0.8%; industry-academia collab; **only 3** univ in top 200 **QS World Univ Ranking 2022**), Governance (**Major budget** to premier inst and central univ; **state univ lag behind**; centralised, lacks autonomy), Society (**only 17% women in IITs STEM** Course-**NITI SDG Report**; same 17% is also the literacy gap b/w male/female); India has a **persistent trade deficit in education services** (more students go out)
+-   Govt Measures
+    -   Primary Education
+        -   **RTE Act 2009** - also mandates 25% reservation for disadvantaged sections of the society even in pvt schools
+        -   **Samagra Shiksha Abhiyaan** subsumes the three Schemes of **Sarva Shiksha Abhiyan (SSA)**, **Rashtriya Madhyamik Shiksha Abhiyan (RMSA)** and Teacher Education
+        -   **DIKSHA 2.0** - digital platform for teachers to train themselves (similar program **NISHTA**)
+        -   **Delhi’s ‘Happiness curriculum’, Operation Buniyaad**
+        -   Shagun - Report cards of 15 lakh schools will be uploaded - for direct feedback of common people
+        -   **Rashtriya Avishkar Abhiyan**: Motivate 6-18 years children to pursue Science, Mathematics and Technology
+        -   **Mid-Day Meal School (PM Poshan Shakti Nirman)**
+        -   **STARS Project of World Bank** - an initiative for **governance and assessment reforms** at school level specially early education and vocational training; **NIPUN Bharat** (numerical literacy upto 5/8)
+    -   Secondary Education
+        -   **Operation Digital Board** - provide 2 smart classrooms for every secondary school by by 2023
+        -   **Pariksha Pe Charcha** programme by **PM**
+        -   **National Digital Library of India** is being developed to help students to prepare for entrance and competitive examination
+        -   Estab of **National Testing Agency** for conducting of entrance examinations
+        -   **Sustainable Action for Transforming Human Capital (SATH)** focusses on two main sectors - Educationand Health and to build three ‘Role Model’ States. (3 states chosen were Odisha, MP, JH)
+        -   **SATH-E** aspires to be a ‘saathi’, to the educational system with the student and the teacher at its centre”
+        -   **Critical interventions including school mergers, remediation program, training, monitoring teacher recruitment, utilization of Management Information System (MIS)**
+    -   Higher Education
+        -   **Rashtriya Uchchatar Shiksha Abhiyan (⭐RUSA⭐)** - create new universities through upgradation of existing autonomous colleges
+        -   **Five-year (2019-24) vision plan ‘Education Quality Upgradation and Inclusion Programme’ (EQUIP)**-double **GER**, 50 inst in top 1000 global rankings, high quality accreditation, India as global study destination (**INSAT**)
+        -   **Institution of Eminence (IoE)**–10 public (will get more funding), 10 private for world class univ
+        -   **SWAYAM 2.0** – online degrees by top uni, **SWAYAM PRABHA** – **DTH** Educational Channels- for high quality edu content to remote locations
+        -   **Budget 2022-23** announced the **establishment of a Digital university**
+        -   **AISHE, NIRF** rankings
+        -   **Prime Minister’s Research Fellows (PMRF) Scheme** to enhance the quality of technical researc
+        -   **Providing technical education such as engineering in local languages at the highest level**
+        -   **Revitalising Infrastructure and Systems in Education (RISE)** by 2022- funding to central uni like **AIIMS,IIM** etc through **HEFA** (mobile 1 lakh cr for funding from school to higher edu), better research, infra etc
+    -   **Performance Grading Index** by Education Ministry
+        -   Score is assigned to States & **UTs** based on 70 parameters such as access, equity, governance process, infra, learning outcomes. This can help nudge states to get into competitive mode
+        -   Latest scores for 2019-20 show that southern and western states are on firm ground while those in central, eastern & parts of **NE** india lack resources (thus with strong political will resource sharing system can be set up to share best practices among various states)
+        -   With strong political imperative, India can bring a much needed rennaissance in education system
+-   **National Education Policy 2020** (not 2019)
+    -   Key Features:
+        -   School Education
+            -   Targets **100% GER** in preschool to secondary (**upto class 10th**) level by **2030**
+            -   **Universal access for children** of 3-6 years
+            -   **National Mission for Foundational Literacy & Numeracy - NIPUN Bharat**
+            -   The current 10+2 system to be replaced by a new 5+3+3+4 curricular structure starting from age 3-8 and likewise
+            -   **Vocational Education** to start from Class 6 with **Internships**
+            -   Teaching up to at least Grade 5 to be in **mother tongue**/regional language
+        -   Higher Education
+            -   Aim of **50% GER**- adding additional 3.5 cr seats
+            -   **Flexible courses** with multiple exit options with certificates; **Academic banks of credits** to enable easy transfer of credits btw uni’s
+            -   **National Research Foundation**-for coordinating, promoting **R&D** in country
+            -   It also paves the way for **foreign universities to set up campuses in India**
+            -   **Higher Education Commision for India (HECI)** as single umbrella body for **entire Higher edu**except medical and legal edu (**UGC,AICTE** bye bye) - **Note: for health its -National Medical Commission**
+                -   4 verticals- **National Higher Education Regulatory Council (NHERC)** for regulation,**General Education Council (GEC)** for standard setting,**Higher Education Grants Council (HEGC)** for funding, **National Accreditation Council (NAC)** for accreditation.
+        -   General
+            -   National Assessment Centre- '**PARAKH**' has been created to **assess the students**
+            -   It emphasizes setting up of **Gender Inclusion Fund, Special Education Zones** for disadvantaged regions and groups
+            -   It also aims to **increase the public investment in the Education sector to reach 6% of GDP** at the earliest
+-   Challenges
+    -   Policy is **silent on how funds** will be raised
+    -   Education = **Concurrent Subject** will need support from states
+    -   Draft policy - **extension of RTE** to include early education **before 6 yrs absent in NEP**
+    -   **Ambitious targets for 50% GER** in higher education and 100 % in secondary education (from current 25.8% & 68% respectively)
+    -   **Too much stress on vocational edu** from early schooling **may lead to inc dropping rates**
+    -   **NEP** recommendation of mother tongue to be medium of instruction till grade 5- **should not hamper future requirements** (Eng now a global language) as well as not hinder interstate movt.
+-   **WF**
+    -   **Real test of any policy is its implementation**
+    -   We need to actualise **3 cardinal principles** of education policy - **access, equity and quality**
+-   Way Forward
+    -   Our institutions will have to **imbibe the spirit of entrepreneurial thinking** having ability to solve rural and other critical issues facing vulnerable sections
+    -   Adaptation to **IR 4.0**- Using **AI**, Big data, Machine learning for edu as well as preparing for future ready workforce - Ex: **AI** to personalise learning for differntly abled
+    -   Laser focus for 50% **GER**- will mean that 1 in 4 graduates of world would be Indian
+    -   **RTE** needs to be extended to 16 years with gradually to 18 for controlling child marriages and better Demo dividend.
+    -   Universities are melting pot of various ideas- damaging reputation of uni due to politicisation should not hamper their ability to bring cross-cutting ideas for sustaining India’s growth and democracy
+    -   **Mandatory registration of school teachers** and administrators with professional regulatory bodies, **similar to lawyers with bar councils**, is a fundamental change required in the education sector (Consequently, it would be possible to take punitive action against a school administrator or teacher, separately from the school)
+    -   **We need to weed out people who running schools as NPOs to earn profits**
+    -   Making **Teaching an attractive and lucrative career**:By devising a well-structured **promotion policy and incentive** plan for faculty to attract and retain qualified faculty (**Lessons from Finland)**
+    -   **RP Tiwari Committee 2020:** Suggesting multiple ways of transforming **HEIs** into Multi-Disciplinary Institutions (rather than single stream); need one such **HEI** in every distt by 2030
+    -   The **perceptive bias** against public sector primary education **requires consistent nation-wide efforts**
+-   **Online Education: Boon or Bane?**
+    -   **-ves:** Lack of access to internet, required infra; Problem worsens for lower income groups; Attending real time lectures is a challenge; **Teachers find hard to adapt** and prepare separate material for online classes; Online **not an alternative to lab or practical training**; Differently abled students find it difficult to cope up and may are left behind; **Reduces** development of **social capital** as there is **lack of interaction among likes** instead there is just vertical lecture from teachers; Cyber-bullying; **Punctuality and formality suffer -** pupil take classes casually; **Malpractices during online exam**; **Individual attention** becomes difficult;
+    -   **+ves:** The advantage of reaching many more people shall overcome the -ves from loss human touch; **Gandhiji’s Nai Talim** focused on self study and experitential learning; Using **AI** to personalise learning for differntly abled students; **Overcome staff shortages; Short video lessons/ MOOCs keep students engaged; (Pts similar to NDHM)**
+    -   **Conclusion**: We need to ensure that sufficient digital infrasturture incl hardware is provided to deliver education in time of adversity; There is a **need for state intervention to ensure equity; Solution: e-gadget library in every distt, Operation Buniyaad; PM eVIDHYA (one nation one digital platform) is a good step; Digital Universities suggested by Budget 2023**
+
+#### EXTRA CONTENT EDUCATION
+
+-   **GS-1 2020**: How have digital initiatives in India contributed to the functioning of the educational system in the country? Elaborate your answer
+    -   Can be extended to **BB-NISAR** from just **ICT** centric
+-   2020: **National Education Policy 2020** is in conformity with the **Sustainable Development Goal-4 (2030)**. It intends to restructure and reorient the education system in India. Critically examine the statement
+    -   Aims of **SDG4**: 100% enrolement; Gender parity, adult education, edu for sustainable future, job ready skills, etc
+    -   List down points of **NEP 2020** under the framework above
+-   2015: Entry of foreign educational institutions in India: **SWOT** analysis
+    -   Enlist issues faced by current higher education framework
+    -   Positives:
+        -   Bring **increased investments**
+        -   Mere presence of foreign edu- inc competition among domestic edu
+        -   Bring multidisciplinary syllabus- focus on critical thinking
+        -   Global best practices, curriculum, interface with students of other nations
+        -   **Bridge the gap in education** wrt teacher efficiency, tech use, quality and updated content
+    -   Issues:
+        -   Reputed **teachers** at indian inst. **May switch to foreign** inst. leading to -ve impact on indian inst.
+        -   No assurity of better quality- inc westernisation
+        -   **Not necessary that top inst will come**- low grade inst for profit seeking may come
+        -   Increased costs of operation → burden on students
+        -   Not a panacea to all problem - need to focus on improving current education env as well
+        -   Issues wrt **repatriation of funds**
+    -   However despite challenges, **FEI’s** will give the much needed diversity and depth in India’s **HE** inst
+-   2014: Should the premier institutes like **IITs/ IIMs** be allowed to retain premier status, allow more academic independence in designing course and also decide mode/ criteria of selection of students. Discuss in light of the growing challenges.
+    -   Why needed- Research needs autonomy, political interference and over regulation affects morale of professors, curtailing their right to free speech against govt policies affects critical evaluation of existing schemes
+    -   Benefits of allowing (how it will address current growing challenges)
+        -   Guide other institutes in the country
+        -   Better ability of tap univ-industry collab
+        -   Cover other challenges of **HEI’s**
+        -   Currently they are unable to fill reserved faculty positions for **SC/ST/OBC** (**Over 60% OBC, SC positions vacant in IIMs**) — **IIM/IITs** seek exemption from such faculty quota requirement
+    -   Future Challenges
+        -   Selection without guidance of govt. may not be inclusive
+        -   Lack of uniformity within various institutes
+        -   Need to align courses with broad objectives of nation with govt handholding
+    -   Way Fwd- Autonomy wrt course and selection (apart from legal req) is prerequisite for quality edu- should be given to all inst apart from premier ones (need for middle path wrt autonomy and need for regulation)
+-   2009: How to harmonize private investment and quality of education (context of **Yashpal committee**)
+    -   Basic merits and challenges wrt privatisation of edu.
+-   Read about **Trend of literacy rate** over the years? State of education in India?
+    -   The literacy rate at all India level has steadily increased from 18.32% in 1951 to 72.98% in 2011 and the increase in literacy rates for females and males were from 8.86% and 27.15% to 64.63% and 80.9% respectively as per population censuses
+
+### HEALTH
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   **Health is real wealth. Not gold or silver- Gandhiji** (**COVID** highlighted its imp and woke up govt’s from slumber)
+-   **Niti Aayog**- Need for accessible,affordable and quality health care
+-   ⭐**Art 47**- duty of state to raise level of nutrition and to **improve public health**
+-   **Future investments** in health care need to **holistic** and **avoid ‘saliency bias’** of **COVID** pandemic (**ES 21**)
+-   Write this dimensions in Health question: **Palliative care** (terminally ill patients) plus **Geriatric care**, **WASH**, **Malnutrition**, **AMR** etc for sure → comprehensive coverage
+-   **Ayushman Bharat** - Reduced **OOP** from 62% in 2015 to **47%** in 2020; **Safdarjung Hospital** doctor case
+-   Current Status
+    -   Issues faced and status (Categorise as per stakeholders: Govt, Pvt, Citizen, Hospital, Society, Infra, Regional, Vulnerable section, etc) - New challenges, neglect of traditional medicine
+    -   Govt exp **1.6% (both C+S)** in 2019-20 (up from 1.4% in 2017); **Target 2.5%** **NHP 2017**
+    -   Out of pocket exp on healthcare - **47%** of current health exp- shows need for more exp by govt- vicious circle of poverty and bad health for poor
+    -   Over **80% Indians not** covered under **health insurance-NSSO** Survey [86%(Rural) and 82%(Urban) NO health insurance]
+        -   **Gap in India’s insurance coverage** for 30% of India’s population, or 40 crore individuals named as **the ‘missing middle’ - NITI Aayog**
+    -   Disparity: 70% population in rural but **73%** hospital beds in urban
+        -   Manipur 75% children vaccination but Nagaland only 12%
+    -   🤔**MMR- 97**/lakh live births (**Target 70 SDG**), ~~U5 mortality rate 38~~ (2018; Target 11 SDG), **IMR 27** (**Target 12 SDG**)
+    -   🤔Non availability of skilled workforce: **Brain drain** to **GCC**, Europe, etc
+    -   Weak governance and accountability: Incorrect second dose given in **UP**, Health tragedies in **Gorakhpur Hospital**, **Chhattisgarh Sterilization camps**, **Kolkata** hospital tragedy and many others put the serious question of accountability, if any mishap occur; **Vyapam scam**; **Centre-state tensions (consensus** 🚫**)**
+    -   Health workforce density: India has a **doctor-population ratio of 1:1456**, against the **WHO** benchmark of **1:1000;** Health Education (pitfalls, lack of seats - Ukraine)
+    -   🤔 **Issues at PHC**: Limited services (childcare, pregnancy rather than **ENT**, diagnosis); **81% shortage of specialists in rural areas (minister’s reply to LS)**; Limited focus on **NCD** and mental health care needs (despite their diseases burden - 2 out of 3)**; 1 in 5 doctor in rural areas is a quack**)
+    -   **Other general issues**: **Lack of single database** for healthcare service; **Social barriers** (**lack of reproductive rights to women; Geriatric care inadeq**); Neglect of **traditional health care system; Curative > Preventive; High charges & rejection by pvt players; New challenges** (**AMR**, Obesity, **dependence on china API 70% (target to reduce it by 25% by 2024), regulating health startups**)
+-   Successes:
+    -   **UNDP HDR**- **Life expectancy inc by 11.5 years btw 1990 and 2018** (currently 69.7 years) #diagram
+    -   **Institutional deliveries: 88.6% (NFHS-5) -** (38.7% in 2005-06)
+    -   Under **Ayushman Bharat**-**1 free treatment every 3 sec (NITI), 5 crore in 5 years**
+    -   The **childhood vaccination** is largely a success
+    -   Continously reducing the impact of epidemics of **AIDS**, tuberculosis, malaria (one of the target under **SDG3**)
+-   **SDG Goal 3** (70-**MMR**/11-**U5MR** targets, Reduce communicable and **NCDs**; Death by road and substance abuse need to be ⬇; Achieving **UHC**-in sub point) **Imp of PHC** (**1978 Alma Ata Declaration** identified **PHC** as critical for health for all, Reduces cost & pressure on later stages; **Promote health awareness, First pt of contact**)
+-   **UHC** means that all individuals and communities **receive the full spectrum of health services** they need **without suffering financial hardship**
+-   🤔**Measures Taken: Primary** (1.5 lakh **H&WC** in **Ayushman Bharat**; Target 2/3rd budget under **NHP** to **PHC**; Measures-**Aapke Dwar Ayushmaan** to spread awareness); **Other** [New **NMC** for quality med edu; **Ayushman Bharat**, 1. **Sanjeevni**, **National Health Mission** (universal access to healthcare, **RMNCH+A**, also **CD+NCD** are focused; Targets 2.1 **TFR**); **Women**-**PM Matru Vandana**, **Laqsha**; **PM BJP**; **National Digital Health Mission** (read below); Misc-**AYUSH/TKDL/Yoga day**, tax on harmful goods, 4% Health cess, **Swatchh Bharat**, **POSHAN**, **ASHA** workers, etc)]; **PM Ayushman Bharat Health Infrastructure Mission (PM ABHIM) - post-pandemic infrastructure, critical health hospital in every block,** comprehensive surveillance, diagnostics and treatment facilities
+-   **National Digital Health Mission** - integrated digital health infrastructure - Key Features
+    -   Digital systems such as **HealthID** (repository of prescription, med tests), **DigiDoctor** (repository of doctor details), **Health Facility Registry** (both pvt and public health facilities), etc.
+    -   **NDHM** is implemented by the **National Health Authority**
+    -   **NHDM** was envisaged by **National Health Policy 2017**
+    -   **Benefits**: Informed dec making; Faster reimbursement of claims; Better research; Evidence based policy making; Better info on services of Health facility; Geo and demography based monitoring
+-   **Key Recommendation: 15th FC** (**SG** must inc to >8% of their **GDP** by 2022; Shifting ‘public health’ to concurrent list; right to health as a fundamental right - also in _Parmanand Katara_); Interface between health startups and hosiptals; National vaccination policy to prevent vaccinable diseases; **PHC reform** (Expanding role; ~~set up 1.5 lakh HWC fast~~; rules based referral to Sec/tertiary; Turning **PHC** into polyclinics-Cuban Model); Digitalisation; Behavioral change (**Swastha Bharat Abhiyan** is needed); Focusing on ‘One Health Policy’ as recom by **WHO**
+-   **NITI Aayog Recommendations:** Expansion of pvt sector beyond metropolitan to Tier2/3 cities; Focus on miniaturized diagnostics/equip manuf;
+-   Lessons from Pandemic: Good health care infra led to low fatality Ex: 0.48% in **Kerela**; Need pvt sector price regulation; Control irrational use of steroids;
+-   **Best practices: Cuba** has one of the most effective primary healthcare systems in the world, the system provides **community-based polyclinic** (larger medical facility than an individual clinic but smaller than a hospital); **Universal Health Insurance–Turkey**; **YSR Aarogyasri Health Insurance Scheme** of **AP** (aim is to provide Universal Health Coverage to **BPL** families); **e-Sanjeevni OPD (Kunti distt JH)**
+-   **PYQs** relevant portions:
+    -   **Prof. Amartya Sen** has lamented about the primary education and health care situation in India and advocated for reforms. According to him:
+        -   **Without** developing **social sectors** like school education and basic health-care services, **and without carrying out land reforms**, it will not be possible for India to have a participatory economic growth
+    -   More than 50% of the population has no access to safe drinking water and **about 200,000 people die every year for lack of access to safe water**
+    -   Refer **digitalization image** below, no need to read **PYQs**
+-   ![[Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 5.jpeg]]
+-   ![[Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 6.jpeg]]
+
+#### EXTRA CONTENT HEALTH
+
+-   **SDG 3 - Good Health and Well-being**
+    -   **MMR** target(70), Under 5 mortality target (11), health workers target(55)
+    -   Gives other aims of reducing communicable diseases like malaria, dengue, pandemics also **NCD** such as diabetes, **BP**
+    -   Controlling deaths by road accidents, substance abuse
+    -   By 2030, ensure universal access to sexual and reproductive health-care services
+    -   Achieving **UHC** (**UHC** means that all individuals and communities receive the full spectrum of health services they need without suffering financial hardship)
+-   Importance of primary healthcare
+    -   Meets promotive, preventive, curative health- first point of contact
+    -   **1978 Alma Ata Declaration** identified primary health care as the key to the attainment of the goal of Health for All
+    -   Promote health awareness and education in rural areas- Ex: in time of pandemics
+    -   ~~Investment in primary reduces cost at secondary and tertiary stages for both govt and people~~
+    -   ~~Reduces the need for expensive secondary and tertiary healthcare (if PHC works better, it would reduce pressure on other two)~~
+-   Issues/ Challenges
+    -   ~~Primary~~
+        -   ~~Limited focus on NCD (despite their diseases burden >60%) and mental health care needs~~
+        -   ~~Limited services: Although Primary Health Care system exists in India but its scope is limited to pregnancy care, limited childcare, etc (A district hospital in India has 11 support services on an average against IPHS identified 14 support services)~~
+        -   ~~In Rural areas we’ve 1 PHC for every village (there is a shortfall of nearly 3600 PHCs for rural areas)~~
+    -   Secondary & Tertiary
+        -   Denial of treatments by pvt hospitals seen during **COVID**, exorbitant costs
+        -   Attack on health workers, shortage of critical health items-ppe kits etc
+    -   Others
+        -   Infrastructure issues
+            -   ~~Health workforce density: India has a doctor-population ratio of 1:1456, against the WHO benchmark of 1:1000~~
+            -   ~~Huge skew - urban to rural doctor density ratio being 3.8:1~~
+            -   ~~Govt produce 50% doc but 80% work in private~~
+            -   ~~Unqualified doctors- 1 in 5 doctors in rural areas- quacks~~
+            -   ~~HD Report 2020 says that India has 8 beds for 10k ppl (while China has 40 beds for same pop)~~
+        -   Budgetary issues: Spending low compared to 3% in China and 8.3 % in the **USA** (Ex: allocation to **National Health Mission** have declined in real terms)
+        -   Social barriers faced by vulnerable sections Ex: lack of reproductive rights with women
+        -   Social barriers faced by vulnerable sections Ex: lack of reproductive rights with women
+        -   Low insurance penetration → High out of pocket expense (**OOP** has regressive nature, thus impacting poorest among the poor disproportionately more)
+        -   No single database for healthcare service → hampers data driven policy reforms
+        -   Challenges posed by hunger, poverty, family planning,
+        -   Less focus on preventive health care [of all health care spending - 7% preventive and 80% curative (**FY17**)]
+        -   Neglect of traditional health care system
+        -   Inter-state variation in per capita spending - low in states of **BH**, **JH**, **UP** (**Odisha** has same per capita exp as **UP** in 2010 but now has made it more than 2x - this got reflected in its better mgmt of pandemic)
+        -   Stigmatisation of various diseases such as **TB**, **HIV**
+        -   **India as a major exporter:** For several decades, healthcare workers are exported to developed nations, particularly to the **Gulf Cooperation Council** countries, Europe and other English-speaking countries.
+            -   As per **OECD** data, around 69,000 Indian trained doctors worked in the **UK**, **US**, Canada and Australia, along with 56,000 nurses in 2017 (brain drain of healthcare workers from India to developed nations, which unfortunately has culminated in the shortage of nurses and doctors)
+        -   Fighting **AMR**
+        -   Overcharging and irrational care provided by private players (need for comprehensive regulation which checks this issue)
+        -   Dependence on China for 70% of **API**
+        -   Health startups: Non-uniform regulatory and validation standards, long gestation, lack of fin incentives
+    -   ~~Success stories~~
+        -   ~~UNDP HDR- life expectancy inc by 11.5 years btw 1990 and 2018 (currently 69.7 years)~~
+        -   ~~Institutional deliveries: 90% in rural, 96% in urban areas~~
+        -   ~~Best practices: Cuba has one of the most effective primary healthcare systems in the world, the system provides community-based polyclinic~~
+        -   ~~Continously reducing the impact of epidemics of AIDS, tuberculosis, malaria (one of the target under SDG3)~~
+        -   ~~In West Bengal and Kerala in India – states in which primary healthcare is co-managed by panchayats – health outcomes are better~~
+        -   ~~Mortality rate of Kerela only 0.5% (compared to MH ~2%) - shows success of developed healthcare in reducing overall burden~~
+-   Govt Measures
+    -   Primary (1.5 lakh **HWC** in **Ayushman Bharat**; 2/3rd share target under **NHP** to **PHC**)
+        -   The **National Health Policy (NHP) 2017** advocated 2.5% **GDP** exp and allocating resources of up to two thirds of the total health budget to Primary Health care (current primary is 49%)
+        -   **Ayushman Bharat** - Transform 1.5 lakh sub-health centres into health and wellness centres (**HWC**) by 2022
+    -   Other (New **NMC** for quality med edu; **Ayushman Bharat**, **e-Sanjeevni**, **National Health Mission** (universal access to healthcare, **RMNCH+A**, **CD+NCD**; Targets 2.1 **TFR**, **MMR** of 1/1000); Women-**PM Matru Vandana**, **Laqsha**; **PM BJP**, **National Digital Health Mission** (read below); Misc-**AYUSH/TKDL/Yoga day**, tax on harmful goods, **Swatchh Bharat**, **POSHAN**, **ASHA** workers, etc)
+        -   **National Digital Health Mission** - integrated digital health infrastructure - Key Features
+            -   Digital systems such as **HealthID** (repository of prescription, med tests), **DigiDoctor** (repository of doctor details), **Health Facility registry** (both pvt and public health facilities), etc.
+            -   **NDHM** is implemented by the **National Health Authority**
+            -   **NHDM** was envisaged by **National Health Policy 2017**
+        -   **National Medical Commission Act** - to replace **MCI** (issues of substandard edu,doc)
+            -   **NMC**- will focus on high quality medical edu system and structure, regulate medical inst, guidelines for 50% seats in pvt colleges
+            -   3 autonomous boards for **UG/PG** edu, ratings of institutions, ethics
+            -   Medical advisory council to understand demand of states, uniform **NEET**, National exit test for license to practice
+            -   Issues- less elected and more nominated members in **NMC** unlike **MCI**, more union powers and limited rep of states (only few by rotation in **NMC** but all in **MCI**), fee cap of 50% may discourage pvt investment
+        -   **Ayushman Bharat**
+            -   **World largest state funded scheme, 2 components**- **PM-JAY** (5 lakh per family pa (~**50 cr beneficiaries**), Health & wellness centres
+            -   Features- No cap on family size, national portability, Imp by **National Health authority**, first health scheme with privacy policy, flexibility to states in designing packages, council for coord bte C&S
+            -   Significance- **Niti**- 22000+ hospitals collaborated, **1 free treatment every 3 sec, road to UHC**, dec poverty as each year 6-7 cr people fall below poverty line, converges **RSBY** and senior citizen health insurance
+            -   **Concerns**- challenges to funding to sustain scheme, **health state subjects- conflicts**, issues wrt private- overcharging, premium may be low acc to biz requirements, **Not for primary but secondary/tertiary**
+            -   Conclusion- Inc public infra along with better imp however policy is paradigm shift for best healthcare at lowest cost
+        -   **Poshan Abhiyaan**
+        -   **National Health Mission 2005/2013**:
+            -   2013 subsumed the **National Rural Health Mission** and the **National Urban Health Mission**
+            -   Main programmatic components include Health System Strengthening in rural and urban areas for - **Reproductive-Maternal- Neonatal-Child and Adolescent Health (RMNCH+A)**, and Communicable and Non-Communicable Diseases. Envisages achievement of universal access to equitable, affordable & quality health care services that are accountable and responsive to people's needs
+            -   Targets: **TFR** to 2.1; Reduce **MMR** to 1/1000 live births; **IMR** to 25/1000 live births; Reduce household out-of-pocket expenditure; Prevention and reduction of anaemia in women aged 15–49 years
+        -   Women related programs: **PM Matru Vandana Yojana**, **Janani Suraksha Yojana**. **Laqshya Initiative**,
+        -   **eSanjeevani**: Telemedicine Service Platform of Ministry of Health & Family Welfare
+            -   Support for expanding National Architecture of **eSanjeevani Teleconsultation** platform to provide upto 5 lakhs tele-consultations per day (present 50,000 Tele-consultations per day)
+        -   States need to increase their spending to 8% of their budget (as recommended by **15th FC** and **National Health Policy 2017**) (66% of total health spending is done by states therefore they have crucial role to play; bal 33% by centre)
+        -   Role played by **ASHA** workers (awareness, primary health care, preparedness)
+        -   Role played by **Swatchh Bharat** in sanitation (110 mn toilets in 5 yrs)
+        -   **TB**: **NIKSHAY** (web enabled app)
+        -   Promotion of **AYUSH** - **TKDL**, **Yoga Day**,
+        -   **PM BHARTIYA JANAUSHADI PARIYOJANA** - opened 7500th Mar’21 of which 1000 by women (Total target 10k stores) - The program has led to family savings, emp generation, women emp, demand for **AYUSH** meds, social emp as their are spcl incentives for **SC/ST**/North east
+        -   Raising taxes on harmful commodities
+-   **Way Forward**
+    -   Primary
+        -   Accelerate estb of 1,50,000 Health and wellness centres, mobile **HWC’s**
+        -   Services of **NCD**, mental health along with rules based referral to secondary and tertiary
+        -   Basic measures wrt infra, workers, training, co-ord, supply chain of medicines
+        -   **Swasth Bharat Jan Andolan**- Efficient healthcare should be a political agenda for people
+        -   Expanded role of **PHC** (refer image)
+    -   Secondary & Tertiary
+    -   Others
+        -   **National Health policy** rec Public health mgmt cadre with clear career structure and recruitment policy
+        -   Incentive, trainings, internship wrt serving in rural and neglected areas to combat urban skewed Health **HR**
+        -   Focusing on one health policy as rec by **WHO** to better predict and manage pandemics
+        -   States need to increase their spending to 8% of their budget (as recommended by **15th FC** and **National Health Policy 2017**)
+        -   Vibrant and seamless interface bw hospital and startups to solve problems (Ex: using **NetMed**, etc for delivery for backward sections)
+        -   Systematically addressing the broader determinants of health (including social, economic, environmental, as well as people’s characteristics and behaviours) - health alone cannot work w/o social and edu dev
+        -   High-Level Group constituted under the **15th Finance Commission** recommended declaration of the right to health as a fundamental right. It also recommended moving the subject of “public health” to be moved from State List to Concurrent List
+        -   Increase in public spending from 1% to 2.5-3% can reduce **OOP** exp from 65% to 30%
+        -   Best Practice: **YSR Aarogyasri Health Insurance Scheme** of **AP** (aim is to provide Universal Health Coverage to **BPL** families)
+            -   **Brazil Primary Health Care**, **Universal Health Insurance – Turkey**
+        -   Infra needs of rural areas need to be built in a better manner (as more than 65% pop cannot be left vulnerable)
+        -   National Vaccine policy can be drafted which caters to **vaccine preventable diseases such as pneumonia**specially among adults (**building on the momentum of COVID-19**; The childhood vaccination is largely a success)
+-   2020: In order to enhance the prospects of social development, sound and adequate health care policies are needed particularly in the fields of **geriatric and maternal health care**. Discuss. (10 marks)
+    -   Cover issues facing old age and maternal then govt schemes for them and then way forward
+-   2018: Appropriate local community level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain
+    -   Imp of **PHC** , issues facing and way forward given above
+-   2017: ‘To ensure effective implementation of policies addressing water, sanitation and hygiene needs, the identification of beneficiary segments is to be synchronized with the anticipated outcomes’ Examine the statement in the context of the **WASH scheme**.
+    -   More than 50% of the population has no access to safe drinking water and **about 200,000 people die every year for lack of access to safe water**
+    -   Need for **WASH**- health, edu,nutrition,gender justice, prevent poverty and deaths etc
+    -   Schemes- **Swatch bharat abhiyaan**, **suvidha**,**Jal jeevan yojana(NRDWP)**, **Atal bhujal yojana**, **Jal shakti yojana**, **Namami gange**, **Darwaza Band Campaign**,
+    -   Segments such
+        -   Identification through **SECC** for effective targeting
+        -   Sanitation- Rural and urban open defecation segments, protecting manual scavengers
+        -   Water- rural tap connections, people suffering due to waterborne diseases, issues of contaminated water- arsenic, fluoride polln diseases
+        -   Hygiene- women sanitary pads req, child health & nutrition req,
+-   2016: **Professor Amartya Sen** has advocated important reforms in the realms of primary education and primary health care. What are your suggestions to improve their status and performance?
+    -   Health comes under Article 21 and **RTE** as Article 21A
+    -   **Prof. Amartya Sen** has lamented about the primary education and health care situation in India and advocated for reforms. According to him:
+        -   **Without** developing **social sectors** like school education and basic health-care services, and **without carrying out land reforms**, it will not be possible for India to have a participatory and widely shared economic growth
+        -   Education and health care are not only vital for quality of life, they have much to contribute to economic development and social change
+    -   Cover way fwd for both areas based on content above
+-   2015: Public health system has limitations in providing universal health coverage. Do you think that the private sector could help in bridging the gap? What other viable alternatives would you suggest?
+    -   Limitations of current infra in brief
+    -   Cover how pvt. sector bridges the gap
+        -   Funds, Tech, Quality infra, better service, trust (**Ministers resorting to pvt care during COVID**)
+    -   Issues of pvt sectors- **COVID** Ex, high cost, denial , false doc clinics etc
+    -   Other viable alternatives:
+        -   **PPP** Model
+        -   Strengthening public sector- inc **GDP** exp, road to **UHC** etc
+        -   Insurance Model Ex: **Ayushman Bharat**
+        -   Developing skill sets of **ANM**, **AWW**, **ASHA** workers
+
+### HUMAN RESOURCES
+
+-   💡 Note: _Highlighted points in pink/yellow below are my short notes — they include key words for quick understanding. For full details, please refer to the section that follows._
+-   💡: **HCI 2020** (0.49 score), **HDI 2022**-132/191, Lesser time to tap **DD** popu will stabilise at 2041 as per **ES**; 3 pillars: Long and healthy life/Access to knowledge/A decent standard of living; Different vulnerable sections in mind (manual scav, others studied above; Use one of their crucial issue to talk about lack of **HRD**)
+-   Stats:
+    -   **Human Capital Index 2020**: Score of **0.49** in 2020 report which means **Indian child born today will be49% as productive as future worker at age 19** compared to another worker who have enjoyed complete education and full health
+    -   **HDI Report 2022** - **132/191**; Between 1990 and 2022, India’s **HDI** value increased from 0.429 to 0.633, an **increase of abt 50%; SDG Investor Map - find white space showing areas of potential for investors;** Gender Inequality Index: India has been ranked 122
+    -   **India vs Global comparison (as per HDI Report): Mean years of schooling (6.7 vs 8.6), Life exp (67 vs 71), GNI per capita ($6500 vs $16,700)**
+    -   According to the **ILO**, India spends **less than one per cent of GDP** on **care work infrastructure and services,** including pre-primary education, maternity, old- age care, disability and sickness benefits, and long-term care. This is despite it rising old-age dependency ratio, urbanisation, climate change etc
+-   **DD = Potential for eco growth based on the age structure of population**
+    -   As per **UNDA**, India will stabilise its population 12 years earlier than expected - we’ve even lesser time to realise our **DD**
+-   **Issues in HR: Inequalities**, **Jobless growth**, Health, Edu, **Skill dev**, **Financial inclusion**, **Gender justice**, Poverty, Social discrimination, **Pol disempowerment**, **Unemployement**
+-   **Caste as barrier to economic transformation: Ownership and land inequality; Elite bias in higher education; Caste based entry barriers in modern sectors (Ex: in startups)**
+-   **Think of terms of Vulnerable Sections**- Children, Elderly, Tribals, **SCs**, Manual scavengers, Physically disabled
+    -   Study **HD** through the lens of A long and healthy life, Access to knowledge, and A decent standard of living (ie. 3 pillars of **HDI Index by UNDP**)
+-   **2018 Ques**: We need to move away from **welfare approach** (directly giving the benefits) **vs capability approach (teaching how to fish)**
+-   **Best Practices:**
+    -   **China: Success in manufacturing is a direct outcome of the investment in human capital;**
+    -   **Social Stock Exchange to mobilise capital for HRD (Ishant Hussain Committee)**
+    -   **Revise SDGs below (the world we want to see in 2030)**
+    -   **Vikalp Skill Voucher in Maharashtra** - vouchers to get trained at accredited instituted (migration, urban transformation, **HRD**) - always add this examples where you talk about skill development in **GS**
+    -   ‘**Maa**’ committees in **Uttar Pradesh** to check mid-day meal quality
+    -   **State Knowledge Advisory Board in Andhra Pradesh** - to tranform state into a knowledge hub
+    -   "**Kerala Infrastructure and Technology for Education (KITE)** is a Government of Kerala establishment set up to foster, promote and implement modernisation of educational institutions in the state of Kerala"
+-   ![[Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 5.jpeg]]
+-   ![[Z9 Obsidian-files/Media/DOCX/GS2 SocialJustice 6.jpeg]]
+-   Use below image for skill development and **HRD** (topic in syllabus ‘Human Resources’)
+-   2016: “Demographic Dividend in India will remain only theoretical unless our manpower becomes more educated, aware, skilled and creative.” What measures have been taken by the government to enhance the capacity of our population to be more productive and employable?
+    -   Need, Govt schemes wrt education, skill dev, innovation(**atal tinkering lab**), issues and way forward
+    -   **DD = Potential for eco growth based on the age structure of population**
+    -   As per **UNDA**, India will stabilise its population 12 years earlier than expected - we’ve even lesser time to realise our **DD**
+    -   To realise **DD** we need concentrated efforts by various ministries as issues are linked for Ex: Improved nutrition → better learning outcomes (idea of Mid May Meal)
+-   2018: How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India?
+    -   Concept demands - to evaluate welfare approach (directly giving the benefits) vs capability approach (teaching how to fish)
+    -   Intro on food subsidy- brief on **PDS,NFSA**
+    -   Only focus on hunger but not nutrition affects social sector such as edu,health,skill dev, female potential
+    -   Imp of nutrition- mental strength, longer life, building capability
+    -   Ending hunger and malnutrition will not be achieved by focusing on food security and agriculture alone.
+    -   Need to tackle ineffective human dev policies by reforms in skill dev, edu, health, nutrition as well inc exp and cutting non essential hunger exp (**NITI** says reduce food subsidy) etc
+-   2019: Despite Consistent experience of high growth, India still goes with the lowest indicators of human development. Examine the issues that make balanced and inclusive development elusive
+    -   Issues wrt dimensions covered above and write way forward for inclusive and balanced dev
