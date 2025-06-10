@@ -9,5 +9,12 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "temporary-dump",
   "foldIndent": true,
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
 }

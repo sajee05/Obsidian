@@ -1,10 +1,11 @@
 {
   "cssTheme": "Things",
-  "accentColor": "",
-  "baseFontSize": 13,
+  "accentColor": "#8d6aec",
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
   "showRibbon": true,
-  "interfaceFontFamily": "Bahnschrift"
+  "interfaceFontFamily": "",
+  "textFontFamily": "Calibri,Bahnschrift"
 }
