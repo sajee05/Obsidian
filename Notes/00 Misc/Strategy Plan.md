@@ -5,9 +5,6 @@
 2. [[Strategy Plan# Current Affairs |Current Affairs ]]
 3. [[Strategy Plan# Mapping|Mapping]]
 4. [[Strategy Plan# Economics |Economics ]]
-	1. [[Strategy Plan## ### *steady* word = mostly wrong. (PYQ analysed.)|### *steady* word = mostly wrong. (PYQ analysed.)]]
-		1. [[Strategy Plan### *steady* word = mostly wrong. (PYQ analysed.)|*steady* word = mostly wrong. (PYQ analysed.)]]
-		2. [[Strategy Plan### **%** |**%** ]]
 5. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
 	1. [[Strategy Plan## Saturation|Saturation]]
 	2. [[Strategy Plan## Lectures |Lectures ]]
@@ -110,38 +107,9 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 ---
 
 # Economics 
-![[image-32.png]]
-![[image-33.png]]
-![[image-34.png]]**stake holders of various: confusing statement.**
 
-![[image-35.png]]
-**current affairs based**
-
-![[image-36.png]]
-
-### *steady* word = mostly wrong. (PYQ analysed.)
- 
-### **%** 
-- 0-50% = chances high of correct.
-- 50-80% = 50/50
-- above 90%= if you know it then okay, else 100% wrong.
-
-![[image-38.png]]
-
-![[image-39.png]]
-
-![[image-40.png]]
-
-![[image-41.png]]
-![[image-42.png]]
-![[image-43.png]]
-![[image-44.png]]
-
-![[image-45.png]]
-![[image-46.png]]
-
-
-
+**Workflow:**
+ [[Economics]]  CORE → [[ECONOMICS AR]]  → Ketanomy for weak areas and skim through. → Rote Learn Mains notes [[Economy]] → Pre 2013 to 2024 → Mains PYQs : convert IAS.
 ---
 # Personal insights and Improvement Journaling
 ## Saturation
