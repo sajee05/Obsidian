@@ -1050,7 +1050,7 @@ CAG audits Consolidated find of India/State/UT (with legislature), Public accoun
 3.  What are the qualifications of SC judges? Minimum and Maximum age of SC judge? ©
 4.  How many times has the number of SC judges increased in Indian polity? 6 times including last in 2019
 5.  How is the CJI appointed?
-6.  How are judges of SC/HC appointed? What is the constitutional provision? What is the evolved understanding based on three judges’ cases?©
+6.  H**ow are judges of SC/HC appointed? What is the constitutional provision? What is the evolved understanding based on three judges’ cases?©**
 7.  What is the composition of collegium for SC/HC judge appointment and HC judge transfer? ©
 8.  Who is the initiator of SC/HC judge appointment process? Can president initiate it too? (link)
 (CJI for SC judges and CJ of HC appointment/transfer and judges HC transfer
