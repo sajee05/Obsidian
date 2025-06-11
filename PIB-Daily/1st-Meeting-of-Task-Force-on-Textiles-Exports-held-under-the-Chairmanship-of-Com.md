@@ -5,9 +5,9 @@ date: 2025-06-11T00:00:00.000+05:30
 subject:
   - Economics
   - Polity and Governance
-content: |
+content: |-
   prompt for this section:
-  You are an UPSC assistant that extracts key points from text provided by the user. Output ONLY the key points without additional comments. ENSURE 100% FACTUAL CORRECTNESS. take out the 5 most important from exam perspective. keypoints in a way that it covers the complete content in bullet points, each bullet point not more than 12 words.
+
   date_1: - SUBTOPIC
   Ministry: Department of Commerce, Ministry of Textiles
   Place: Delhi
