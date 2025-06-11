@@ -141,8 +141,8 @@ For some quick facts (Link)
 ## Fundamental rights ® “Not absolute but qualified”
 1.  What is the Magna carta of India and where is it actually from?
 2.  FR aims to estd govt of men and not of law (false; it is govt of law and not men)
-3.  **How is state defined as per article 12? What is its implication to FR? P-7.2 Does it include non-statutory bodies? When can a private entity be included in this definition (is this in constn) ?**
-4.  Why are rights given in Part 3 of Indian constitution fundamental?
+3.  How is state defined as per article 12? What is its implication to FR? P-7.2 Does it include non-statutory bodies? When can a private entity be included in this definition (is this in constn) ?
+4.  **Why are rights given in Part 3 of Indian constitution fundamental?**
 5.  What are broad categories of Fundamental rights?
 6.  What do you mean by absolute and qualified rights? (link)
 7.  Which rights are positive and negative? (link)
