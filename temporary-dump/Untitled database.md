@@ -40,6 +40,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 55
     options:
       - { label: "true", value: "true", color: "hsl(104, 95%, 90%)"}
     config:
@@ -57,7 +58,7 @@ columns:
     key: date
     id: date
     label: date
-    position: 3
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -76,10 +77,11 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 100
     options:
     config:
       enable_media_view: true
@@ -96,7 +98,7 @@ columns:
     key: date_1
     id: date_1
     label: topic
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -135,11 +137,11 @@ columns:
     key: difficulty
     id: difficulty
     label: difficulty
-    position: 6
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 81
+    width: 26
     options:
     config:
       enable_media_view: true
