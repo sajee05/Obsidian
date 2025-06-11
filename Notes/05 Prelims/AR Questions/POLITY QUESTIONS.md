@@ -1045,26 +1045,26 @@ CAG audits Consolidated find of India/State/UT (with legislature), Public accoun
 
 ## Supreme Court
 1.  Which article provides for establishment of Supreme Court? Which body did SC replace?Art 124
-2.  Does India have a unitary or federal judicial structure?
-3.  What is the highest court of appeal in India? What was it before Independence?
-4.  What are the qualifications of SC judges? Minimum and Maximum age of SC judge? ©
-5.  How many times has the number of SC judges increased in Indian polity? 6 times including last in 2019
-6.  How is the CJI appointed?
-7.  How are judges of SC/HC appointed? What is the constitutional provision? What is the evolved understanding based on three judges’ cases?©
-8.  What is the composition of collegium for SC/HC judge appointment and HC judge transfer? ©
-9.  Who is the initiator of SC/HC judge appointment process? Can president initiate it too? (link)
+**2.  Does India have a unitary or federal judicial structure?**
+2.  What is the highest court of appeal in India? What was it before Independence?
+3.  What are the qualifications of SC judges? Minimum and Maximum age of SC judge? ©
+4.  How many times has the number of SC judges increased in Indian polity? 6 times including last in 2019
+5.  How is the CJI appointed?
+6.  How are judges of SC/HC appointed? What is the constitutional provision? What is the evolved understanding based on three judges’ cases?©
+7.  What is the composition of collegium for SC/HC judge appointment and HC judge transfer? ©
+8.  Who is the initiator of SC/HC judge appointment process? Can president initiate it too? (link)
 (CJI for SC judges and CJ of HC appointment/transfer and judges HC transfer
 CJ of HC for HC judges appointment only)
 Check page 25.4
-10. Difference in decision by bench and collegium?
-11. Who administers oath to SC/HC judges? (President/Governor or persons appointed by the. CJI ramana did on behalf of the prez)
-12. To whom does SC/HC judge submits his resignation to? President for both
-13. How are judges of SC/HC removed and on what grounds? Mention the relevant article of constitution and other laws? What part of process is discretionary power of the house? ©
-14. Do the SC/HC judges hold their office at the pleasure of the President?
-15. In case of transfer of a HC judge or CJ, what is the requisite time to fill that vacancy created by such transfer? (1month)
-16. What is process for increasing the number of Supreme Court judges? (Number of Judges) (33 +1 but as per law of parliament, as per constitution its 7+1 or as increased by parliament)
-17. How are salaries of judges updated? Compare the payment structure of SC judge, HC judge, CJI, Chief Justice of a HC? (Parliament)(Link)
-18. How does the constitution secure the independence of the SC judges? (6)©
+9. Difference in decision by bench and collegium?
+10. Who administers oath to SC/HC judges? (President/Governor or persons appointed by the. CJI ramana did on behalf of the prez)
+11. To whom does SC/HC judge submits his resignation to? President for both
+12. How are judges of SC/HC removed and on what grounds? Mention the relevant article of constitution and other laws? What part of process is discretionary power of the house? ©
+13. Do the SC/HC judges hold their office at the pleasure of the President?
+14. In case of transfer of a HC judge or CJ, what is the requisite time to fill that vacancy created by such transfer? (1month)
+15. What is process for increasing the number of Supreme Court judges? (Number of Judges) (33 +1 but as per law of parliament, as per constitution its 7+1 or as increased by parliament)
+16. How are salaries of judges updated? Compare the payment structure of SC judge, HC judge, CJI, Chief Justice of a HC? (Parliament)(Link)
+17. How does the constitution secure the independence of the SC judges? (6)©
     *   Appointment of judges 124
     *   Fixed service conditions 125
     *   Security of tenure (124, 217)
@@ -1074,40 +1074,40 @@ Check page 25.4
     *   Conduct of judges cant be discussed in court 121/211
     *   Power to punish for contempt of court 129/215 &142(2)
     *   Jurisdiction cant be curtailed by Parliament or legilsature
-19. Who all are eligible for being an ad-hoc judge of SC? Whose appoints and whose approval is needed?(CJI in consultation with president & CJ of HC, appoint current HC judge whose’ eligible for being SC judge if there’s no quorum to conduct a SC session)(Art 127)
-20. If a serving HC judge is appointed to above posts- which office will be priority for him? P26.3
-21. Salaries and allowances of judges cannot be varied ever. (t/F) (Possible during financial emergency)
-22. Which retired judges can be appointed in SC? Is presidential approval needed here?(Art 128)
+18. Who all are eligible for being an ad-hoc judge of SC? Whose appoints and whose approval is needed?(CJI in consultation with president & CJ of HC, appoint current HC judge whose’ eligible for being SC judge if there’s no quorum to conduct a SC session)(Art 127)
+19. If a serving HC judge is appointed to above posts- which office will be priority for him? P26.3
+20. Salaries and allowances of judges cannot be varied ever. (t/F) (Possible during financial emergency)
+21. Which retired judges can be appointed in SC? Is presidential approval needed here?(Art 128)
 (Yes-SC judge or HC judge qualified to be SC judge, Yes! And that person’s consent is must)
-23. Who is acting chief justice? Who appoint him/her under what conditions? Art 126 P-26.3
-24. In which courts can the retired SC judges practice as advocate?(They can’t Art 124(7))
-25. What are the implications of SC/HC being court of record? What article mentions it? ©
-26. What are the 2 type of contempt? IS it mentioned in Constn? Which act defines this classification? ©
-27. What is the criticism of contempt received by court? ©
-28. Can judges be charged with contempt of their own court?
-29. Where is seat of SC justice? Who has the authority to change it?(CJI and not SC) Whose approval is needed for this? Which article mentions it?
-30. Discuss various provisions under writ jurisdiction of SC? Which part and article?
-31. Mention cases when Mandamus writ is not applicable? (6)
-32. What is exclusive original jurisdiction of SC? Which parties can use it? What type of cases do not fall under the original jurisdiction of SC (7)?P-26.5 ©
-33. Discuss the appellate jurisdiction to SC in constitutional, civil, criminal matters? P-26.6©
-34. Is there a monetary limit on civil appletae jurisdiction?
-35. In which of the above cases is the High court certificate not required? P-26.6
-36. Does SC appeal lie in cases where HC has reversed the order and ordered acquittal of accused?
-37. SC court enjoys special leave jurisdiction over military courts too. True or False?
-38. What are 2 subjects on which President can ask for opinion from SC? Is SC bound to respond to both requests? Are these binding on president? Art 143©
-39. In whose election disputes does SC have original and exclusive jurisdiction?
-40. Are all judgments by the SC treated as final, or can they be reviewed? If yes, by whom? Art 137
-41. Define judicial review? What are the three reasons for JR?
-42. What is Public Interest Litigation? Where is concept borrowed from? Mention first two cases of PIL©
-43. What does locus standi mean? Is it applicable in case of PIL
-44. What is judicial activism? What articles empowers judges to be activist? What are its pros and cons©
-45. Define key points detailing role of SC in growth of constitution? ©
-46. What laws guarantees the power of judicial review to court? (13,Art 32, 136 (special leave)- SC, 226, 227 (review of lower courts)- HC?
-47. What is status of judicial review under Schedule 9? Mention provision of 1st amendment act an IR Coelho Judgment (2007)?Which article or FR were guaranteed in the case? ©
-48. Mention specific cases when there is no judicial review?
-49. What are the minimum number of judges reqd for hearing cases refereed to SC under Art 143?
-50. What is constitution and division bench of SC? (5 or more judges) (2 or 3)
-51. We often see that there are multiple times when SC issues orders which become a law. Is there a specific provision in constitution that provides SC with this power? Art 141.
+22. Who is acting chief justice? Who appoint him/her under what conditions? Art 126 P-26.3
+23. In which courts can the retired SC judges practice as advocate?(They can’t Art 124(7))
+24. What are the implications of SC/HC being court of record? What article mentions it? ©
+25. What are the 2 type of contempt? IS it mentioned in Constn? Which act defines this classification? ©
+26. What is the criticism of contempt received by court? ©
+27. Can judges be charged with contempt of their own court?
+28. Where is seat of SC justice? Who has the authority to change it?(CJI and not SC) Whose approval is needed for this? Which article mentions it?
+29. Discuss various provisions under writ jurisdiction of SC? Which part and article?
+30. Mention cases when Mandamus writ is not applicable? (6)
+31. What is exclusive original jurisdiction of SC? Which parties can use it? What type of cases do not fall under the original jurisdiction of SC (7)?P-26.5 ©
+32. Discuss the appellate jurisdiction to SC in constitutional, civil, criminal matters? P-26.6©
+33. Is there a monetary limit on civil appletae jurisdiction?
+34. In which of the above cases is the High court certificate not required? P-26.6
+35. Does SC appeal lie in cases where HC has reversed the order and ordered acquittal of accused?
+36. SC court enjoys special leave jurisdiction over military courts too. True or False?
+37. What are 2 subjects on which President can ask for opinion from SC? Is SC bound to respond to both requests? Are these binding on president? Art 143©
+38. In whose election disputes does SC have original and exclusive jurisdiction?
+39. Are all judgments by the SC treated as final, or can they be reviewed? If yes, by whom? Art 137
+40. Define judicial review? What are the three reasons for JR?
+41. What is Public Interest Litigation? Where is concept borrowed from? Mention first two cases of PIL©
+42. What does locus standi mean? Is it applicable in case of PIL
+43. What is judicial activism? What articles empowers judges to be activist? What are its pros and cons©
+44. Define key points detailing role of SC in growth of constitution? ©
+45. What laws guarantees the power of judicial review to court? (13,Art 32, 136 (special leave)- SC, 226, 227 (review of lower courts)- HC?
+46. What is status of judicial review under Schedule 9? Mention provision of 1st amendment act an IR Coelho Judgment (2007)?Which article or FR were guaranteed in the case? ©
+47. Mention specific cases when there is no judicial review?
+48. What are the minimum number of judges reqd for hearing cases refereed to SC under Art 143?
+49. What is constitution and division bench of SC? (5 or more judges) (2 or 3)
+50. We often see that there are multiple times when SC issues orders which become a law. Is there a specific provision in constitution that provides SC with this power? Art 141.
 
 ## High Court
 1.  Which HC in India has the largest territorial jurisdiction? Mention the territorial extent.
