@@ -21,6 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
+    width: 79
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,6 +31,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
   imp:
     input: tags
     accessorKey: imp
