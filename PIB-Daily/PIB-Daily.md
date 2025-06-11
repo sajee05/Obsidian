@@ -1,5 +1,224 @@
 ---
-tags: 00_MOCs
+
+database-plugin: basic
+
 ---
-```folder-index-content
+
+```yaml:dbfolder
+name: new database
+description: new description
+columns:
+  __file__:
+    key: __file__
+    id: __file__
+    input: markdown
+    label: File
+    accessorKey: __file__
+    isMetadata: true
+    skipPersist: false
+    isDragDisabled: false
+    csvCandidate: true
+    position: 1
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  imp:
+    input: checkbox
+    accessorKey: imp
+    key: imp
+    id: imp
+    label: imp
+    position: 2
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 55
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  date:
+    input: calendar
+    accessorKey: date
+    key: date
+    id: date
+    label: date
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  subject:
+    input: tags
+    accessorKey: subject
+    key: subject
+    id: subject
+    label: subject
+    position: 5
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 238
+    options:
+      - { label: "Polity and Governance", value: "Polity and Governance", color: "hsl(30, 95%, 90%)"}
+      - { label: "International Relations", value: "International Relations", color: "hsl(119, 95%, 90%)"}
+      - { label: "Social Justice", value: "Social Justice", color: "hsl(327, 95%, 90%)"}
+      - { label: "History, art and culture", value: "History, art and culture", color: "hsl(222, 95%, 90%)"}
+      - { label: "Geography", value: "Geography", color: "hsl(320, 95%, 90%)"}
+      - { label: "Society and Social issues", value: "Society and Social issues", color: "hsl(336, 95%, 90%)"}
+      - { label: "Environment and Ecology", value: "Environment and Ecology", color: "hsl(27, 95%, 90%)"}
+      - { label: "Science and Tech", value: "Science and Tech", color: "hsl(336, 95%, 90%)"}
+      - { label: "Disaster Management", value: "Disaster Management", color: "hsl(38, 95%, 90%)"}
+      - { label: "Internal Security", value: "Internal Security", color: "hsl(344, 95%, 90%)"}
+      - { label: "Economics", value: "Economics", color: "hsl(119, 95%, 90%)"}
+      - { label: "Ethics", value: "Ethics", color: "hsl(42, 95%, 90%)"}
+      - { label: "Ethics ", value: "Ethics ", color: "hsl(335, 95%, 90%)"}
+      - { label: "Misc.", value: "Misc.", color: "hsl(109, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  date_1:
+    input: text
+    accessorKey: date_1
+    key: date_1
+    id: date_1
+    label: Main Topic
+    position: 6
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  content:
+    input: text
+    accessorKey: content
+    key: content
+    id: content
+    label: Keypoints
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 318
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  difficulty:
+    input: tags
+    accessorKey: difficulty
+    key: difficulty
+    id: difficulty
+    label: difficulty
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 26
+    options:
+      - { label: "easy", value: "easy", color: "hsl(298, 95%, 90%)"}
+      - { label: "Hard", value: "Hard", color: "hsl(178, 95%, 90%)"}
+      - { label: "Medium", value: "Medium", color: "hsl(339, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      option_source: manual
+      wrap_content: true
+  Ministry:
+    input: text
+    accessorKey: Ministry
+    key: Ministry
+    id: Ministry
+    label: Ministry
+    position: 8
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+config:
+  remove_field_when_delete_column: false
+  cell_size: normal
+  sticky_first_column: false
+  group_folder_column: 
+  remove_empty_folders: false
+  automatically_group_files: false
+  hoist_files_with_empty_attributes: true
+  show_metadata_created: false
+  show_metadata_modified: false
+  show_metadata_tasks: false
+  show_metadata_inlinks: false
+  show_metadata_outlinks: false
+  show_metadata_tags: false
+  source_data: current_folder
+  source_form_result: 
+  source_destination_path: /
+  row_templates_folder: /
+  current_row_template: 
+  pagination_size: 10
+  font_size: 16
+  enable_js_formulas: false
+  formula_folder_path: /
+  inline_default: false
+  inline_new_position: last_field
+  date_format: yyyy-MM-dd
+  datetime_format: "yyyy-MM-dd HH:mm:ss"
+  metadata_date_format: "yyyy-MM-dd HH:mm:ss"
+  enable_footer: false
+  implementation: default
+filters:
+  enabled: false
+  conditions:
 ```
