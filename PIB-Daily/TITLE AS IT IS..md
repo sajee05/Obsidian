@@ -1,9 +1,6 @@
 ---
-imp: mains-fact,imp-pre
-difficulty:
-  - easy
-  - Hard
-  - Medium
+imp: ""
+difficulty: ""
 date: 2025-06-10T00:00:00.000+05:30
 subject:
   - Polity and Governance
