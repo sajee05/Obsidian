@@ -1,7 +1,7 @@
 {
-  "cssTheme": "Things",
+  "cssTheme": "Royal Velvet",
   "accentColor": "#4d88fe",
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
