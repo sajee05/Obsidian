@@ -81,7 +81,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 100
+    width: 195
     options:
       - { label: "Polity and Governance", value: "Polity and Governance", color: "hsl(30, 95%, 90%)"}
       - { label: "International Relations", value: "International Relations", color: "hsl(119, 95%, 90%)"}
