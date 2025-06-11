@@ -3,6 +3,15 @@ subject:
   - test
 topic:
   - new
+test: 
+summary: |-
+  ##### PM Commends Delegations for Championing India’s Stand on Terrorism
+  *   Prime Minister Shri Narendra Modi met **members of various delegations** at his official residence. #pib/preimp 
+  *   These delegations **represented India in different countries**.
+  *   They played a crucial role in elaborating **India’s commitment to peace**.
+  *   They also highlighted the **need to eradicate the menace of terrorism**.
+  *   Shri Modi commended their **dedication** in advancing India's voice on global platforms.
+  *   PM expressed pride in how they **put forward India's voice**.
 ---
 Here is the meticulously curated and formatted content from the PIB press releases for 2025-06-10, optimized for UPSC study and Obsidian integration.
 
@@ -150,7 +159,7 @@ Here is the meticulously curated and formatted content from the PIB press releas
 *   Popular actor **Rakul Preet Singh** mentioned: “From ancient India to the global stage, yoga continues to inspire, heal, and unite.”
 
 ##### Impact of Influencer Outreach
-*   These influential voices brought **renewed energy** to the movement. #pib/preimp *   They urge millions of followers to adopt yoga as a **way of life**.
+*   These influential voices brought **renewed energy** to the movemen
 *   Their vibrant messages amplified the campaign’s **visibility across generations**.
 *   Their unified outreach is igniting a **nationwide wave of enthusiasm**.
 *   This is especially true among **digital natives and young audiences**.

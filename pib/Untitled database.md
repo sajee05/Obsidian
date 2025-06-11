@@ -21,6 +21,7 @@ columns:
     position: 0
     isHidden: false
     sortIndex: -1
+    width: 195
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -30,6 +31,7 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
   subject:
     input: tags
     accessorKey: subject
@@ -72,6 +74,28 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  summary:
+    input: text
+    accessorKey: summary
+    key: summary
+    id: summary
+    label: summary
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 584
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: true
+      content_alignment: text-align-center
 config:
   remove_field_when_delete_column: false
   cell_size: normal
