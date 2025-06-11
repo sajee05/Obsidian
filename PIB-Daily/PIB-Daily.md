@@ -109,38 +109,13 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  date_1:
-    input: tags
-    accessorKey: date_1
-    key: date_1
-    id: date_1
-    label: Main Topic
-    position: 6
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 112
-    options:
-      - { label: "What is this article about in 1 word. (all small letters)", value: "What is this article about in 1 word. (all small letters)", color: "hsl(251, 95%, 90%)"}
-      - { label: "SUBTOPIC", value: "SUBTOPIC", color: "hsl(282, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      wrap_content: true
-      option_source: manual
   content:
     input: text
     accessorKey: content
     key: content
     id: content
     label: Keypoints
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -188,7 +163,7 @@ columns:
     key: Ministry
     id: Ministry
     label: Ministry
-    position: 8
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -208,7 +183,7 @@ columns:
     key: Place
     id: Place
     label: Place
-    position: 100
+    position: 10
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -222,6 +197,31 @@ columns:
       footer_type: none
       persist_changes: false
       wrap_content: true
+  Subtopic:
+    input: tags
+    accessorKey: Subtopic
+    key: Subtopic
+    id: date_1
+    label: Main Topic
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 112
+    options:
+      - { label: "What is this article about in 1 word. (all small letters)", value: "What is this article about in 1 word. (all small letters)", color: "hsl(251, 95%, 90%)"}
+      - { label: "SUBTOPIC", value: "SUBTOPIC", color: "hsl(282, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: true
+      option_source: manual
 config:
   remove_field_when_delete_column: false
   cell_size: normal
