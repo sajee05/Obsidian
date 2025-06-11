@@ -1,7 +1,7 @@
 {
   "cssTheme": "Royal Velvet",
   "accentColor": "#4d88fe",
-  "baseFontSize": 15,
+  "baseFontSize": 16,
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
