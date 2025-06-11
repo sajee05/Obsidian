@@ -83,6 +83,10 @@ columns:
     sortIndex: -1
     width: 100
     options:
+      - { label: "Polity and Governance", value: "Polity and Governance", color: "hsl(30, 95%, 90%)"}
+      - { label: "International Relations", value: "International Relations", color: "hsl(119, 95%, 90%)"}
+      - { label: "Social Justice", value: "Social Justice", color: "hsl(327, 95%, 90%)"}
+      - { label: "History, art and culture", value: "History, art and culture", color: "hsl(222, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -93,7 +97,7 @@ columns:
       footer_type: none
       persist_changes: false
   date_1:
-    input: text
+    input: tags
     accessorKey: date_1
     key: date_1
     id: date_1
@@ -102,6 +106,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -116,7 +121,7 @@ columns:
     accessorKey: content
     key: content
     id: content
-    label: content
+    label: Keypoints
     position: 7
     skipPersist: false
     isHidden: false
@@ -143,6 +148,7 @@ columns:
     sortIndex: -1
     width: 26
     options:
+      - { label: "easy", value: "easy", color: "hsl(298, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -152,6 +158,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
