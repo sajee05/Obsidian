@@ -35,7 +35,7 @@ columns:
     accessorKey: imp
     key: imp
     id: imp
-    label: imp
+    label: relevance
     position: 2
     skipPersist: false
     isHidden: false
