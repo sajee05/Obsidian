@@ -31,7 +31,7 @@ columns:
       footer_type: none
       persist_changes: false
   imp:
-    input: checkbox
+    input: tags
     accessorKey: imp
     key: imp
     id: imp
@@ -41,6 +41,9 @@ columns:
     isHidden: false
     sortIndex: -1
     width: 55
+    options:
+      - { label: "mains-fact", value: "mains-fact", color: "hsl(265, 95%, 90%)"}
+      - { label: "imp-pre", value: "imp-pre", color: "hsl(80, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -50,6 +53,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
+      option_source: manual
   date:
     input: calendar
     accessorKey: date
@@ -105,7 +110,7 @@ columns:
       footer_type: none
       persist_changes: false
   date_1:
-    input: text
+    input: tags
     accessorKey: date_1
     key: date_1
     id: date_1
@@ -114,6 +119,10 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 112
+    options:
+      - { label: "What is this article about in 1 word. (all small letters)", value: "What is this article about in 1 word. (all small letters)", color: "hsl(251, 95%, 90%)"}
+      - { label: "SUBTOPIC", value: "SUBTOPIC", color: "hsl(282, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -123,6 +132,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
+      option_source: manual
   content:
     input: text
     accessorKey: content
@@ -143,6 +154,8 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
+      content_alignment: text-align-left
   difficulty:
     input: tags
     accessorKey: difficulty
@@ -188,6 +201,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      wrap_content: true
+  Place:
+    input: text
+    accessorKey: Place
+    key: Place
+    id: Place
+    label: Place
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
