@@ -1,7 +1,7 @@
 {
   "cssTheme": "Things",
   "accentColor": "#4d88fe",
-  "baseFontSize": 16,
+  "baseFontSize": 14,
   "baseFontSizeAction": true,
   "nativeMenus": false,
   "theme": "obsidian",
