@@ -115,11 +115,32 @@ columns:
     key: content
     id: content
     label: content
+    position: 7
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 318
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  difficulty:
+    input: tags
+    accessorKey: difficulty
+    key: difficulty
+    id: difficulty
+    label: difficulty
     position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 255
+    width: 81
+    options:
     config:
       enable_media_view: true
       link_alias_enabled: true
