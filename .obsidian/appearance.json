@@ -1,5 +1,5 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Shimmering Focus",
   "accentColor": "#4d88fe",
   "baseFontSize": 15,
   "baseFontSizeAction": true,
@@ -7,5 +7,5 @@
   "theme": "obsidian",
   "showRibbon": true,
   "interfaceFontFamily": "",
-  "textFontFamily": "Calibri,Bahnschrift"
+  "textFontFamily": "Calibri"
 }
