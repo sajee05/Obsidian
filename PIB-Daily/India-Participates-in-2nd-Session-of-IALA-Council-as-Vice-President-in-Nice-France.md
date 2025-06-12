@@ -10,7 +10,7 @@ content: |
   - India attended IALA Council meeting in Nice, France as Vice President.
   - India will host IALA General Assembly 2025 and Conference 2027 in Mumbai.
   - India improves marine navigation, integrates VTS, and offers global training.
-Subtopic: International Organizations and Groupings, India's Foreign Policy, Infrastructure: Ports and Shipping, Maritime Safety and Security
+
 Ministry: Ministry of Ports, Shipping and Waterways
 Place: Nice, France; Mumbai
 ---

@@ -207,7 +207,7 @@ columns:
     accessorKey: Subtopic
     key: Subtopic
     id: date_1
-    label: Main Topic
+    label: Topics
     position: 9
     skipPersist: false
     isHidden: false

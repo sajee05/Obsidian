@@ -9,7 +9,7 @@ content: |
   - India hosted ITU FG-AINN meeting on AI-native telecom networks in New Delhi.
   - India seeks ITU support for hosting PP-30 and Ms. Revathi's director nomination.
   - Meeting focuses on integrating AI for self-optimizing and resilient telecom networks.
-Subtopic: Science and Technology: Developments in Telecommunications, Science and Technology: Artificial Intelligence and its applications, International Relations: International organizations and groupings, Government Policies and Interventions
+
 Ministry: Department of Telecommunications
 Place: New Delhi
 ---
