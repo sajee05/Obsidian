@@ -29,7 +29,7 @@
 			2. [[Strategy Plan#### Mains: |Mains: ]]
 			3. [[Strategy Plan#### Current affairs : |Current affairs : ]]
 			4. [[Strategy Plan#### Planning:|Planning:]]
-9. [[Strategy Plan# CLAUDE 4.0 THINKING PREDICTIONS FOR |CLAUDE 4.0 THINKING PREDICTIONS FOR ]]
+9. [[Strategy Plan# CLAUDE 4.0 THINKING PREDICTIONS FOR 2026|CLAUDE 4.0 THINKING PREDICTIONS FOR 2026]]
 10. [[Strategy Plan# **TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**|**TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**]]
 	1. [[Strategy Plan## **METHODOLOGY & JUSTIFICATION**|**METHODOLOGY & JUSTIFICATION**]]
 	2. [[Strategy Plan## **TIER 1: GEOGRAPHY (12-15 questions expected)**|**TIER 1: GEOGRAPHY (12-15 questions expected)**]]
