@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 79
+    width: 240
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -209,7 +209,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 112
+    width: 286
     options:
       - { label: "What is this article about in 1 word. (all small letters)", value: "What is this article about in 1 word. (all small letters)", color: "hsl(251, 95%, 90%)"}
       - { label: "SUBTOPIC", value: "SUBTOPIC", color: "hsl(282, 95%, 90%)"}
@@ -256,6 +256,92 @@ columns:
       - { label: "Government policies and interventions for development in various sectors", value: "Government policies and interventions for development in various sectors", color: "hsl(173, 95%, 90%)"}
       - { label: "Environmental pollution and degradation", value: "Environmental pollution and degradation", color: "hsl(227, 95%, 90%)"}
       - { label: "Trade and exports", value: "Trade and exports", color: "hsl(64, 95%, 90%)"}
+      - { label: "Indian Civil Services", value: "Indian Civil Services", color: "hsl(135, 95%, 90%)"}
+      - { label: "Administrative Reforms", value: "Administrative Reforms", color: "hsl(104, 95%, 90%)"}
+      - { label: "Governance and Public Administration", value: "Governance and Public Administration", color: "hsl(322, 95%, 90%)"}
+      - { label: "Parliament and State Legislatures", value: "Parliament and State Legislatures", color: "hsl(134, 95%, 90%)"}
+      - { label: "Constitutional Posts", value: "Constitutional Posts", color: "hsl(213, 95%, 90%)"}
+      - { label: "Prominent Indian Personalities", value: "Prominent Indian Personalities", color: "hsl(120, 95%, 90%)"}
+      - { label: "Government policies and interventions", value: "Government policies and interventions", color: "hsl(244, 95%, 90%)"}
+      - { label: "Welfare schemes for vulnerable sections", value: "Welfare schemes for vulnerable sections", color: "hsl(272, 95%, 90%)"}
+      - { label: "Public service delivery", value: "Public service delivery", color: "hsl(202, 95%, 90%)"}
+      - { label: "Economic Development", value: "Economic Development", color: "hsl(136, 95%, 90%)"}
+      - { label: "Social Reformers", value: "Social Reformers", color: "hsl(74, 95%, 90%)"}
+      - { label: "Cultural Heritage", value: "Cultural Heritage", color: "hsl(292, 95%, 90%)"}
+      - { label: "Infrastructure", value: "Infrastructure", color: "hsl(54, 95%, 90%)"}
+      - { label: "Indian Economy", value: "Indian Economy", color: "hsl(20, 95%, 90%)"}
+      - { label: "Environmental Conservation", value: "Environmental Conservation", color: "hsl(249, 95%, 90%)"}
+      - { label: "Electoral System and Process", value: "Electoral System and Process", color: "hsl(206, 95%, 90%)"}
+      - { label: "International Cooperation", value: "International Cooperation", color: "hsl(281, 95%, 90%)"}
+      - { label: "Agricultural Policies and Schemes", value: "Agricultural Policies and Schemes", color: "hsl(114, 95%, 90%)"}
+      - { label: "Farmer Welfare Initiatives", value: "Farmer Welfare Initiatives", color: "hsl(214, 95%, 90%)"}
+      - { label: "Sustainable Agriculture Practices", value: "Sustainable Agriculture Practices", color: "hsl(292, 95%, 90%)"}
+      - { label: "Agriculture", value: "Agriculture", color: "hsl(181, 95%, 90%)"}
+      - { label: "Rural development", value: "Rural development", color: "hsl(224, 95%, 90%)"}
+      - { label: "Indian Economy and issues relating to growth and employment", value: "Indian Economy and issues relating to growth and employment", color: "hsl(122, 95%, 90%)"}
+      - { label: "Effects of liberalization on the economy", value: "Effects of liberalization on the economy", color: "hsl(89, 95%, 90%)"}
+      - { label: "changes in industrial policy", value: "changes in industrial policy", color: "hsl(293, 95%, 90%)"}
+      - { label: "International trade agreements", value: "International trade agreements", color: "hsl(172, 95%, 90%)"}
+      - { label: "Bilateral relations", value: "Bilateral relations", color: "hsl(77, 95%, 90%)"}
+      - { label: "Foreign direct investment", value: "Foreign direct investment", color: "hsl(76, 95%, 90%)"}
+      - { label: "Economic diplomacy", value: "Economic diplomacy", color: "hsl(110, 95%, 90%)"}
+      - { label: "Fiscal Policy", value: "Fiscal Policy", color: "hsl(353, 95%, 90%)"}
+      - { label: "Inflation Management", value: "Inflation Management", color: "hsl(237, 95%, 90%)"}
+      - { label: "Consumer Protection", value: "Consumer Protection", color: "hsl(194, 95%, 90%)"}
+      - { label: "Trade Policy", value: "Trade Policy", color: "hsl(296, 95%, 90%)"}
+      - { label: "Maritime Security", value: "Maritime Security", color: "hsl(157, 95%, 90%)"}
+      - { label: "Disaster Management", value: "Disaster Management", color: "hsl(39, 95%, 90%)"}
+      - { label: "Marine Pollution", value: "Marine Pollution", color: "hsl(24, 95%, 90%)"}
+      - { label: "Exclusive Economic Zone", value: "Exclusive Economic Zone", color: "hsl(160, 95%, 90%)"}
+      - { label: "National Cadet Corps (NCC)", value: "National Cadet Corps (NCC)", color: "hsl(293, 95%, 90%)"}
+      - { label: "Youth Development", value: "Youth Development", color: "hsl(262, 95%, 90%)"}
+      - { label: "Government Initiatives", value: "Government Initiatives", color: "hsl(339, 95%, 90%)"}
+      - { label: "Adventure Sports", value: "Adventure Sports", color: "hsl(161, 95%, 90%)"}
+      - { label: "India and its neighbourhood relations", value: "India and its neighbourhood relations", color: "hsl(141, 95%, 90%)"}
+      - { label: "Bilateral defence cooperation", value: "Bilateral defence cooperation", color: "hsl(325, 95%, 90%)"}
+      - { label: "Regional security issues", value: "Regional security issues", color: "hsl(110, 95%, 90%)"}
+      - { label: "Military diplomacy", value: "Military diplomacy", color: "hsl(127, 95%, 90%)"}
+      - { label: "Military Exercises", value: "Military Exercises", color: "hsl(139, 95%, 90%)"}
+      - { label: "Peacekeeping Operations", value: "Peacekeeping Operations", color: "hsl(353, 95%, 90%)"}
+      - { label: "International environmental agreements", value: "International environmental agreements", color: "hsl(175, 95%, 90%)"}
+      - { label: "Blue Economy", value: "Blue Economy", color: "hsl(26, 95%, 90%)"}
+      - { label: "Marine resource management", value: "Marine resource management", color: "hsl(174, 95%, 90%)"}
+      - { label: "Fisheries Sector Development", value: "Fisheries Sector Development", color: "hsl(5, 95%, 90%)"}
+      - { label: "Aquaculture Technologies", value: "Aquaculture Technologies", color: "hsl(25, 95%, 90%)"}
+      - { label: "Rural Livelihoods", value: "Rural Livelihoods", color: "hsl(256, 95%, 90%)"}
+      - { label: "Social security schemes", value: "Social security schemes", color: "hsl(252, 95%, 90%)"}
+      - { label: "Labour welfare", value: "Labour welfare", color: "hsl(101, 95%, 90%)"}
+      - { label: "Public healthcare", value: "Public healthcare", color: "hsl(104, 95%, 90%)"}
+      - { label: "Labour Reforms and Social Security", value: "Labour Reforms and Social Security", color: "hsl(153, 95%, 90%)"}
+      - { label: "Employment and Unemployment Trends", value: "Employment and Unemployment Trends", color: "hsl(84, 95%, 90%)"}
+      - { label: "International Labour Organization (ILO)", value: "International Labour Organization (ILO)", color: "hsl(17, 95%, 90%)"}
+      - { label: "Gig Economy", value: "Gig Economy", color: "hsl(42, 95%, 90%)"}
+      - { label: "International organizations and agreements", value: "International organizations and agreements", color: "hsl(30, 95%, 90%)"}
+      - { label: "Public Health Initiatives", value: "Public Health Initiatives", color: "hsl(132, 95%, 90%)"}
+      - { label: "Community Welfare", value: "Community Welfare", color: "hsl(164, 95%, 90%)"}
+      - { label: "Voluntary Organizations", value: "Voluntary Organizations", color: "hsl(190, 95%, 90%)"}
+      - { label: "Civic Responsibility", value: "Civic Responsibility", color: "hsl(66, 95%, 90%)"}
+      - { label: "Renewable Energy", value: "Renewable Energy", color: "hsl(26, 95%, 90%)"}
+      - { label: "Green Financing", value: "Green Financing", color: "hsl(236, 95%, 90%)"}
+      - { label: "Capital Markets", value: "Capital Markets", color: "hsl(121, 95%, 90%)"}
+      - { label: "Public Sector Undertakings", value: "Public Sector Undertakings", color: "hsl(18, 95%, 90%)"}
+      - { label: "Mechanisms for grievance redressal", value: "Mechanisms for grievance redressal", color: "hsl(71, 95%, 90%)"}
+      - { label: "Digital India", value: "Digital India", color: "hsl(312, 95%, 90%)"}
+      - { label: "E-governance", value: "E-governance", color: "hsl(198, 95%, 90%)"}
+      - { label: "Public transport systems", value: "Public transport systems", color: "hsl(99, 95%, 90%)"}
+      - { label: "Railway Infrastructure Development", value: "Railway Infrastructure Development", color: "hsl(111, 95%, 90%)"}
+      - { label: "Sustainable Transportation", value: "Sustainable Transportation", color: "hsl(62, 95%, 90%)"}
+      - { label: "PM-Gati Shakti", value: "PM-Gati Shakti", color: "hsl(310, 95%, 90%)"}
+      - { label: "Union Public Service Commission (UPSC)", value: "Union Public Service Commission (UPSC)", color: "hsl(241, 95%, 90%)"}
+      - { label: "Indian Forest Service (IFS) Examination", value: "Indian Forest Service (IFS) Examination", color: "hsl(67, 95%, 90%)"}
+      - { label: "Civil Services (Preliminary) Examination", value: "Civil Services (Preliminary) Examination", color: "hsl(345, 95%, 90%)"}
+      - { label: "Examination Process and Procedures", value: "Examination Process and Procedures", color: "hsl(258, 95%, 90%)"}
+      - { label: "Public Administration", value: "Public Administration", color: "hsl(121, 95%, 90%)"}
+      - { label: "Recruitment Process", value: "Recruitment Process", color: "hsl(61, 95%, 90%)"}
+      - { label: "Government Examinations", value: "Government Examinations", color: "hsl(262, 95%, 90%)"}
+      - { label: "Statutory bodies", value: "Statutory bodies", color: "hsl(115, 95%, 90%)"}
+      - { label: "Anti-corruption institutions", value: "Anti-corruption institutions", color: "hsl(6, 95%, 90%)"}
+      - { label: "Transparency and accountability mechanisms", value: "Transparency and accountability mechanisms", color: "hsl(171, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
