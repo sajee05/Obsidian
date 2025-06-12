@@ -1,1 +1,0 @@
-safaan   naan    nina   mom  dad  fad   mama   wadddanaanaa
