@@ -1,10 +1,10 @@
 {
   "cssTheme": "Primary",
-  "accentColor": "#4d88fe",
+  "accentColor": "",
   "baseFontSize": 15,
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showRibbon": true,
   "interfaceFontFamily": "",
   "textFontFamily": "Calibri"
