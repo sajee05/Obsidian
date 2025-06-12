@@ -5,7 +5,8 @@
 2. [[Strategy Plan# Current Affairs |Current Affairs ]]
 3. [[Strategy Plan# Mapping|Mapping]]
 4. [[Strategy Plan# Economics |Economics ]]
-5. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
+5. [[Strategy Plan# Ethics|Ethics]]
+6. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
 	1. [[Strategy Plan## Saturation|Saturation]]
 	2. [[Strategy Plan## Lectures |Lectures ]]
 	3. [[Strategy Plan## Updated strategy and mindset.|Updated strategy and mindset.]]
@@ -16,7 +17,7 @@
 				1. [[Strategy Plan##### Paper 1:|Paper 1:]]
 				2. [[Strategy Plan##### Paper 2: |Paper 2: ]]
 				3. [[Strategy Plan##### Extra: |Extra: ]]
-6. [[Strategy Plan# Topper's Advice:|Topper's Advice:]]
+7. [[Strategy Plan# Topper's Advice:|Topper's Advice:]]
 	1. [[Strategy Plan## AIR 28: |AIR 28: ]]
 		1. [[Strategy Plan### WHAT TO REMEMBER (Anki)|WHAT TO REMEMBER (Anki)]]
 		2. [[Strategy Plan### PRELIMS SOURCES|PRELIMS SOURCES]]
@@ -35,12 +36,12 @@
 
 ## Monthly AT ANY COST Targets
 
-| **MONTH** | **TARGETS**               | % **Completion** |
-| --------- | ------------------------- | ---------------- |
-| **June**      | Polity, Economics, Socio  |                  |
-| **July**      | Socio, Geography          |                  |
-| **August**    | Socio, Geography, History |                  |
-| **September** | Socio, Buffer             |                  |
+| MONTH         | TARGETS                   | % Completion |
+| ------------- | ------------------------- | ------------ |
+| **June**      | Polity, Economics, Socio  |              |
+| **July**      | Socio, Geography          |              |
+| **August**    | Socio, Geography, History |              |
+| **September** | Socio, Buffer             |              |
 ***must complete:***
 - [ ] Polity (core) +
 	- [ ] Mains notes
@@ -80,7 +81,7 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 + Mains leftover subjects (ankur verma ke notes ache hai btw)
 + WINDUP all. mains ready by december.
 
-| **October**  |     |     |
+| October      |     |     |
 | -------- | --- | --- |
 | **November** |     |     |
 | **December** |     |     |
@@ -107,6 +108,8 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 ---
 
 # Economics 
+# Ethics
+- build the better india extractor if needed similar to [[PIB-Daily]] 
 
 **Workflow:**
  [[Economics]]  CORE → [[ECONOMICS AR]]  → Ketanomy for weak areas and skim through. → Rote Learn Mains notes [[Economy]] → Pre 2013 to 2024 → Mains PYQs : convert IAS.
