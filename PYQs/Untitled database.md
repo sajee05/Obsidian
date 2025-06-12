@@ -30,25 +30,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  Question:
-    input: text
-    accessorKey: Question
-    key: Question
-    id: Question
-    label: Question
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   Option_1:
     input: text
     accessorKey: Option_1
@@ -175,6 +156,7 @@ columns:
     sortIndex: -1
     options:
       - { label: "test", value: "test", color: "hsl(47, 95%, 90%)"}
+      - { label: "(subject tag will come here)", value: "(subject tag will come here)", color: "hsl(295, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -196,6 +178,28 @@ columns:
     sortIndex: -1
     options:
       - { label: "test", value: "test", color: "hsl(77, 95%, 90%)"}
+      - { label: "(year-tag will come here}", value: "(year-tag will come here}", color: "hsl(185, 95%, 90%)"}
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+  microtheme:
+    input: tags
+    accessorKey: microtheme
+    key: microtheme
+    id: microtheme
+    label: microtheme
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    options:
+      - { label: "microtheme tag will come here", value: "microtheme tag will come here", color: "hsl(323, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
