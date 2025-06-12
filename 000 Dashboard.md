@@ -12,7 +12,7 @@ tags: []
 
 ---
 
-[[PIB-Daily]] 
+##### [[PIB-Daily]] 
 ### 🏢 [[MOC Prelims and Foundation|CORE]] *prelims GS, lectures and foundation*
  - 🔢 [[MOC - CSAT|CSAT]]
  - 🧠 [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
