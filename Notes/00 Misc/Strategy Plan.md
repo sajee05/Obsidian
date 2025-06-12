@@ -42,15 +42,9 @@
 	4. [[Strategy Plan## **High-Yield Topic Identification**|**High-Yield Topic Identification**]]
 		1. [[Strategy Plan### **Must-Master Topics (Appear 5+ times)**|**Must-Master Topics (Appear 5+ times)**]]
 		2. [[Strategy Plan### **Emerging High-Yield Areas (2020-2023)**|**Emerging High-Yield Areas (2020-2023)**]]
-	5. [[Strategy Plan## **Preparation Strategy Recommendations**|**Preparation Strategy Recommendations**]]
-		1. [[Strategy Plan### **Phase-wise Approach**|**Phase-wise Approach**]]
-		2. [[Strategy Plan### **Study Material Prioritization**|**Study Material Prioritization**]]
-	6. [[Strategy Plan## **Time Allocation Strategy**|**Time Allocation Strategy**]]
-	7. [[Strategy Plan## **Red Flag Areas (Declining Importance)**|**Red Flag Areas (Declining Importance)**]]
-	8. [[Strategy Plan## **Mock Test Strategy**|**Mock Test Strategy**]]
-		1. [[Strategy Plan### **Question Pattern Simulation**|**Question Pattern Simulation**]]
-		2. [[Strategy Plan### **Subject Distribution in Mocks**|**Subject Distribution in Mocks**]]
-	9. [[Strategy Plan## **Final Strategic Recommendations**|**Final Strategic Recommendations**]]
+	5. [[Strategy Plan## **Red Flag Areas (Declining Importance)**|**Red Flag Areas (Declining Importance)**]]
+	6. [[Strategy Plan## **|**]]
+	7. [[Strategy Plan## **Final Strategic Recommendations**|**Final Strategic Recommendations**]]
 		1. [[Strategy Plan### **High-Impact Preparation Tactics**|**High-Impact Preparation Tactics**]]
 		2. [[Strategy Plan### **Expected 2024-25 Trends**|**Expected 2024-25 Trends**]]
 
@@ -411,45 +405,7 @@ The analysis reveals a significant shift towards integrating current affairs wit
 - **Space technology and applications**
 - **International relations and strategic partnerships**
 
-## **Preparation Strategy Recommendations**
-
-### **Phase-wise Approach**
-
-**Phase 1 (Foundation - 4 months):**
-- Master high-frequency topics identified above
-- Build strong basics in core subjects
-- Focus on NCERT understanding for fundamental concepts
-
-**Phase 2 (Advanced - 3 months):**
-- Integrate current affairs with static subjects
-- Practice previous year questions topic-wise
-- Develop analytical thinking for complex questions
-
-**Phase 3 (Revision - 2 months):**
-- Focus on recent trends and emerging topics
-- Practice full-length mock tests
-- Review weak areas identified from analysis
-
-### **Study Material Prioritization**
-
-Based on question patterns:
-
-**Tier 1 Sources (Must Study):**
-- NCERT books for foundational concepts
-- Economic Survey for economics current affairs
-- PIB releases for government schemes and policies
-
-**Tier 2 Sources (Important):**
-- Specialized books for advanced topics
-- Monthly current affairs compilations
-- Government reports and white papers
-
-**Tier 3 Sources (Supplementary):**
-- Newspaper analysis for contemporary issues
-- Online courses for conceptual clarity
-- Additional reference books for depth
-
-## **Time Allocation Strategy**
+ ### Allocation Strategy
 
 Based on question weightage analysis:
 
@@ -471,25 +427,6 @@ Based on trend analysis, these areas show declining question frequency:
 
 **Recommendation**: Don't completely ignore these areas, but optimize time allocation.
 
-## **Mock Test Strategy**
-
-### **Question Pattern Simulation**
-
-Based on analysis, your mock tests should include:
-- **40% Direct Knowledge Questions** (factual recall)
-- **35% Application-based Questions** (concept application)
-- **25% Analytical Questions** (multi-concept integration)
-
-### **Subject Distribution in Mocks**
-
-Ensure your practice tests mirror actual UPSC distribution:
-- Geography (15 questions)
-- Economics (17 questions)  
-- Polity (14 questions)
-- Environment (16 questions)
-- Science & Technology (8 questions)
-- History (12 questions)
-- Current Affairs (18 questions distributed across subjects)
 
 ## **Final Strategic Recommendations**
 
