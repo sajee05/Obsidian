@@ -38,7 +38,7 @@ columns:
     key: imp
     id: imp
     label: relevance
-    position: 2
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -63,7 +63,7 @@ columns:
     key: date
     id: date
     label: date
-    position: 4
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -82,11 +82,11 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 5
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 238
+    width: 186
     options:
       - { label: "Polity and Governance", value: "Polity and Governance", color: "hsl(30, 95%, 90%)"}
       - { label: "International Relations", value: "International Relations", color: "hsl(119, 95%, 90%)"}
@@ -111,13 +111,15 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+      option_source: manual
+      wrap_content: true
   content:
     input: text
     accessorKey: content
     key: content
     id: content
     label: Keypoints
-    position: 8
+    position: 2
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -139,7 +141,7 @@ columns:
     key: difficulty
     id: difficulty
     label: difficulty
-    position: 3
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -165,7 +167,7 @@ columns:
     key: Ministry
     id: Ministry
     label: Ministry
-    position: 9
+    position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -185,10 +187,11 @@ columns:
     key: Place
     id: Place
     label: Place
-    position: 10
+    position: 3
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 116
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -205,7 +208,7 @@ columns:
     key: Subtopic
     id: date_1
     label: Main Topic
-    position: 7
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
