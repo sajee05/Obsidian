@@ -62,14 +62,14 @@
 		2. [[Strategy Plan### **Government Schemes (2-3 questions)**|**Government Schemes (2-3 questions)**]]
 		3. [[Strategy Plan### **Contemporary Issues (3-4 questions)**|**Contemporary Issues (3-4 questions)**]]
 	10. [[Strategy Plan## **SUBJECT-WISE PREPARATION STRATEGY**|**SUBJECT-WISE PREPARATION STRATEGY**]]
-		1. [[Strategy Plan### **100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**|**100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**]]
-	11. [[Strategy Plan## **GEOGRAPHY (15 questions)**|**GEOGRAPHY (15 questions)**]]
-	12. [[Strategy Plan## **ENVIRONMENT & ECOLOGY (13 questions)**|**ENVIRONMENT & ECOLOGY (13 questions)**]]
-	13. [[Strategy Plan## **ECONOMICS (15 questions)**|**ECONOMICS (15 questions)**]]
-	14. [[Strategy Plan## **SCIENCE & TECHNOLOGY (12 questions)**|**SCIENCE & TECHNOLOGY (12 questions)**]]
-	15. [[Strategy Plan## **POLITY & GOVERNANCE (16 questions)**|**POLITY & GOVERNANCE (16 questions)**]]
-	16. [[Strategy Plan## **HISTORY (15 questions)**|**HISTORY (15 questions)**]]
-	17. [[Strategy Plan## **CURRENT AFFAIRS INTEGRATION (14 questions)**|**CURRENT AFFAIRS INTEGRATION (14 questions)**]]
+10. [[Strategy Plan# **100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026** (claude 4.0 thinking) |**100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026** (claude 4.0 thinking) ]]
+	1. [[Strategy Plan## **GEOGRAPHY (15 questions)**|**GEOGRAPHY (15 questions)**]]
+	2. [[Strategy Plan## **ENVIRONMENT & ECOLOGY (13 questions)**|**ENVIRONMENT & ECOLOGY (13 questions)**]]
+	3. [[Strategy Plan## **ECONOMICS (15 questions)**|**ECONOMICS (15 questions)**]]
+	4. [[Strategy Plan## **SCIENCE & TECHNOLOGY (12 questions)**|**SCIENCE & TECHNOLOGY (12 questions)**]]
+	5. [[Strategy Plan## **POLITY & GOVERNANCE (16 questions)**|**POLITY & GOVERNANCE (16 questions)**]]
+	6. [[Strategy Plan## **HISTORY (15 questions)**|**HISTORY (15 questions)**]]
+	7. [[Strategy Plan## **CURRENT AFFAIRS INTEGRATION (14 questions)**|**CURRENT AFFAIRS INTEGRATION (14 questions)**]]
 
 <!-- End of TOC -->
 
@@ -501,7 +501,7 @@ After analyzing your comprehensive PYQ data (2011-2023) and comparing it with 20
 
 This prediction is based on rigorous analysis of 14 years of PYQ data and accounts for the cyclical nature of UPSC question patterns, ensuring both traditional coverage and contemporary relevance.
 
-### **100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**
+# **100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026** (claude 4.0 thinking) 
 *Based on PYQ Analysis (2011-2025) + Current Affairs Trends*
 
 ## **GEOGRAPHY (15 questions)**
