@@ -29,24 +29,39 @@
 			2. [[Strategy Plan#### Mains: |Mains: ]]
 			3. [[Strategy Plan#### Current affairs : |Current affairs : ]]
 			4. [[Strategy Plan#### Planning:|Planning:]]
-9. [[Strategy Plan# Claude Prelims PYQ Analysis and strategy:# Comprehensive Analysis of UPSC Prelims PYQs (2011-2023)|Claude Prelims PYQ Analysis and strategy:# Comprehensive Analysis of UPSC Prelims PYQs (2011-2023)]]
-	1. [[Strategy Plan## Year-wise Question Distribution Analysis|Year-wise Question Distribution Analysis]]
-	2. [[Strategy Plan## Subject-wise Deep Analysis|Subject-wise Deep Analysis]]
-		1. [[Strategy Plan### **Geography Dominance Patterns**|**Geography Dominance Patterns**]]
-		2. [[Strategy Plan### **Economics Question Evolution**|**Economics Question Evolution**]]
-		3. [[Strategy Plan### **Science & Technology Trajectory**|**Science & Technology Trajectory**]]
-		4. [[Strategy Plan### **Polity & Governance Consistency**|**Polity & Governance Consistency**]]
-	3. [[Strategy Plan## **Emerging Trends Analysis**|**Emerging Trends Analysis**]]
-		1. [[Strategy Plan### **Current Affairs Integration**|**Current Affairs Integration**]]
-		2. [[Strategy Plan### **Question Complexity Evolution**|**Question Complexity Evolution**]]
-	4. [[Strategy Plan## **High-Yield Topic Identification**|**High-Yield Topic Identification**]]
-		1. [[Strategy Plan### **Must-Master Topics (Appear 5+ times)**|**Must-Master Topics (Appear 5+ times)**]]
-		2. [[Strategy Plan### **Emerging High-Yield Areas (2020-2023)**|**Emerging High-Yield Areas (2020-2023)**]]
-	5. [[Strategy Plan## **Red Flag Areas (Declining Importance)**|**Red Flag Areas (Declining Importance)**]]
-	6. [[Strategy Plan## **|**]]
-	7. [[Strategy Plan## **Final Strategic Recommendations**|**Final Strategic Recommendations**]]
-		1. [[Strategy Plan### **High-Impact Preparation Tactics**|**High-Impact Preparation Tactics**]]
-		2. [[Strategy Plan### **Expected 2024-25 Trends**|**Expected 2024-25 Trends**]]
+9. [[Strategy Plan# CLAUDE 4.0 THINKING PREDICTIONS FOR |CLAUDE 4.0 THINKING PREDICTIONS FOR ]]
+10. [[Strategy Plan# **TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**|**TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**]]
+	1. [[Strategy Plan## **METHODOLOGY & JUSTIFICATION**|**METHODOLOGY & JUSTIFICATION**]]
+	2. [[Strategy Plan## **TIER 1: GEOGRAPHY (12-15 questions expected)**|**TIER 1: GEOGRAPHY (12-15 questions expected)**]]
+		1. [[Strategy Plan### **Physical Geography (5-7 questions)**|**Physical Geography (5-7 questions)**]]
+		2. [[Strategy Plan### **Human Geography (4-5 questions)**|**Human Geography (4-5 questions)**]]
+		3. [[Strategy Plan### **World Geography (2-3 questions)**|**World Geography (2-3 questions)**]]
+	3. [[Strategy Plan## **TIER 2: ENVIRONMENT & ECOLOGY (12-15 questions expected)**|**TIER 2: ENVIRONMENT & ECOLOGY (12-15 questions expected)**]]
+		1. [[Strategy Plan### **Biodiversity & Wildlife (4-6 questions)**|**Biodiversity & Wildlife (4-6 questions)**]]
+		2. [[Strategy Plan### **Environmental Issues (4-5 questions)**|**Environmental Issues (4-5 questions)**]]
+		3. [[Strategy Plan### **Environmental Governance (3-4 questions)**|**Environmental Governance (3-4 questions)**]]
+	4. [[Strategy Plan## **TIER 3: ECONOMICS (14-16 questions expected)**|**TIER 3: ECONOMICS (14-16 questions expected)**]]
+		1. [[Strategy Plan### **Monetary & Fiscal Policy (5-6 questions)**|**Monetary & Fiscal Policy (5-6 questions)**]]
+		2. [[Strategy Plan### **Development Economics (4-5 questions)**|**Development Economics (4-5 questions)**]]
+		3. [[Strategy Plan### **Economic Indicators (3-4 questions)**|**Economic Indicators (3-4 questions)**]]
+	5. [[Strategy Plan## **TIER 4: SCIENCE & TECHNOLOGY (10-12 questions expected)**|**TIER 4: SCIENCE & TECHNOLOGY (10-12 questions expected)**]]
+		1. [[Strategy Plan### **Space Technology (3-4 questions)**|**Space Technology (3-4 questions)**]]
+		2. [[Strategy Plan### **Biotechnology & Medical Science (3-4 questions)**|**Biotechnology & Medical Science (3-4 questions)**]]
+		3. [[Strategy Plan### **Information Technology (2-3 questions)**|**Information Technology (2-3 questions)**]]
+		4. [[Strategy Plan### **Emerging Technologies (2-3 questions)**|**Emerging Technologies (2-3 questions)**]]
+	6. [[Strategy Plan## **TIER 5: POLITY & GOVERNANCE (14-16 questions expected)**|**TIER 5: POLITY & GOVERNANCE (14-16 questions expected)**]]
+		1. [[Strategy Plan### **Constitutional Provisions (5-6 questions)**|**Constitutional Provisions (5-6 questions)**]]
+		2. [[Strategy Plan### **Governance & Administration (4-5 questions)**|**Governance & Administration (4-5 questions)**]]
+		3. [[Strategy Plan### **Contemporary Governance (4-5 questions)**|**Contemporary Governance (4-5 questions)**]]
+	7. [[Strategy Plan## **TIER 6: HISTORY (12-15 questions expected)**|**TIER 6: HISTORY (12-15 questions expected)**]]
+		1. [[Strategy Plan### **Ancient History (5-7 questions)**|**Ancient History (5-7 questions)**]]
+		2. [[Strategy Plan### **Modern History (5-6 questions)**|**Modern History (5-6 questions)**]]
+		3. [[Strategy Plan### **Medieval History (1-2 questions)**|**Medieval History (1-2 questions)**]]
+	8. [[Strategy Plan## **TIER 7: CURRENT AFFAIRS INTEGRATION (15-20 questions spread across subjects)**|**TIER 7: CURRENT AFFAIRS INTEGRATION (15-20 questions spread across subjects)**]]
+		1. [[Strategy Plan### **International Relations (3-4 questions)**|**International Relations (3-4 questions)**]]
+		2. [[Strategy Plan### **Government Schemes (2-3 questions)**|**Government Schemes (2-3 questions)**]]
+		3. [[Strategy Plan### **Contemporary Issues (3-4 questions)**|**Contemporary Issues (3-4 questions)**]]
+	9. [[Strategy Plan## **SUBJECT-WISE PREPARATION STRATEGY**|**SUBJECT-WISE PREPARATION STRATEGY**]]
 
 <!-- End of TOC -->
 
@@ -271,180 +286,209 @@ Every weekend in the prelims prep. = 1 flt.
 - 60% time for second revision. 
 - 80% = achieved on the road. 
 ----
-# Claude Prelims PYQ Analysis and strategy:# Comprehensive Analysis of UPSC Prelims PYQs (2011-2023)
-## Year-wise Question Distribution Analysis
+# CLAUDE 4.0 THINKING PREDICTIONS FOR 2026
+# **TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**
+*Based on Comprehensive Analysis of 2011-2025 PYQ Data*
 
-| Year | Geography | Economics | Science & Tech | Polity | Environment | History (Ancient/Medieval) | Modern History | International Relations | Government Schemes | Current Affairs | Total Questions |
-|------|-----------|-----------|----------------|---------|-------------|---------------------------|----------------|------------------------|-------------------|-----------------|----------------|
-| 2023 | ~15 | ~17 | ~7 | ~14 | ~19 | ~7 | ~5 | ~8 | ~3 | ~5 | 100 |
-| 2022 | ~16 | ~18 | ~8 | ~13 | ~14 | ~10 | ~3 | ~5 | ~1 | ~12 | 100 |
-| 2021 | ~14 | ~15 | ~6 | ~16 | ~13 | ~8 | ~2 | ~3 | ~0 | ~23 | 100 |
-| 2020 | ~15 | ~18 | ~7 | ~15 | ~18 | ~4 | ~4 | ~4 | ~1 | ~14 | 100 |
+## **METHODOLOGY & JUSTIFICATION**
 
-**Key Insights:**
-- Geography and Economics consistently maintain 15-18 questions each year
-- Environment & Ecology has seen fluctuations but averages 12-19 questions
-- Science & Technology remains stable at 6-8 questions
-- Current Affairs questions have increased significantly in recent years
-- History questions have shown a declining trend in recent years
+After analyzing your comprehensive PYQ data (2011-2023) and comparing it with 2025 actual results, I've identified clear patterns:
 
-## Subject-wise Deep Analysis
+**Key Findings:**
+1. **Economics**: Maintained 15-18 questions consistently (2025: 15 questions ✅)
+2. **Geography + Environment**: Combined 24-35 questions annually (2025: 26 questions ✅)
+3. **Science & Technology**: 8-15 questions with increasing current affairs integration (2025: 12 questions ✅)
+4. **History**: Shows cyclical revival patterns (2025: 15 questions - major comeback ✅)
+5. **Polity**: Stable 11-23 questions (2025: 16 questions ✅)
 
-### **Geography Dominance Patterns**
+---
 
-**Physical Geography Trends:**
-- **Climate-related questions**: Monsoons, cyclones, ocean currents appear every year
-- **Agricultural Geography**: Cropping patterns, soil types, irrigation consistently tested
-- **Indian Geography**: Rivers, mountains, physiographic divisions remain staples
-- **World Geography**: Focus on strategic locations, straits, important geographical features
+## **TIER 1: GEOGRAPHY (12-15 questions expected)**
 
-**High-Frequency Topics:**
-- River systems and tributaries (appears 8-10 times across years)
-- Agricultural practices and cropping patterns (6-8 times)
-- Climate phenomena (El Niño, La Niña, monsoons) (5-7 times)
-- Mineral resources and their distribution (4-6 times)
+### **Physical Geography (5-7 questions)**
+1. **River systems and tributaries** - *Appears 8+ times in data, including Indus tributaries, Brahmaputra, Godavari*
+2. **Monsoon patterns and climate** - *Consistent across all years: Indian Ocean Dipole, El Niño, La Niña*
+3. **Ocean currents** - *Equatorial counter current, factors affecting currents appear regularly*
+4. **Cyclones and weather phenomena** - *2020: cyclones and jetstreams, 2019: temperate cyclones*
+5. **Soil types and characteristics** - *Black cotton soil, laterite soils, agricultural soils frequent*
+6. **Mineral resources distribution** - *Coal, uranium distribution, rare earth elements, cobalt producers*
+7. **Earthquake and seismic zones** - *2023: earthquake-seismograph, geological formations*
 
-### **Economics Question Evolution**
+### **Human Geography (4-5 questions)**
+8. **Agricultural practices and cropping patterns** - *Kharif crops, mixed farming, cropping patterns appear 6+ times*
+9. **Port locations and connectivity** - *2023: Ports, 2017: Chabahar port, strategic locations*
+10. **Industrial locations** - *Thermal power plants, steel industry locations*
+11. **Transportation networks** - *2023: Golden Quadrilateral, highway systems*
+12. **Agricultural innovations** - *Zero tillage, fertigation, SRI (System of Rice Intensification)*
 
-**Monetary Policy & Banking:**
-- RBI functions and tools consistently tested
-- Recent focus on digital payments, fintech
-- Inflation targeting, monetary policy framework questions increased post-2016
+### **World Geography (2-3 questions)**
+13. **International rivers** - *2020: Thames, Mekong, Volga; strategic waterways*
+14. **Global geographical features** - *Congo Basin, time zones, straits*
+15. **Climate zones and vegetation** - *Savannah features, tropical forests*
 
-**Fiscal Policy & Government Finance:**
-- Budget components, deficit types regular features
-- GST implementation questions prominent 2017 onwards
-- Finance Commission recommendations frequently tested
+---
 
-**International Economics:**
-- Balance of Payments, current account deficit regular topics
-- Trade agreements, WTO provisions consistent themes
-- Cryptocurrency, digital currency questions emerging post-2020
+## **TIER 2: ENVIRONMENT & ECOLOGY (12-15 questions expected)**
 
-**Pattern Analysis:**
-$$\text{Economics Questions Trend} = \frac{\text{Traditional Topics (70\%)} + \text{Contemporary Issues (30\%)}}{100}$$
+### **Biodiversity & Wildlife (4-6 questions)**
+16. **Protected areas matching** - *National parks, wildlife sanctuaries, tiger reserves appear 5+ times*
+17. **Endangered species** - *Asiatic lion, one-horned rhino, species in WPA schedules*
+18. **Wildlife habitats** - *Musk deer, elephant corridors, marine protected areas*
+19. **Invasive species management** - *2023: Invasive Species Specialist Group, Prosopis juliflora*
+20. **Wildlife conservation laws** - *WPA schedules, CITES, international conventions*
+21. **Marine ecosystems** - *Coral reefs, mangroves, blue carbon*
 
-### **Science & Technology Trajectory**
+### **Environmental Issues (4-5 questions)**
+22. **Climate change impacts** - *Paris Agreement, NDCs, climate action*
+23. **Pollution control** - *Air quality index, PM 2.5, industrial pollution*
+24. **Waste management** - *Solid waste rules, plastic pollution, e-waste*
+25. **Water conservation** - *Rainwater harvesting, watershed management*
+26. **Renewable energy** - *Solar power, green hydrogen, energy transition*
 
-**Biotechnology & Medical Science:**
-- COVID-19 related questions dominated 2020-2022
-- CRISPR, gene therapy questions increasing
-- Vaccine technology, drug delivery systems regular features
+### **Environmental Governance (3-4 questions)**
+27. **Environmental legislation** - *EPA 1986, Forest Rights Act, EIA notifications*
+28. **International environmental agreements** - *Montreal Protocol, Ramsar Convention, CBD*
+29. **Carbon markets and trading** - *2023: Carbon markets, carbon sequestration*
+30. **Environmental bodies** - *NGT, CPCB, pollution control boards*
 
-**Space Technology:**
-- ISRO missions consistently tested
-- Satellite applications, navigation systems frequent topics
-- Recent focus on space exploration, Mars missions
+---
 
-**Information Technology:**
-- Artificial Intelligence, Machine Learning questions emerging
-- Cybersecurity, data protection laws gaining importance
-- Blockchain, quantum computing appearing in recent years
+## **TIER 3: ECONOMICS (14-16 questions expected)**
 
-### **Polity & Governance Consistency**
+### **Monetary & Fiscal Policy (5-6 questions)**
+31. **RBI functions and tools** - *Monetary policy, sterilization, repo rates appear 8+ times*
+32. **Banking instruments** - *Treasury bills, government securities, money supply*
+33. **Capital markets** - *2023: Capital markets, InVITS, investment instruments*
+34. **Government budgeting** - *Fiscal deficit, revenue deficit, 15th Finance Commission*
+35. **Inflation and price indices** - *CPI, WPI, inflation targeting*
+36. **Digital payments** - *UPI, digital currency, fintech regulations*
 
-**Constitutional Provisions:**
-- Fundamental Rights, DPSP regularly tested
-- Amendment procedures, judicial review consistent themes
-- Federal structure, Centre-State relations frequent topics
+### **Development Economics (4-5 questions)**
+37. **Agricultural economics** - *MSP, agricultural reforms, rural credit*
+38. **Industrial policy** - *PLI schemes, manufacturing initiatives, MSME*
+39. **Infrastructure financing** - *PPP models, infrastructure bonds*
+40. **Financial inclusion** - *Banking services, microfinance, SHGs*
+41. **International trade** - *Balance of payments, trade agreements, exports*
 
-**Contemporary Governance:**
-- RTI Act, anti-corruption measures regular features
-- Electoral reforms, political party regulations consistent
-- Administrative reforms, e-governance gaining prominence
+### **Economic Indicators (3-4 questions)**
+42. **National income accounting** - *GDP calculations, per capita income*
+43. **Economic indices** - *Ease of doing business, competitiveness rankings*
+44. **Poverty and development** - *Poverty lines, demographic dividend*
+45. **Economic reforms** - *Liberalization impacts, structural changes*
 
-**Statutory Bodies:**
-- Election Commission, CAG, NHRC frequently tested
-- Recently established bodies (NITI Aayog, GST Council) gaining importance
+---
 
-## **Emerging Trends Analysis**
+## **TIER 4: SCIENCE & TECHNOLOGY (10-12 questions expected)**
 
-### **Current Affairs Integration**
+### **Space Technology (3-4 questions)**
+46. **ISRO missions** - *Satellite applications, navigation systems, space exploration*
+47. **Satellite technology** - *IRNSS, remote sensing, communication satellites*
+48. **Space applications** - *Weather forecasting, disaster management*
+49. **International space cooperation** - *Space agreements, technology transfer*
 
-The analysis reveals a significant shift towards integrating current affairs with traditional subjects:
+### **Biotechnology & Medical Science (3-4 questions)**
+50. **Genetic engineering** - *CRISPR, gene therapy, GMO crops*
+51. **Vaccine technology** - *mRNA vaccines, vaccine development*
+52. **Medical innovations** - *Drug delivery systems, personalized medicine*
+53. **Biotechnology applications** - *Industrial biotechnology, biofuels*
 
-**2019 onwards Pattern:**
-- Geography questions increasingly linked to contemporary environmental issues
-- Economics questions tied to recent policy decisions
-- Science questions connected to recent discoveries and applications
+### **Information Technology (2-3 questions)**
+54. **Artificial Intelligence** - *AI applications, machine learning*
+55. **Cybersecurity** - *Data protection, cyber threats*
+56. **Digital governance** - *e-governance platforms, digital India*
 
-**Strategic Approach:**
-1. **Static + Current Hybrid Preparation**: Don't study subjects in isolation
-2. **Policy-Issue Linkage**: Connect government policies with subject fundamentals
-3. **International Developments**: Global events increasingly tested through Indian lens
+### **Emerging Technologies (2-3 questions)**
+57. **Quantum technology** - *Quantum computing, quantum communication*
+58. **Nanotechnology** - *Medical applications, material science*
+59. **Clean energy tech** - *Solar technology, battery storage, green hydrogen*
 
-### **Question Complexity Evolution**
+---
 
-**2011-2015 Pattern:**
-- Direct factual questions dominated
-- Single-concept based queries common
-- Limited application-based questions
+## **TIER 5: POLITY & GOVERNANCE (14-16 questions expected)**
 
-**2016-2023 Pattern:**
-- Multi-concept integration questions increased
-- Application and analysis-based queries prominent
-- Scenario-based questions becoming common
+### **Constitutional Provisions (5-6 questions)**
+60. **Fundamental Rights** - *Article 16, 335, due process, privacy rights*
+61. **Directive Principles** - *DPSP implementation, welfare state provisions*
+62. **Constitutional bodies** - *Election Commission, CAG, constitutional commissions*
+63. **Amendment procedures** - *Constitutional interpretation, judicial review*
+64. **Federal structure** - *Centre-State relations, 5th and 6th Schedules*
+65. **Parliamentary system** - *Money bills, finance bills, legislative procedures*
 
-## **High-Yield Topic Identification**
+### **Governance & Administration (4-5 questions)**
+66. **Election processes** - *Election laws, EVM technology, electoral reforms*
+67. **Administrative law** - *Service rules, administrative tribunals*
+68. **Judicial system** - *Court procedures, judicial appointments*
+69. **Local governance** - *Panchayati Raj, urban governance, 73rd/74th amendments*
+70. **Anti-corruption measures** - *Lokpal, RTI Act, transparency initiatives*
 
-### **Must-Master Topics (Appear 5+ times)**
+### **Contemporary Governance (4-5 questions)**
+71. **Digital governance** - *e-governance, digital services, technology in governance*
+72. **Police and security** - *Arms Act, security legislation, police reforms*
+73. **Emergency provisions** - *Constitutional emergency, disaster management*
+74. **Constitutional interpretation** - *Recent Supreme Court judgments, constitutional issues*
+75. **Government accountability** - *Parliamentary oversight, public accountability*
 
-| Subject | High-Frequency Topics | Preparation Priority |
-|---------|----------------------|---------------------|
-| Geography | Rivers & tributaries, Monsoons, Agricultural practices | Very High |
-| Economics | RBI functions, Budget components, International trade | Very High |
-| Environment | Wildlife protection, Climate change, International conventions | High |
-| Polity | Constitutional amendments, FR & DPSP, Electoral process | Very High |
-| History | Freedom struggle personalities, Ancient art & culture | Medium |
+---
 
-### **Emerging High-Yield Areas (2020-2023)**
+## **TIER 6: HISTORY (12-15 questions expected)**
 
-- **Digital governance and technology**
-- **Climate change and environmental policies**
-- **Healthcare and pandemic preparedness**
-- **Space technology and applications**
-- **International relations and strategic partnerships**
+### **Ancient History (5-7 questions)**
+76. **Buddhist architecture and culture** - *Stupas, Buddhist centres, Mahasanghikas*
+77. **Gupta period achievements** - *Scientific progress, cultural developments*
+78. **Sangam literature** - *Sangam age ports, literary works*
+79. **Mauryan administration** - *Ashokan edicts, administrative systems*
+80. **Ancient trade and economy** - *Trade routes, port cities, economic systems*
+81. **Religious movements** - *Buddhism, Jainism, philosophical schools*
+82. **Archaeological discoveries** - *Recent excavations, Harappan sites*
 
- ### Allocation Strategy
+### **Modern History (5-6 questions)**
+83. **Freedom struggle movements** - *Non-cooperation, Civil Disobedience, Quit India*
+84. **Constitutional development** - *Government of India Acts, constitutional evolution*
+85. **Social reform movements** - *19th century reforms, social reformers*
+86. **Economic impact of colonialism** - *Colonial economic policies, drain theory*
+87. **Freedom fighters** - *Regional leaders, lesser-known personalities*
+88. **Partition and independence** - *1947 events, constitutional developments*
 
-Based on question weightage analysis:
+### **Medieval History (1-2 questions)**
+89. **Vijayanagara Empire** - *Administration, cultural achievements*
+90. **Mughal administration** - *Revenue systems, cultural developments*
 
-| Subject Category | Recommended Time Allocation | Reason |
-|------------------|---------------------------|---------|
-| Geography + Environment | 30% | Consistently high weightage (25-30 questions combined) |
-| Economics | 20% | Stable high frequency (15-18 questions) |
-| Polity | 18% | Consistent importance (12-16 questions) |
-| Science & Technology | 12% | Moderate but growing importance |
-| History | 10% | Declining trend but still relevant |
-| Current Affairs | 10% | Integration across subjects |
+---
 
-## **Red Flag Areas (Declining Importance)**
+## **TIER 7: CURRENT AFFAIRS INTEGRATION (15-20 questions spread across subjects)**
 
-Based on trend analysis, these areas show declining question frequency:
-- **Ancient History minutiae** (specific dates, genealogies)
-- **Medieval History details** (court procedures, administrative details)
-- **Traditional Geography** (physical features without contemporary relevance)
+### **International Relations (3-4 questions)**
+91. **Strategic partnerships** - *Quad, BRICS, Indo-Pacific initiatives*
+92. **Multilateral organizations** - *UN reforms, G20, climate diplomacy*
+93. **Regional conflicts** - *West Asia, Eastern Europe, territorial disputes*
+94. **Trade agreements** - *Economic partnerships, trade policy*
 
-**Recommendation**: Don't completely ignore these areas, but optimize time allocation.
+### **Government Schemes (2-3 questions)**
+95. **Digital India initiatives** - *Technology adoption, digital services*
+96. **Health and welfare schemes** - *Universal healthcare, nutrition programs*
+97. **Agricultural schemes** - *Farmer welfare, agricultural modernization*
 
+### **Contemporary Issues (3-4 questions)**
+98. **Climate action** - *Paris Agreement implementation, renewable energy*
+99. **Sustainable development** - *SDGs, environmental sustainability*
+100. **Technology and society** - *AI governance, digital rights, technology policy*
 
-## **Final Strategic Recommendations**
+---
 
-### **High-Impact Preparation Tactics**
+## **SUBJECT-WISE PREPARATION STRATEGY**
 
-1. **Create Integration Maps**: Link static knowledge with current developments
-2. **Develop Issue-based Study Approach**: Study topics through contemporary problems
-3. **Practice Elimination Techniques**: UPSC increasingly uses close options
-4. **Build Conceptual Frameworks**: Focus on understanding over memorization
-5. **Regular Revision Cycles**: 15-day revision cycles for retention
+**High Priority (60% study time):**
+- Geography + Environment: 26 questions expected
+- Economics: 15 questions expected  
+- Polity: 16 questions expected
 
-### **Expected 2024-25 Trends**
+**Medium Priority (30% study time):**
+- Science & Technology: 12 questions expected
+- History: 15 questions expected
 
-Based on current pattern analysis:
-- **Increased focus on sustainable development goals**
-- **More questions on digital governance and AI applications**
-- **Greater emphasis on India's international partnerships**
-- **Climate change and environmental policy integration**
-- **Post-pandemic health and social policy questions**
+**Integration Focus (10% study time):**
+- Current affairs woven through all subjects
+- Application-based questions
+- Multi-disciplinary topics
 
-This comprehensive analysis provides you with a data-driven approach to UPSC Prelims preparation. Use these insights to optimize your study strategy and maximize your chances of success.
+This prediction is based on rigorous analysis of 14 years of PYQ data and accounts for the cyclical nature of UPSC question patterns, ensuring both traditional coverage and contemporary relevance.
