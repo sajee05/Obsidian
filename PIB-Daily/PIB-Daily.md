@@ -213,6 +213,10 @@ columns:
     options:
       - { label: "What is this article about in 1 word. (all small letters)", value: "What is this article about in 1 word. (all small letters)", color: "hsl(251, 95%, 90%)"}
       - { label: "SUBTOPIC", value: "SUBTOPIC", color: "hsl(282, 95%, 90%)"}
+      - { label: "Infrastructure Development", value: "Infrastructure Development", color: "hsl(205, 95%, 90%)"}
+      - { label: "Economic Growth", value: "Economic Growth", color: "hsl(4, 95%, 90%)"}
+      - { label: "Sustainable Development", value: "Sustainable Development", color: "hsl(193, 95%, 90%)"}
+      - { label: "Regional Connectivity", value: "Regional Connectivity", color: "hsl(119, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
