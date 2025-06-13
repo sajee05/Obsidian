@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 240
+    width: 315
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -38,7 +38,7 @@ columns:
     key: imp
     id: imp
     label: relevance
-    position: 5
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -63,10 +63,12 @@ columns:
     key: date
     id: date
     label: date
-    position: 7
+    position: 5
     skipPersist: false
     isHidden: false
-    sortIndex: -1
+    sortIndex: 1
+    isSorted: true
+    isSortedDesc: true
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -82,7 +84,7 @@ columns:
     key: subject
     id: subject
     label: subject
-    position: 8
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -141,7 +143,7 @@ columns:
     key: difficulty
     id: difficulty
     label: difficulty
-    position: 6
+    position: 9
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -208,7 +210,7 @@ columns:
     key: Subtopic
     id: date_1
     label: Topics
-    position: 9
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -345,6 +347,37 @@ columns:
       - { label: "Statutory bodies", value: "Statutory bodies", color: "hsl(115, 95%, 90%)"}
       - { label: "Anti-corruption institutions", value: "Anti-corruption institutions", color: "hsl(6, 95%, 90%)"}
       - { label: "Transparency and accountability mechanisms", value: "Transparency and accountability mechanisms", color: "hsl(171, 95%, 90%)"}
+      - { label: "Role of Civil Services in a Democracy", value: "Role of Civil Services in a Democracy", color: "hsl(338, 95%, 90%)"}
+      - { label: "Ethics and Integrity in Public Administration", value: "Ethics and Integrity in Public Administration", color: "hsl(254, 95%, 90%)"}
+      - { label: "Training of Civil Servants", value: "Training of Civil Servants", color: "hsl(135, 95%, 90%)"}
+      - { label: "Role of Prime Minister", value: "Role of Prime Minister", color: "hsl(91, 95%, 90%)"}
+      - { label: "Disaster management", value: "Disaster management", color: "hsl(19, 95%, 90%)"}
+      - { label: "Technological Innovation", value: "Technological Innovation", color: "hsl(280, 95%, 90%)"}
+      - { label: "Indian Culture", value: "Indian Culture", color: "hsl(355, 95%, 90%)"}
+      - { label: "International Institutions", value: "International Institutions", color: "hsl(47, 95%, 90%)"}
+      - { label: "Health and Wellness Initiatives", value: "Health and Wellness Initiatives", color: "hsl(99, 95%, 90%)"}
+      - { label: "Agricultural policies", value: "Agricultural policies", color: "hsl(19, 95%, 90%)"}
+      - { label: "Minimum Support Price (MSP)", value: "Minimum Support Price (MSP)", color: "hsl(35, 95%, 90%)"}
+      - { label: "Government schemes for farmers", value: "Government schemes for farmers", color: "hsl(252, 95%, 90%)"}
+      - { label: "Food security", value: "Food security", color: "hsl(315, 95%, 90%)"}
+      - { label: "Agricultural policies and schemes", value: "Agricultural policies and schemes", color: "hsl(115, 95%, 90%)"}
+      - { label: "Farmer welfare", value: "Farmer welfare", color: "hsl(243, 95%, 90%)"}
+      - { label: "Sustainable agriculture", value: "Sustainable agriculture", color: "hsl(151, 95%, 90%)"}
+      - { label: "Infrastructure (Roads", value: "Infrastructure (Roads", color: "hsl(54, 95%, 90%)"}
+      - { label: "Railways", value: "Railways", color: "hsl(7, 95%, 90%)"}
+      - { label: "Ports)", value: "Ports)", color: "hsl(129, 95%, 90%)"}
+      - { label: "PM GatiShakti National Master Plan", value: "PM GatiShakti National Master Plan", color: "hsl(303, 95%, 90%)"}
+      - { label: "Logistics and Supply Chain Management", value: "Logistics and Supply Chain Management", color: "hsl(131, 95%, 90%)"}
+      - { label: "Urban Development", value: "Urban Development", color: "hsl(24, 95%, 90%)"}
+      - { label: "Trade and Investment Agreements", value: "Trade and Investment Agreements", color: "hsl(145, 95%, 90%)"}
+      - { label: "Green energy and sustainable development", value: "Green energy and sustainable development", color: "hsl(24, 95%, 90%)"}
+      - { label: "Coastal Security", value: "Coastal Security", color: "hsl(272, 95%, 90%)"}
+      - { label: "Energy Security", value: "Energy Security", color: "hsl(127, 95%, 90%)"}
+      - { label: "Inter-Agency Coordination", value: "Inter-Agency Coordination", color: "hsl(150, 95%, 90%)"}
+      - { label: "Offshore Security", value: "Offshore Security", color: "hsl(166, 95%, 90%)"}
+      - { label: "Bilateral relations (India-Sri Lanka)", value: "Bilateral relations (India-Sri Lanka)", color: "hsl(139, 95%, 90%)"}
+      - { label: "Defence cooperation", value: "Defence cooperation", color: "hsl(88, 95%, 90%)"}
+      - { label: "Regional security", value: "Regional security", color: "hsl(236, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
