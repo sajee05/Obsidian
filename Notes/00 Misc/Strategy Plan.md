@@ -29,47 +29,6 @@
 			2. [[Strategy Plan#### Mains: |Mains: ]]
 			3. [[Strategy Plan#### Current affairs : |Current affairs : ]]
 			4. [[Strategy Plan#### Planning:|Planning:]]
-9. [[Strategy Plan# CLAUDE 4.0 THINKING PREDICTIONS FOR 2026|CLAUDE 4.0 THINKING PREDICTIONS FOR 2026]]
-	1. [[Strategy Plan## **TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**|**TOP 100 TOPIC PREDICTIONS FOR UPSC PRELIMS 2026**]]
-	2. [[Strategy Plan## **METHODOLOGY & JUSTIFICATION**|**METHODOLOGY & JUSTIFICATION**]]
-	3. [[Strategy Plan## **TIER 1: GEOGRAPHY (12-15 questions expected)**|**TIER 1: GEOGRAPHY (12-15 questions expected)**]]
-		1. [[Strategy Plan### **Physical Geography (5-7 questions)**|**Physical Geography (5-7 questions)**]]
-		2. [[Strategy Plan### **Human Geography (4-5 questions)**|**Human Geography (4-5 questions)**]]
-		3. [[Strategy Plan### **World Geography (2-3 questions)**|**World Geography (2-3 questions)**]]
-	4. [[Strategy Plan## **TIER 2: ENVIRONMENT & ECOLOGY (12-15 questions expected)**|**TIER 2: ENVIRONMENT & ECOLOGY (12-15 questions expected)**]]
-		1. [[Strategy Plan### **Biodiversity & Wildlife (4-6 questions)**|**Biodiversity & Wildlife (4-6 questions)**]]
-		2. [[Strategy Plan### **Environmental Issues (4-5 questions)**|**Environmental Issues (4-5 questions)**]]
-		3. [[Strategy Plan### **Environmental Governance (3-4 questions)**|**Environmental Governance (3-4 questions)**]]
-	5. [[Strategy Plan## **TIER 3: ECONOMICS (14-16 questions expected)**|**TIER 3: ECONOMICS (14-16 questions expected)**]]
-		1. [[Strategy Plan### **Monetary & Fiscal Policy (5-6 questions)**|**Monetary & Fiscal Policy (5-6 questions)**]]
-		2. [[Strategy Plan### **Development Economics (4-5 questions)**|**Development Economics (4-5 questions)**]]
-		3. [[Strategy Plan### **Economic Indicators (3-4 questions)**|**Economic Indicators (3-4 questions)**]]
-	6. [[Strategy Plan## **TIER 4: SCIENCE & TECHNOLOGY (10-12 questions expected)**|**TIER 4: SCIENCE & TECHNOLOGY (10-12 questions expected)**]]
-		1. [[Strategy Plan### **Space Technology (3-4 questions)**|**Space Technology (3-4 questions)**]]
-		2. [[Strategy Plan### **Biotechnology & Medical Science (3-4 questions)**|**Biotechnology & Medical Science (3-4 questions)**]]
-		3. [[Strategy Plan### **Information Technology (2-3 questions)**|**Information Technology (2-3 questions)**]]
-		4. [[Strategy Plan### **Emerging Technologies (2-3 questions)**|**Emerging Technologies (2-3 questions)**]]
-	7. [[Strategy Plan## **TIER 5: POLITY & GOVERNANCE (14-16 questions expected)**|**TIER 5: POLITY & GOVERNANCE (14-16 questions expected)**]]
-		1. [[Strategy Plan### **Constitutional Provisions (5-6 questions)**|**Constitutional Provisions (5-6 questions)**]]
-		2. [[Strategy Plan### **Governance & Administration (4-5 questions)**|**Governance & Administration (4-5 questions)**]]
-		3. [[Strategy Plan### **Contemporary Governance (4-5 questions)**|**Contemporary Governance (4-5 questions)**]]
-	8. [[Strategy Plan## **TIER 6: HISTORY (12-15 questions expected)**|**TIER 6: HISTORY (12-15 questions expected)**]]
-		1. [[Strategy Plan### **Ancient History (5-7 questions)**|**Ancient History (5-7 questions)**]]
-		2. [[Strategy Plan### **Modern History (5-6 questions)**|**Modern History (5-6 questions)**]]
-		3. [[Strategy Plan### **Medieval History (1-2 questions)**|**Medieval History (1-2 questions)**]]
-	9. [[Strategy Plan## **TIER 7: CURRENT AFFAIRS INTEGRATION (15-20 questions spread across subjects)**|**TIER 7: CURRENT AFFAIRS INTEGRATION (15-20 questions spread across subjects)**]]
-		1. [[Strategy Plan### **International Relations (3-4 questions)**|**International Relations (3-4 questions)**]]
-		2. [[Strategy Plan### **Government Schemes (2-3 questions)**|**Government Schemes (2-3 questions)**]]
-		3. [[Strategy Plan### **Contemporary Issues (3-4 questions)**|**Contemporary Issues (3-4 questions)**]]
-	10. [[Strategy Plan## **SUBJECT-WISE PREPARATION STRATEGY**|**SUBJECT-WISE PREPARATION STRATEGY**]]
-10. [[Strategy Plan# **100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026** (claude 4.0 thinking) |**100 SPECIFIC TOPIC PREDICTIONS FOR UPSC PRELIMS 2026** (claude 4.0 thinking) ]]
-	1. [[Strategy Plan## **GEOGRAPHY (15 questions)**|**GEOGRAPHY (15 questions)**]]
-	2. [[Strategy Plan## **ENVIRONMENT & ECOLOGY (13 questions)**|**ENVIRONMENT & ECOLOGY (13 questions)**]]
-	3. [[Strategy Plan## **ECONOMICS (15 questions)**|**ECONOMICS (15 questions)**]]
-	4. [[Strategy Plan## **SCIENCE & TECHNOLOGY (12 questions)**|**SCIENCE & TECHNOLOGY (12 questions)**]]
-	5. [[Strategy Plan## **POLITY & GOVERNANCE (16 questions)**|**POLITY & GOVERNANCE (16 questions)**]]
-	6. [[Strategy Plan## **HISTORY (15 questions)**|**HISTORY (15 questions)**]]
-	7. [[Strategy Plan## **CURRENT AFFAIRS INTEGRATION (14 questions)**|**CURRENT AFFAIRS INTEGRATION (14 questions)**]]
 
 <!-- End of TOC -->
 
@@ -129,7 +88,7 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 | **December** |     |     |
 # Prelims
 - 4 CORE + ENV AND S/T + THEIR MAINS
-- Forum PYQ analysis document. - read twice.
+- Forum PYQ analysis/ CSE WHY DOCMENT document. - read twice.
 - Power of PYQ lectures.
 - Ascend → forum toolkit. 
 # Current Affairs 
