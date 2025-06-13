@@ -30,52 +30,6 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      wrap_content: true
-  Type:
-    input: tags
-    accessorKey: Type
-    key: Type
-    id: Type
-    label: Type
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "mnemonics", value: "mnemonics", color: "hsl(266, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      option_source: manual
-      wrap_content: true
-  Relevance:
-    input: tags
-    accessorKey: Relevance
-    key: Relevance
-    id: Relevance
-    label: Relevance
-    position: 100
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    options:
-      - { label: "Mains", value: "Mains", color: "hsl(329, 95%, 90%)"}
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      wrap_content: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
