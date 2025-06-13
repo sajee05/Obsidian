@@ -7,12 +7,13 @@ tags:
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
 ---
- 
+###  [[01 PYQs|PYQs]]
 [[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || 📜 [[Z9 Clippings]] 
 
 ---
 
-##### [[PIB-Daily]] 
+##### [[PIB-Daily]]
+
 ### 🏢 [[MOC Prelims and Foundation|CORE]] *prelims GS, lectures and foundation*
  - 🔢 [[MOC - CSAT|CSAT]]
  - 🧠 [[Mock Test Prelims|MCQ Mocks Test Learnings]] 
