@@ -1,6 +1,5 @@
 ---
-tags:
-  - linker-exclude
+tags: []
 ---
 * {{date}}
 #### Inter-linkages
