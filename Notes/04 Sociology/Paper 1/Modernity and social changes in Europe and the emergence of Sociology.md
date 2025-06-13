@@ -6,13 +6,15 @@ tags: []
 
 #### Topics To-do: 
 - pyq themes
-	- Modernity [[Topic 1. Sociology Fundamentals (133 questions)#A. Unit 1. Sociology - The Discipline (44 questions)|pyqs]]
+	- Modernity [[Topic 1. Sociology Fundamentals (133 questions)#modernity and social changes in Europe and emergence of Sociology (8 questions)|PYQ]]
 		- [ ] modernitsation 
 		- [ ] how emergence of socio links w modernsn in europe
 		- [ ] emergence ⬅️ outcome of modernity and social change in europe. - in a sociological perspective. 
 		- [ ] socio emerged in europe and flourished in USA - comment
 		- [ ] socio (pre-eminently) = study of modern soceity? discuss. 
-		- [ ] discuss 
+		- [ ] discuss historical antecedents of emergence of socio as discipline.
+		- [ ] europe = first and only place where modernity emerged.
+		- [ ] tradition and modernity = antithetical? comment. 
 
 - static concepts
 	- 
