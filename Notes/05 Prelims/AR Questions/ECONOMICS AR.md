@@ -836,8 +836,8 @@ IAS PCS Pathshala
 ## Inclusive Growth and Issues
 ### 8.1 Inclusive Growth
 1. What is inclusive growth, and why is it important for India's socio-economic development?
-2. Discuss the challenges in achieving inclusive growth in India.
-3. What are the key components of inclusive growth? Explain with examples.
+2. **Discuss the challenges in achieving inclusive growth in India.**
+3. **What are the key components of inclusive growth? Explain with examples.**
 4. How can inclusive growth address issues of poverty and unemployment?
 5. Explain the role of government schemes like MGNREGA and PM Jan Dhan Yojana in promoting inclusive growth.
 

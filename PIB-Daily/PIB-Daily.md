@@ -379,6 +379,16 @@ columns:
       - { label: "Bilateral relations (India-Sri Lanka)", value: "Bilateral relations (India-Sri Lanka)", color: "hsl(139, 95%, 90%)"}
       - { label: "Defence cooperation", value: "Defence cooperation", color: "hsl(88, 95%, 90%)"}
       - { label: "Regional security", value: "Regional security", color: "hsl(236, 95%, 90%)"}
+      - { label: "Inflation", value: "Inflation", color: "hsl(38, 95%, 90%)"}
+      - { label: "Consumer Price Index", value: "Consumer Price Index", color: "hsl(319, 95%, 90%)"}
+      - { label: "Economic Indicators", value: "Economic Indicators", color: "hsl(301, 95%, 90%)"}
+      - { label: "Price Stability", value: "Price Stability", color: "hsl(240, 95%, 90%)"}
+      - { label: "Public Health and Healthcare Delivery", value: "Public Health and Healthcare Delivery", color: "hsl(211, 95%, 90%)"}
+      - { label: "Medical Education", value: "Medical Education", color: "hsl(117, 95%, 90%)"}
+      - { label: "Social Security and Welfare Schemes", value: "Social Security and Welfare Schemes", color: "hsl(149, 95%, 90%)"}
+      - { label: "Technology in Healthcare", value: "Technology in Healthcare", color: "hsl(187, 95%, 90%)"}
+      - { label: "Indian Classical Dance", value: "Indian Classical Dance", color: "hsl(61, 95%, 90%)"}
+      - { label: "Cultural Awards", value: "Cultural Awards", color: "hsl(140, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
