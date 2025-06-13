@@ -838,15 +838,15 @@ IAS PCS Pathshala
 1. What is inclusive growth, and why is it important for India's socio-economic development?
 2. **Discuss the challenges in achieving inclusive growth in India.**
 3. **What are the key components of inclusive growth? Explain with examples.**
-4. How can inclusive growth address issues of poverty and unemployment?
-5. Explain the role of government schemes like MGNREGA and PM Jan Dhan Yojana in promoting inclusive growth.
+4. **How can inclusive growth address issues of poverty and unemployment?**
+5. Explain the role of government schemes like MGNREGA and **PM Jan Dhan Yojana in promoting inclusive growth.**
 
 ### 8.2 Poverty Estimation in India
-1. What are the different methods used to estimate poverty in India?
-2. Discuss the Tendulkar Committee's recommendations for poverty estimation.
-3. How does the Rangarajan Committee's methodology differ from earlier poverty estimation methods?
-4. What are the criticisms of poverty estimation methods in India?
-5. How do multidimensional poverty indices (MPI) provide a holistic view of poverty?
+1. **What are the different methods used to estimate poverty in India?**
+2. **Discuss the Tendulkar Committee's recommendations for poverty estimation.**
+3. **How does the Rangarajan Committee's methodology differ from earlier poverty estimation methods?**
+4. **What are the criticisms of poverty estimation methods in India?**
+5. **How do multidimensional poverty indices (MPI) provide a holistic view of poverty?**
 
 ### 8.3 Demographic Dividend
 1. What is the demographic dividend, and how can India benefit from it?
