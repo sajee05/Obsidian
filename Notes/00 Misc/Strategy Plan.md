@@ -87,7 +87,7 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 | **November** |     |     |
 | **December** |     |     |
 # Prelims
-- 4 CORE + ENV AND S/T + THEIR MAINS
+- **4** CORE + **2** Prelims heavy ENV AND S/T + THEIR MAINS
 - Forum PYQ analysis/ CSE WHY DOCMENT document. - read twice.
 - Power of PYQ lectures.
 - Ascend → forum toolkit. 
