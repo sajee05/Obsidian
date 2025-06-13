@@ -19,11 +19,21 @@ tags: []
 		- [ ] socio = biproduct of IR? 
 		- [ ] FR And IR's role in emergence of socio
 	- Enlightenment and renaissance [[Topic 1. Sociology Fundamentals (133 questions)#Enlightenment and Renaissance (8 questions)|PYQ]]
-		- [ ] short note: intellectual sources for the rise of socio (2)
-		- [ ] short note: ideology and emergence of socio
-		- [ ] short note: intellectual bg for emeg
-- static concepts
-	- 
+		- [ ] Intellectual sources/background for rise of Sociology (1994, 2006, 2020)
+		- [ ] Ideology and emergence of sociology (1993)
+		- [ ] Enlightenment's contribution (aspects that paved way) to emergence of Sociology (2015, 2017, 2022, 2024)
+		- [ ] Renaissance's contribution to emergence of Sociology (2024) - **critically analyse.**
+		- [ ] Rationality and scientific temper in emergence of sociology (2017)
+- static concepts other than pyqs
+	- [ ] darkages
+	- [ ] renaissance
+	- [ ] commercial revoln
+	- [ ] scienitfic revolution
+	- [ ] enlightenment period
+	- [ ] french revolnt
+	- [ ] IR
+- topper keywords
+
 ---
 ## Topic 1
 ### Subtopic
