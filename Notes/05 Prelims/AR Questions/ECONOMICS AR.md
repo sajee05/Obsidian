@@ -852,8 +852,8 @@ IAS PCS Pathshala
 1. What is the demographic dividend, and how can India benefit from it?
 2. Discuss the challenges India faces in leveraging its demographic dividend.
 3. How does the demographic transition impact economic growth?
-4. Explain the role of education and skill development in maximizing the demographic dividend.
-5. Compare India's demographic dividend with that of other countries like China.
+4. **Explain the role of education and skill development in maximizing the demographic dividend.**
+5. **Compare India's demographic dividend with that of other countries like China.**
 
 ### 8.4 Labour Laws in India
 1. What are the main labour laws in India, and how do they regulate employment?
