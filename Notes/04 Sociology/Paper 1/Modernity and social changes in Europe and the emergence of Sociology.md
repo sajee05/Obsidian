@@ -15,7 +15,9 @@ tags: []
 		- [ ] discuss historical antecedents of emergence of socio as discipline.
 		- [ ] europe = first and only place where modernity emerged.
 		- [ ] tradition and modernity = antithetical? comment. 
-
+	- French revolution [[1. GS1#French Revolution (3 questions)|pyq]]
+		- [ ] had fr anything to do w socio in europe?
+		- [ ] 
 - static concepts
 	- 
 ---
