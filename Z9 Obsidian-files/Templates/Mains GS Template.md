@@ -2,6 +2,7 @@
 tags: []
 ---
 * {{date}}
+ - [ ] lecture
 #### Inter-linkages
 * (relevant syllabus pointers here- prelims, mains, socio)
 #### Topics To-do: 

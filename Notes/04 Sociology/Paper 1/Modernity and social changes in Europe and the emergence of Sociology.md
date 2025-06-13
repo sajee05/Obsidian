@@ -3,7 +3,7 @@ tags: []
 ---
 * 2025-06-13
 
-
+- [ ] lecture
 #### Topics To-do: 
 - **pyq themes**
 	- Modernity [[Topic 1. Sociology Fundamentals (133 questions)#modernity and social changes in Europe and emergence of Sociology (8 questions)|PYQ]]
@@ -33,7 +33,7 @@ tags: []
 	- [ ] french revolnt
 	- [ ] IR
 - **topper keywords**
-	
+	- 
 
 ---
 ## Topic 1

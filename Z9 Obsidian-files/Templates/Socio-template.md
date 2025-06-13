@@ -1,6 +1,6 @@
 * {{date}}
 
-
+- [ ] lecture
 #### Topics To-do: 
 - **pyq themes**
 	- 
