@@ -5,7 +5,17 @@ tags: []
 #### Inter-linkages
 * (relevant syllabus pointers here- prelims, mains, socio)
 #### Topics To-do: 
-- [x] PYQ Topics / headings / Themes / Static.
+- **pyq themes**
+	- 
+		- [ ] 
+	- 
+		- [ ] 
+	-  
+		- [ ] 
+- **static concepts other than pyqs**
+	- [ ] 
+- **topper keywords**
+	- 
 
 ---
 ## Topic 1

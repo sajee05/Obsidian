@@ -33,7 +33,7 @@ tags: []
 	- [ ] french revolnt
 	- [ ] IR
 - topper keywords
-
+	
 
 ---
 ## Topic 1
@@ -44,4 +44,8 @@ tags: []
 
 #### Conclusion
 
-#### Important Keywords
+#### Important Keywords and thinkers
+
+| **THINKERS** | **KEYWORDS** |
+| ------------ | ------------ |
+|              |              |

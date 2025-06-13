@@ -73,7 +73,7 @@
 
 <!-- End of TOC -->
 
-### CHECK AIR 16 MAINS NOTES - all 4 GS: Convert to Docx --> copy paste topic by topic following [[Mains Notes]] template.
+### CHECK AIR 16 MAINS NOTES - all 4 GS: Convert to Docx --> copy paste topic by topic following [[Mains GS Template]] template.
 # TODO
 
 ## Monthly AT ANY COST Targets

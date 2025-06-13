@@ -1,0 +1,30 @@
+* {{date}}
+
+
+#### Topics To-do: 
+- **pyq themes**
+	- 
+		- [ ] 
+	- 
+		- [ ] 
+	-  
+		- [ ] 
+- **static concepts other than pyqs**
+	- [ ] 
+- **topper keywords**
+	- 
+
+---
+## Topic 1
+### Subtopic
+#### Introduction
+
+#### Body
+
+#### Conclusion
+
+#### Important Keywords and thinkers
+
+| **THINKERS** | **KEYWORDS** |
+| ------------ | ------------ |
+|              |              |
