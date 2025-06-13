@@ -5,7 +5,7 @@
 1. Write short note: Modernisation. (1991-20M)
 2. How is emergence of sociology linked with modernisation of Europe? (2008-60M)
 3. Write short note on: Emergence of Sociology is an outcome of modernity and social change in Europe, keeping sociological Perspective in view. (2011-12M)
-4. “Sociology emerged in Europe and flourished to begin with on social reformist orientation in the U.S.A." -Comment. (150 words) (2013-10M)
+4. “Sociology emerged in Europe and flourished to begin with a social reformist orientation in the U.S.A." -Comment. (150 words) (2013-10M)
 5. “Sociology is pre-eminently study of modern societies." Discuss. (2016-10M)
 6. Discuss the historical antecedents of the emergence of Sociology as a discipline. (2019-10M)
 7. Europe was the first and the only place where modernity emerged. Comment. (2021-10M)
