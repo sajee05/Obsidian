@@ -1,10 +1,10 @@
 {
-  "cssTheme": "Royal Velvet",
+  "cssTheme": "Primary",
   "accentColor": "#8e68f8",
   "baseFontSize": 18,
   "baseFontSizeAction": true,
   "nativeMenus": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "showRibbon": true,
   "interfaceFontFamily": "",
   "textFontFamily": "Calibri"
