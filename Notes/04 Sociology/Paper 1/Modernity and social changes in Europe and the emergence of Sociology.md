@@ -7,12 +7,11 @@ tags: []
 #### Topics To-do: 
 - pyq themes
 	- Modernity [[Topic 1. Sociology Fundamentals (133 questions)#modernity and social changes in Europe and emergence of Sociology (8 questions)|PYQ]]
-		- [ ] modernitsation 
-		- [ ] how emergence of socio links w modernsn in europe
-		- [ ] emergence ⬅️ outcome of modernity and social change in europe. - in a sociological perspective. 
-		- [ ] socio emerged in europe and flourished in USA - comment
+		- [ ] Modernisation (1991) 
+		- [ ] Emergence of sociology linked with modernisation of Europe (2008, 2011)
+		- [ ]  Emergence of Sociology & flourished with social reformism (USA) (2013)
 		- [ ] socio (pre-eminently) = study of modern soceity? discuss. 
-		- [ ] discuss historical antecedents of emergence of socio as discipline.
+		- [ ] Historical antecedents of Sociology's emergence
 		- [ ] europe = first and only place where modernity emerged.
 		- [ ] tradition and modernity = antithetical? comment. 
 	- FR and IR [[1. GS1#French Revolution (3 questions)|pyq]]
@@ -22,7 +21,7 @@ tags: []
 	- Enlightenment and renaissance [[Topic 1. Sociology Fundamentals (133 questions)#Enlightenment and Renaissance (8 questions)|PYQ]]
 		- [ ] short note: intellectual sources for the rise of socio (2)
 		- [ ] short note: ideology and emergence of socio
-		- [ ] 
+		- [ ] short note: intellectual bg for emeg
 - static concepts
 	- 
 ---
