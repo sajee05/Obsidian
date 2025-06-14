@@ -3,8 +3,8 @@
 *[Prelims जुगाड़](onenote:https://d.docs.live.net/9B24B3FB5359B984/Documents/Prelims%20Notes/Prelims%20जुगाड़.one#section-id={565E5879-76FB-854F-AF60-6391814FD094}&end)  (AIR 28's Personal Prelims - factual notes - for what he was forgetting / found imp)*
 - [ ] CORE Notes 
 - [ ] Standard books as reference where needed + NCERTs
-- [ ] CSEWhy PYQs
-- [ ] Power Of PYQs course
+- [ ] CSEWhy PYQs 
+- [ ] Power Of PYQs course + Rahul W anki (suspend easy af cards)
 - [ ] CSE PYQs 2009-2025
 - [ ] Forum Toolkit - PYQs
 - [ ] 60 Mocks
