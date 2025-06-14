@@ -1,6 +1,11 @@
 ### General Studies- IV: Ethics, Integrity and Aptitude
 This paper will include questions to test the candidates’ attitude and approach to issues relating to integrity, probity in public life and his problem solving approach to various issues and conflicts faced by him in dealing with society. Questions may utilise the case study approach to determine these aspects. The following broad areas will be covered:
 
+- AIR 16 Notes = Base.
+- Build upon it with Peeyush sir's lectures notes.
+- Further build upon it with Mudit Jain's Notes
+- Topper copies for understanding structure of answer.
+
 | **Check** | **Syllabus**                                                                                                                                                                                                                                                                                                                                                                                                     | **Completion** | **PYQs - Model answer** | **Answers Written** | **Revisions** |
 | :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------- | ------------------- | ------------- |
 | <input type="checkbox" unchecked id="b66cb1">     | Ethics and Human Interface: Essence, determinants and consequences of Ethics in-human actions; dimensions of ethics; ethics - in private and public relationships. Human Values - lessons from the lives and teachings of great leaders, reformers and administrators; role of family society and educational institutions in inculcating values.                                                                | %              | %                       |                     |               |
