@@ -1,5 +1,5 @@
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ## Fundamental of Macro Economy
 ### 1.1 Introduction
 1. Define economics and explain its significance in understanding the disparity between resource-rich and resource-scarce countries.
@@ -25,8 +25,8 @@ IAS PCS Pathshala
 1. What are the factors of production? Explain the role of each in economic output.
 2. How does the private sector utilize resources like labor and natural capital for production?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 
 *Diagram: Factors of Production to Goods & Services*
 *   **Entrepreneur** -> Profit
@@ -55,8 +55,8 @@ IAS PCS Pathshala
 *   **Consumption Goods**: Goods consumed by ultimate consumers, categorized into durable, non-durable, and services.
 *   **Intermediate Goods**: Semi-finished products requiring further processing to become final goods.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 1.7 Investment
 1. What constitutes gross investment in an economy? How is it related to GDP?
 2. Explain the concept of net investment with an example.
@@ -77,8 +77,8 @@ IAS PCS Pathshala
 *   **Product Method**: This method calculates GDP by summing the value of all goods and services produced.
 *   **Expenditure Method**: This approach calculates GDP by adding expenditures from household, government, private, and external sectors.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 1.10 GDP Calculation Methodology by NSO
 1. What are the components included in GDP calculation under the value-added method?
 2. How does the expenditure method capture the economic activities of various sectors?
@@ -106,8 +106,8 @@ Gross National Product (GNP) - Depreciation = Net National Product (NNP)
 2. How is the GDP deflator used to adjust nominal GDP into real GDP?
 3. What role does the base year play in calculating real GDP?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 1.13 Productivity, Capital Output Ratio, and ICOR
 1. What is the difference between average and marginal productivity? Provide examples.
 2. Explain the Capital Output Ratio (COR). Why is a lower ratio beneficial for the economy?
@@ -136,8 +136,8 @@ IAS PCS Pathshala
 2. Differentiate between the Wholesale Price Index (WPI) and the Consumer Price Index (CPI).
 3. How do inflation indices affect monetary policy decisions?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 *Diagram: Understanding Inflation Indices*
 *   **GDP Deflator**: Compares nominal and real GDP
 *   **Consumer Price Index**: Measures retail price changes for consumers
@@ -154,8 +154,8 @@ IAS PCS Pathshala
 *   **Decreased Money Supply**: Can cause price decreases if output is constant or increasing
 *   **Increased Money Supply**: Leads to potential price increases if output is constant or decreasing
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.2 Functions of Money
 1. What are the primary functions of money? Provide detailed examples.
 2. How does money act as a standard of deferred payment?
@@ -187,8 +187,8 @@ IAS PCS Pathshala
 2. How does the corporate bond market support infrastructure development?
 3. What are the challenges and solutions for deepening the corporate bond market in India?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.7 Financial Markets
 1. What is the role of financial markets in the economy?
 2. Differentiate between primary and secondary markets. Provide examples.
@@ -215,8 +215,8 @@ IAS PCS Pathshala
 *   **M3**: Includes time deposits, reflecting money that is less liquid but still part of the supply.
 *   **M4**: The broadest measure, incorporating all deposits, showing the total money supply.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.11 Money Circulation
 1. What factors influence the velocity of money circulation in an economy?
 2. How do banks and households facilitate the circulation of money?
@@ -242,8 +242,8 @@ IAS PCS Pathshala
 *   Reserve Requirements
 *   Market Stabilization Scheme
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.14 RBI and Its Functions
 1. What are the primary functions of the Reserve Bank of India?
 2. How does the RBI act as a banker to the government?
@@ -312,8 +312,8 @@ IAS PCS Pathshala
 6. DFIs: Development Financial Institutions also called All India Financial Institutions (AIFIs)
 7. CICs: Credit Information Companies
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.18 National Strategy for Financial Inclusion (2019 – 24)
 1. What are the objectives of the National Strategy for Financial Inclusion (2019-24)?
 2. How does financial literacy support financial inclusion?
@@ -339,8 +339,8 @@ IAS PCS Pathshala
 1. Differentiate between Foreign Direct Investment (FDI) and Foreign Portfolio Investment (FPI).
 2. What are the advantages and disadvantages of FDI for developing countries?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.24 Currency Swap and Forex Swap
 1. What is the role of currency swaps in managing foreign exchange reserves?
 2. How do forex swaps facilitate international trade?
@@ -379,8 +379,8 @@ IAS PCS Pathshala
 1. What is a liquidity trap? How does it affect the effectiveness of monetary policy?
 2. Discuss measures to overcome a liquidity trap.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 2.29 Inflation
 1. What are the different types of inflation? Explain with examples.
 2. How does inflation impact savings, investment, and consumption?
@@ -407,8 +407,8 @@ IAS PCS Pathshala
 5. Discuss the process of coordination between the RBI and the Ministry of Finance during times of economic crises, such as during the 2008 global financial crisis.
 6. How do the roles of the RBI Governor and the Finance Minister differ in shaping economic policy?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 3.3 Should Large Corporates be Allowed to Open Their Own Banks?
 1. What are the arguments in favor of allowing large corporates to own and operate banks? Provide examples from other countries.
 2. Discuss the potential risks of corporate ownership of banks, particularly in terms of conflicts of interest and financial stability.
@@ -433,8 +433,8 @@ IAS PCS Pathshala
 5. How have DFIs evolved since the 1991 economic reforms? What challenges do they face today?
 6. Should DFIs continue to play a role in India's economic development? Discuss the need for reforms or alternatives to DFIs.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 3.6 Categorization of Loans
 1. What are the different categories of loans in the Indian banking system? Define each category.
 2. Explain the concept of "priority sector lending" and its importance for the inclusive growth of India.
@@ -459,8 +459,8 @@ IAS PCS Pathshala
 5. Discuss the potential advantages and disadvantages of creating a bad bank in the Indian context.
 6. What role can the RBI play in addressing the NPA crisis? Provide examples of regulatory measures that have been effective.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 3.9 RBI Circular (June 2019) on Resolution of NPAs
 1. What was the significance of the RBI circular issued in June 2019 regarding the resolution of NPAs?
 2. How did the RBI's revised framework change the process for the resolution of stressed assets?
@@ -486,8 +486,8 @@ Default on Repayment -> Insolvency Resolution initiated by Creditor or Debtor ->
 2. How does an APA help multinational corporations and tax authorities resolve transfer pricing disputes?
 3. Discuss the process of negotiating and implementing an APA in India.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 4. What are the benefits and challenges of APAs in the Indian context, particularly for foreign investors?
 5. How does the APA framework contribute to reducing tax-related disputes and improving the tax compliance environment in India?
 
@@ -509,8 +509,8 @@ IAS PCS Pathshala
 3. What is a vote on account, and how does it differ from a full budget?
 4. How is the budget process different at the central and state levels in India?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 4.3 Government Accounts
 1. What are the three types of government accounts in India? Describe each briefly.
 2. Differentiate between the Consolidated Fund of India, Contingency Fund of India, and Public Account of India.
@@ -538,8 +538,8 @@ IAS PCS Pathshala
 3. How does the government finance fiscal deficits, and what are the risks associated with deficit financing?
 4. Explain the concept of effective revenue deficit and its relevance in fiscal management.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 4.6 Fiscal Policy
 1. What is fiscal policy? Discuss its objectives and types.
 2. How does fiscal policy help in controlling inflation and stimulating growth?
@@ -563,8 +563,8 @@ IAS PCS Pathshala
 3. What are the long-term implications of unsustainable public debt on economic growth?
 4. Explain the concept of the Debt-to-GDP ratio and its significance for fiscal health.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 **External Debt of India** = External Debt of India refers to the debt owed to non-residents by the residents of the country (i.e., government and the private sector). As on 30th Sept. 2022, external debt of India was $610.5 Billion (19.2% of GDP).
 
 | EXTERNAL DEBT OF INDIA (as on 30th Sept. 2022) $610.5 billion = 19.2% of GDP | |
@@ -592,8 +592,8 @@ IAS PCS Pathshala
 2. Discuss the potential roles and responsibilities of a Fiscal Council in maintaining fiscal discipline.
 3. How can a Fiscal Council help address challenges in budgetary forecasting and fiscal management?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 4.11 India's Tax System
 1. Discuss the major features of India's tax system, including its classification into direct and indirect taxes.
 2. How has the tax-to-GDP ratio evolved in India over the years?
@@ -643,8 +643,8 @@ Before GST came into effect on 1st July 2017, Indirect taxes were classified in 
 4. Discuss the challenges in implementing GST, including compliance and revenue collection issues.
 5. How has GST impacted inter-state trade and federal fiscal relations in India?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 4.13 Direct Tax Reforms
 1. What are the major reforms introduced in India's direct tax system in recent years?
 2. Explain the significance of the faceless assessment and appeals process in improving tax compliance.
@@ -672,8 +672,8 @@ IAS PCS Pathshala
 2. Explain the Nehruvian vision for the Indian economy. How was it influenced by socialism and planning?
 3. What were the objectives and outcomes of the Industrial Policy Resolution of 1956?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 4. Discuss the strategies adopted for land reforms post-independence. Were they successful?
 5. How did the Green Revolution transform Indian agriculture? What were its limitations?
 6. Explain the role of the public sector in India's economic development in the post-independence era.
@@ -702,8 +702,8 @@ IAS PCS Pathshala
 1. Discuss the structural transformation of the Indian economy post-1991, focusing on the shift from agriculture to services.
 2. Why did the manufacturing sector fail to emerge as the dominant sector during India's economic transformation?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 3. Explain the role of IT and IT-enabled services in driving India's service sector growth.
 4. How did globalization contribute to the rapid growth of India's service sector?
 5. Discuss the implications of the service-led growth model on employment generation in India.
@@ -731,8 +731,8 @@ IAS PCS Pathshala
 4. What are some notable successes and criticisms of NITI Aayog's approach to planning and development?
 5. Explain NITI Aayog's role in promoting sustainable development and digital governance.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 7.2 Manufacturing
 1. What is the current state of the manufacturing sector in India post-2014?
 2. Discuss the challenges faced by the Indian manufacturing sector, including infrastructural and regulatory issues.
@@ -763,8 +763,8 @@ IAS PCS Pathshala
 
 ### 7.6 Index of Industrial Production (IIP) and Core Industries
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What is the Index of Industrial Production (IIP), and why is it significant for economic analysis?
 2. What are the eight core industries included in the IIP? Why are they considered core?
 3. Discuss the recent trends in IIP and their implications for industrial growth in India.
@@ -795,8 +795,8 @@ IAS PCS Pathshala
 ### 7.10 Land Banks and National Single Window System (NSWS)
 1. What is the concept of land banks, and how do they facilitate industrial development?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 2. Discuss the significance of the National Single Window System (NSWS) for ease of doing business.
 3. How can land banks and NSWS help in addressing challenges in project clearances?
 4. Explain the impact of NSWS on foreign direct investment (FDI) inflows into India.
@@ -829,8 +829,8 @@ IAS PCS Pathshala
 3. How has "Aatma Nirbhar Bharat" impacted domestic manufacturing and exports?
 4. Explain the role of self-reliance in reducing India's dependency on imports.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 5. What are the key challenges in achieving the goals of "Aatma Nirbhar Bharat" across different sectors?
 
 ## Inclusive Growth and Issues
@@ -856,14 +856,14 @@ IAS PCS Pathshala
 5. **Compare India's demographic dividend with that of other countries like China.**
 
 ### 8.4 Labour Laws in India
-1. What are the main labour laws in India, and how do they regulate employment?
-2. Discuss the significance of the Labour Codes introduced in 2020.
+1. **What are the main labour laws in India, and how do they regulate employment?**
+2. **Discuss the significance of the Labour Codes introduced in 2020.**
 3. How do labour laws impact ease of doing business in India?
-4. What are the challenges in implementing labour laws in the informal sector?
-5. How do labour reforms promote worker welfare and industrial growth?
+4. **What are the challenges in implementing labour laws in the informal sector?**
+5. **How do labour reforms promote worker welfare and industrial growth?**
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 8.5 Fixed Term Employment
 1. What is fixed-term employment, and how does it differ from permanent employment?
 2. Discuss the benefits and challenges of fixed-term employment for employers and workers.
@@ -892,8 +892,8 @@ IAS PCS Pathshala
 4. Compare the Atal Pension Yojana with the NPS in terms of inclusivity and coverage.
 5. What reforms can enhance the penetration of the NPS in rural and informal sectors?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 8.9 Informal and Formal Economy
 1. Differentiate between the informal and formal economy with examples.
 2. Discuss the challenges in formalizing the informal economy in India.
@@ -916,8 +916,8 @@ IAS PCS Pathshala
 *   **Seasonal Unemployment**: Linked to seasonal demand in specific industries.
 *   **Disguised Unemployment**: Involves redundant labor with low productivity.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 8.11 Underemployment
 1. What is underemployment, and how is it different from unemployment?
 2. Discuss the causes of underemployment in rural and urban areas.
@@ -946,8 +946,8 @@ IAS PCS Pathshala
 4. What is the role of Universal Basic Income (UBI) in addressing poverty?
 5. Compare India's approach to poverty eradication with global best practices.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 *Diagram: Poverty Trap*
 A cycle showing:
 Low Economic Growth -> Low Investment -> Low Savings -> Low Income -> Low Productivity -> Low levels of Human Capital -> Low levels of Education & Healthcare -> back to Low Economic Growth.
@@ -973,8 +973,8 @@ The cycle is labeled **Growth** on the left side (Low Investment, Low Savings, L
 2. How does India perform on global indices like the Human Development Index (HDI) and the Global Hunger Index?
 3. Discuss the role of gender development and equality as socio-economic indicators.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 4. How do economic indicators like GDP and Gini coefficient relate to socio-economic development?
 5. What measures can improve India's ranking on international socio-economic indicators?
 
@@ -1006,8 +1006,8 @@ IAS PCS Pathshala
 2. Discuss the pros and cons of income support schemes like PM-KISAN.
 3. How does income support contribute to poverty alleviation and rural development?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 9.3 Fuel Subsidies
 1. What are fuel subsidies, and why are they important in India?
 2. Discuss the impact of fuel subsidies on fiscal deficit and trade balance.
@@ -1036,8 +1036,8 @@ IAS PCS Pathshala
 3. How has the introduction of technology, such as Aadhaar, improved the efficiency of the PDS?
 4. Compare the PDS with DBT in terms of food subsidy delivery.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 #### 9.5.3 National Food Security Act (NFSA), 2013
 1. What are the key provisions of the National Food Security Act (NFSA), 2013?
 2. How does the NFSA aim to ensure food security in India?
@@ -1067,8 +1067,8 @@ IAS PCS Pathshala
 2. Discuss the advantages and limitations of MSP in ensuring farmers' welfare.
 3. How does MSP affect market dynamics and crop patterns in India?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 10.4 PM - AASHA
 1. What is the PM-AASHA scheme, and how does it aim to address issues related to MSP?
 2. Discuss the three components of the PM-AASHA scheme: Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Private Procurement & Stockist Scheme (PPSS).
@@ -1096,8 +1096,8 @@ IAS PCS Pathshala
 
 ### 10.9 Marketing of Agricultural Produce
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What are the key issues in the marketing of agricultural produce in India?
 2. How can better marketing mechanisms improve farmers' incomes?
 
@@ -1128,8 +1128,8 @@ IAS PCS Pathshala
 
 ### 10.12 Agriculture Infrastructure Fund
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What is the Agriculture Infrastructure Fund, and what are its objectives?
 2. How does this fund aim to improve supply chain infrastructure in agriculture?
 3. Discuss the challenges in utilizing the Agriculture Infrastructure Fund effectively.
@@ -1159,8 +1159,8 @@ IAS PCS Pathshala
 2. How does China's approach to agricultural marketing and export promotion differ from India's?
 3. Discuss the lessons India can learn from China to improve its agricultural performance.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ## Agriculture - Part 2
 ### 11.1 Irrigation in India
 1. What is the importance of irrigation in Indian agriculture?
@@ -1192,8 +1192,8 @@ IAS PCS Pathshala
 2. How does the mission aim to improve livestock productivity and sustainability?
 3. Discuss the role of the National Livestock Mission in empowering rural women and small-scale farmers.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 11.6 Mission for Integrated Development of Horticulture (MIDH)
 1. What is the Mission for Integrated Development of Horticulture (MIDH), and what are its key features?
 2. How does MIDH promote diversification and value addition in agriculture?
@@ -1224,8 +1224,8 @@ IAS PCS Pathshala
 
 ### 11.11 Integrated Farming System (IFS)
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What is the Integrated Farming System (IFS), and how does it promote sustainability?
 2. Discuss the components of IFS, such as crop-livestock integration.
 3. How does IFS contribute to resource efficiency and income diversification for farmers?
@@ -1255,8 +1255,8 @@ IAS PCS Pathshala
 1. How can technologies like Al, IoT, and blockchain transform Indian agriculture?
 2. Discuss the role of digital platforms like Kisan Suvidha and AgriStack in empowering farmers.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 3. How do precision agriculture techniques improve productivity and resource use efficiency?
 4. What are the challenges in ensuring equitable access to agricultural technology in rural India?
 
@@ -1284,8 +1284,8 @@ IAS PCS Pathshala
 ### 12.4 Supply Chain Schemes
 #### 12.4.1 Price Stabilization Fund (PSF)
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What is the Price Stabilization Fund (PSF), and how does it help stabilize prices of essential commodities?
 2. Discuss the implementation and challenges of the PSF in maintaining price stability.
 3. How does the PSF benefit both consumers and farmers during price fluctuations?
@@ -1318,8 +1318,8 @@ IAS PCS Pathshala
 
 ### 12.6 Warehouse Receipts
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 1. What are warehouse receipts, and how do they facilitate agricultural marketing?
 2. Discuss the role of negotiable warehouse receipt (NWR) systems in improving credit access for farmers.
 3. How does the warehouse receipt system reduce post-harvest losses and improve price realization for farmers?
@@ -1349,8 +1349,8 @@ IAS PCS Pathshala
 2. Discuss the role of the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) within the WTO framework.
 3. Explain the importance of the Agreement on Trade-Related Investment Measures (TRIMS).
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 13.4 Principles of WTO Trade
 1. What are the core principles of the WTO, including Most-Favored-Nation (MFN) and National Treatment?
 2. How do these principles promote free and fair trade among member nations?
@@ -1381,8 +1381,8 @@ IAS PCS Pathshala
 2. Discuss the role of GATS in liberalizing the global trade in services.
 3. How has India benefited from GATS in sectors like IT and outsourcing?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 13.8 Intellectual Property Rights (IPR)
 1. What are Intellectual Property Rights (IPR), and why are they significant for economic growth?
 2. Discuss the role of IPR in innovation and protecting creators' rights.
@@ -1411,8 +1411,8 @@ IAS PCS Pathshala
 ### 13.13 Free Trade Agreements (FTAs) and RCEP
 1. What are Free Trade Agreements (FTAs), and how do they differ from multilateral trade agreements?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 2. Discuss the significance of the Regional Comprehensive Economic Partnership (RCEP) for global trade.
 3. Why did India opt out of the RCEP, and what were the key concerns?
 
@@ -1439,8 +1439,8 @@ IAS PCS Pathshala
 5. What are the criticisms of the WTO in addressing the concerns of developing nations? (2018)
 6. How does the TRIPS agreement under WTO impact India's pharmaceutical sector? (2020)
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 7. Discuss the role of the Doha Development Agenda in promoting the interests of developing countries. (2017)
 8. How does compulsory licensing under TRIPS balance public health and IPR protection? (2019)
 9. Explain the significance of Free Trade Agreements (FTAs) for India's trade policy. (2016)
@@ -1467,8 +1467,8 @@ IAS PCS Pathshala
 2. What are the challenges in the development and maintenance of roads in India?
 3. Explain the role of flagship programs like Bharatmala Pariyojana in road infrastructure.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 14.5 Railways
 #### 14.5.1 Engine of Future Economic Growth
 1. How can Indian Railways act as an engine of future economic growth?
@@ -1500,8 +1500,8 @@ IAS PCS Pathshala
 2. Discuss the challenges faced by SEZs in India.
 3. Compare SEZs with industrial corridors in terms of objectives and outcomes.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 14.8 SAGARMALA, CEZ, and Ports
 1. What is the SAGARMALA project, and how does it aim to improve port-led development?
 2. Explain the role of Coastal Economic Zones (CEZ) under the SAGARMALA initiative.
@@ -1531,8 +1531,8 @@ IAS PCS Pathshala
 2. Discuss the challenges faced by the oil and gas sector in exploration and production.
 3. How can policies like HELP (Hydrocarbon Exploration and Licensing Policy) address these challenges?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### 14.14 The Real Estate Act 2016
 1. What are the key provisions of the Real Estate (Regulation and Development) Act, 2016?
 2. How does RERA aim to protect the interests of homebuyers?
@@ -1561,8 +1561,8 @@ IAS PCS Pathshala
 ### 14.19 National Monetization Pipeline (NMP)
 1. What is the National Monetization Pipeline (NMP), and how does it work?
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 2. Discuss the potential benefits and risks of NMP for infrastructure financing.
 3. How does NMP align with India's infrastructure development goals?
 
@@ -1592,8 +1592,8 @@ IAS PCS Pathshala
 *   **Circular Economy:** A regenerative economic system aiming to minimize waste and reuse resources.
 *   **Core Inflation:** Inflation excluding volatile items like food and fuel for stability analysis.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 *   **Debt Overhang:** High debt discouraging further borrowing and investment.
 *   **Deleveraging:** Reducing debt, often by selling assets.
 *   **Digital Banking Units (DBUs):** Paperless banking units offering digital services.
@@ -1628,8 +1628,8 @@ IAS PCS Pathshala
 *   **Walking Inflation:** Moderate inflation (3%–10%) needing government control.
 *   **Wage Inflation:** Price rises driven by increased wages.
 ***
-ECONOMY – Active Recall PDF
-IAS PCS Pathshala
+
+
 ### Other Notable Terms
 *   **Withholding Tax:** Tax deducted at the source before income is paid.
 *   **Zombie Firms:** Companies unable to cover interest payments, reliant on external support.
