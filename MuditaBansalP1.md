@@ -15,7 +15,7 @@
 - Youth elderly
 - elective affinity
 
-## SOCIOLOGY
+## SOCIOLOGY - the Discipline
 ### PRO THINKERS/ POINTS
 - **Irving Zeitlin**: socio was reaction to enlightenment (**ideology and dev of sociological theory**)
 - Socio helps us not only to be more analytical but also understand individuals, groups and institutions around us as well as their interaction with each other
