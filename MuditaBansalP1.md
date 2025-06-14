@@ -2447,3 +2447,2989 @@
     - It is the consumerist class
     - They prefer hassle free process in everyday life – digital services
     - They always keep a check
+    - - They are torch bearers of new social movements eg LGBTQ, - global class
+    - They have entrepreneurial spirit - start up culture
+    - Vocal on social media
+    - NMC is more socially inclusive than old – has diff religions and castes
+    - Hegemony of Hindu upper caste men is not strong enough in MNC – has non hindu, low caste and women
+- Thinkers
+    - **Weber** and **Marx** definitions (above)
+    - More economic concept, where high fluidity in theoretical terms
+    - **Dahrendorf** – class stratification is not so much rife with antagonism as **Marx** has visualized
+    - **Bottomore**: 4 types of classes – upper, middle, working and peasantry
+    - **Giddens**: dominant upper class, middle class, working class
+    - **Bourdieu**: class with economic capital – industrial capitalist, symbolic capital – political capitalist, cultural capital – knowledge capitalist
+    - Govts adopting better opportunities and redistribution of wealth; even in India constitution
+
+## STATUS BASED STRATIFICATION
+### PRO THINKERS/ POINTS
+- While class based in based on economic condition, status based stratification is based on prestige, honour, social and cultural capital, personal qualities, education, fame, family etc.
+- In traditional societies, it was ascriptive but becoming both ascriptive and achieved in modern societies
+    - Status evolves with evolution of society
+    - Leads to opening of strata – more dynamic as ascriptive status has to be justified by nobility
+- Difference from class
+    - Based on social criteria, not economic
+    - Aware of the social status, whereas difficult to be aware in class
+    - Generally more closed than class, esp when ascriptive
+    - Concerned with consumption and not production
+- It is more closed and promotes social discrimination and inequality; social groups focused on self interest and restrict others from joining
+- **Weber**: 3 factors of stratification
+- **Waters**: status is becoming more imp in post industrial societies with rising consumerism
+    - Consumption is based on status
+- **Frank Parkin** – social closure - don’t allow outsiders to take awards
+- **WL Warner** – focus on status with edu, occupation and income
+- **Bourdieu** (4 types and identitites shaped more on lifestyle choices) - **An invitation to reflexive sociology**
+- Examples of status change: Sanskritization, westernization
+
+## GENDER BASED STRATIFICATION
+### PRO THINKERS/ POINTS
+- **Aan Oakley**: Gender is a social construct which is a result of discrimination against women.
+- Layering of diff genders which shapes their access to income, status and power
+- Gender defines life chances
+    - Political, education, household
+- Gender inequality at workplace
+    - 2 types of segregation – horizontal (pink collarization eg – secretary vs police officer seen as masculine job) and vertical – **Karuna Ahmad** – pink collarization
+    - Glass escalator is a phenomena to describe invisible uplward movement which puts men in position of power even in female dominated positions
+    - Glass wall – exclusion from horizontal mobility. It boxes women into certain roles with large field of employment eg army nurse vs combatant
+    - Glass floor – exact opposite of glass ceiling. It refers to exclusion of men from traditional occupations of women like secretary, office, elder care providers
+    - Glass cliff
+    - 3 types
+        - Gender confirms to sex eg – majority people – hetero
+        - Gender does not confirm – eg – transman or transwoman or sex change operation (eg **Naaz Joshi** – trans women wins intl beauty sts)
+        - Fluid gender – move in a continuum of gender spectrum – eg – Bacha Posh in Afghanistan (ind born as female but socialized by parents as males), hijras (bio men who wear female clothing)
+        - **Guy Standing** – feminization of work – coined the term
+    - **Karuna Ahmad** – women tend to be restricted to certain types of pink collar jobs
+- Patriarchal bargain
+    - **Denise Kandiyoti** – it refers to a strategy used by women to manipulate the patriarchal system to her advantage instead of challenging the system
+    - It empowers women against social exclusion practiced by men at workplace
+    - Eg – assertive role played to show she is strong
+- GI in Education
+    - STEM by men
+    - Edu by men
+    - Dropout by girl child
+    - ASER – Girls to public school; inv on male edu is inv whereas on women is burden
+- GI in politics
+    - under representation of women in political positions and almost invisible in top most – **Amartya Sen** missing women
+    - sarpanch pati – grassroot level
+    - bureaucracy – no female cabinet secy
+    - bill 106 Am
+    - 15% representation
+- Social
+    - Son meta preference, missing women, female feticide, violence
+- Household
+    - women in expressive role, men in instrumental , domestic violence
+    - inequal distribution of property, wealth, decision making
+    - ration cards – head of household, samp duty
+    - UN line
+    - **Christine Delphy** – conceptualized household as factory, men as bourgeoise and women proletariat in family – but no fixed role, hours, no pay
+    - Family planning, education
+    - **Leela Gulati**, **Blood** and **Hamblin** – status doesn’t improve despite employment
+    - **Diana Pearce**: women are more deprived and face grunt of poverty
+- **Maragret Mead**
+    - Arapesh – both in child rearing and both sensitive to each other
+    - Mundugmor – both sexes involved in head hunting eg caniballism
+    - Tchombulli – reverse gender roles in sexes – men adorn themskeves while women work hard
+- Religion: Pati vrata; **Uma Chakobarty** – religion gives low status to women (calls it Brahminical patriarchy)
+- **Firestone** – private patriarchy (HH) to public patriarchy (other areas)
+- How gender shapes male identity
+    - Encourages masculinity
+    - Socialization of gender
+    - Notion of emotion in family
+    - Dol – **Parsons** and **Mudrock** – natural division + functionalists
+    - Intersectionality (**Diana Pearce**)
+    - Patriarchal mindset
+    - Reflexivity – look at themselves as masculine – imp in gender formation
+    - Post modernist – **Jacques Derrida**/ **Lacan** – no single grand theory for gender stratification
+    - Other theories such as radical feminism (blame men), social feminism (blame capitalism) and liberal feminism (blame culture)
+- Positive enhancements for women
+    - Abolition of patriarchal rituals
+    - Promotion of women education
+    - Mechanization leading to reduced household work
+    - More employment with automation and more sophisticated jobs
+    - Women reservation
+    - MNREGA
+    - Abolition of female feticide
+- But still stratification continues
+    - Non-legalization of same sex marriages
+    - **Claudia Goldin** study : workforce rise, fall, rise – impact of edu, contraceptive pill, flexible work
+    - Environmental impact of climate change more severe on women
+
+## MOBILITY
+### PRO THINKERS/ POINTS
+- **Sorokin**: transition of an individual, object or value, which is of human creation, from one position to another
+- **Wallace** and **Wallace** – movement of a person or persons from one social position to another
+- Reasons for mobility
+    - **Parsons**: as roles are filled by people best suited to perform it
+    - **Marx**: polarization involves mobility of petite bourgeoise to bourgeoise or proletariat
+    - **Frank Parkin** and **Dahrendorf**: Safety valve where built up frustration is settled
+    - More common in modern society with focus on education and qualifications; Upward mobility more common as demand for unskilled workers are reducin
+    - Examples – Sanskritization, education, migration, urbanization
+- Open and closed systems
+    - **Sorokin** in his “**socio cultural dynamics**” says no society is is completely closed or open, some kind of fluidity is always present
+    - Open system (**Dipankar Gupta**) – a stratification of society which is legitimized on basis of merit and hierarchy is quantifiable in nature (based on merit) eg – class system
+    - Closed system – based on differences (qualitative) assume hierarchy is a closed system eg – class, gender, ethnicity, race
+
+|   |   |
+|---|---|
+|Open|closed|
+|- Mobility is encouraged|- Mobility is discouraged|
+|- Eg|- eg|
+|- at an individual level|- at group level|
+|- does not displace already existing elites|- does displace already existing elite – shudras were allowed to sanskritize, not Dalits (**MNS**) , LGBTQ marriage<br>- if mobility – challenge societal norms, displace (**MNS**), redstribute wealth and economic resources|
+|- social system maintains equilibrium despite mobility|- May disrupt or develop strain with mobility|
+|- Class hierarchy is variable sum game|- Status hierarchies are 0 sum game|
+|- Meritocratic society|- Ascriptive society|
+- **AB** – open system of stratification is one in which diff components of identity are recombined in diff ways/ diverse ways (asymmetrical nature)
+    - Caste 1, class 2, power 3
+- **AB** – closed system is one where diff components are combined in the same mobility way (C1, C2, P3)
+- Embourgeoisement – working class to middle class – upward vertical mobility – hence open mibolity as prolet become MC
+- **Goldthorpe** – Affluent worker – short range and inter-generational
+    - Out of 80, only 2 went up
+- IHDS – on social mobility – most upper posts upper caste and bottom are lower caste tribes and women
+- . Also black coated workers (**Lockwood**) same observations – experienced downward vertical mobility, **Pat Grey** and **Colin Brown** – role of race in social mobility, add gender, caste, reservation, **Bourdieu**
+- India: Sanskritization of **MNS**, De-sanskritization by **DN Mazumdar**, **Ashrafization** – **De Steurs** -> mobility in even a closed system, **Globalization** can lead to mobility with diffusion of new ideas, Middle class expands with rising urbanization (**Weber**)), pink collarization
+- So no system is absolutely or absolutely closed
+- Social mobility implications
+    - On person – better life chance, status, relative deprivation, family symmetry and decision making
+    - On Society – MC increase, status, rights and movements
+- Sources for mobility
+    - General sources/ avenues of social mobility
+        - Traditional (fewer avenues)
+            - Power eg Mauryas
+            - Patronage
+            - Spirituality
+            - Sanskritiazation
+            - Trade eg vaishyas
+            - Brahmins
+            - Expertise eg Chanakya
+            - Geo mobility eg Aryans
+        - Modern (more) – stratification in new world order
+            - Industrialialisation – **Lipset** – high mobility in England (**Lipset Zetterberg thesis**)
+            - Education and skilling
+            - Occupation change – new jobs like gig economy
+            - Envt – good rain/ flood
+            - Social movememts like Dalits – increased stata consciousness
+            - Law const
+            - Migration and rising middle class (**Weber**)
+            - Globalization - Emergence of service sector
+            - Physical – **Sally Loverman**
+            - Tech dev
+            - Role of social media
+            - Subjective factor- like aspirations and reference group theory -> **Ambedkar**
+            - But made stratification more intersectional – with people facing multiple forms of discrimination
+    - **Wilkinson** and **Pickett** – **The spirit level** – why equality makes stronger societies – high inequality less social mobility
+- Benefits of social mobility
+    - **Sorokin** (**Social Mobility**): vertical mobility stairs and elevators and as blood streams in the human body
+    - Breaks exclusiveness of social groups
+    - Promotes an inclusive society
+    - Ensures available opportunity to all
+    - Creativity
+- Barriers to mobility
+    - **Goldthorpe**: European mobility- affluent worker study – extremely low in lower ranks
+    - **Ken Roberts**: indicator of meritocratic society as well as stability of class architecture (mobility is low in traditional ascriptive society)
+    - **Andre Beteille**: mobility in closed system is difficult (caste, class and power)
+    - **Srinivas**: Sanskritization leads to upward mobility, but only culturally and not in a structural aspect
+    - **David Glass**: elite self recruitment leads to barrier; only middle and low positions left – this is why lesser downward mobility
+    - Other barriers: unequal opportunities, unequal access to resources, class of origin, caste and ethnicity barriers (even told by **Goldthorpe**)
+    - **Willmott** and **Youngs** – 83% managing directors in 1970 were sons of professionals and managers
+    - **Oscar Lewis**
+- Types of mobility
+    - On basis of direction - Vertical/ horizontal
+        - **Anthony Giddens**: great dela of horizontal mobility in modern society
+        - Eg – nurse, downward such as layoffs
+        ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 63.png>)
+    - On speed - Inter generational vs intra generational
+        - **Blau** and **Duncan** – influenced by edu, nature of first job and father occupation
+    - Structural vs individual
+        - SM – based due to change in social stratification itself
+        - Eg – oil discovery, dominant caste by **MNS**, eg cotton mill workers downward mobility after shutdown of mills
+    - Absolute vs relative
+        - Relative means if one moves up, other comes down
+        - Absolute – how much have living standards improved or decreased and for what percentage of people
+    - Sponsored or contested mobility ie – sponsored on basis of policy eg reservation
+        - Contested on basis of open competition
+- Impact of social mobility
+    - Cons: anomie, nuclearization, stress, use scams/ shortcuts
+    - Divorce, loneliness and suicide -> Kota suicides
+- Social closure is the voluntary exclusion of a group from another group in society
+- Can be dtatus, political, economic (eg pvt schools), women (pink collarization)
+- Middle class faces dual closure
+- Cane reference group closure
+- Self defeating prophecy
+- Inter-sectional approach to SS – society is universally stratified and mobility between groups is dependended on nature, form, org of societal structure
+- Mobility examples
+    - Race – black lives matter, israel hamas war
+    - Caste – suicides, Yadavs, drapudai murmu
+    - Gender – leena nair, goldin, women reservation bill
+    - Ethnicity – rishi suak, sundar pichai
+    - Class – elon musk, reservations
+    - Only 21% female ias officers
+
+## - CHAPTER 6
+
+## WORK
+### PRO THINKERS/ POINTS
+- Usage of physical and mental effort for production of goods and services that cater to human needs
+- In eco sociology, it means activity which results in paid employment, reward or contract
+- But can include unpaid work also
+- Domestic division of labour also – so obligatory work also
+- **Marx**: first sociologist to examine work in factories. He identified concepts of alienation and de-skilling
+- **Weber**: new authority with new bureaucratic orgs of work
+- **Durkheim** – DOL strengthens organic solidarity due to increased moral density. Rapid change in society however can lead to normlessness, which he called is an anomie
+- Importance of work
+    - Source of income
+    - Influences all other aspects of society, esp class and gender based stratification and social mobility
+    - Promotes creativity and constructive critical thinking for problem solving
+    - Helps in building social capital by new contracts and relations
+    - Affects status (**Warner**)
+    - Personal identity and growth of “I”
+- Worker vs labor
+    - Worker is someone not in a managerial position
+    - But also has voluntary choice of work unlike labor who is forced to work due to lack of choice for any reason
+    - Workers have different skills and manage different portfolios based on requirement
+- New ways of working
+    - Flexible production model
+    - Virtual production model after COVID
+    - Tech advancement is directly related to alienation
+        - **Blauner**: higher use of tech leads to alienation
+        - **Frank Hull** (**the effect of tech on alienation from work**): more negatively linear than curvilinear
+    - Entrepreneurship
+    - Automation and mechanization
+    - Use of AI and ML
+
+## WORK IN DIFFERENT SOCIETIES
+### PRO THINKERS/ POINTS
+- Formal work to perform task efficiently
+
+|   |   |   |
+|---|---|---|
+|Work in industrial time|Post industrial|Gig economy|
+|- - Standardized, mass production<br>    - Repetitive<br>    - Impersonal<br>    - Physical<br>    - No scope for creativity|- - Customized + scope of creativity<br>    - Mcd vs IBM<br>    - Knowledge or intellectual work<br>    - Not physical – mental labor<br>    - Need not be repetitive<br>    - Fragmented<br>    - Team based concept of work|- - Taskficication – **Srineck**<br>    - Repetitive<br>    - Can be physical or mental<br>    - May be monotonous<br>    - Not necessarily standardized<br>    - Individual targets|
+|- - To oversee this nature of work, pyramidal organization/ rigid|- - Flatter bureaucracy<br>    - **Burns** and **Stalker** – organic model<br>    - Toyotism|- - Holocracy – most decentralized|
+|- - **Weber** iron cage|   |   |
+|- - Machine bureaucracy , mechanized model (**Burns** and **Stalkers**)<br>    - **Henry Mintzberg**<br>    - taylor|   |   |
+- 1911 – **Taylorism** developed
+    - It is a scientific theory of work mgt which considers work as a science
+    - Steps suggested by **Taylor**
+        - Conduct time ( Break work and assess time) and motion studies (break work and assess his movement) – quantification of time to compute the time taken by worker using timer. Also includes studying motion of worker while completing task – includes movement of body and limbs
+        - DOL – break work into specialized components and allocate work to specialized worker
+        - Monitoring – performance to be monitored supervised by managers
+        - Scientific selection of workers on merit
+        - Incentivize workers - Mgt should provide incentives for workers to complete the job quickly and punish inefficnet workers
+    - Efficiency, calculative, standardization, control over workers – all lead to rationalization of work place
+    - Demerits – **reduces worker to economic man** (only concerned about how quickly completely task than how he felt doing it), cog in machine, alienated, replaceable by machine , reduce bargaining power of workers, de-skilling of worker (**Braverman**)
+    - **Taylorism** in post industrial society – emotional work (**managed heart** – **Arlie Hoschild**)
+        - Refers to app of scientific mgt to digital era – applicable to knowledge workers and service workers
+        - Involves tech to monitor and optimize worker productivity, smart sensor, vc record, AI chatbot, automation, biometric, panoptical
+    - Eg – amazon
+- **Henry Ford** – used scientific in automobile – specialized machines to boost economies of scale + increment of min wage to increase mass consumption
+    - Mass prod, cons, long term commitment to worker, productivity linked wage, collective bargaining agreement
+- **Elton Mayo** – **Mayoism** – Human resource theory – **Mayo** believed we should treat worker as employee and move beyond concept of economic man. They cant be productive if they arent emotionally invested
+    - This simply meant that employees were given chance to get involved in managerial tasks too and managers took their advice
+    - **Mayo** recognized employees will form informal networks – and this shouldn’t be discouraged
+- Toyotism - in Japan, employees hired in a group and not individually
+    - These groups were made to compete against each other
+    - Employees were given lifetime social security
+    - Bottom up decision making – participation mgt through quality circles
+- Work can have different structures at different times; even at same time (capitalism vs Asiatic mode of working)
+
+|   |   |   |   |
+|---|---|---|---|
+|Dimension|Slave|Feudal|Capitalist/ industrialist|
+|Relations|Master and slave|Serf and clergy|Bourgeoise and proletariat|
+|Time|**Marx** and **Engels** – earliest form of society|Discouraged trade and growth|   |
+|Economic activity|Hunter gatherer|Feudalistic – a divine right|Mechanization and complex|
+|Alienation|Low|lesser|High|
+|Solidarity|Mechanical|Lesser|Organic solidarity|
+|Family|Unit of prod – no clear division in domestic and community economy|Still relevant|Nuclear|
+|Surplus|None|Taken over by nobility|Yes – for exchange in market<br><br>Money economy|
+|Source of power|Ownership|Land ownership|Factors of production|
+|Mobility and stratification|Closed economy|Closed and ascription based|High mobility – both vertical and horizontal|
+|Source of power|None|Land holding|Ownership|
+|DOL and specialization|None|Yes BUT LOW|Specialized + new tech + high productivity|
+|Innovation|Rare and low|Common and frequent|
+|Unit of exchange|Labor owned by others|Barter|Currency|
+|Stratification|Based on ascriptive factors|Ascription and achievement|Achievement / innovation/ risk (**Ulrich Beck**)|
+- Contemporary relevance
+    - New ways of work emerging
+    - Work also dependent on cultural aspects as per **Weber’s** protestant ethic theory (eg – tribals)
+    - **Blau** – based on technical
+    - WFH emerging – so increasing JF
+    - Customization and creativity
+    - Also affected by political scenario and geography of work – spatial variation
+    - **Charles Handy** – empty raincoat – workers need to have diverse skills for portfolio mgt
+    - **Taylorism** and **Fordism** (but only in mfg industries with std prod) -> higher alienation, low trust system
+    - Post **Fordism** – customization demanded and hence moving ahead to creativity
+    - **Bonacich** and **Appelbaun** -> race to bottom where cos will pay lowest wages to beat comp
+    - bamboo ceiling – Asians limited to some posts only
+    - all service sector points
+- For service industry
+    - characteristics
+        - In post 1991 era
+        - Extensive use of digital and telecommunication
+        - Middle class
+        - **Burnham** – managerial evolution
+        - Flexibility – **Handy** and empty raincoat
+        - **Taylorism** in post industrial society – gamification and use of digital tech
+        - Rise of gig economy
+        - Flexible working models
+    - Benefits
+        - Education and skilling
+        - Feminization
+        - Dilution of caste based and other stratification
+        - Social mobility
+        - Social identity + financial indepdendence -> improved status (**Warner**)
+    - Challenges
+        - **Blauner** and **CW Mills** - Alienation
+        - **Arlie Hochschild** – managed heart
+        - Dual shift + **Leela Gulati**
+        - Informalization
+        - migration
+        - Gender pay wage gap – **Sylvia Walby**
+    - Hence, informal sector is like people in the waiting room, trying to seek mobility, which is available only to a few
+    - Surveillance capitalism
+- Formal – informal organization of work
+    - **Formal organisation**: is a highly structured secondary group deliberately created to achieve goals in the most efficient manner. The modern bureaucratic organisations, characterized by an authority, hierarchy, a clear division of labor, written rules and impersonality, are prime example of formal organisations. Examples are colleges, corporations, government agencies, and hospitals.
+        - Well defined roles
+        - Coordination
+        - Limitation on activities of people
+        - Scalar chain
+        - Most imp form is bureaucracy (based on legal rational authority)
+    - Evolution of formal work – evolution of bureaucracy + evolution of organization of work – Toyota etc
+    - **Keith Hart**: informal has low entry barriers; low paid employment
+- Informalization of labor force
+    - **Anthony Giddens** - **transactions** outside the **sphere of regular employment**, sometimes **involving exchange of money or direct goods and services**
+    - Rising pop of informal workers in workforce
+    - Increased esp after 1990s, as a part of organization of industrial production
+    - Reasons for informal sector
+        - Role of globalization
+            - Replaceability
+            - Access to new technology – leads to industrial reserve army
+            - Fragmented supply chains – post **Fordism**
+            - Race to bottom – cost cutting
+            - Rise of gig economy
+            - Women as informal workers – with WFH
+            - Rising inequality
+            - migration
+        - legalist school – made of small entrepreneurs who want to avoid overhead costs, time and effort of formal registeration
+        - dual school – 2 reasons for informal sector - gap between pop growth and employment growth as well as people skill and opportunities
+        - Structuralist school – need low cost labor for competitiveness (eg in global and regional value chains)
+    - Solution
+        - Formalization of informal sector – e-shram (BUT **Blau** – informal even within formal)
+        - Dualists – govt should provide protection to informal workers based on specific needs + infra to fams
+            - Eg – atal pension yojana, e-shram, ration card, Kaushal vikas, Vishwakarma scheme, SVNidhi, PM Shram yogi maandhan
+        - Structuralists – govt should address the unequal powers between bourgeoise and proletariat – create incentive for good work condition
+        - Legalist – one stop clearance and easy compliance
+    - Formalization has diff meanings for each segment
+        - Self employed – registration, enforceable contracts, legak ownership, tax, trade association membership , participate in bids
+        - For informal workers – social security + benefits in return of some taxation + PF contri
+        - Karnataka bill
+    - ILO definition of informal sector – consisting of units engaged in prod of goods and service, with the primary objective of generating employment and income and have a range of deficits and vulnerabilities in decent work
+- Informal in Formal
+    - **Blau**
+    - Quality circles (Toyotism)
+    - Socialization groups (**Elton Mayo** encourage)
+    - **Blau** supports
+    - Politics – kitchen cabinet (**Meyer** and **Rowan** – few people take decisions)
+    - Social capital
+    - Empty raincoat
+    - Mission mode
+    - But always have a mix of both – sometime formal have informal committees and informal have some basic formalities
+        - More in mission driven projects as they offer flexibility
+- Capitalist society is a social order where pvt property rights and free mkt serve as basis of trade, goods and dev
+    - Becoming more participatory
+    - Inclusive
+    - Trade unions
+    - Climate conscious – esg and csr
+    - Decentralized
+    - Shifting focus towards customization
+    - Adopt country specific needs
+    - Global and integrated
+    - Citizen centric
+    - Resilient supply chains
+- Dimensions of organization of work
+    - Rules and regulations
+    - Work force distribution
+    - Working models
+    - Performance evaluation
+    - WLB
+    - Communication via digital means – reduced hierarchy
+    - Pauperization
+    - Industrial reserve army
+    - Economic inequality
+    - Feminization
+    - Informalization
+    - Social relations and organic solidarity
+    - Sense of belongingness
+- Capitalism leads to informal sector
+    - Informal sector – sweat shops
+    - Pauperization - Race to bottom (**Applebaun**)
+    - Feminization (**Ahmad** – pink collarization esp in stitching)
+    - Gig economy (**Srineck** – no social security)
+    - Depdendency and ruralisation
+    - Contract and subcontract
+    - Reduced labor unions
+    - Reserve army
+    - Labor standards
+    - **NAILA KABEER**
+
+## CA
+### PRO THINKERS/ POINTS
+- Gig economy
+    - Mechanism of Work where workers perform work on a casual or task (gig) basis via a digital platform and receive commission in return, without any social security
+    - Access to work is difficult and based on performance and ratings – involves taskification of work
+    - They have freedom to select the work they chose and can chose to not performa a task – have more freedom vs a 9-5 job. But they don’t get any social security and hence called “platform capitalism” by **Srineck**
+    - Code on Social security 2020 defined the social security arising out of a gig work relationship
+    - Always existed but have changed nature with penetration of internet
+    - Includes jobs like:
+        - Crowdsourcing work: where work is perfomed from home
+            - Online freelancing: Fix own rates and conditions with clients
+            - Microtask work : a large work divided into small bits and sourced
+            - High skilled work – marketing tech
+        - On demand work: work offline in a given geography
+            - Low skilled – delivery
+            - High skilled – electrician, masseuse
+    - Advantages
+        - Flexibility of work:” choice to work or not work , work hours as no employer employee relationship or fixed hours
+        - Cost effective for companies – no social security
+        - Autonomy to hold multiple jobs – diversify income sources
+        - Reduces alienation
+        - Source of social mobility
+        - Convenient for customers
+        - Platformisation and credit access – have cpollabs for finance
+        - Flexibility to women – NITI report on india’s booming platform and gig economy
+        - Doesn’t alter family structures
+        - Can be done while travelling
+        - Self identity and status
+    - Issues
+        - Meagre earnings and exploitative
+        - No social security or job safety – precarization of work + more than 12 hours at less than min wage
+        - De-skilling (**Braverman**)
+        - Digital divide – 35% women interet
+        - Urban phenomena
+        - Initial investment – charge 1500 + own vehicle and smartphone
+        - Women often stigmatized andharrassed
+        - Difficulty in collectivization
+    - Need to prioritize PSL to women and PWD
+- Feminization of work
+    - incorporation of women into labor force or increment in female labor force or participation rate.
+    - However often separated – pink collarization (**Karuna Ahmad**)
+        - Masculine and femine professions
+    - Can be horizontal (glass wall) or vertical (glass ceiling) – women over-represented in lower jobs vs men
+    - Factors causing feminization
+        - Rising literacy rates
+        - Changing marriage age
+        - Shifting patriarchal mindset
+        - Globalization
+        - Flexible working models after covid 19 such as WFH
+        - Availability of contraceptive (**Claudia Gouldin**)
+        - Reservation for women
+    - However, low LFPR – intersectionality with religion and caste and rural areas
+    - **Claudia Gouldin** – u shaped curve between development and women participation
+        - Agri – family as prod and cons unit 0 so high labor participation
+        - Industry – men work outside and women at home
+        - Service – new modes of working + contraceptive + edu -> higher women LFPR
+    - Positive advantages
+        - Women empowerment
+        - Self of identity and status (**Warner**)
+        - Diversity and inclusion – women have info focus – as ques for in-depth understanding; men have image focus – more reflexive -> imp perspective: capitalist benefit
+        - Women focused policies
+        - Reference individuals
+        - Develop “I” AND CONSCOOUSNESS AND RATIONALITY
+        - Increase social capital
+        - Encourages further edu
+    - Negative
+        - **Arlie Hoschild** – women doubly harassed - second shift
+        - Ceiling, cliff (**Shikha Sharma** at Axis during 2009 crisis) , collarization
+        - No improved decision making – **Leela Gulati**,
+        - Dual role instrumental and expressive
+        - Cyber bullying and trolling
+        - Intersectionality
+        - Industrial reserve army
+            - Pink collarization - **KA**
+            - Intersectionality – **Kimberle**
+            - Economic inequalities and pauperization
+            - Informal labor codes
+            - Social status – **Warner**
+            - Dual harassment – **Arlie Hoschild**
+        - Gender pay gap - Negotiation (have less jobs) – maintain patriarchy by lower work (**Sylvia Walby**) – contemporary conflict sociologists
+            - Stereotyping
+            - Lack of mobility
+            - Dual burden
+            - Time off/ flex for caregiving
+            - Radical feminist – go for no marriage
+            - **Ann Oakley** – pay money for housewife work
+            - Emotional labour
+        - 95% women in unpaid labor or unorganized sector (**Empowering Women & Girls in India - Deloitte**)
+        - **Ann Oakley** – industrialization led to confinement of women at home (housewifisation)
+    - **GENDER BUDGETING**
+    - **GENDER JUSTICE**
+    - **GENDER REPRESENTATION**
+    - **INCLUSIVITY**
+    - **GENDER LAWS**
+    - **GENDER DIVIDEND**
+    - **GENDER SENSITIZATION**
+- Work from home
+    - Means workers can stay home and work using internet technology
+    - Advantages
+        - Flexibility
+        - Avoid commute time + envt friendly
+        - Manage work life balance
+        - Increasing women + elderly work force participation
+        - Cost effective for companies
+        - Safer during pandemic
+        - Boosts worker productivity by avoiding workplace distractions
+    - Disadvantages
+        - Double shift – also have to teach kids now
+        - Lower efficiency
+        - Inter-personal relations and mentorship
+        - Social isolation and alienation – **Blauner**: use of tech leads to alienation
+        - Domestic violence + stress in relations
+        - Workplaces have informal relations - **Arlie Hochschild** – help parents in managing conflicts
+    - Traditional WFH
+        - Unpaid
+        - Women – unpaid care (**Sylvia**) + **Christine Delphy**
+            - **Whitehead** coined a term ‘Maternal Altruism’ – women looked at pre-disposed towards nurturing and care
+        - Housewification – studied by **Ann Oakley** and **Mies** – invisible work at home
+        - **Ashwini Deshpande** – workers of grey zone - stay outside govt regulation of wages and labor codes
+        - Children – helping siblings to study
+    - Traditional WFH paid
+        - Home based contractors or freelancers
+        - **Garnets** – low skilled jobs
+        - Food processing – low skilled
+        - New WFH – urban middle class
+    - How personal professional line blurs
+        - Flexible work – no well defined hours + lunch breaks
+        - Physical workplace same as home
+        - Women asymmetrically impacted
+        - No personal life
+        - Increased expectation
+        - On call connectivity
+        - Family dynamics
+        - Increased stress
+- Labor law codes
+    - Code on wages 2019
+        - Min wage
+        - Equal pay
+        - Timely payment
+    - Code on occupational safety and working conditions
+        - Min safety standards
+        - Amenities in factory premises
+        - Child labor
+        - Annual health heck up + appt letter
+        - Atmanirbhar – interstate migrants can register themselves on the national portal
+    - Code on industrial revolution
+        - Unemployment allowance for workers
+        - 15 days wage for re-skilling after retrenchment
+        - Worker dispute resolved in a year
+        - Trade union with 51% votes -sole negotiating union
+    - Code on social security 2020
+        - E-shram
+        - Gig workers like maternity, insuance (upto 1-2%)
+        - National security board with representation from workers
+    - Issues
+        - Compulsory aadhar – against puttaswamy judgment
+        - Overlap in gig and others
+    - Limits of the working day
+        - Max number of hours fixed by aw that an employee can work in an org in a day
+        - Functions
+            - Lmits exploitation
+            - Mitigates alienation
+            - Work life balance – mental and physical well being
+            - Safety of women
+            - Social security and welfare
+        - Dysfunctions
+            - Disrupts economies of scale
+            - May lead to pink collarization
+            - Rise of informal jobs
+            - Under-reporting and data bias
+            - Power dynamics – often use “zero hours”
+        - Joapan 4 days a week vs **Murthy Narayan** claiming 6 days
+
+## CHAPTER 7
+
+## POWER
+### PRO THINKERS/ POINTS
+- **Weber** (**economy and society**): Ability of individuals or groups to influence others to carry out their will, in a communal action, even against will of others who are participating in the social action
+    - **Economy and society**
+    - Domination used to study history – domination is chance of man to get his command obeyed
+    - Types
+    - Zero sum game
+    - Power in a system is constant and hence limited in quantum
+    - Authority is the form of power which is legitimate
+    - One exercises power at the expense of other
+    - Traditional, charisma, rational legal
+    - **Paul Du Gay**, Bureaucracy has unmatched ethos which include equal treatment of all despite different race, colour or caste
+- Functional view: power is possessed by society and not individuals, where some social positions are more important than others and exercise power through them
+    - **Parsons** –
+        - Located in G of **AGIL**
+        - Individuals deposit power in political leader just like they deposit it in bank
+        - Leaders in return deliver infra, growth which caters collectively to members
+        - Egs – universalization of edu, 100% sanitation
+        - If collective goals are realized, systemic power increase, else decline
+        - Function of power is to fulfill collective goals and maintain equilibrium
+        - "Power is not a zero-sum game". Discuss with reference to **Weber's** and **Parsons's** views. **(2014/I/6a/20)**
+- **Marx**: of
+    - State represents interests of capitalists
+    - Power is concentrated in the hands of the dominant group (the haves) used for exploitation of have nots
+    - Suggested making a political party of workers
+    - Source of power is the economic infrastructure
+    - Zero sum
+    - Have nots are exploited when they have false consciousness
+    - Only when there is collective ownership on means of production, power will go back to people
+    - Evidence to support Marxism
+        - Effects of decisions – concentration of power in the hand of a few capitalists who then monopolize power in society
+        - Concessions to working class
+        - Non decision making – **John Urry** criticizes **Dahl** that only those issues come up which are defined by bourgeoise and only safe decisions taken. SOME HAVE THE POWER TO PREVENT DECISION
+    - Critique
+        - Couldn’t explain why states became stronger
+        - Do not account other sources of power other than wealth
+        - Couldn’t explain why some states could uplift entire population
+        - Trickle down effect of economic growth, who benefit from rising standards
+- Elite theories: Classical elite and pluralist elite theories
+- **French** and **Raven**: 5 basis of power - clerr
+    - Expert: possession of knowledge and skills makes them valued
+    - Legitimate: make demand and get obedience of demand formally
+    - Referent: person’s attributes which make them attractive
+    - Coercive: authority from fear of force
+    - Reward : can reward/ compensate for compliance of rules, targets etc.
+- **Gene Sharp**: power lies with obedience of subjects (eg overthrow of power)
+- **Amos Hawley**: every social act is existence of power, every social relation is a power equation and every social group is org of power
+- Features of power
+    - Creates structure of society – powerful or powerless
+    - Leads to stratification
+    - Manifest itself In social relations eg man and follower
+    - Reciprocal but not equal
+- **Bottomore** – political inst are concerned with division of power in society
+
+## CLASSICAL ELITE
+### PRO THINKERS/ POINTS
+- Society is divided into 2 main groups – ruling minority and ruled majority; egalitarian society like democracy is a myth/ utopia
+- Ruling minority has physical and psychological attributes which are basis of power
+- **Pareto**:
+    - **Mind and society**
+    - power is possessed by few due to their physical psychological qualities and **these qualities remain the same at all times**
+        - 2 types : governing : play direct or indirect role and non-governing elites
+        - Non govt**- such as economic (wealth), sports, art, ethic (virtuous)**
+    - these qualities divided ruler and ruled
+    - elite refer to those who excel
+    - two groups of governing elite: lions and foxes (<
+    - lions rule by force, courage, decisive
+    - foxes by cunningness and have manipulation skills
+    - Dictators/ royals/ conservative fall in lions
+    - Innovative/ materialistic goal/ imaginative cunning people like Chanakya and Maurya fall in foxes
+    - Circulation: when one set decays or loses vigour, replaced by other set of elites ; can be 2 types – gov and non-gov, or lions and foxes
+    - Due to loss of faith, corrupt, loss of transperacy
+    - Circulation not ltd to politics – seen in religious groups, biz also eg startup vs capitalist
+    - Borrowed from **Machiavelli**
+    - Each kind of elite lacks the qualities of the counterpart
+    - Masses lack rational capacity and hence are dominated – since they don’t have rational capacity, its less likely that there will be a revolution
+    - Circulation of Elites leads to social change in society.
+    - Criticism
+        - **Parsons** Criticism : no distinction between democracy, communism, fascism etc
+        - No way of measuring qualities
+        - Difference between lion and fox is merely style of rule
+        - Altruism -people do charity not for power
+        - Modern society is complex and there are multiple sources of power centres
+        - **Bottomore**: “**Elites and society**” elite circulation may not always be there as revolutionary intellectuals exist
+        - DIFFERENT types of rules – no difference
+        - **CW Mills**
+        - Pluralist theory
+        - In response to Marxist claim that class struggle will lead to an egalitarian society with no private ownership
+        - History is never ending circulation of elites
+        - **Karl Mannheim**: In a democracy, there are various pulls and pushes that shape policy; people remove if they are not satisfied
+        - **Justifies inequality and restricts social mobility**
+    - **Relevance today**
+        - **Economic inequality observed**
+        - **Highly relevant in 2 party democracies like USA**
+        - **Globalization – IMF WB show circulation on global scale**
+- **Mosca**
+    - **The Ruling class**
+    - Better organizational skills
+    - A few who dominate and others who are dominated and is inevitable
+    - Agreed that there a few who dominate, but qualities are not the same all the time and vary from society to society and time to time
+    - There are socialical and personal factors affecting rule
+    - Democracy actually reflects the concerns of the elite and masses are a group of passive unconcerned people
+    - Ruler can be elite (political or property) or semi-elite (like managers)
+    - Elites are constrained by social factors and hence rules are not completely powerless in a democracy
+- **Robert Michels** – developed ILOO to explain why masses cannot rule over society even in democratic states or socialist parties – there is tendency of tiny organized minority elites
+    - Oligarchy – concentration of power with few minority elite
+    - Iron law – tendency of an org to develop tiny organized elite in any organisation
+    - few dominate power
+    - Because they have access to information
+    - Limited accountability
+    - Elite rule is inevitable in society as it is a technical and tactical necessity
+    - Iron law of oligarchy
+    - Decisions in democracy are taken by the few elite who possess power and hence rule is inevitable
+    - People are not rational – hence ruled
+    - Though **Mosca** agrees that elites can be drawn from public and wide background
+    - Features
+        - Concentration of power eg – despotism by dynastic rule
+        - Lower mass participation eg voter turnout
+        - Low trust of people eg farmer bill
+        - Conservative nature
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 64.png>)
+    - Criticism
+        - **Robert Dahl** – in **Democracy and Its Critics**, - reduced entire democracy to oligarchy
+- **CW Mills**:
+    - **The power elite**
+    - Elite rule is inevitable and a small group of elite exrcised **disproportionate amount of power**
+    - So, key people in key institutes is power elites
+    - According to his US study, power lies with institutions and not personal qualities of individuals or psychological
+    - Doesn’t mean they don’t use psychological but primary source is institution
+    - Certain institutions occupy pivotal positions and the elite comprise those who “**command post**” in these institutions and monopolize power
+    - He called this power elite – which consists of military, federal govt and corporations
+    - Cohesiveness is strengthened by the fact that they often have similar social background and interests and frequent exchanges with each other as well as engage amongst themselves
+        - Eg – ivy leagure, men, white, US
+        - Endogamous, social closure
+        - Global influence
+        - Have unlimited power to manipulate masses - manipulate to justify work in own interest
+        - A lot of power and limited accountability
+    - Big corporations have these elite in boardrooms eg WWII
+    - Minority of power elite
+    - Elite Self recruitment
+    - Significance
+        - Central govt makes policy for eco growth
+        ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 65.png>)Corporate make tools and tech to drive growth
+        - Military protects attack
+    - Relevance – **Sanjay Baru** + Ambanis
+    - Criticism – **Dahl** + only American
+    - Supported by **Floyd Hunter** – community power structure
+- **James Burnham**: managerial revolution with dispersion of power in form of shares; control is passed on to a few managerial positions
+- **Sanjay Baru** – India’s power elite – 3 key institutions
+    - Congress, caste, regional
+    - Vernacular or regional from low caste and non congress front coming to power elite
+- **Badri Narayan** – bihar – 1948 – 1980s -2000 :
+    - 1948: hegemony of kayasthas, brahmins, bhumihars (congress)
+    - 1980s – Kurmi, koeri, Yadav (non congress)
+    - 2000s – Dalit politics – chamars -> penetration of power to lower
+    - At surface looks democratization since 50s, however, one set of elite replaced by another committee
+- **Robert Dahl**: **CW Mills** has circumstantial evidence; power is disprersed – who governs? Interest groups
+- **Dahl** – they work for welfare of people
+- **Arnold Rose**: Elite groups don’t go hand in glove like **Mills** said. They take the decisions in consultation with various interest groups
+- Public opinion matters
+- **Karl Mannheim**: In a democracy, there are various pulls and pushes that shape policy; people remove if they are not satisfied
+- **Thompson** – they don’t take decisions all on own but have to give concessions
+- Common features of classical elite theory
+    - Ruling minority, ruled majority
+    - Masses are not rational and hence unaware
+    - Self recruitment and system closure
+    - Work for own self interests
+    - Take decisions for society eg Hiroshima nagaski
+    - Power is concentrated
+    - Power is zero sum game
+    - They are v selfish and aim to fulfil own self interest
+- **Differences between Pareto and MILLS:**
+    - **Nature of Elite**:
+        - **Mills'** power elite consists of a triad of political, economic, and military leaders collaborating for
+        shared interests.
+        - **Pareto** emphasizes the natural and cyclical nature of elites, with different groups rising to power over
+        time.
+        - **Mosca** focuses on the political class as the dominant elite, emphasizing the control of political
+        institutions.
+    - **Interconnectedness:**
+        - **Mills** emphasizes the interconnectedness of institutions, with the power elite operating across
+        various sectors.
+        - **Pareto** and **Mosca** focus more on the rotation of elites and the dominance of specific groups in
+        particular spheres.
+    - **Elitist Circulation:**
+        - While **Pareto** and **Mosca** highlight the circulation of elites, **Mills'** concept of the power elite suggests
+        a more stable and interconnected group.
+    - **Sources of Power:**
+        - **Mills**: Power is concentrated in the triad of political, economic, and military institutions, with
+        collaboration among these sectors. The power elite controls major societal decisions.
+        - **Pareto**: Elites are characterized by those with superior abilities, whether intellectual, economic, or
+        political. Power may be held by those who excel in different spheres, and the elite naturally changes
+        over time.
+        - **Mosca**: Power is concentrated in the political class, and the ruling minority emerges through
+        competition and the ability to manipulate political institutions.
+    - **Role of Ideas and Values:**
+        - **Mills**: Emphasizes the role of shared values and ideas among the power elite in maintaining their
+        dominance. The elite class has a cohesive worldview that guides decision-making.
+        - **Pareto**: Focuses on the circulation of elites based on their abilities and the emergence of new elites
+        with different values and ideas over time.
+        - **Mosca**: Highlights the manipulation of ideas and ideologies by the political class to maintain control.
+        The ruling minority uses ideologies to justify its dominance.
+    - **Social Mobility:**
+        - **Mills**: The power elite remains relatively stable, with limited social mobility. The interconnectedness
+        of the elite class reinforces its stability.
+        - **Pareto**: Recognizes the circulation of elites, suggesting that social mobility occurs as different groups
+        rise and fall in power.
+        - **Mosca**: Acknowledges the possibility of individuals moving into the political class, but the overall
+        structure remains characterized by a minority in control.
+    - **Conflict vs. Stability:**
+        - **Mills**: Acknowledges the potential for conflict between the power elite and the wider society,
+        highlighting the possibility of tensions and power struggles
+
+### CRITICISM
+- **Burnham**
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 66.png>)
+
+## PLURALIST THEORIES
+### PRO THINKERS/ POINTS
+- Soc not homogenous but diverse consisting of section groups
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 67.png>)
+- They reject collective goals proposed by **Parsons**, explain sectional interest as alternative
+    - Reject idea of public holds power; instead bystander and interests represented by interest groups
+    - Since multiple interest groups co-exist, cant say one superior to another
+    - **Raymond Aron**: “govt becomes business of compromise” ; acts as a honest broker between different elite groups. Govt can never satisfy everyone all the time
+    - Eg – teacher grup, students union; farmer, corporate ; envt capitalist, lawyer, doctor
+    - **Robert Dahl** (**Who governs**): elite theory confuses potential and actual power; local politics is a business of negotiating and bargaining – supported this classical pluralism
+    - Uunlike classical pluralism, not all groups equally imp – some more imp ; believe state works in interest of elite interest groups
+- Power is not concentrated with one but dispersed; modern democracies have different sources of power
+- They don’t reject that elites exist, but say there are other sources of power like pressure groups, trade unions etc.
+- Hence, elitism is compatible with democracy
+- Diverse occupations lead to different groups, who bargain and negotiate to influence and shape policies – no one plays a dominant role as conflicting interests amongst different groups
+- **Alexis de Tocqueville**: state is an honest broker between divergent groups
+- **Anthony Downs** in his “**An economic theory of democracy**” : trade unions, pressure groups play similar role in politics to defend interests of their members
+- **Seen in India with multi**-party democracy and distributed votes
+- **Ralph Miliband**: state run by a number of elites who are in the central institution
+- function of power diffusion
+    - Pull and push
+    - Articulation of interest
+    - Tyranny of state
+    - Efficiency
+    - Representation of minority – **Dahl**
+- Dysfunction
+- Media
+    - Those who control..
+    - Functions
+        - Social cohesion eg national movement, gaza war
+        - Social change – debates , swach bharat
+        - Minority voice – **Dahl**
+        - Charismatic leadership eg influencers
+        - Platform for class mobility
+        - Sensitization for caste
+        - Feminist support – metoo, Nirbhaya walks (but patriarchy)
+        - Agent of political participation – election manifesto and polling
+        - New form **of civic religion agent** – boycott maldives
+        - **Focault**
+        - Civic consciousness
+        - Social good
+        - Info dissemination
+        - Man of nation vs man of world
+        - Agent of new laws + social right eg porche case
+    - Dysfunctions
+        - Agent for pull factors of urban areas
+        - Monoculture eg muslim terrorist
+        - Conspicuous spending like iphone
+        - Social norms and patriarchy
+        - Objectification
+        - Pathological behaviour eg blue whale
+        - New deviant behaviour of retreatist - paid media and deep fakes
+        - Aksoa role in socialization- digital identity and validation
+        - NRMs
+    - Manifest and Latent functions
+        - New forms of sects and cults eg sadhguru
+    - **Baudilard** – governs life today with unique symbols
+
+### CRITICISM
+- But no focus on political hegemony
+- Not all interest groups have same power
+- Politicians at times don’t care about majority interest
+- Safe decision making
+- **Robert Michels**: political parties unsurp power in their own vested interests
+    - Those in power needs to be highly organized and hence others are excluded from decision making
+    - Loyalty is awarded
+- Often ignore women as a group
+- The preference of majority may have been influenced by the minority eg **Focault** discourse theory + **Steven Lukes** – 3rd face of power as media and education
+- **Westergard** and **Resller** – govt legalization may fail to have intended effect eg poverty schemes (power is visible only through its consequence)
+
+## POST MODENISTS
+### PRO THINKERS/ POINTS
+- **Focault** – relation between Power and knowledge” - media
+    - Knowledge is power –
+        - power not possessed by people but people possed by
+        - power those who have new knowledge or exclusive knowledge have power eg aadhar knowledge + knowledge keeps increasing
+        - certain group create knowledge like academicians, scientist men and rest are subject to discourse by these people
+        - Discourse theory says our symbols, comm and thoughts are influenced by those in power
+        - They can influence what we think is true or not
+    - This involves dev of discourse – eg doctor wins in discourse – discourse is discussion or narrative on topic
+    - **Madness and civilization** – discourse is practice that systematically forms the objects of which they speak. mental illness emerged by psychiatrists
+    - **Discipline and Punish** – as reformist intention increased by 19th century, focus on people become judged for what they were instead of what they did (eg call a thief)
+        - Experts emerged – eg juvenile justice board
+        - Focus was on intention of the criminal
+        - power is exercised and not possessed and hence there is always uncertainty if it can be exercised or not
+        - power can be reversed as you can get counter diagnosis (2nd opinion of doctor)
+        - Panopticon – the fear of surveillance makes people behave better (Eg God or jailor)
+        - belief was humans have souls and can be manipulated
+- **Antonio Gramsci**
+    - Didn’t believe eco infra determined to a large extent the superstrcutre of society
+        - Divided society into 2 groups = political society (army, police, legal system) and civil society (church, trade union, mass media, pol parties)
+        - If ruling class maintained control by approval of the members of society, it created hegemony. However, it could remain hegemonistic only if it was ready to compromise and take account of demands of exploited class
+        - No complete hegemony as
+            - Noth ruling class and subject divided amongst themselves and hence no single group on its own could maintain dominance
+            - State wanted to make concessions to subjects
+            - For overthrowing of capitalism, intellectuals need to emerge within subject class to mould ideas and form historic block of exploited
+- **Steven Lukes**- 3 faces of power
+    - Decision making – express desires of diff groups and make decisions
+    - Non decision making – prevent discussion
+    - Media - Shape desires by manipulation of social groups – persuade to accept
+
+## STATE CENTERED THEORIES
+### PRO THINKERS/ POINTS
+- **Eric A Nordingler**: state acts indepedntly or autonomously to change society. 3 types:
+    - Type 1: state acts independently to use policies and implements what it prefers depaite pressure from others not to do so
+    - Type 2: convinves opponents to change their minf and support
+    - Type 3: succumbs to pressure and follow policies supported or not opposed by public or interest groups
+- **Theda Skockpal** – theory of “bringing state in” = state has a lot of power and pursue own interest like increasing their own power
+    - Capacity depdends on sovereign territorial integrity, stable source of income, low debt, recruit qualified members of society to organization, wider tax, defence power
+    - A state which undermines it authority has revolution
+
+## NATION AND NATIONALISM
+### PRO THINKERS/ POINTS
+- **Weber**: Nation is a community of sentiments
+- Nation is a **psychological concept** where consciousnesses is rooted in common identity from a shared history, culture, ideology
+- Nationalism is an Ideology consisting of symbols and sentiments that provides sense of common political community
+- Has a sense of pride, belonging and affiliation
+- Nationalism can manifest in many forms:
+    - single ideology (china)
+    - religion (israel)
+    - composite culture
+    - poly-ethnic (usa),
+    - coercive
+    - of race and kinship – But **F Schuman** says if only race, would have disappeared because of migration, wars, conquests and travels
+    - historical roots: culture, language, enemy
+- **Thomas Erikson**: (**ethnicity and nationalism**) national and ethnicity are diff as a nation has multiple ethnicity
+- **Gellner**: nation, nationalism and nation-state are newer concept from 18th century
+- **Pilkington**: supported **Gellner** – only with advent of communication when people realized others as totally distinct from them
+- **Anthony Smith**: not a modern concept such as rise of Germany
+- **Benedict Anderson** (**imagined communities**): don’t even know others but still have a sense of communion; rejects the idea that nationalism will decline and said it is a metaphysical phenomena
+- **Hans Kohn** (**the idea of nationalism**): difference between nationalism in western and eastern countries – west used nationalism to justify existing state whereas east had nationalism to make new state
+- **Greenfield** distinguishes between civic (citizenship and rights based) and ethnic (what you are born with) nationalism
+- Nation and nation state from book – not v imp
+- **Packard**: nation of strangers
+- India – 2 types of nationalism – one for freedom and second Pakistan + now khalistan
+- How to increase nationalism? **Ernest Gellner**:
+    - Formal education system
+    - Cultural homogenization
+    - Linguistic standardization
+    - Abstract community with a common enemy
+    - Central monitoring and bureaucratic control
+    - Political legitimacy
+- New forms of nationalism -> cricket , social atrocities such as Nirbhaya rape case, music like Vande matram, drama and cinema like bollywwod such Uri
+
+### CRITICISM
+- **Marx**: nationalism will lose its existence as classes will be dominant
+- Liberals: concept of global citizenship
+- **Rabindranath Tagore**: I am not against this nation or that nation, but idea of nation itself – replaces binds with mechanical functioning
+- Issues faced
+    - Federal relations
+    - Sub-nationalism
+    - Role of intl orgs
+    - Nations becoming economies
+
+## STATE
+### PRO THINKERS/ POINTS
+- State refers to an abstract entity consisting if a set of political legal institution claiming control over a geo territory and people living in it
+- State is a physical and metaphysical construct for political organization of society
+- Arises from the need of an institution to regulate large scale activities and comes as a result for desire of political unity
+- **Locke** and **Hobbes**:
+    - state keep people at its centre for welfare and man
+    - State will secure the rights and property of the man
+    - State is like a neutral arbitrator when people enter into social contracts to make society
+- **Laski**: “State is a way of collectively organizing life in a society”
+- Has some form of law behind it to govern and regulate and give powers over a territory
+- People depend on state for collective welfare and maintenance of law and order
+- State can both concrete thing or an abstract idea – concrete with specific people claiming control whereas abstract - corp with juristic personality
+- It is a corporation possessing juristic personality and has 4 features: people, territory, sovereignty and govt
+- **Weber**: monopoly over legitimate use of violence
+- **Marx**: instrument of exploitation as state works in favour of capitalists. A part o the social superstructure – committed to interest of capitalist
+- **Gramsci**: political and civil society
+    - Political society – what the state generally stands for
+    - Civil – institutions in pvt arena
+    - State dominates force on people not via force but by ideological hegemony
+- Functionalists: integrate the society; **Durkheim** says emerged as a result of division of labor as need for someone who could mediate the complex and different interests
+- Anarchists (like **Saul Newman**) – rejected the idea of state altogether like Argentina
+- **Russell** – a repository of collective force of its citizens
+- Relevance in modern society, understand in terms of:
+    - Ideology: when appeal to followers affection vs cognition; appeal beyond objective meaning such as communism, regionaloinalism, religious etc
+    - Structure: traditional monarch, democratic. Totalitarian oligarch, modernizing oligarch
+    - Function: rule making, rule application, rule adjudication
+    - Acc to constitution
+- Nationality vs statehood
+
+|   |   |
+|---|---|
+|Nationality|Statehood|
+|Psychological|Physical and political|
+|Subjective|objective|
+|Common sentiment feeling|Not necessary|
+|Source – history, kinship, eco ties|Source – geo, territory, sovereignty, people|
+|Cond of Mind|Condition of law|
+|   |   |
+
+## CITIZENSHIP
+### PRO THINKERS/ POINTS
+- Membership of a state with rights and duties
+- Important for rise of a collective feeling within the state
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 68.png>)Social contract theory – citizenship brings both rights and duties
+    - **Marshal** (**Class, citizenship and social development**)l: 3 types of rights and duties - Social, political, civil rights
+        - Social – rights and duties to be a welfare state
+        - Civil – with private ownership, need to respect the boundaries of others
+        - Political – free speech and equality
+- **Aristotle**/ **Plato**: limited citizenship to a few
+- But binds and integrates everyone in a heterogenous society, acting as a common denominator
+- **Derek Heater**: citizenship is a democratizing force as everybody possesses it in same manner, irrespective of class or status
+- **Mark Smith**: need duties wrt to ecological envt also
+
+### CRITICISM
+- **Omvedt**: Citizenship in india while theoretically equal but caste discrimination
+- Global citizenship
+- **Turner**: passive citizenship as lack of direct democracy
+- Feminist: women were given voting rights late vs men
+- **Marx**: illusion as there is no equality in society – 1st and 2nd class citizens
+- Cause of expansion of citizenship?
+- Dual citizenship
+- **Mark Smith**
+
+## DEMOCRACY
+### PRO THINKERS/ POINTS
+- **Order of society where power is vested with people who exercise it via elected representaitves**
+- **Gandhi**: it is not a legal phenomena but a spiritual one involving respect for each other and decentralization of power
+- As **Abraham Lincoln** said., “Democracy is for the people, by of the people of the people”
+- A political system characterized by protection of liberty and fraternity, defending common rights incl those of minorities, effective decision making taking into acc interest of all.
+- Principles of liberal democracy
+    - Free and fair Election
+    ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 69.png>)People choice is respected
+    - Const gov
+    - More than one party competing
+    - Political parties not confined to a privileged class
+    - Recognition of minority rights
+    - Accountability
+    - Rule of law
+    - Civil liberties
+- The concept of a welfare state was first proposed **Locke** and **Hobbes**, and propounded by **Montesquieu** with his separation of powers
+- Types of democracy
+    - Participatory democracy: where people are involved in the decision making closely
+    - Representative democracy
+    - Liberal democracy
+- Pluralist: power is diffused across different groups that pull and push the govt to influence policies
+- **Parsons**: bank example
+- Why low representation of people
+    - Political apathetic
+    - Patriarchal and pati sapranch
+    - Passive participation
+    - Failure of pressure groups
+    - Lack of awareness
+    - Corruption and leakages
+    - Nepotism despotism
+    - Social economic barriers
+    - Communalism
+- Thinkers – **Hobbes**, **Locke**, **Larry Diamond**, **Plato**
+
+### CRITICISM
+- **Thomas Jefferson** – democracy is nothing more than a mob where 51% people take away the rights of 49%
+- **Bottomore**: need for a social democracy where people are directly participate in local govt
+- **Robert Michels**: iron law of oligarchy where some people end up getting the control where representatives get power
+- **Hans** and **Tocqueville**: tyranny of majority over minority
+- **Marx**: tolerates inequality in terms of economic inequality except in communism
+- Even within democracy, Dynasty rule prevails
+- **Glass** and **Dahrendorf**: Elite self recruitment
+- Illiteracy and ignorance
+- Criminalization of politics
+- **JS Mills**: if all man minus one was of one opinion, then mankind will be no more justified to silencing that one person, if he had the power in silencing mankind
+- **Steven Lukes**
+- **CW Mills**
+
+## CIVIL SOCIETY
+### PRO THINKERS/ POINTS
+- Defined by **Hegel**
+- Individuals get together **voluntarily** to **create institution or to bring social change or create orgs** and have a **collective interest**
+- **Third sector of society – keeps it vibrant**
+- **Locke**: Civil society was born to secure rights that were already available in state of nature
+- Types of rights – RTI, legal, rape, violence, demolition primary edu, Dalits etc.
+- **Gramsci**: help manage hegemony of state and market
+- **Tocqueville**: Civil society is complementary to democracy; checks excess exercise of power by state
+- **Cohen** and **Arato**: civil society plays an important role in influencing state policy on social welfare, articulating views on current issues and being a forum for exchange of new ideas, initiating social movements by way of creating new norms and institutions
+- Can consist of NGO, media, trade union, political parties, pressure groups etc
+- Can lead to social movements , promote equality and education, mobilization of stakeholders for awareness
+- Characteristics:
+    - Open and voluntary
+    - Is independent of state control and doesn’t seek to control state
+    - Can be bound by a legal order or a common unified interest
+    - Has a public interest and not private interest
+    - Pluralism and diversity – often secular
+    - Should not be purely profit driven
+- Reasons for civil society
+    - In modern societies, it is aimed at reducing the burden on democracy by involving people in the delivery of collective goods and ensure empowerment of marginalized and local communities
+    - Eroding faith of people due to corruption
+    - **Baviskar Mukerjee**: only after 1980s due to withdrawal of state welfare activity, demise of developmentalism and emergence of a post dev neo-liberal economy
+    - New forms of civil society with penetration of internet where large support can be mobilized in small amount of time; people take up social issues and try to influence state or make demands eg All eyes on Rafah – global civil society!
+- Benefits
+    - Eg – avoid evergreening of patents, RTI, Lokpal, NALSA, wto norms protection, Ar 21 and climate change, abortion rights
+    - **Larry Diamond** – CS helps to
+        - Limit state power
+        - Empower citizens
+        - Promote democratic attributes
+        - Act as a shock absorbing inst to mitigate conflict
+        - Citizen attitude towards state strengthened
+- Role in S$T
+    - Articulate interest and impact on diff sections of soc (RD) eg – Centre for Internet and society – conducts research on privacy, public, protect
+    - Influence policy – KM eg - Pratham
+    - Accountability to avoid excess power (**Tocq**) eg -ADR and PUCL
+    - Feedback for change ad innovation (**Cohen**) eg – GM Free India
+    - An provide expert input eg – Greenspace
+    - **Anna Hazare**, PIL, LGBTQ rights
+- Cons
+    - Instability
+    - Myopic interests
+    - Economy vs envt
+    - Anti-democractic means like lobbying
+    - Not always pursue democratic purpose
+    - Internal democracy
+    - **Gramsci** – further dominant ideology
+- **Robert Putnam** – calls CS the school of democracy
+- PYQ – changing nature over time – **Rajni Kothari**
+    - Before 1970 – highly centralized ; limited role
+    - 1970 -1990 : emergence of grassroot movements like Chipko and narmada bachao
+    - 1990 – 2000: increasing role of NGOs after economic liberalization
+- Post 2000: Policy advocacy, influence – R&R
+    - Social audits and collaborative governance
+    - Citizen charters
+    - GRM, Feedback mechanism, pressure valve
+    - Protection of fundamental rights and human dignity – SBM, LGBTQ
+- Made a more inclusive soc
+
+### CRITICISM
+- Lack on same parameters that they aim to espouse
+- Controlled by an individual/ charismatic leader
+- Often don’t disclose funding
+
+## IDEOLOGY
+### PRO THINKERS/ POINTS
+- **Antonio Gramsci**: Ideology consists of beliefs, doctrines and symbols
+- Ideology plays a role
+    - Gives vision for organic solidarity and cohesion eg – civil rights movmenet
+    - Helps in mobilization eg Me TOO
+    - Influences policies – eg
+    - Challenges status quo – e feminist ideology
+    - Can enter politics – caste ideology
+    - Bring social movement (**Neil Smelser**) – Frenh rev and ideology , socialism
+- Dysfunctions
+    - Can be conflicting or exploitative eg – **Hitler**/ swarajists – Justifies violence
+    - Rigidity and hinder progress eg – **Popper**
+        - **Popper**- says ideology is characteristic of totalitarianism and doesn’t consider pluralism of ideas i.e welcomes new ideas (**Open society and its enemies**)
+    - May be influenced by media – **Steven**
+    - Communalism and fundamentalism
+- Ideology – opium of intellectuals (**Raymond Aaron**)
+- Ideology in caste
+    - Representation of vulnerable sections
+    - Amplification of interests
+    - Welfare and social mobility by affirmative actions
+    - Political inclusion and voter alliance
+    - Accountability
+    - However, disrupted social integration -> divisive tendencies + castecization of politics
+- However, ideiology cannot crase to exidt as diff groups have diff ideologies which they use to motivate its members and those who subscribe to that ideology. It forms the basis of social movements and emancipation of the oppressed classes.
+
+## COLLECTIVE ACTION
+### PRO THINKERS/ POINTS
+- Dissent means ideas which are diff from those prevailing in society at a given point of time; when dissent is shown openly, it takes the form of a protest or agitation
+- Action by group of people to achieve a particular goal or objective or being a social change
+- Can be organized/ unorganized or institutional/ non-institutional
+- It has its own subjectivity, different from individual subjectivity
+- **Herbert Blumer** (**Critiques of research in school of social science**): 4 types of collective action
+    - Crowd – can have an outburst (anger), craze (joy) or panic (expression of fair)
+    - public – based on a single issue vs crowd which is based on a single emotion
+    - Mass – use a particular mass media to address audience and not defined by emotion eg printing or press
+    - social movement
+- Common interest + collective action = protest/ agitation
+
+## PROTEST
+### PRO THINKERS/ POINTS
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 70.png>)**Opposition** against a person, group or larger society
+- Can be individual/ collective or latent/ manifest
+- opposition is central to protest to achieve sth desirable/ remove undesirable
+- Can take many forms such as violent and non-violent (torch march, black cloth)
+- Acceptable in a democracy
+- Usually against comp of resources, discrimination etc and in response to an event that has occurred
+- Eg- **Gandhi** against British
+- Usually in response to an event that has already occurred
+
+## AGITATION
+### PRO THINKERS/ POINTS
+- Social process where activity id taken by an individual or group to achieve a purpose
+- Can be organized/ unorganized or institutional/ non-institutional
+- Purpose is central to agitation
+- Can be for an event that as occurred or to drive change and involve action
+- Arises from dissatisfaction amongst people
+- Can be due to actual or relative deprivation of agitator or affiliate group
+- Strikes, mass leave, rasta roko etc
+- Imp – they are generally spontaneous and short lived unless institutionalized and made a social movement
+- **Ghanshyam Shah**: compulsive demand of agitation is not necessary in protest
+
+## SOCIAL MOVEMENT
+### PRO THINKERS/ POINTS
+- Sustained collective action, well organized aimed at bringing or restraining a social change, outside the sphere of established institutions
+- Diff from trade union as union has an established institution
+- **Habermas** – earlier focused on gaining political power eg Russian and french
+- **![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 71.png>)**Giddens: Characteristics
+    - Against established institution
+    - Collective movement
+    - Collective ideology/ interest
+- **Blumer**, **Tilly**: Is developed in 5 phases
+    - **Tilly** (**Social movements**) – vehicle for ordinary people’s participation in politics
+    - Emergence: multiple theories for emergence
+        - Social unrest theory: Developed by **Blumer** and Chicago school;
+            - collective attempt aimed at bringing a change in the existing social order
+            - **Social movement can be active**, or **outwardly directed to transform society** or **inwardly directed to change people involved**
+        - Strain theory: developed by **Neil Smelser**
+            - where there is a difference between societal norms and structural means, people feel the strain in society
+            - 6 necessities for development of the strain and a social movement to emerge
+                - Structural conduciveness – envt of society should be such that certain forms of protest can take place eg not monarch
+                - Structural strain - which should be due to the structure of current social system – relative deprivation due to inequality eg caste system
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 72.png>)
+                - Generalized belief – clearly defined and agreed belief by participants – growth and spread of belief
+                - Precipitating factor – certain event should have happened – spark for collective action
+                - Mobilization of participants – should have network and org to take the action
+                - Lack of political control or too much control – how much control do the higher authorities have?
+            - Social movement emerges in form of stages and believed in a multi-causal theory instead of mono-causation
+        - Relative deprivation theory:
+            - when people feel relatively deprived and are unhappy about certain things, they lead to collective action
+            - criticism: people are often unhappy about certain things, doesn’t mean they always take collective action
+        - resource mobilization theory (**Mccarthy Zald**, **Tilly**): **From mobilization to revolution**
+            - any social movement possible only when material resources to sustain such as knowledge, money, crowd, network, charismatic leader, leadership, media, solidarity, legitimacy mobilized
+            - if it can muster resources like leadership, comm and funding, they can be more effective
+            - assumption is resources are scarce and they have to compete for it
+            - criticism: doesn’t explain movements by farmers and peasants , new movements don’t need resources eg meTOO, arab spring – no resource
+        - **political opportunity theory (Till** and **McAdam**)**
+            - movement possible not only with resource but if there is right political opportunity too in the system
+            - refers to vulnerability of existing political system due to its own weakness, support of opposition or formation of faction within ruling or greater access to public participation through social media
+        - **Wallace**: Revitalization theory (revitalization movements)
+            - While they may arise from dissent/ dissatisfaction of existing social order, they can lead to positive alternatives also
+            - These are also called positive movements
+            - Eg – Arya Samaj/ Brahmo Samaj
+        - Marxists – conflicts resweeten industrial workers and their capitalist employees
+        - **Broom** and **Lenski**: **status inconsistency theory – objective difference in status and ranking such as edu, income etc leads t tension, distress and protest**
+        - **Allain Touraine** – Theory of historicity – social movement based on historicity of the place
+        - **Turner** – social movement can be classified based on their orientation – value, power or participation orientation
+- 4 stages of social movement
+    - Emergence: driven by perception
+    - Coalesce: individuals get together with a sense of coherence to achieve a goal – stage of collective action to attract media and public
+    - Bureaucratization: establish own rules and procedures
+    - Success (eg women)/ failure repression (eg – British/ 144)/ mainstreaming/ cooperation/ leadership fail/ internal conflict / leader joins system for power/ money (co-optation)
+    - Decline
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 73.png>)Classification of social movements (diagram on 216) by **David Aberle**
+    - Reformative: change existing social structure via small gradual steps eg – brahmo samaj
+    - Redemptive: change in personal consciousness and individual actions only eg – ezhava in kerala
+    - Revolutionary : change in society radically, usually by capturing state power eg – Bolshevik revolution in Russia
+    - Alternate : limited to individuals only
+- Functions of social movement (**Touraine**)
+    - Mediation – relate individual to larger society an give thema chance to participate and express ideas
+    - Pressure – stimulate formation of organized groups that work systematically to oversee that their interests are heard and implemented
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 74.png>)
+    - Clarification of collective consciousness – develop ideas which spread throughout society
+- Current relevance
+    - **Habermas** – new SM are the new politics which is about quality of life, individual self realization and human rights
+    - New form of social movements such as LGBTQ and pride walks
+    - Me Too movement
+    - Black lives matter
+    - Veganism
+    - Russian rev
+    - New social movements led by MC
+    - All eyes on Rafah – global movement in media
+    - Porsche case
+    - Defending envt rights
+    - Equal rights for marginalized/ vulnerable groups such as feminism, civil rights, gay right
+
+|   |   |
+|---|---|
+|Old social movement|New social movement|
+|- Pre 1950|- After 1950|
+|- Address wealth or income inequality<br>- Gain independence from colonial|- Diverse objectives<br>- Envt, sexual, peace, privacy, animal rights – social cultural|
+|- Political parties active role|- Pressure groups/ non party orgs|
+|- Local national|- Local global|
+|- Upper class caste|- Middle class|
+|- Violent|- Non violent|
+|- Bureaucratization|- Loosely organized|
+|- National movement|- Amnesty, metoo, blacklives|
+|- Mass|- Media|
+- NSM – rose in response to globalization – resulted in risks which transcend national boundaries
+- Eg – climate change, extinction, terrorism and org crime
+- Lose faith in national govt – mobilize beyond territory – global citizenship
+- Media led NSM
+    - Difference from old
+        - Unlike old, address post industrialist, post materialist, identity based issues
+        - Involves proletariat and not mere elites
+        - Don’t have political considerations but envt, rights, homosexuality,
+        - Decentralized rather than a central SM earlier
+        - Transcend national boundaries
+        - Egs – LGBTQ parades, narmada bachao adnolan, Me Too, Black lives matter, srudents protests, save silent valley
+    - Factors
+        - Strain theory – helps in faster identification, awareness about precipitating factor and creation of generalized belief eg Porsche case
+        - Resource mobilization – easier with mere interent penetration
+        - Amplify class struggles – helps create consciousness to become class for itself eg – urban company females used whatsapp for meeting
+        - Relative deprivation – can be voiced to challenge status inequality eg – relative deprivation of students in ORN
+        - Gender issues, racial atrocities and stratification for social mobility
+    - Issues
+        - Data privacy
+        - Algorithms to manipulate – **Steven Lukes**
+        - Charismatic leaders
+        - Deepfakes , disinformation and fake news
+        - Online radicalization – leads to echo chambers
+        - Digital divide
+        - Cyber trolling and anonymity
+        - Polarization – difficult to find common ground
+- Help researchers understand social movements that have created lasting impacts on society and their triggers.
+
+## REVOLUTION
+### PRO THINKERS/ POINTS
+- Refers to a fundamental change in political power or org structure in a relatively short period of time
+- A social movement which is radical with far reaching outcomes
+- **James Jasper**: “ revolution at minimum aims to overthrow the state or power”
+- **Charles Tilly** (**European revolutions**):
+    - Revolution has long lasting impact on society
+    - Outcome of power struggle amongst competing interest groups
+    - 4 main components
+        - The org
+        - Mobilization of resources
+        - Common interest
+        - Opportunity
+- **Smelser**: when equilibrium in society is disturbed, revolution takes place
+- **Theda Skockpol**: took the idea of revolution from mere political control to agrarian social conflicts also
+- **Goldstone**: Same social movement can be a revolution in one and normal movement in another eg – human rights protest in West vs China
+- **Marx**: revolution as a result of class conflict
+- **Goodwin** – differentiates in social movements based on intensity of change – conservative (Reformist) or radical (revolution)
+- Usually is supported by a leader to align the functions of individuals and develop common ideology; justify the actions undertaken under revolution and articulates the interests and views of the participants
+- Revolution never takes place in a society until social structure is ready for it
+- **Voltaire** – crisis is the mother of change
+- ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 75.png>)J-curve theory which means a rise in prosperity reduces revolution; + not all poverty leads to social revolution and protest’ J curve
+
+## PRESSURE GROUP
+### PRO THINKERS/ POINTS
+- Groups OF People who come together on basis of common opinions to influence power wielders
+- Orgs that don’t aim to form a govt but influence the govt to pursue their own interests
+- Validates theories of **Dahl**, **Hunter** and others
+- **Mckenzie** – can be a protective group (SC ST) or Promotional group (envt)
+- **Gabriel Almond** – can be institutional interest group (for doctors only), non institutional (ascription, religion etc), associational (class) or spontaneous (Anomic)
+- **Durkheim** – tool for associative democracy
+- Functionalists – make the ground for effective political participation
+- **Giddens** – they are carriers of democracy.
+- **Wyn Grant** – supports elite pluralist theory -> number has greatly expanded and v few are unrepresented. Direct action increased
+- Tools used
+    - A: Articulate interest eg – harijan sevak sangh
+    - B: Backdoor lobbying eg FICCI
+    - D: Demonstrations and movements to promote interest of pressure group eg – Narmada Bachao
+    - E: Provision of expertise eg – Greenpeace
+    - E: Evidence based decision making eg ASER
+    - F: FR protection
+    - M: Mobilize public opinion through info dissemeniation eg – AIKS, IUCN
+    - P: Political participation – transition from spectator to activist
+    - V: Voice of voiceless eg women and SEWA
+    - P: Petitions through PIL and reports -
+    - S: Shapre public opinion
+- Disadvantage – myopic, unconstitutional means, politicize, repressive
+    - But calls Pressure Groups as ‘Disguised Bourgeoisie – legitimize hegemony – spread false consiousness – **Gramsci**
+    - **Robert Michels**
+    - Myopic eg envt vs economy – hirakund dam
+    - Unconst means eg lobbyng
+    - Pluralistic stagnation - PG slow down economic growth
+    - Conflict theorists – disproportionately favor the well represented, better funded pressure groups
+    - **Richard Heffernan** – political participation may fall in long run when demands are not met and hence they feel disengaged
+- **Milbirth** – allows participation of public in politics – move from spectator to transitionlal actiivists;
+
+|   |   |
+|---|---|
+|Pressure group|Political party|
+|Group.. def|**Weber**: organized structure which promotes candidates to contest election to get power|
+|Is informal ; not registered mandatorily|Registered with formal authority|
+|Extra cons means to get way|May / may not|
+|May dilute on completion of interest|Ideology for survival – don’t die, find new objectives or ideology|
+|Self appointed members – not accountable to public|Accountable|
+|Don’t need ideology|Pre requisite for formation - ideology|
+|   |   |
+- Dynamic relation
+    1. Relation of opposition for accountability
+    2. All PP were pressure groups at some time eg – shiv sena
+    3. May have PG within PP eg – swarajist and non changer – fractional or union of parties like NSUI
+- PP
+    - Functionalists – guardians of power for welfare of people + stable alternative to individual leaders
+    - **Dahl**: link between people and govt.; platform for interest articulation
+    - **Bottomore**- divergent interests form political parties – represent heterogenous interests
+    - **Lipset** – for efficient govt, comp amongst contenders must result in granting “effective authority” to one group and “Effective opposition” to another
+    - Represent diverse wishes as if not represented, an alternative party will emerge and they will not regain power (Supports **Wyn Grant’s** theory of elite pluralism and interest representation)
+    - **Milbarth**: 4 types of participation in political system
+        - Political apathetic – people not concerned – often when people participation is discouraged
+        - Political spectators – occasional events only; usually when there is stable govt
+        - Transitional activist – political meetings and fundraisers eg **Anna Hazare**
+        - Gladiators – enter political arena and contest elects
+    - Relevance
+        - Promote ideology
+        - Serve their own interests
+        - **Dye** and **Zeigler** - diversion of masses from true nature of elite and pacify them
+        - Contribute to legitimacy of political system
+        - Articulate diverse interests
+        - Form govt
+        - Form policy
+        - Provide opposition and criticize polivirs
+        - Access to govt machinery against the elite power theory
+        - Socialization and public participation
+        - Promote social welfare
+- Typologies
+    - Can be a right left or middle party : conservative/ liberal/ socialist/
+    - Diff systems such as single, bi and multi
+    - Electorate vs membership parties – weak vs strong bond with voters
+    - Religion – hindu muslim
+    - Caste
+    - Popular vs sectional
+    - National vs regional
+- In india
+    - Multiple regional and national parties
+    - Can lead to unstable govt and different decision making
+    - Caste religion etc based
+    - Defections eg Shiv Sena and anti defection law
+    - Feminist: advocate fr increased representation -> reservation bill
+    - Multi-party -> so political instability; unrepresented sections, division and national unity (**Robert Smith**), autocracy checked (**Harold Lenski**)
+    - In authoritative -> stability (**Duverger**) but authoritative govt (**David Lane**)
+- Challenges
+    - Pose challenge to integrity of nation
+    - Populist
+    - Myopic regional/ sentional parties
+    - Freebies
+    - Media as the 3rd face of democracy
+    - Individualism, shifting values, fragmentization of interests
+    - Cannot satisfy everyone all the time
+    - Role of pressure groups
+    - **Paul Brass**: lack internal democracy
+    - Charismatic leadership -> cult behaviour
+    - Supranational bodies and globalization
+- “Ideology” continues to play a role – not reached “end of ideology” as claimed by **Francis Fukuyama**
+- Multi party true reflection of India’s multi culturalism
+- Evolution of PP in India – **Rajni Kothari**
+    - 1948 – 1967: phase 1
+        - One party dominant phase despite co-existence of multiple parties and comp between them, congress maintained dominance
+        - Reasons
+            - Torchbearer of nationalism, money power and org, believd to be representative and all india party
+    - 1967 – 1990 – phase 2
+        - Decline of congress as dominant system
+        - Factional politics within congress for presidential election – VV Giri led tp congress requisiionist vs congress others
+        - Failure of land reform , led by CPI – WB and kerala
+        - Intl war – 62 and 65
+        - Loss of charismatic leaders nehru and shastri
+        - Famine and eco crisis – food shortage
+        - Led to non – congressism
+            - **Ram Monar Lohia**, **Chaudhary Charan Singh**, **Devi Lal** – samyukt vidhayak dal – non congress coalition
+                - Supporters of workers and peasants
+            - Rise of dominant class with success of land reform to some extent – helped gain eco power – translate to political power
+            - Rise of ethnicity based mobilization – rise of DMK in TN (1967)
+        - With breakdown, multiple parties emerged; india moved from congress to non-congress India
+        - **Yogendra Yadav** – india 1st democratic uprising
+        - **Lucia Micheluthi** – rise of yadavs – claimed kshatriya status
+        - **C Jefferlot** – india in silent revolution
+        - **Rudolph** and **Rudolph** – move from command to demand politics
+    - 1990-2014 :
+        - Rise of coalition politics
+        - May forged coalition with OBCs – BSP in UP, Lokshakti party in Bihar
+        - Gradually, got importance at national level too
+        - **Y. Yadav** – india 2nd demo upsurge - 3Ms – base for congress to lose dominance in north and west India – rise of united front and third front
+            - Mandalization of politics also started
+            - Mandir issue
+            - Market issue
+            - Increase Bahujan participation along with Dalits
+    - 2014 onwards: 4: one party dominance – decline of coalition politics
+        - **Suhas Palshikar** – India 2nd one party system
+- Life cycle of PP undergoes cyclical changes with splintered groups coming together (fusion) -> factional politics (fission) -> coalition (fusion) -> new coalitions -> fusion -> one party
+
+|   |   |
+|---|---|
+|Ideology politics|Identity politics|
+|- It is a kind which revolves around how soc should be organized and governed<br>- Eg – political party supporting free market ideology while another supports sociologist ideology<br>- Political party supports envt vs free dev|Revolves around interest of specific social groups<br><br>Eg – PP running fo dalit cause or cause of minorities or tribals|
+|Prevailed till 1960s|Post independence from 1967|
+|More favorable in homogenous soc (functional theory)|Heterogenous soc (pluralist soc)|
+|Capitalism vs socialism<br><br>Envt vs dev|Men vs white<br><br>Dalit vs non dalit|
+|Theoretically we can differentiate, it is difficult to have water tight compartmentalization on ground<br><br>Many identity politics revolve around ideology eg – feminism is both identity and ideology ,black feminism|   |
+- PYQ
+- PP vs PG dialectics
+    - Defs
+    - Differences
+    - Both diff yet related dialectially
+    - Dialectics refers to relation of position and contradiction
+    - Dialectical relation between 2 – PG leading to formation of PP
+    - PG initially oppose existing PP by exposing inhenent contradiction within existing party – eg
+    - PP breaking down into PG – factional politics with PGs
+    - PGs in opposition to PP – not become party
+    - The relationship between them has evolved in a dialectical manner – captured by social scientists like
+        - **Morris Jones** – intra to inter party conflict
+        - **Y Yadav** – 1st demo uprising – oppos and contradiction
+        - Since dialectical evolution is ongoing process, It becomes object of analysis to study ongoing analysis
+- Dynamics of PG in multi-party political system
+    - Define – refers to system with multiple PP parties against each other constitutionally
+    - India post indepdendence was multi party – jan sangh, communit, congess
+    - PG – define
+    - Has dynamic relation with PP and can capture through
+        - Role of PG basic or democratic system
+            - Diverse interests articulated – creates influence over comp eg trade unions
+            - Advocacy and lobbying – might be on better terms with one or another party eg - greenpeace
+            - Mobilize public opinion eg - PUCL
+            - Participate in politics eg - AAP
+            - Pressure valve by acting as a feedback mechanism eg – farmers orgs for farmer bill
+            - May form coalition with those who share their ideologies
+            - Checks and balances eg RTI acgtivists like **Aruna Roy**
+            - Influence policy eg – NRA In USA – for guns policy/ NAZ foundation
+        - Exert influence but over a period, further rev
+        - PG to PP eg AAP
+        - Within political – rise of factional – pressure groups eg shiv sena
+    - **Rudolph** and **Rudolph** – forms of mobilization
+        - Vertical: upper caste led mobilizing lower caste vote bank
+        - Horizontal : party mobilize people from same caste
+        - AROHI mobilization (**Vivek Kumar**) – lower caste mobilizing upper caste vote bank – dev agenda
+- Pressure group and democracy
+    - **DAHL**: PG help in making democratic system workable by reducing despotic tendencies in democracy + articulate interests
+    - **Karl Manheim** – they exert push and pull factors to influence policy best suited for diff secs of soc
+    - **Thompson**- make It representative and inclusive providing concessions to different sections
+    - **Tocquivlle** – govt acts as honest broken between diff pressure groups for final policies
+    - **Rajni Kothari** – strengthens weaker secs and representation eg Dalit
+    - Can give expert opinion, use lobbying, reports
+    - **Wyn Grant** –and v few are unrepresented. Direct action increased
+    - **Larry Diamond** – help increase awareness
+    - Drive social movements and change eg LGBTQ
+- Examples in India
+    - Women – SEWA, NCW, WOMEN RGHTS ORG
+    - LGBTQ - NAZ
+    - Dalits – satyashodhak, dalit dev soc, harijan sevak sangh
+    - Envt – Green peace
+    - Labor - AITUC
+    - Linguistic – tAMIL SANGH
+    - Technology – Centre for internet
+    - Business – ASSCOM,
+    - Associational – Doctor, teacher
+    - Child rights – CRY Foundation, Pratham,
+    - Adivasi – Tribal national voluteers
+
+## CHAPTER 8 – RELIGION
+
+## RELIGION
+### PRO THINKERS/ POINTS
+- **AW Green** – set of beliefs and practices which guides human behavior and also relate social world to super natural
+    - Functionality – social integration, cope with life crisis, social change, moral edu, intellectual , solace to people , justify worldy deprivation
+- Provide normative guidelines for society, which often act as moral guidelines
+- It can also be a source of social change; eg with Buddhism emerging a response to Brahmanical dominance
+- But it can be a way of social control also; eg fatwas and diktats
+- Science without religion is lame, religion without science is blind – **Einstein**
+- **Tocqueville** – Religion helped in rise of democratic spirit in America
+- **Theology assumes god as given**
+- Functions of religion
+- Manifest functions
+    - Social control – normative style of life, increasing morality. **Malinowski** says xx
+    - Cope with life crisis and emotional loss to avoid disruption and destabilization of society (**Malinowski** in his study of Trobriand tribe from incidents of death, puberty) eg – Mahabharat
+    - Envt consciousness – naturism and animism promote idea of soul – ganga and mother earth
+    - Serves intellectual function – **Parsons** – developed to answer uncertainties such as dreams and deaths
+    - Transmission of cultural values as storehouse of info in CSPO
+    - Solace to people – theodicy of disprivilege managed with cults eg – **Osho**,
+    - Social welfare eg langars etc
+    - Address challenges of lower sections from theodicy of disprivelege
+- Latent functions
+    - Social cohesion – **Durkheim** argues religion can help increase solidarity and morality and is a worship of society irself eg - ISCKON
+    - Social change such as **Weber** in protestant ethics and RRM in brahmo samaj
+- Dysfunctions
+    - Fundamentalism – **Gabriel Almond** – having enthusiastic revival eg – Israel hamas war
+    - Associations for communalism – threatening social integration eg – communal poliics
+    - Charismatic leaders of cults misleading – jail baba
+    - Patriarchal – **Simone De Beauvoir** eg – pativrata – devi dasi dichotomy
+    - **Hamilton** – becomes dysfunctional – divides – india pak
+    - Restrictive and conservative for social change – women abortion
+    - **Marx** – pium of masses – nishkama karma
+    - Social stratification – **Ghurye** – led to exploitative caste system
+    - **Turner**: Religionism is promoting consumerism in youth; role of religion is changing in the society
+- Evolutionists
+    - **Comte**
+        - **Three stages of evolution**
+        - **Animism -> polytheism -> monotheism**
+        - Three phases: theological phase, metaphysical age, scientific age
+            - Theo – explain world in terms of ideas
+            - Meta – philosophy
+            - Science – scientific methods
+        - Religion around God will die and science will prevail
+        - **Andrew Lang**: many primitive societies have monotheism
+    - Naturism
+        - **Max Muller**
+        - Believed that religion emerges as humans are in awe, fear or respect of the natural, which is believed to have supernatural powers
+        - Worship of natural forces like river, mountain, rain, sun, moon, earth, fire
+        - Reasons were 2 fold – nature provided basic needs, nature was equally destructive
+        - Humans started worshipping the elements of nature to appease them through personification of nature which led to emergence of individual Gods for nature
+        - **James Frazer**: similar argument in “**the Golden Bough**” where men is in continuous struggle with nature and performs rituals to control nature, which he thought was magical
+        - Diff from animism – no priest or witch
+        - Relevance - Such as Indra (by Aryans), chipko movement, sacred groves, Bishnoi and blackbuck
+    - Animism
+        - By **Edward Tylor**
+        - **Primitive culture** (book)
+        - Believes in soul/ spirit in every object (animate or non animate) around human
+        - Oldest religions in world
+        - Animism developed amongst **early humans to explain the inexplicable situations** in everyday life like death, dream, puberty, changing hair color, echoes, shadow in water, birth
+        - To explain these, humans conceptualized **soul – body and free soul**
+        - Free soul returns – At night, soul leaves body temporarily and wanders around
+        - Body Soul differentiates living from dead – body soul leaves permanently
+        - Spirits can be benign or malevolent (wish to do evil to others)
+        - People feared spirit (body soul) can cause harm, so people started worshiping dead body and spirit to appease them
+        - Specialized groups develop to help in spirit worship – such as shaman priest and witch doctor
+        - Monotheistic religion is religion of modern societies but seen in Contemporary times
+            - Believe soul in river, animal, envt and trees
+            - Spirits worshipped
+            - Shraadh
+            - Commodity fetishism – soul in objects
+        - _The most ancient form of animistic practice is manifested in terms of ancestor worship_
+        - **Herbert Spencer** also supported this point of view
+- Criticism:
+    - projected their own beliefs on the ethnographic group and didn’t study in their natural envt (**Bird-David**)
+    - Post modernist scholars: all societies (and not only primitive) animate the surrounding world by forming attachments to things
+- Functionalist –
+    - brings solidarity, harmony, integration
+    - emphasis from human to society needs
+    - **Durkheim**:
+        - All around world, human societies develop around sacred
+        - In Arunta, members had collective beliefs around Totems considered as sacred
+        - Totemism – elementary form of religion around totems which are deemed sacred
+        - Believed they are descendants of totem
+        - Totemic principle: community worshipping totem = community worshipping itself
+        - Religion = soc own worship of society apotheosized
+        - Religion may have diff forms but universally similar functions
+            - Cohesion – integrates or binds – we feeling
+            - Control – promotes conformity, prevents deviance
+            - Cognitive – thinking capacity of individuals generated by religious values
+            - Euphoria – take collectivity to a super charged or super excited state
+        - Universally present and universally functional
+        - Decline or revives?
+            - Religion will not disappear – its sui generis
+            - National holidays – eg flag, anthem, parades, collective
+            - General elections
+            - Sports – world cup totem
+        - **Robert Bellah** – civil religion – Americanism as a sentiment
+            - Can also have public religion or private religion
+            - Public religion: eg – Halloween, royal death
+            - Pvt religion – every human has a diff religion – sheilaism
+            - Political movements have religious elements
+            - Planet earth – planet
+            - LGBTQ - rainbow
+    - **Malinowski**
+        - “**Totem and Tabboo**”
+        - Need to understand religion in terms of its functionality to individual
+        - Proposed religion as a result of fear, anxiety, or emotion
+        - According to him, religion has the function to consolidate and re-integrate society, but only during times of stress that threaten social solidarity and stability
+        - Serves 2 needs : outcome of effort is uncertain, religion brings peace or comfort
+        - Deal with crisis – death and dream experience as death can disrupt and disintegrate the society
+        - **Trobriand islanders**: rain dance before going to catch fish in sea
+        - Criticism – exaggerates function of religion
+    - **Parsons**: part of the **cultural society which gives norms and helps provide value consensus** eg – 10 commandments quran
+        - **Socialization**
+        - Promotion of value consensus
+        - **Tension mgt** and anxiety in unforeseeable events
+        - Tonic for self confidence
+        - functions
+            - Brings solidarity
+            - Storehouse of information, which provides norms for human action. Eg – **Weber** inspired – Religion drives norms for rise of capitalism
+            - It helps build consensus necessary for social equilibrium
+            - Pattern or stability in society as a whole, diffuse conflicts
+            - Helps in welfare of citizens + manage uncertainty eg - chandrayaan
+            - However ignored dysfunction or dividing factor in society
+    - **Fustel de Coulanges** – teacher of **Durkheim** – fire was the sacred thing as people used to gather around it in cave and share experiences of the day
+        - Now as pop increased, they settled in forest and performed rituals for forest which gave them food – sense of unity
+    - **Odea** and **Younger**, **John Davis** – explored the idea of “personal experience of God” that every individual doesn’t need to justify his faith in God or the form as everyone has a different form and not a collective appeal. The path chosen is diff even if results are similar. There is mutual coexistence of science and religion.
+- Criticism:
+    - ignore dysfunctional aspects of society such as hostilities
+    - **Merton** – highlighted dysfunction of religion in a pluralist society
+    - Status quoist
+    - Many instance of disruptive force
+- **Hegel** – religion is a product of human consciousness. People think religion exists so it exists
+- **Marx**
+    - Religion justifies inequality in society
+    - Conflict theory – religion is the ideological tool in hands of the dominant class
+    - Religion is the hope of the hopeless
+    - Man makes religion, religion doesn’t make man
+    - Promises good after life as a result of suffering in this life (**Lenin** and **Weber** – theory of)
+    - **Opium of masses: ease out the pain of oppression and justifies the dominant ideology – nullifies their consciousness**
+    - **Virtue out of someone’s suffering eg – Dalits were harijan, divyang**
+    - Serves for interest of ruling class as a part of super structure
+    - Dilute demand for change and promotes evil practices
+    - Where there is religion, revolution cant happen
+    - **(karma theory)**
+    - Re-enforce class relationships
+- **Neo-marxist theory**
+    - Religion is dual character (**Gramsci**, **Engels**, **Otto Madoru**)
+        - Maintains social character by justifying inequality
+        - It brings social change
+    - Eg – Buddhism in response to oppressive Hinduism caste system
+    - Eg – socio reform movmeents – used vedas to justify
+    - Protestant theory
+    - Neo buddhism – nirvana -
+    - **Althusser** – religion is an ideological state apparatus
+- Feminist
+    - **Patriarchy – systems that promote interests of men**
+    - **Simone De Beauvoir**
+        - **The Second Sex**
+        - Religion justifies gender inequality and maintains patriarchy in society. Religion fulfils interests of men
+        - Women do so much work in religion (like introducing their children to religion), but still they are exploited
+        - They are given belief that they will be compensated for their suffering on earth by equality on heaven
+        - So we need a religion only for women
+    - **Kate Millet** – eve did the first sin – patriarchal
+    - **Sylvia** – talks about culture also
+    - Examples
+        - Customs followed by women – sati, purdah but made by men , pativrata, kanyadan
+        - Scriptures written by men – manusmriti
+        - Founders are men
+        - Interpreted by men
+    - **Karen Armstrong**
+        - But not all religions are not patriarchal
+        - Reformers used same vedic texts to alleviate women pain
+        - Women are not always marginalized – earth as goodness, female priesthood and female Pastors
+    - **El Saadawi**
+        - Religion is not patriarchal ,men running it are
+        - Eg – religious texts disregard adultery for men and women
+        - Yet in practice arab states – polygamy observed
+    - **Mary Daly**
+        - Religion language, images are male
+        - They perpetuate sexual world
+    - **Carol Christ**
+        - Need “thea-logy”
+    - Contemporary examples of patriarchy in religion
+        - Women are not allowed to enter temple when menstruating
+        - Muslims women cant read Quran while period
+        - Orthodox judaisim doesntallow them to become priest
+        - Devi vs dasi dichotomy (P2)
+        - Pativrata
+        - Fasts like karvachuath
+        - But now weakening as secularism is considered an anti patriarchal tool
+- Rational choice theories
+    - Reject secularism – there are people who are taking up some alternative religion
+    - **Stark** and **Bainbridge**: religion **and compensatory theory**
+        - Need for religion is constant amongst individuals (inspired by **Durkhiem**)
+        - Religion acts like a market with its own supply and demand
+        - Cults develop to sentiments on individuals
+        - Scope for new world religions in modern society due to constant need of individuals
+        - This theory goes against secularization thesis
+        - Religion with best compensation is most attractive to people
+        - Promotes the idea of a supernatural who is keeping an account of the good deeds
+        - **Increasing pluralism as people find new compensators**
+    - **R Stephen Warner** – religion is based on supply side factors ie what religions are available to be chosen from which determines the overall success of the religion. Do consumers of religion have good alternatives to choose from
+    - Criticism
+        - **Steve Bruce**: decreasing belief in religious values as there are fewer church memberships
+- Symbolic interaction theory
+    - Religion follows some symbols like dressing, food, symbols
+    - Essence of religion lies in carrying these symbols
+- Existential security theory
+    - Economic growth and security have inverse relation with religion
+    - Eg – Mahabharat when covid
+    - Higher growth, lower religiousity
+- Post modernist
+    - **David Lyon** – religion revives in public and pvt forms; taken form of ringtone, wallpaper, cinema.
+    - Media has dislocated religion (dissembled religion) from church – “Jesus and Disneyland”
+    - Spirituality movements, cults are all new age movements
+- Animim vs totemism
+
+|   |   |   |   |   |   |
+|---|---|---|---|---|---|
+|**Differences between Totemism and Animism:** A|   |B|   |C|   |
+|1|**Parameter**|   |**Totemism**|   |**Animism**|
+|2|**Meaning**|   |Worship of Totem|   |Belief in spirits in inanimate objects|
+|3|**Representation**|   |Symbol of society|   |Doesn’t represent society|
+|4|**Rituals**|   |Worship through rituals like Milk over totem|   |Worship as member of family. Ex. Wild animals among tribes|
+|5|**Origin**|   |Specific to tribal groups|   |It is general and widespread|
+|6|**Sacred**|   |Totems are specific objects|   |No object is special or sacred|
+- Similarities between Totemism and Animism :
+    1.Both talks of primitive nature of religion.
+    2.Both theories talks about origin of religion.
+    3.Both promotes solidarity in society.
+    4.Both have belief in supernatural entity.
+    5.Both have deep connections with Nature.
+    6.Both have rituals and practices related to sacred.
+- Theories of Animism and Totemism have contributed significantly to understand the Sociology of origin and broadened the horizon of Sociological epistemology
+- Religious pluralism
+    - Secularization and rise of cults/ sects
+    - Legal provisions
+    - Secular educatin
+    - Inclusivity and acceptance
+    - Globalization and migration
+    - Blended and inter religion marriages
+    - Rationalization
+    - Social media penetration
+
+### CRITICISM
+- Status quouist
+- Dysunctions
+- Conflict in society
+- Criticised for being inconsistent with each other
+- **Rousseau** – religion is a body of superstitious coming from tyrannical mind of priest and questioned with onset of rationality
+- Not necessary that only power enforce religion
+- Latin America
+- Communist countries also have religions
+- **Engels**: religion can bring social change (Christian sect that opposed roman rule)
+- Neo Marxist – **Otto Maduro**: relative autonomy of religion; members of clergy can bring revolution and can pressurize priests to bring about a change and take up cause
+
+## ORIGIN OF RELIGION
+### PRO THINKERS/ POINTS
+- **De Brosses**: theory of fetishism
+    - Originated as the magical power is associated with certain objects
+- **Comte**: multiple fetishism
+- **Muller** – naturalism
+- **Spencer** - dream theory
+- **Tyler** – animisn
+- Psychological theory
+    - **Crawly** – main force is fear or danger of social relations or other objects
+    - **Malinowski** –
+        - Society can disintegrate in time of death; so society comes to avoid this disintegration
+    - **RH Lowe**: mysterious or extra ordinary feelings – get superstitious feelings
+    - **Sigmund Freud**: protection wall to overcome feeling of guilt, esp from sexual relations
+- Sociological theories
+    - **Durkheim**
+    - **Parsons**
+    - **Merton** - dysfunction
+    - **Weber** – influences economic structure of society
+        - Conducted a worldwide study
+        - Analyzed religion a s asource of social change rather than domination as per Marxists
+        - Their desire to succeed, helped intiate industrial dev and capitalism
+    - **Peter Berger** (**Nomos cosmos**) – relations provides norms of religion to appeal to cosmos (supernatural)
+        - Everyone is born with an empty mind and injected with values and cultures
+        - This refers to nomos – a part of culture and inherited by individuals by socialization
+        - Conformance to nomos leads to universality of meaning of religion
+- Animism
+- Monism
+    - Belief in single ideology – belief in oneness of everything – Advaita , vishisht advaita
+    - Preached by **Plotinus** and **Adi Shankara** + in bhakti movement
+    - Hindusim: advaita
+    - Islam – only one Allah and denies existence of all other religions
+    - **Tyler**: function of modern society
+- Pluralism
+    - Multiple faiths exist in one society
+    - Opposed to exclusivism, beliefs in existence of multiple ideologies with respect for each other
+    - Different from **syncretism, where different beliefs come together to make one output**
+    - Eg – Hindusim shivaite, vaishnavite etc), christianity
+    - **Peter Berger**: “**Social reality of religion**”
+        - Cosmos may not always be considered sacred, and hence there is an attempt to secularize cosmos
+        - Links modernization and secularism : as modernization increases, more ideas emerge, so religion weakens
+    - **Bryan Wilson**: multiple denominations interpreted as evidence of secularism
+        - Religious values become personal and no longer remain community values
+        - They will have their own version of truth
+        - Power of religion reduces as multiple religious ideologies with emergence of denominations
+    - **Berge** and **Luckmann**: Pluralism weakens the influence of religion, as no single universe of meaning
+    - **Steve Bruce** – religious pluralism results from a variety of sources and it has undermined the communal basis for religious orthodoxy as well
+
+### CRITICISM
+- **Stark** and **Bainbridge**: contradicts’ people have more options as American society, religion is becoming stronger
+- Can also conflicts
+
+## SECTS AND CULTS
+### PRO THINKERS/ POINTS
+- Sects
+    - **Troletsch** and **Bruce** – sect as an exclusive group cut off from the mainstream religions due to multiple reasons
+        - Difference over leadership
+        - Over belief
+        - Over practices
+    - Features
+        - Closely knit society
+        - Demand high commitment from members
+        - Openly in tension with dominant religion unlike cult (**Peter Berger**) - small and closed has different beliefs from the dominant religion
+        - Usually a charismatic authority
+        - Attempt to rationalize the dominant religion
+    - Reasons
+- external
+    - Possible response to **relative deprivation; they feel disenchanted, alienated and marginalized from main society (Troletsch)**
+    - Some people find Church orthodox, rigid, impersonal, discriminatory or corrupt (eg – brahmin domination)
+    ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 76.png>)Feature od modernization and secularization
+    - **THEODICY OF Disprivilege**” where theodicy means religious explanation (when marginalized stand up against religious explanation which justifies their marginalization and that they will be rewarded in afterlife for their suffering on earth) ; sects provide an alternative path of redemption
+    - Eg – dalit and mausmriti burning -> Jainism
+    - **Bryan Wilson**: methodism is a response to new working class and the uncertainity of the newly settled industrial area
+    - **Steve Bruce** – as a result of rationalization, secularization, social differentiation
+    - **Roy Wallis**: defined sect as a **deviant group** that sees themselves as uniquely legitimate
+- Internal
+    - People seek salvation in a sense of community offered
+    - **Reinhold Niebuhr**: can be short lived or convert to dominant or full fledged religion
+    - Hence, seek remedy, come as contradiction, create a counter culture, promote alternate ideology
+    - But now not necessarly an economic phenomena – eg ISKCON
+    - Eg – Calvinism, Jainism, Sikhism
+    - Can add secularization critique – **Stark** and **Bainbridge** + **Peter Berger**
+- Cults
+    - The word cult has negative connotations in common sense with bizarre practices. But all religions were cults. Now use new religious movements used
+    - It is a type of religion which is believed to be established around a charismatic leader believed to possess extraordinary qualities
+    - Types of cults (**ACC**) – **Roy Wallis**
+        - World rejecting – they see outside world as inherently evil and reject mainstream world and encourage followers to detach themselves from mainstream. Eg – people’s temple by **Jim Jones**, heavens gate, **Osho**
+        - World accommodating – unlike world rejecting, don’t reject mainstream and unlike affirming, not obsessed with max potential of individuals eg brahm kumari
+        - World affirming – they don’t reject mainstream material world, rather show how to extract max by unlocking potential. They promote enjoy life and make them better individuals. More like paid enlightenment similar to SHG eg vipassana, scientology
+    - Another – **Stark** and **Bainbridge**
+        - Audience cults: least organized – little F2F interaction and passively engaged eg – books, lectures – Sadhguru
+        - Client cults: more organized, and ongoing relationship between leaders and followers – more like adherents
+        - Cult movements: satisfy all religious needs of followers
+        - Satisfy needs of alienated sections of urban middle class youth
+        - Is v transitory and irregular
+        - Hence have different cult memberships ( can follow more than 1)
+        - More in western society, after post war and created counter culture as they are materialistic but anxious
+    - Reasons for new cults
+        - Provides sense of belongingness – this appeals to individuals who feel isolated or disconnected
+        - Quick salvation – rapid solution to everyday life problem; Cults provide relief in current life itself, vs religion which provides relief in afterlife
+        - Provides flexibility
+        - Heterogeneity
+        - Personalized services and highly accessible
+        - To deal with inequalities – women/ lower caste
+        - Social media influence
+    - So these are voluntary orgs in metropolitans to ease the sufferings in industrial societies
+    - Usually under a charismatic leader, with focus on individual experiences
+    - Trying to find man ki shanti; not really marginalized
+    - Usually a richer person – important clients
+    - V individualistic
+    - No ceoncept of membership or exclusivity
+    - **Steve Bruce** – result of secularization
+    - **Stark** and **Bainbridge**: new religions or atleast new in a particular society
+        - Something may be cult in one place but a religion in another eg ISCON
+    - Reasons for cult
+        - Conflict in traditional modern society
+        - Insecurity – both psychological and social
+        - Inequality – rising inequality
+        - Change – rapidly changing society, need some anchor in this change for peace
+        - Free lunches: offered by sects (schools, hospitals)
+        - Political patronage: offered owing to populist politics
+    - Denomination
+        - When sect becomes more organized and institutionalized with larger following, it becomes a Denomination
+        - Denomination is more acceptable in eyes of the church
+        - **Johnson**: The line between church and denomination is not v clear, nor is the line between sect and cult is
+        - Denomination has its own institution, following, ideaoligy and exists in parallel to church ; making it the base of a secular society
+        - **Howard Beckar**: a denomination is a sect which has cooled down and become an institutionalized body rather than an active protest group
+        - They lose their radicalism and dynamism
+        - Attract people from all stratas (not just marginalized) and are usually in line with norms of society
+    - Church: established institution which generally accepts the norms of society and consider itself the guardian of social order
+    - **ROY WALLIS DIAGRAM**
+- **Difference between sect and cult**
+    - **In opposition to church eg- protestnt vs in linde eg – Calvinist**
+    - **Closed open**
+    - **Challenge domination eg jain**
+    - **Use forceful conversion vs social media**
+    - **Live vs with die with leader**
+
+### CRITICISM
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 77.png>)
+- cult
+- sect
+- denomination
+- church
+- plurastically legitimate
+
+## RELIGION AND SCIENCE
+### PRO THINKERS/ POINTS
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 78.png>)Arrival of science in renaissance initiated the departure of religion
+- Similarities
+    - Try understanding forms of human understanding; both are cognitive and satisfy intellectual function (**Parsons**)
+    - **Durkheim** – both have functional features
+    - Cooperation: while religion is more collectively oriented and harmonious, science also promotes team spirit and cooperation
+    - Personnel: both have qualifications described
+    - Wars: both have been basis of wars
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 79.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 80.png>)
+- Differences
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 81.png>)
+- **Dawkins**: Religion is based on faith and ant-thetical to science
+    - Based on Experimentation vs based on faith value
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 82.png>)
+- Precise vs abstract/ metaphysical
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 83.png>)
+- Application : concrete vs no immediate results
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 84.png>)
+- Universalism: mostly universally valid v variations in ideologies and religions
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 85.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 86.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 87.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 88.png>)
+- **Sorokin**: Religion is based on unquestionable faith but science is based on questionable thesis
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 89.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 90.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 91.png>)
+- Religion is also moral and tells right wrong
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 92.png>)
+- Positivists, **Weber**, **Marx**: soceities will evolove from theological to rational (**August Comte**)
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 93.png>)![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 94.png>)
+- **Weber** and **Marx**: as rationality and scientific thoughts increase, secularism ncreases and space for religion decreases
+- Inter-dependence
+    - Religion using science to grow – NRMs
+    - Religion provides science with end goals
+    - **Stephen Gould**: Religion gives meaning while science gives rationality (calls its NOMA – non overlapping magisterial principle)
+    - Science is marked by uncertainty while religion gives sanction to the doubt eg puja of mercedes
+    - Causality: Religious beliefs can give rise to rationality (**Weber** in PE)
+    - Complementarity – religion can help where science fails (Dawa nhi dua bacha sakti hai)
+    - science will take over; but now, both increasing in different forms
+    - **Steve Bruce** – both religion and science can go hand in hand and they are not anti to each other
+    - **Philip Hefner** - both religion and science have been destabilized and none can explain absolute reality
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1.jpeg>)
+- LOOK A STAR ANSWER
+- Science is a systematic body of certified and changing knowledge based on observable facts and methods used to acquire the knowledge
+- **Ogburn** and **Nimkoff**: cultural lag theory
+    - Material and non-material culture
+    - Change in Material culture predates non-material culture
+    - Science and tech change leads to non material culture
+    - Chain effect
+    - Eg - ?
+- Population demography change leads to change in technology change and adoption
+- Gender equality and technology – easier for women participation; tech leads to gender equality
+- Education seen as investment
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 95.png>)
+
+## SECULARIZATION
+### PRO THINKERS/ POINTS
+- **Bryon Wilson** – sec is process characteristised by decline of **significance of religious beliefs and practices** in **public life** – “**desaclerization of society**”
+- It is an ongoing or continuous process
+- Some observations
+    - City dwellers less religious, village dwellers more religious
+    - Men less, women more
+    - Employed in factory, less religious R, unemployed – more less R
+- In line with **Comte**
+- Levels of secularization by **Karel Dobbelaere**
+    - Macro : religion losing significance at level of state, economy, edu – eg secularism
+    - Meso : religious orgs mrore focused on public issues, not other world issues eg langar, school;
+        - Hatching, matching, dispatching roles on decline – but case, religion still exists
+    - Micro : decline of **collective beliefs** (Hinduism – polygamy, Triple talaq, untouchability)emergence of pvt belief, decline of church attendance (<
+    - **Dobbelaere** suggests secularization varies at diff rates in diff levels
+- **Weber** - the rationalization of society led to the disenchantment of society and as a result religious motives for action were replaced by rational motives for action
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 96.png>)
+- Process: Theological - secularization – secular society
+- Transformation of society from a closed identification of religious values and institutions to non-religious values
+- Features
+    - Decrease in >popularity of religion
+    - Rationality -> humans find scientific solutions
+    - Science
+- Reasons > edu, westernaization, equality, science, industrialization, urbanization. Social movements
+- Evaluation: complex sociological concept and there is little consensus on what secularization is and how to measure it?
+- Parameters for assessing secularization
+    - **Page 238**
+- **Bryan Wilson**: secularization is happening in western societies but there is no adequate way to measure the strength of religious commitment
+- **David Marton**: Secularization includes a large number of discrete separate elements loosely put together in an intellectual hold all
+- Critique
+    - Definition of religion is not unanimously agreed – hence decline is difficult
+    - Scale to measure decline is not objectively agreed – reliability and validity issues
+    - **Luckman** and **Berger** (**the invisible religion**) – Invisible religion - as individualism is increasing, religion becomes are more in person affair rather than collective affair. People are inherently religious and hence, low attendance doesn’t mean secularism
+        - Experiencing resacralization and pluralism (similar to **Durkheim** and **Stark**)
+    - Emergence of NRMs
+    - Religious conflicts – **Samuel Huntington**– clash of civilizations – as economies come closer, interaction increases leading to a rise in fundamentalism
+    - Role during hatching, matching, dispatching
+    - Communal elections and associations
+    - **Kaufman** and **Davie** – while # in church has decreased, # of followers hasn’t
+    - **Relevance**
+        - **for India –** brahmo samaj – focus on humanism and arya samaj – social issues
+        - Caste politics (Ayodhya)
+        - Israel hamas war
+        - Rise of civic religion – diff from traditional religion and this is his belief, duty, ritual towards the state to meet political objectives (**Robert Bellah** in **New religious consciousness and crisis of modernity**)
+            - **Civic religion emerging as a new form of religion where nation symbols accorded same respect and faith as religion**
+            - Drive participation in war, voting etc
+            - Perputated by national festivals and rituals
+    - Indianization of rationality – eg guru for mining
+
+|   |   |
+|---|---|
+|**Durkheim**|**Weber**|
+|- **FUNCTION OF INTEGRATION**|- **FUNCTION OF CHANGE**|
+|- **PRIMITIVE SOCIETY**|- **MODERN SOCETY WITH RELIGION**|
+|- **NO LEADERS**|- **LEADERS LIKE Martin Luther**|
+|- **No comparison**|- **Compared ideal types**|
+|- **No God**|- **God**|
+|- **Religion stays**|- **Rationalization of modern soc – religion declines**|
+|- **Methods**|   |
+
+## REVIVALISM
+### PRO THINKERS/ POINTS
+- Counter to secularization thesis. Refers to process where religions come back against the forces which are weakenging the religion. Religion re-asserts its influence through religious values, institutions and symbols in reaction to secularization process
+- **Gabriel Almond** – society moving to enthusiastic revival of religion
+- Reason
+    - Globalization leading to homogenization (**Anthony G**)
+    - Social media penetration resulting in rise of charismatic personalities and cults
+    - Politicization of religion for vote bank mobilization
+    - Role of media in **Ideology in media** – eg Mahabharat
+    - Increasing disenchantment and alienation with rise of science has led to uncertainty
+    - **Ashutosh Vaarshney** – communalism and revivalis reactions to perceived threat to religious identities
+    - Need for solace as science has led to rapid industrialization and instrumental rationality
+    - Plalisation has led to antognostic competition between religions
+- Forms
+    - Fundamentalism
+    - Increasing Orgs like NRMs
+    - Fall of atheism – secular fail in US
+    - Religious conversions – MARRIAGE OR ATROCITY EG TRIBES CHRISTIAN
+    - Protests and movements around religious symbols – movements like construction of mosques and temples
+- Functions
+    - **Can play positive role in social reforms like brahmo samaj** – **Faizan Mustafa**
+- Challenges posed by religious revivalism in a secular state
+    - Restrict personal rights and liberties of **Voltaire**, **Locke** and **Rousseau**
+    - Re-enforce pariarchy – reduce equality (**Sylvia Walby**)
+    - Deters separation of state from religion
+    - Communal clashes and fundamentalism
+    - Change in education
+    - Destruction of symbols of authority
+- Antithesis to **Comte** and other theories which claim religion will end with positivism
+- **Secularization is a feature of some societies**; not for all – it’s a matter of degree
+- **David Martin**: taking a wider view of secularization
+    - He says role of religion is changing in post modern society; which shows revivalism
+    - Little trend towards secularization
+- **Jose Casanova**: religious beliefs are not dying but coming back in public sphere; in new and unfamiliar forms
+- Relevance today
+- **Turner** – religion is not only a cognitive system but a meaningful experience
+- Communalism
+    - Political hegemony of certain social groups to get power and influence policy
+    - Majoritarianism to coerce minority sections for adoption of lifestyle creatig resentment
+    - Relative deprivation and poverty amongst certain religions
+    - Cults and charismatic personalities mobilizing masses
+    - Lack of resources for sustencance – protests and agitations for resource eg Ladkah
+
+## FUNDAMENTALISM
+### PRO THINKERS/ POINTS
+- Conservative religious doctrine opposing modern value system in favor of restoring religious values
+- Features
+    - Literal interpretation of religious texts
+    - Againt pluralism
+    - Charismatic leadership - **TN Madan** eg - Eg skih movement by Bhindrawalla
+    - Highly monistic philosophy
+    - Against modern values of FR, gender, scientific theories such as **Marx**, **Darwin**
+    - Consider themselves guardians of religion
+    - Use of modern tech like youtube
+    - Endirse conservative political goals
+    - Try to get political and edu power to bring change
+- Is a revivalist philosophy that develops more during episodes of modernization
+- Types
+    - Religious fundamentalism
+        - Christian fundamentalism – perceived moral crisis and need to go back to fundamentals for welfare of society
+        - Islamic fundamentalism: attacks for power struggle and religion dominance; can lead to terrorist groups and attacks
+    - Secular fundamentalism – **Grace Davie** – F not limited to religion. Rigid adherence to non religious beliefs may have common beliefs with religious fundamentalism eg
+        - Sexual -strong enforcement of hetero beleifs
+        - Economic - strong enforcement of one indicator of measuring development eg GDP for growth
+        - Gender – strong enforcement of gender beliefs on diff sexes
+        - Political - only one way to make policy – fascism , Nazism
+- Trends – Israel, Khalistan
+- Reasons
+    - Claim to protectors of religion against from external threats eg – Afghanistan/ Myanmar against rohngyas perceived threat to buddhist majority
+    - High modernity and globalization responsible - **Anthony Giddens**
+        - Modernity: diff lifestyles for everything and undermines traditional religious values
+        - Hence, fundamentalists attract people to live a simple basic life in this complex world to go back to calmer period
+    - Avoid anxiety as **Secularists** didn’t talk anything about religion even when people wanted to hear it; hence fundamentalists emerged to fill vacuum
+    - Provides identity and sense of collective conscience: Identity loss, alientation, commoner, rootlessness - Clutch on to any common support eg RSS
+    - **Steve Bruce** – Infallibility and literal interpretation of single sacred test. Low scope for varied interpretation and hence strong ideological cohesion eg -Taliban
+    - Prescribe a way of life, confirming a happy and better age that will bring happiness and motivate commitment from followers
+    - Role of social media in faster mobilization for movement – fundamentalist movements are usually of collective character, usually under a charismatic leader
+    - Politicization of religion - **Almond et.al** – Fundemanetalists work to gain political power by undoing erosion of religious values by globalization ad modernity
+- Need to balance between religious fundamentalism and society welfare; secularism has not won yet
+
+## KINSHIP
+
+## FAMILY AND FUNCTIONS
+### PRO THINKERS/ POINTS
+- **George Murdock** (**social structure**): (in 250 societies – both traditional and industrial)
+    - Family is a universal social institution as it existed in all kinds of societies from hunting gathering to industrial societies characterized by …
+    - Characteristics: common residence, economic cooperation and reproduction, adults of both sexes, atleast two of whom maintain a socially approved sexual relationship and one or more children, born or adopted, of the sexually cohabiting adults
+    - Universal functions – 4
+- Some variations may exist: black fams in US don’t have black males/ Nayars of Kerala, LGBTQ
+- Family, marriage, household are basic units of society and form the foundation of a society
+- Origin and functions
+    - Evolution theory ->
+        - **Frazer** - Man lived alone in a cave and had promiscuous behavior so didn’t have a family
+    - Feminist –
+        - Fam is patriarchal to keep women subordinate to men. Legitimates gender inequality since childhood
+        - Limits women to domestic role (Expressive role)
+        - **Fran Ansley** – women provide emotional support to frustrated males in capitalist system
+        - **Margaret Bentson** – perpetuate unpaid labor
+        - **Murray Strauss** – marriage license is a hitting license
+        - Sexual abuse, marital rape, violence
+        - **Diana Leonard** – set of labor relations where men benefit from and exploit women
+        - **Calhoun** – it is not the unit of family that leads to exploitation but family within a patriarchal and oppressive heterosexual structure
+        - Critique – ignore the fact that they may have fought back against exploitation
+            - **DJH Morgan** – families of traditional view were men were breadwinners is becoming less common now.
+    - Marxists
+        - **Karl Marx**: family promotes conformity under exploitation of haves + why imp – so that you have workforce
+        - **David Cooper** (**death of family**) – ideological conditioning in an exploitative society
+        - **Engels** (**origin of family, private property and state**) – **materialistic evolutionary view** – as MOP matured, Private ownership emerged and to protect it and hence families emerged
+            - Maintains private property – maintenance of inequality (**Engels**)
+        - **Zaretsky** – fam as unit of consumption to enhance consumerism among members in society
+            - Fam helps in maintaining stability of worker which is beneficial for capitalist
+    - Critical
+        - **Normal Bell** - Emotionally disturbed child as a family scapegoat – used to relieve tension of parents
+    - So not universal
+    - Functional
+        - **GP Mudrock** -4 functions – economic, regulate sexual relation , socialize children, control reproduction
+        - **Parsons**
+            - Two basic and irreductible functions of family
+            - Primary socialization of children – children learns norm of society + name, basic upbringing
+            - Stabilize adult personality – marriage creates human personalities and they need to be kept stable by marriage and relationship + overcome childish traits that they cant act in adulthood such as watching cartoons all day!
+                - Warm Bath theory – take care after long day
+            - Industrial societies have isolated nuclear families for easy mobility near industrial location
+        - **Merton** – latent and manifest role of family – keeps reproduction alive
+        - **Also imp for taking care of elderly, punishment for deviance from accepted norms so maintain social order**
+        - Critique
+            - Now depend more on peers/ friends than family
+            - Adult stabilization by law and police now
+            - However, people expecting more from a marriage and hence those marriages which would have survived earlier actually die away
+            - **Parsons** accused of idealizing family with well adjusted spouse and children based on the “cereal family” – an ideal middle class family
+    - Post modernists – new forms of family, highly fluid
+- Evolution of family
+    - Functionalists
+        - Sexual needs, recreational, occupational, economic (extended family)
+        - Now nuclear family – so only 2 functions of **Parsons**; other have alternative institutes like creche and school
+            - Fit for industrial society
+            - Mobile and can generate saving and consumption
+            - conjugal bonds strengthened
+    - Marxists (**Engels**)
+        - Promiscuous hordes to patriarchal monogamous family
+        - PH – no ownership, shared families, shared wealth
+        - PMF – in order to save accumulated wealth -> made women exploited
+    - Post modern
+        - Types of multiple forms only changing
+
+## TYPES AND FEATURES
+### PRO THINKERS/ POINTS
+- Features of a traditional family
+    - Size of fam – can be extended, Joint family or nuclear – extended have horizontal or vertical nuclear families staying together
+    - Authority- Patriarchal or matriarchal or filiocentric –
+        - **Parsons** – males have institutional authority while females enjoy affective authority
+    - Kinship bond – cane be Conjugal or consanguineal or fictive kins in rural – kinship neither conjugal or consanguineal and based out of friendship or religion
+        - usually conjugal subordinate to consanguineal
+    - Descent – matrilineal or patrilineal or ambilineal
+    - Unit of production
+    - Residence - matrilocal, patrilocal, neolocal, duolocal, avunculocal – eg nairs – visiting husband concept
+    - Basis of marriage – polygamy, monogamy, polyandry
+    - Name (patronymic, metronymic – kaushalayaputra – usually in polygamy)
+    - DOL – usually based on sex-based roles – feminine and masculine
+    - Ownership pattern – usually with adult male
+    - Taboos like incest and vary from society to society
+    - **Raymond Firth** – effective or non effective kin based on how much contact they have (**two studies of kinship in london**)
+- **Giddens** – serial monogamy – multiple marriages and multiple divorces
+- **Willmott** and **Young**: majority people call atleast once at home; don’t leave contact completely
+    - Babysitting by grandparents
+    - USA – isolated nuclear family v rare – only when both were working and middle class; even rich keep network
+    - Society evolved in 3 types of families
+        - Pre-industrial family – both took up some part of the house
+        - early industrial family – clear DOL with men working in industry and women at home
+        - symmetrical family – help each other in chores
+- **Colin Bell**: telecom and travel – quality has improved – **modified or dispersed extended family**
+- **Bade Thorne**: **cereal family image – ad of cereal sellers –**
+    - **think families are like this**
+    - **this is not true**
+- **Goran Thernborn** (**sex and power**) – patriarchy reduced as women join workforce after WW and russian revolution
+
+## NEW DEVELOPMENTS
+### PRO THINKERS/ POINTS
+- New types of family
+    - Symmetrical fam – both sexes equal role
+    - Bean pole – multiple generations together due to medical advancement
+    - Sandwich fams – look after both children and grandparents
+    - Lone parents - 38% households single person in Netherlands
+    - Empty shell marriage - Reconstituted/ divorce/ blended fam – divorce and remarry
+    - Cohabitation – nubile cohab (live in), post marital cohab (after marriage, still separate)
+    - Linking apart together fams
+    - Dink fams – only money no kids
+    - Homosexual fams
+- Reasons for emergence of new forms
+    - Industrialization and urbanization
+    - Legislative measures, govt policy, social security – divorce easier + fam planning
+    - Changing structure of pop
+    - Growing rise of individualism
+    - Feminization of labourforce
+    - Contraceptives
+    - Changes in expectation of love, marriage, sexuality
+- Contemporary
+    - Emergence of alternative institutions such as Rise in old age homes and **media** for cultural transmission + traditional DOL **changing**
+        - **Ronald Fletcher** (**family and marriage in Britain**) - doesn’t mean decline but complementarity ; emergence of alternative institutions has complemented the specialization of family
+    - **Young** and **Willmott** – concept of “symmetrical family” which is a nuclear family separated from extended family. in its capacity as a consumer, family made a crucial alliance with technology. Also working class family more family centric than middle class family as they are not fully work centred
+    - **Eli Zaretsky** – family created illusion that private life quite separate from economy. But such psychological and personal needs cant be met by being only refuge in a brutal society
+    - **Giddens** – plastic love and romantic love instead of economic circumstance as basis of family. Divorce is easily easily available . Confluent love
+        - Forever love becoming love till further notice (plastic love)
+    - **Ulrich Beck** – Normal chaos of love – rising antagonism between men and women. However, doesn’t mean family is breaking – rising trend of remarriage and fertility treatment. Also rising marriage counselling
+    - Dual career: **Mowrer** – diverse jobs for husband wife
+    - **Edmund Leach** – stress is so high that conjugal bonds are weaker
+    - **Bauman** (**Liquid love**) – modern society has rapid change and hence bonds are not lasting
+- India
+    - Marriage still imp
+    - Settle
+    - Caste still active – caste community
+    - Class becoming imp – economic well being imp
+    - Live in
+    - IT Professionals -> rise in divorce
+    - Joint family sentimental value
+    - Girl choice increasing in marriage
+    - Male still considered major breadwinner
+    - Elderly role being confined to rituals ; limited contri to income – **economy oriented society**
+    - **Filiocentric approach; 6 pocket syndrome family**
+    - **Neo-local**
+    - **Weekend families**
+    - **Land reform – base for benami and separate living**
+    - **Nicky Hart** – inverse relation between divorce and income as well as age of marriage and divorce + having divorced parents reduces aversion to divorce
+- **DUAL MOVEMENTIN MARRIAGE – AB**
+- **INTER CASTE**
+
+### CRITICISM
+- Status quoist promoted by family
+- Produces psychological disorders in children (inferiority complex, Sharma ji ka beta)
+- **RD Laing**: schizophrenic children and concludes it is due to expectations of parents
+- Women exploitation and patriarchal re-enforcement; unpaid work
+- Neutralization device for deviant acts such as corruption and begging
+- Hampers creativity; gives a safety net – submit to desire to family
+
+## HOUSEHOLD
+### PRO THINKERS/ POINTS
+- Residential of domestic unit living under same roof and eating food cooked in the same kitchen
+- **Amartya Sen** – calls them cooperative conflict units
+- Family – unit of kins (by blood, marriage) and common roof
+
+## MARRIAGE
+### PRO THINKERS/ POINTS
+- **Majumdar** defines **Marriage** as the sanctioned union of male and female to establish a household, procreate and provide care for the offspring
+- Diff types of marriage
+    - Civil marriage vs ritualistic
+    - Endogamy vs exogamy
+    - Polygamy or monogamy
+    - Arranged or love
+    - Prefential – such as cousin marriage, levirate, sororate (after death, marry husband brother)
+    - Remarriage
+    - Hypergamy or hypogamy (status of groom vs girl)
+    - Community specific marriage such as kidnapping, elopement etc
+
+|   |   |
+|---|---|
+|Marriage as a sacrament|Marriage as a contract|
+|- Sacred union between fams or communities which involve religious rituals|- Legal union between 2 individuals without necessarily involving religious rituals|
+|- Rituals that validate this marriage such as kanyadaan, satapadi, panigrahanam|- Registration under law|
+|- Union is irrevocable|- Easily broken|
+|- Husband and wife seen as divine personalities|- Equal individuals|
+|- Mate selection external to individual|- Internal|
+|- Traditional attire symbolizes union in marriage – mangalsutra, sindoor|- Modern attires like diamond necklace|
+- Kinship
+    - System of people classified as relatives either By blood (consanguinity) or by By marriage (conjugal) or adoption or affinity
+    - Traditional
+        - Patriarchal, marriage to legitimize, fictive kin, consanguine more imp, children necessity, divorce stigma
+    - Outside of blood and marriage
+        - Cross border kin – eg pak and india – Wagah border
+        - Donor kin – eg – kinship by new tech of reproduction – donor of egg, sperm, embryo, surrogate
+        - Homo kins – **Kath Weston** – “family we create” – make own family
+        - Social media kins eg clan / FB communities
+        - Social kins/ groups outside of their traditional ethnic territory forming unions for sense of belongingness
+    - **Structural and functional changes**
+        - Structural – new kinship, new this that
+        - Functional – edu, **Ronald Fletcher**
+- Future of marriage and family
+    - Implies study of emerging patterns and types in modern society
+    - Delay in marriage due to aspiration of both partners
+    - Divorce rates – **Giddens**: plastic love
+    - Unions without desire to have kids – double income no kids
+    - Rise of same sex marriage gaining approval globally
+    - Artificial reproductive techs with desired traits – designer babies
+    - Feliocentric
+    - Rise in cohab
+    - Weekend fams
+    - Sologamy
+    - Rising divorces
+        - No longer consider marriage sacred as contractual in current life and reducing belief of after life with rationalization
+        - Rising aspiration and feminization of workforce– emanticipation of women
+        - **Mark Brown** – institution of live in providing adulterly out of wedlock
+    - Serial monogamy - **Giddens**
+- PYQ
+    - Does inst continue to be sacred
+        - Def, features and changes
+        - Despite contract, continue to be sacred eg – religious obligations, patri residence, divorce difficult
+
+## LINEAGE AND DESCENT
+### PRO THINKERS/ POINTS
+- Theories of kinship
+    - Studies by **Uma Chakrobarty** as means for exploitation of women
+
+|   |   |
+|---|---|
+|Alliance theory of kinship|Descent theory of kinship|
+|- **Levi Straus**<br>    - People form union on basis of marriage|- **AR Radcliffe Brown**<br>    - On basis of blood|
+|- - Exchange of women|- - Next generation for continuity|
+|Rules<br><br>- - Marital residence – RoA determines preferred place of marriage – matri or patrilocal<br>    - Endogamy or exogamy (exchange within or outside group)<br>    - Alliance and social network – marriage form alliance between fams and create networks of social supports|Rules<br><br>- Lineage and clan system<br>- Kinship system trace descent through<br>    - Patriliny<br>    - Matriliny<    - Biliny<br>- Dictates transfer of propert and titles along with responsibilities within a fam - Inheritance and succession<br>- Kinship terminology – type of descent influences terminology associated with kinship eg – patrilineal, kinship terms emphasise relationship on father’s side not terminable|
+- Lineage
+    - # of families linked by a common ancestor whose identity is known
+    - Basis on which inheritance is chosen
+    - Usually an actual remembered person instead of an imaginary ancestor
+    - Determinate number of generations
+- Descent
+    - Person is socially or by blood line affiliated with a group of his or her parents in a top down manner
+    - One can be a part of diff descent groups
+    - Will end up entire world, so usually a cutoff decided
+    - Brahmins – vashishta descent
+    - Types
+        - Unilineal descent – descent traced with either mother or father (matrilineal or patrilineal) eg – Samoa island
+        - Bilineal
+        - Multi unilineal for different purposes eg inheritance vs name
+        - Ambilineal
+        - Parallel descent – sex specific descent
+        - Cross descent – father to daughter
+    - Have impact on inheritance, marriage, authority, exogamy
+- Different types of families
+    - On basis of size – nuclear or joint
+    - On basis of residence – matrilocal or patrilocal
+    - Ancestary or descent – matrilineal or patrilineial
+    - On basis of marriage – polygamous, monogamous, polyandrous
+    - Nature of relation – conjugal (sexual relations) or consanguine (brother sister – lood relation)
+- Joint family
+    - Features –
+        - 3 or more generations.
+        - Ancestral home surrounded by landed property
+        - Adult man marries brings wife to ancestral home
+        - Head is karta
+        - Every interest has vested interest in property – keeps together
+        - Indological borrowed – from Mahabharat
+    - Dev cycle of family –
+    - **Louis Wirth** and **Parsons** argue unidirectional development of family from joint to nuclear
+    - movement or dev process of fam which takes shape in particular manner eg – in west, dev process shows decline of joint and rise of nuclear but in India joint nuclear is questioned and continuum is observed in dev cycle; explains joint and nuclear as 2 diff stages in cycle
+    - **KM Kapadia** – fams don’t function as isolated unit in city even after residentially separate themselves from joint family; always stay connected due to fnctions, events or rituals or casual types
+    - **MNS** – same
+    - **AM Shah** (**household dimension of family**) – questioned debate on movement of fam and focused to HH
+        - 2 types – simple (elementary family or part of elementary family exists) and complex (2 elementary fams or partially of 2 elementary fams)
+        - Radhvansh village Gujarat
+        - Simple to complex – cycle of progression ; complex to simple – cycle of regression
+        - Reasons, -> cycle of progression
+            - Principle of residential unity of patri-kin -> marriage
+            - Birth of a member
+        - cycle of regression
+            - Death of patriarch
+            - Property dispute
+            - marriage
+        - despite regression and breakdown of complex household into 2 simple HH, still jointness – stay in touch due to functions, trips, economic assistance, crisis
+        - plus grandparents taking role of care givers
+- Nuclear
+    - Social – becoming increasingly filiocentric
+    - DOL – more coop and based on skill and time
+    - Religion – **SC Dubey** – more rational thinking ; not compulsory to participate
+    - Women – improved status (**Ann Oakley**)
+    ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 97.png>)
+
+## PATRIARCHY
+### PRO THINKERS/ POINTS
+- Gender – identification of humans psychologically as men, women and 3rd gender
+- **Sylvia Walby** (**theorizing patriarchy**) – system of social structure where men dominate and oppress women
+    - Forms such as occupation, discriminatory allocation, male violence , culture like edu media
+    - 6 features undermine women in society – unpaid labor, objectification (via media, religion who show women with a patriarchal gaze), sexual dominance violence, discriminatory pay, state institutions (condones violence with refusal to intervene except in exceptional cases) have taken a patriarchal view , patriarchal relation in sexuality
+    - Values men more than women
+    - Sexual DOL – all work within household done by women or with help of workers
+- Origin of patriarchy
+    - **Uma Chakrovarty** – religion and traditions glorify obedient women as Pativarata and Dasi
+    - **Veena Das** – Devi dichotomy – call a Devi a dasi
+- Steps taken
+- However – skeptics believe such laws are leading to “theoretical liberation”, not “actual emanticipation”
+- Manifest in interpersonal relations also
+    - Role allocation
+    - Gender role
+    - Religious gathering and rituals
+    - Communication
+    - Sexual harassment
+    - Violence and objectification
+    - Differential opportunities
+    - Power dynamics
+    - Motherhood penalty
+- LGBTQ
+    - Pink money – purchasing power
+    - **Shakuntla Devi** in her “**The world of homosexuals** -“ not not only decriminalization but complete acceptance”
+    - **Focault** – how society can regulate sex
+    - **Sukhthankar** and **Bhan** – how LGBTQ face adversitiy in india
+    - Secular dundamentalists – **Grace Davie**
+- Paid menstrual leave
+    - **Shrada Lama** – ignores informal women
+    - **Barkha Dutt** – reduces equality
+    - **Lorenza Pleuteri** – women may not be hired
+    - **MS Martin** – brands as ill
+
+## CHAPTER 10
+
+## SOCIAL CHANGE
+### PRO THINKERS/ POINTS
+- Development Theories of social change
+    - Modernization theory – functionalists
+        - Countries which are economically backward are backward due to internal factors such as lack of culture, values or innovation
+
+|   |   |
+|---|---|
+|Value system of traditional soc|Value system of modern Europe|
+|- - Lack strong work ethic|- - Strong work ethic|
+|- - Consume today|- - No cons – yes inv|
+|- - Large fams – no savings|- - Isolated nuclear fams|
+|- - Believe in karma dharma or other world|- - Belief in work in this life and merit|
+|- - Culture of fatalism|- - Not fatalistic members – believe in hardwork|
+        - The high income countries devised a strategy o help low income countries -> high income aids low income – foreign aid and assistance, tech, HYV, assistance in control pop
+        - Some scholars have traced the trajectory of dev of LIC assisted by HIC
+        - **W Rostow** – eco growth plan – Aeroplane model of dev
+            - The five stages that **Rostow** lists are: traditional society, preconditions to take-off, take-off, drive to maturity, and age of high mass consumption. **Rostow** explained that these are the steps that should be taken by a nation to become fully developed.
+        - **Daniel Lerner** – he called urbanization, literacy, modern edu, tech as basic tools of modernization – let US, UK help
+    - Dependency theory
+        - Developed in latin America 1960
+        - Marxists – eco Marxism
+        - **Frank’s** main argument was that in our interconnected, globalised world, some countries are winners, whilst others are losers.
+        - Reject modernization theory and claim low income product of historical colonialism by high income – therefore not poor due to internal but external factors
+        - LIC were colonized to procure RM like copper, iron by biz of HIC; manufactured and sold back to poorer countries – leading to debt dev and dependency in LIC
+        - This continues to exist in modern times – neo colonialism
+        - **AG Frank**
+        - **Samir Amir** – for ME
+        - How Neo colonialism in contemporary
+            - Debt dependency
+            - Restriction on tech transfer – global south depenends on tech transfer from global north. However, MNCs control these tech
+            - Unequal terms of trade continue to benefit western countries
+            - America has all data
+            - Free from neo colonialism by becoming exclusive member of some exclusive groups eg UNSC, BIMSTEC, BRICS, Aatmanirbhar, make in india
+            - Post development
+            - Exploitative groups like OPEC
+            - Climate change and asymmetrical GHG burden – eco marxists
+        - Critique
+            - Wrong in blaming rich nations for global poverty
+            - In reality, many modern due to long history with colonials unlike few who were not colonized and still poor eg ethopia
+            - Dependency theory has given vague solutions to end global poverty eg strats like communist revolution and import substitution failed miserably
+            - Doesn’t explain why socialism also exploited and created dependency eg – eastern European satellites depending on Russia ‘x
+            - **Gunnar Myrdal** (**Asian Drama: an enquiry into the poverty of nations**) – major cause of dev deficit is value deficit and not dependency
+            - **Amartya Sen** – brought dev in edu health etc
+            - **Goldthorpe** – doesn’t explain the fall of latin America which had tech from US but failed due to internal problems like corruption – no empirical evidence
+    - Post development theory
+        - **Majid Rehnema** and **Escobar**
+        - Alternative model of dev
+        - Bhutanese model of dev
+        - Capability model of dev
+        - Grassroot model of dev
+        - Only income – then patriarchal materialistic model of dev
+        - Discourse of dev should be free from materialistic, uni-dimensional and western model of dev – focus on more participatory, citizen centric model of dev that recognizes local knowledge and welfare as modes of dev
+    - Imp for devising policies
+    - **Moore** – A significant alteration in structure of society over time in terms of change in behavioral patterns, power equation, cultural norms and values
+        - Eg – westernization and Sanskritization for culture
+        - Urbanization, industrialization are structural changes
+    - Universal phenomena
+    - Sociology is itself a child of social change
+    - Change happens when consensus is disturbed – actors don’t respect and enjoy same values
+    - Consensus challenged -> conflict initiated -> social change
+    - Progress: any change in existing envt that makes it easier for a person or a group to live
+    - Basic characteristics
+        - Universal – community change and not individual
+        - Varies in time
+        - Cant be predicted definitely
+        - Results from natural course or planned effort
+- **Evolutionary**
+    - Unilinear: straight line evolution – mandatory
+        - **Comte** (**Law of 3 stages** – Book: **The course of positive philosophy**): theo (guided by religious ideas), metaphysical (Renaissance when society is guided in natural terms), positivist
+            - Add table from 274
+            - Took **intellectual dev** as basis for evolution
+            - Believed man will eventually measure everything empirically
+            - There are 2 phases during these periods – stability and upheaval
+            - Upheaval leads to change in society
+            - Social stats and dynamics (which remain constant vs change)
+        - **Durkheim**: mechanical solidarity **; from undifferentiated to differentiated society**
+        - **LH Morgan**– 3 stages of society – savagery (tribal), barbarism (feudal), civilization (modern)
+            - With a dramatic change in tech, all other dimensions of social life change
+        - **Herbert Spencer**: Social Darwinist - organismic approach; progressive; increase in differentiation, specialization and integration – a naturalist concept of evolution
+            - **Progress from simple to complex to differentiated things**
+            - Believed in the Idea of survival of the fittest
+            - Society is like an organism with diff parts which evolve to specialize as needs of society grow
+            - **High differentiation, higher evolutionary stage**
+            - simple, , double compound, triply compound society – society moved in 3 stages
+                - Simple – a herd or band society
+                - Compound – tribe and chiefdom
+                - Second compound – city state and kingdom
+                - Trebly – highly complicated and industrial society
+            - Evolution from Military society – rulers use force to dominate to Industrial society which is achievement and specialization based but people unknown to each other
+        - **Tylor** – animism, polytheism, monotheism
+        - **Tonnies** – theory of and gemeinschaft and Gesellschaft
+            - **Gemeinshchaft – have essential will (also called wesenwill) – associated with peasants and artisnas; society is simple and homogenous – members interact face to face and informal manner ; religion prevails; family is the central unit**
+            - **Gessellschaft – have arbitrary will (kurwille) – consists of modern societies which are contractual and impersonal; more secular and have stratification**
+            - **Human societies evolve linearly from gemeinshaft to gesselechaft**
+        - **Hegel’s** dialectic theory – ideas **form the base of all evolution – every thesis has an antithesis which forms into a new form called synthesis**
+    - Conflict
+        - Stages of society due to materialistic dialectical evolution
+        - From eco infrastructure
+        - Class struggle
+    - Theories of Europe advanced banished after world wars
+    - **Herkowitz** – 2 kinds of processes for cultural change
+        - Acculturation – one culture is more dominant in influence eg British rule
+        - Transculturation – same influence
+    - Criticism
+        - **Franz Boas** – opposes that universal law governs all societies
+        - Roman, Greek decline not explained
+        - Value bias
+        - Arm chain theorization
+        - Kept Europe in their study
+        - Macro theories
+        - Nomenclature such as barbaric is also objectionable
+        - Doesn’t consider external factor of change
+        - Doesn’t explain small term changes
+    - Neo evolutionary/ structural functionalism
+        - Avoid value judgments that Europe is supreme
+        - **Parsons**
+            - **2 aspects of Parson’s idea of change**
+            - Aspect 1: Moving equilibrium when structural strain more than equilibrium
+                - **System view of change – due to AGIL as change is restorative – change in energy or cultural flow leads to social change**
+            - **Aspect 2: evolutionary view of social change**
+                - **Society evolved from one Evolutionary universal to another**
+                - 2 basic process involved – differentiation and integration
+                - Society changes based on Capacity to adapt (How much society can adopt)
+                - 5 stages: primitive, archaic (Hadappa), historical (China, India), seed bed (Rome, Greece), modern (US, USSR)
+                - So changing differentiation, specialization and adaptation leads to change in society
+        - **Gordon Childe**
+            - Based on material culture of society
+            - See who has more material aspects
+        - **Leslie White**: energy consumption theory
+            - Amount of energy harnessed is an index of level of development
+        - Criticism
+            - Material culture not necessary
+            - Value bias
+            - Not applicable to eastern world/ 3rd world
+    - **Cyclical theory**
+        - **Believe society revolves in circles repetitively, focus on rise and fall of civilization**
+        - **Oswald Spengler**
+            - **Decline of West (book)**
+            - Birth, growth, decay, death
+            - Eg rome, yuga – rose then die
+            - Inevitable – no society lives forever
+        - **Pareto** (**a treatise on general sociology**)
+            - ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 98.png>)Circulation of elites
+            - History is a graveyard of aristocracy
+        - **Pitirim Sorokin** (**Social and cultural dynamics**): ideational, sensate, idealist
+            - **Societies based on cultural mentality**
+            - Ideational: v focused on religious/ spiritual values
+            - Sensate: focus on empirical analysis and rational observation and materialism
+            - Idealist: synthesized culture of these
+            - Main push is from within the system
+                - Pendulum theory - Sensate and ideational are pure types and hence the society keeps oscillating between these like a pendulum
+                - When sensate becomes strong, alternative institutions emerge that will try to push the society towards ideational which emphasise religious culture
+                - However doesn’t mention any cause
+                - Too much emphasis on one culture leads a push towards another culture
+                - Believes in limits of change – there are limited possibilities for alternatives that can develop in the system
+            - Criticism :
+                - **Hortan** and **Hunt** – fail to explain why diff societies respond differently to change
+                - **Ritzer** – don’t consider socio psychological factors of change
+                - Unilinear theorists 0 linear fashion instead of cyclical
+                - **R Lang** – humans taken as cog in wheel
+                - Poor empirical analysis
+        - **Weber**: conflict can be good, protestant theory
+    - Diffusionist theory: change with culture
+        - Source of change is from outside society
+        - 3 possibilites
+            - **Assimilation like US**
+            - Acculturization like India
+            - Rejection possibility eg tribes
+            - **Robert Redfield** – great and little tradition
+    - Mal integration theory
+        - **Neil Smelser**: With time, society gets dysfunctions as conflicting pressure of demands may put strain on society
+        - Incompatibility and strain in society
+        - **Merton**: when any part of society becomes dysfunctional, it may be replaced bt a functional alternative , bring about a partial change in structure
+        - **Merton** and **Smelser**: dysfunctional theory forms base for change
+    - Cultural lag theory: **Ogburn** and **Limkoff**
+        - Cultural lag theory suggests there is a lag or delay between technological advancements and their integration into the society
+        - This can be seen in contemporary times
+            - Resistance to accept change eg GMOs
+            - Normlessness Delay in regulating change eg AI protection law, gig workers
+            - Economic factors eg cost of EVs
+            - Awareness about change eg autonomous vehicles
+            - Pace of advancement – rapidly changing AI
+        - But not always the case
+            - **Y Singh** – india limited material, yet culture changing
+            - Other factors affecting change – not a linear relationship
+        - Hence, base of govt welfare schemes
+    - Convergence theory
+        - **Clark Kerr**, **Dunlop**, **Harbison**
+        - Similar stimuli like S&T, secularism etc lead to similar convergence across societies irrespective of starting point
+        - But too simplistic and not universal
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 99.png>)
+        - Will have an homogenizing effect
+    - World system theory – **Wallerstein** in **The modern world system**
+![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 100.png>)
+        - 3 types of economies: core, semi-periphery, periphery
+        - These are neo-imperialist
+        - Perpetuated by MNCs, avoid tech transfer, IMF, WB – Multipolar and not multilateral
+        - Core are capital intensive higher skill countries while rest focus on low sill – re-enforces dominance of core over periphery
+        - No big revolution – just that some core will be replaced by semi periphery and vice versa
+        - Periphery has to sell RM at lower prices and buy them back at a higher price
+    - Feminist – social change is different for 2 sexes
+    - Post modernist
+        - **Focualt** – new institutions
+        - **Baudrillard** – mass media will control society more than eco structure – Hyperreality
+            - Inability to differentiate between reality and simulation of reality
+    - Examples of social change – create change (Arab spring)/ prevent change (anti globalization)
+- **New social movements**
+    - **Larana**, **Johnston**, **Guesfild** – new social movements diff frm old
+        - No clear structural role – diffused participation
+        - Plural ideas and values
+        - More symbolic or cultural rather than economic
+        - Non violence and disobedience
+    - **Gadgil** and **Guha** – while environment movements may be new, environment consciousness has existed since a long time (**The Fissured Land**)
+    - **Habermas** (**New social movements**) – NSM is about quality of life and protecting own interests whereas old were focused on economic or military security
+    - **Criticism – many have institutionalized themselves like PETA + may of their features were in old movements also**
+- **Modernity and social change dialectical relationship**
+    - **Complex relation between the two**
+    - Opposition and contradiction – often resist each other
+    - Synthesis and integration – blended approach eg hybrid cooking
+    - Selective preservation – eg UNESCO
+    - Cultural hybridization eg folk songs
+    - Transformative – eg brahmo samaj
+- **Social conflict both cause and effect of change**
+- **Cause**
+    - Marxists: Conflict central to change
+    - Feminists: only when women revolt – eg suffrage movement
+    - Social movements – where conflict has a precipitating factor and mobilization
+    - **Others – blacks**
+- **Effect**
+    - **Realign power dynamics**
+    - **Resistance to change eg – swarajist vs non**
+    - **New competitive interests eg envt**
+- **Imp for a more just and equitable society**
+
+## EDUCATION
+### PRO THINKERS/ POINTS
+- **Johnson** – the answer to all our problems comes down to a single word - education
+- Functions of education
+    - Skilling and training for class mobility (**Weber** life chances)
+    - Equality and status – becomes knowledgeable, distant places (**Warner**)
+    - Social integration – collective consciousness and nationalism (**Ernest Gellner**)
+    - Primary Socialization of norms values – **Parsons** calls it storehouse of information ; **Mead** – development of self
+    - Social control as apprises individuals of the law of land
+    - Sensitization towards gender
+    - Envt consciousness
+    - Social change – broadens horizons of thinking + Also makes it easier to accept social changes + adopt new ideas
+    - Latent function of driving national growth
+    - Creative being by vocational
+    - Reduce ethnic inequality
+    - Critical thinking against state hegemony
+- Types
+    - Formal
+    - Informal – mass media, fam, friends, peers
+- In past, ascriptive and not achievement based
+    - Religion focused
+    - Not social
+    - Not v scientific or tech
+    - But present – consumer society, westernization, modern tech, fundamental rights, equality, nationalism
+    - Conversion of relifion
+    - Couldn’t break social/ linguistic barriers
+    - **Kamat**: helped towards a close scrutiny of social system and bring revolution eg Satyshodhak samaj
+- Education in future
+    - Reskill adults’
+    - Remediation of young
+    - Accountability
+    - Assessment criteria
+    - 21st century skills
+    - Drop outs
+    - More meritocracy and comp oriented
+    - Self reliance, excellence, global cooperation
+    - Vocational
+    - STEM
+    - Invent and re-invent
+    - Lifelong learning
+    - Apprenticeship
+- Education role criticism
+    - **Karl Marx**: ideological device for dominant class
+    - **Steven Lukes**: 3rd power to influence
+    - Discrimination – caste, tribes, gender, class
+    - Religion – some schools deny entry to muslims in Ahmedabad (**Ranganath committee**)
+    - **Sylvia Walby** – perpetuates patriarchy
+    - Closed system based on socio economic capital and opportunities
+    - 12th FYP – Universal edu without Quality (U without Q)
+    - **Bourdieu**: cultural reproduction – benefit only top class
+    - **Tawney**: tadpole theory – only few in bottom strata get upward mobility
+    - **Ivan Illich** – Schools suffocate creativity and actually need de-schooling of society
+    - **Blauner** – tech alienating man
+    - **Brown** (paper 2), **Sue Lee**, **McRobbie** – paper 2
+    ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 101.png>)**Durkheim**
+        - Role of edu is to imprint shared norms and values of society onto children
+        - Hence responsible for transferring values + equipping them for specialized DOL
+        - Society can survive oly with some degree of homogeneity which can be maintained only via education
+        - Needs advanced knowledge in modern complex society
+    - Lack of edu is handicap on mobility, even not its ultimate solution
+    - **Rangnath committee** – muslims denied entry in schools
+    - **AR Desai** – edu has failed to uplift status of women, SC, ST
+- Govt educations
+- PESTLE analysis
+- **Ambedkar** – witnessed mibility due to education
+- NEP, RTI, Ar 21A, DIKSHA, tele-edu,
+
+## DEPENDENCY
+### PRO THINKERS/ POINTS
+- Development
+    - Change in the desired direction – progressive change from one lower state to higher state
+        - Classical sociologist – Considered dev as simple to modern or industrialized societies
+            - Criticized for western bias
+            - Shifting focus on justice, equality etc
+- Dependency
+    - **Raul Prebisch**:
+        - Developed the theory
+        - Advocated that growth of advanced industrial countries did not necessary lead to the growth of poorer countries
+        - Infact, it leads to serious economic problems for poor countries (eg – Pakistan)
+        - Value add for manufactured products more than RM – hence cost more (Depdendent state supplies cheap resources and dominant has more value addition)
+        - need import substitution in poor countries
+        - They should still export RM to increase forex reserves
+        - Dominant depdendent model
+        - Issues with import substitution – do political will exist? Market is not big enough to achieve economies and keep prices low
+    - **Theotonio Sanstos** – “ a situation where the economy of certain countries is conditioned by the dev and expansion of another economy to which the former is subjected
+    - Classical – trickle down theory of development and modernity
+        - Rejected by **Marx** – global south and north
+        - Rejected the idea that underdevelopment is due to the own culture of that country
+    - Always developed countries keep neo-colonialism for their own vested interests
+    - Developing always dependent on import of final product
+    - Developed do value addition
+    - **Arghiri Emmanuel** (**Unequal exchange**) – called underdeveloped as “misdeveloped” countries
+    - **Wallerstein** (**the modern world system**) – blamed developed countries for perpetuating dependency with their hollow slogans of development – world system is capitalist and made core,semi core and periphery
+    - International capitalism
+    - **Andre Gunder Frank** (**development of underdevelopment**) – capitalism and imperialism is parasitic
+        - He believed underdevelopment is diff from un-development, wherein underdevelopment is a result of artificial dependency that has been created by developed countries via an integrated trade network
+        - Metro satellite model -
+- Dependency theory
+    - Undevelopment is natural
+    - Underdeveloped countries have disadvantage position in global economic transactions
+    - Eforced a rigid intl DOL
+    - It will always be a story of comparative advantage
+    - Poor countries are behind or catching up not because they didn’t have the enlightenment alue or scientific temper but were coerced to be integrated in the economic system of Europe where they merely exported RM or labour and denied any opportunity to market their own resources (eg British and India)
+    - Undevelopment – no use of available resources
+    - Underdevelopment – resources are used but benefits are with dominant states and not poor states
+    - Poor countries are not catching up, but using resource of developed countries – hence not ever truly free
+    - Need a clear “national interest”
+    - True dev creates synergies
+    - Need to address needs of poor and not rich industrialists or govt
+    - Elites of your country also help propagate dominant states as these rich have similar training and edu with dominant states (us uk edu) – white man burden
+    - **Lenin**: imperialism: the highest stage of capitalism
+        - Colonial people – misery increase, liberty destroy
+        - Produces War
+        - Emergence of new order – class wars
+        - Imperialism is moribund (declining capitalism)
+        - People fight and revolt ; 3 types of conflict and revolution
+            - Between colonial power and dependent colonial who will have a revolutionary outlook eg India
+            - Between various imperialist powers for territories eg Bismarck and Germany
+            - Between cap and labor brings exploited workers to revolution
+    - Banana republic – elite make all policies (**O Henry**)
+        - Honduras – make only bananas
+        - Only one crop developed
+        - New depdedency for imports
+
+### CRITICISM
+- Fail to account for dev of SEA
+- Support in tech – tech transfer
+- North korea closed – no dev, south korea
+- **Cardoso** – main problem with dev of underdeveloped is capital and tech – inflow in terms of FDI can lead to developed islands of modern enterprises in the sea of backwardness
+- Highly abstract and use vague divisions such as satellite/ metro or underdeveloped/ un-developed
+- Does not consider the new world function of de-globalization or protectionism
+
+## AGENTS OF SOCIAL CHANGE
+### PRO THINKERS/ POINTS
+- Three basic sources
+    - Discovery – shared human perception of a reality that already exists
+    - Invention – creation of new knowledge which can be material or non material
+    - Diffusion – spread of cultural traits from one to another when soceities/ groups come in contact
+- Can be heterogenetic (external) such as war, cultural contact, trade etc or orthogenetic (internal) such as stress, innovation, regime change
+- Scientific factors – **Ogburn** – cultural lag – tech has an imp role in social change
+    - Cultural lag means the delay in change in non-material elements after change in material elements
+    ![Socio_Paper 1](<Z9 Obsidian-files/Media/DOCX/Socio_Paper 1 102.png>)Eg – a women may work and earn but her position in the family may remain the same
+    - Empower people eg KCC, welfare scheme
+- Traditional factors
+    - Political – due to circulation of elites or movements but rising pluralism eg French revolution
+    - Religion but rising secularism eg **Weber**
+    - Demographic factors such as pop and ecology ie birth rate, migration etc – but stabilization
+    - Cultural factors - discovery, innovation and diffusion new ideas eg women equality
+    - Individuals – by genius of people
+- Less role of kinship etc as a New factors
+    - Digital media and Structural strain theory - leads to innovation + class struggle
+    - Education eg – rational outlook towards dominant beliefs – **Parsons** studied + changing women edu
+    - Environment – rising extreme weather events
+    - Globalization
+    - S&T – questions, explain, innovates eg contraceptives; but cultural lag
+- But not losing significance
+    - Political – Ar 377
+    - Religion – NRMs and charismatic personalities
+    - Culture – homogenization, diffusion of yoga
+- Digitization as a social change agent
+    - Economy – feminization, gig economy (**Srineck**), alienation and isolation (**Blauner**), flex working models
+    - Social – informalization, changing kinships (fictive kins), weakening fam bonds (**Edmund Leach**),
+    - Religion – charismatic leaders cults eg sadhguru
+    - Intellectual ideas – westernization and homogenization
+    - Education and health
+    - Media as 3rd face – global citizenship + social movements
+    - Communalism and fundamentalism
+    - Dysfunctions such Rising deep fakes, AI Bias – stereotypes, data privacy (**Focault**)
+    - Pathological behaviour eg blue whale
+    - Media and civil soc – diigtial news – real time awanreness – **Larry Diamond**
+    - But cultural lag with digitization – **Ogburn** and **Nimkoff** + **Y Singh** – indianisation of western ideas from digitization
+    - Sources can be 3
+        - Cultural sources – change in the beliefs and norms of the society eg – Islam rule or French revolution or patriarchy
+        - Political sources – such as military, monarchy etc – each system will change the social economic conditions
+        - Social structure – change from feudal to capitalist to socialist society
+
+## S&T
+### PRO THINKERS/ POINTS
+- **Ellul** – “**The technological society**” tech has engulfed every aspect of social existence in much way Catholicism did in middle ages eg - from morning alarm to evening zoom calls to bedtime music
+- S&T accompanies us from cradle to grave
+- Functions of S$T – use PESTEL/ society/ family/ religion/ caste/ economy/ gender/ rural urban
+    - Economic –feminization of workforce, global supply chains, functionalists: DOL
+    - Political
+    - Cultural - Organic solidarity – eg online weddings
+    - Health and edu
+    - Envt
+    - Legal -
+    - Social movements - Class consciousness and mobilization
+    - Eg – e-sambhidhan, e-courts, new forms of prod, robotic tech, increased women workforce, social media influencers
+    - In challenging taboos
+        - Primary socialization of children using digital education scientific lines reduces vulnerability towards taboos
+        - Questions stereotypes and debunks hidden truth – eg snake shaped roots
+        - Healthcare helps bust dogmas such as reporoduction
+        - Reduces influence of charismatic personalities eg Asaram Bapu
+        - New tech innovations challenge age old traditions eg galileo
+        - Social media and new tools for fast mobilization of people
+        - Intergenerational ass mobility
+    - Need for democratization
+        - Leads to a more participatory society -> contextually relevant needs across stratas of society
+        - Helps in empowerment and cap building -> improves life chances
+        - Equality and digital poverty, exclusion
+- Dysfunctions
+    - Kinship changes – family planning and improved life and health, comm for joint families
+    - **Blauner** – tech and alientation
+    - **Ogburn**
+    - Marxists – increased divide
+    - Consumerism and conspicuous spending
+    - Dependency
+    - **Focault** – govt has info
+    - Deep fakes – misguided social conflicts
+    - Individual life – individudualism and isolation
+    - GAI – inbuilt bias
+    - Social rural divide
+    - Cyber warfare and scams
+    - Tech unemployment
+    - In taboos
+        - New religious movements such as world rejecting
+        - Tech advancements being used to enable stereotypes due to cultural lag eg female foeticide
+        - tech to emphasize traditional pattern variables such as endogamous marriages
+
+## GLOBALIZATION
+### PRO THINKERS/ POINTS
+- Multi facted phenomena where world becomes interconnected economically., socially, culturally and politically
+- Breaks down physical barriers – eg Shenghen
+- ICT – facilitate constant communication
+- Global supply chain and trade
+- MNCs
+- Cultural homogenization
+- Politically – global decisions influence domestic policies + multilateral institutions
+- Nation state – reduces sovereignty of state – 1991 LPG reforms
+- Dual citizenship, global citizenship and belonginess to roots
+- Envt – collaboration (**Mark Smith**)
+- We are in thin air business, nothing can be seen or touched – **Charles Leadseater**
+- **Ritzer** Mcdonaldization – work, globalization, **Weber**
+- **Roland Robertson** (**social Theory and Global Culture**) - the compression of the world and the intensification of the consciousness of the world as a whole; also said glocalization
+- **Pilkington**
+    - Nationalism – cultural homogenization eg coke and also cultural fascination
+    - Dual threat to nationality – centralization with MNC and decentralization pressures
+    - Multiple identities and ethnicities – hybrid identity based on indexicality
+
+## DYNAMIC THEORIES
+
+## ARLIE HOCHSCHILD
+### PRO THINKERS/ POINTS
+- **The managed heart**
+    - That when emotioMns are brought and sold, people working have to suppress their true emotions and show false ones – higher alienation
+    - Relevant for globalization, service industry, WFH, alienation
+- Second shift theory
+
+## CW MILLS
+### PRO THINKERS/ POINTS
+- Whilte collar – selling and handling business more imp
+- Relevant for work, globalization
+
+## BERGER
+### PRO THINKERS/ POINTS
+- Objectivity not possible in social observation
+- Social facts don’t fall from sky
+
+## DAHRENDORF
+### PRO THINKERS/ POINTS
+- Middle class is growing – rise in skilled and semi skilled workers
+
+## FEYERABAND
+### PRO THINKERS/ POINTS
+- Against method – methodology restricts freedom, do what you want
+
+## RICHARD SENNET
+### PRO THINKERS/ POINTS
+- flexibility of modern capitalism is merely a fresh form of oppression
+- People have to subsume their own innovation to align with societal expectations
+- **The corrosion of character**
+
+## EXAMPLES
+### PRO THINKERS/ POINTS
+- **Greta Thunberg** – climate change
+- Black lives matter – ethnic/ race based strat – 7x killings
+- Wrestling federation of India – can bring change + women
+- Anomic death – **Sushant Singh Rajput**
+- Women reservation bill
+- COVID 19i
+- **Sonu Sood** foundation
+- **Sudha Murthy** – devdasi
+- Bilkis bano case
+- **Suraj Yengde** – “**caste matters**” = triple burden on women
+- Social hierarchy in healthcasre also – access to govt vs pvt
