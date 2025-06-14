@@ -3761,3 +3761,199 @@
     - **MAITRAYEE CHAUDHURI-** women’s participation in freedom struggle developed their critical consciousness about their role & rights in independent India resulting in intro of franchise & civic rights of women in the Indian Consti.
 - **1950 – 1980**:
     - 1960s– birth of new socio pol movements with widespread poverty & unemployment, people disillusioned with govt development policies, prevalent eco rights, land rights & price rise.– dissatisfied women joined struggles for **the rural poor & industrial working clas**s through Tebhaga & Telangana movementsIn this phase, esp 70s, women movt
+    - **1960s– birth of new socio pol movements with widespread poverty & unemployment, people disillusioned with govt development policies, prevalent eco rights, land rights & price rise.– dissatisfied women joined struggles for **the rural poor & industrial working clas**s through Tebhaga & Telangana movementsIn this phase, esp 70s, women movt** more **articulative, visible and focused** – no longer seen as wife and mother.
+    - 1975-85–**Int’l Decade of the Woman.**
+    - Seen as leader of nation/ working women.
+    - Growth of autonomous women orgs (not affiliated with pol parties) – criticized left wing women orgs and mobilized them on eco and extra eco issues like domestic violence and dowry, sexual exploitation and violence against women eg – All india democratic women association – abortion, shah bano case, dowry, Nirbhaya, chhipko.
+    - Ex: SEWA, women worker forum.
+    - Eco feminist movements.
+    - But **no dalit women issues or Brahminical patriarchy**.
+    - Dalit feminism developed against both of these orgs eg Dalit women organization; focused on women **being segmentory and not homogenous** – dalit women have disntict challenges.
+    - Current schemes.
+- **1980 – Present**:
+    - Bodily autonomy.
+    - Marital rape.
+    - Sexual harassment at workplace.
+    - Monetization of care work.
+    - Same sex marriage.
+    - Dowry crime.
+    - Issues like cyber violence, deep fakes.
+    - Globally discussed; use social media (STEPHEN).
+    - Anti – farm law bills.
+    - Most by pressure groups – leaderless, #.
+- GAIL OMVEDT – reform movement to liberation movement.
+- **RAKA RAY**, in her empirical study, highlights that women’s movts in difft regions give different priority to difft issues affecting women. Women groups–both autonomous & affiliated with parties in ‘Mumbai’ give more importance to the issue of violence against women & religious fundamentalism; for the groups in ‘Kolkata’, issues of poverty & unemployment, consciousness and literacy- more impt than other issues.
+
+### Challenges
+- Political under-representation, land ownership, segmentory, focused on upper caste problems – **“ideal victim”**.
+
+## - CHALLENGES OF SOCIAL MOVEMENTS
+
+## Development – displacement, envt, sustainability
+- **Y SINGH**: Development refers to the strategy of planned social change which is considered desirable by the members of the society.
+- **Crisis of Development**: paradoxical situation of development.
+- **FERNANDES**: in the past 50 yrs, ~3cr were displaced & >42% of them–tribals.
+
+### Displacement
+- **Types**:
+    - Political: violence/ ethno-centricism induced eg NE forced successionism.
+    - Violence induced eg caste based discrimination.
+    - Development induced eg dams.
+    - Natural disaster induced.
+- **Consquences**:
+    - Has a **domino** effect- primary leads to secondary & tertiary.
+    - Disrupts **kinship** relations, livelihood loss.
+    - **Poverty** incidences ↑ with livelihood disruption.
+    - **Cultural conflicts** ensue when displaced move elsewhere - xenophobia.
+    - **Displacement** of agri ppl–conversion from self-cultivators to non agri wage labour.
+    - **MRIDULA SINGH**, in a 1992 study- rehab policy often blind to rights of women.
+    - **FERNANDES**, in his study of Mh-majority of affected- tribals, in projects induced d, & only 15.8% of tribal fams- given land.
+    - Cultural threats to ethnic groups like tribals which face extremes like- assimilation or isolation.
+- **Envt and displacement**:
+    - Const of dams – fragile Himalayas.
+    - A&N plan 0 biodiversity – turtles.
+    - Urban flooding and heat island effect.
+    - NCR a gas chamer.
+    - Depleting GW table.
+    - Mangrove loses onE&W.
+    - Marxist – eco Marxism, commodity fetishism.
+    - EINSTEIN – converted fertile land into desert.
+    - VANDANA SHIVA.
+    - JODHKA – agrarian distress.
+    - BOOKCHIN.
+
+## Poverty, deprivation and inequality
+### Rural Urban Poor
+- DANDEKAR & RATH have observed that the U poor of India- only an overflow of the rural poor into the cities & that essentially, they belong to the same class as the R poor.
+- D’SOUZA- primary reason for R-U migration is eco, & the R poor migrate to the cities in search of employment rather than better employment opps**.**
+- R **-** usually mazdoor, landless, marginal farmer, artisan, craftsmen.
+- U – informal sector workers, migrants, women.
+- Exp gap increasing between R and U (BOSE), but MPCE has painted an alternative picture.
+
+### Poverty Reasons
+- Historical – British driven de-industrialization (Nationalists).
+- **Economic**:
+    - Work – informal.
+    - Agrarian (AR DESAI).
+    - Failure of land reforms.
+    - Regional variation.
+    - Slum development (OSCAR LEWIS).
+    - Globalization – race to bottom – NAILA KABEER, APPLEBAUN.
+- **Social**:
+    - Women – gender pay gap and unpaid economy (KARUNA AHMAD).
+    - Illiteracy, Religion – MURSHID HASAN.
+    - Child labor, school dropout.
+    - Caste system.
+    - Tribal isolation.
+- Legal – no min wage fixed.
+- Political - Lack of access to poverty alleviation schemes (KOTHARI).
+- AMARTYA SEN – poverty due to non-inclusive growth.
+- ANAND CHAKRAVARTI - The sustainability of development can be ensured by schemes that are aimed at amelioration of problems of the masses and not the classes.
+
+## Violence ag women
+- 90 cases.
+- **SCHULER**: gender violence- any act involving use of force or coercion with intent of perpetuating & promoting hierarchical gender relations.
+    - **Overt physical abuse**: battering, sexual assault @ home & in the workplace.
+    - **Psychological abuse**: confinement, forced marriage.
+    - **Deprivation of resources for physical & psycho well-being**: health/nutrition, edu, livelihood means (also VINA MAJUMDAR).
+    - **Commodification of women**: trafficking, prostitution.
+- **NEERA DESAI**: commodification of women using tech media tools has ↑- ex: advertisements.
+- **RAM AHUJA**: identified 4 types of victims – who husbands are pathological, stress fam situation which is functionally inadequate, no interpersonal relations.
+- SYLVIA WALBY.
+- Conventions – UN dec.
+
+### Causes
+- Toxic masculinity.
+- MAITREE CHOWDHARI.
+- Women as 2nd class citizens – MURRAY STRAUSS.
+- COOMARASWAMY – vulnerable to various forms incl.
+    - Being women: rape, infancticide. Sex related.
+    - Being wife – marital rape, domestic violence, sati, dowry.
+    - As social group – intersectionality of caste, tribe.
+- Family spcialized patriarchy in DOL distributions – expect hierarchical relations.
+- VEENA DAS – cultural enslavement of women responsible for violence.
+- **DUBE**: In Indian society, restrained & controlled sexuality is a prerequisite for socially sanctioned motherhood.
+- MNS.
+- UMA CHAKRAVARTY.
+- MEHROTRA – tribal violence even more complex amodst changes and assimilation.
+- UTSA PATNAIK – dowry economics – injury to women minds - compelling her to feel worthless who cannot live w/o marriage & w/o support of her husband.
+
+### Suggestions
+- Support (financial and rehab) to women led orgs.
+- Role models.
+- Legislations.
+- Protection from fam.
+- Systemic social chane.
+- Speedy trial of offences – 28%.
+- Deterrance.
+
+## Ethnic conflicts
+- Social collectivity having shared historicity, common attributes (language, religion, dress, diet), maybe called self perception ethnic consciousness for status & recognition as a distinct social entity.
+- **BARUN DE**: it’s a creative response of the group which is marginalised in society.
+- **PUNEKAR**: 4 premisses of ethno – religion, language, region, caste.
+
+### Reasons
+- **KELLAS**: many examples show material & eco interests – try to get scarce resources.
+- **Resource mobilisation theory**: development causes ↑ethnic mobilisation as more resources.
+- **Internal colonisation theory**: r/ship b/w members of dominant/core community and state – eg NE.
+- **Cultural deprivation theory**: threat of assimilation and loss of culture (CLEMENS SPIES).
+- **ASHUTOSH VARSHNEY in ‘_ETHNIC CONFLICTS & CIVIL SOCIETY: INDIA & BEYOND_’**: some towns, cities, areas, localities–more prone to ECs therefore ECs have to be looked @ from a micro lens.
+
+### Communalism
+- GEERTZ – mainly due to relgiions; Malaya is race.
+- **T K OOMEN**: 6 types of communalism in India:
+    - **Assimilationist**: smaller religious groups assimilated into a larger 1, ex- claiming tribes & J/B/S as Hindus - **GHURYE** calls tribals- backward Hindus.
+    - **Welfarist**: aims to improve living stds of a particular community, ex- missionaries.
+    - **Retreatist**: a small religious community keeps away from politics, mainstream social life to create niche space for itself, ex- Baha'i forbids members from pol participation.
+    - **Retaliatory**: vengeance for historical wrongs done to community members, excommunal conflicts of recent times (Guj, Muzaffarnagar).
+    - **Separatist**: a community wants to maintain its cultural specificity, demands separate territorial state w/in country, ex- J’khand movt.
+    - **Secessionist**: a religious community wants a separate pol identity & demands an independent state, ex- Khalsitan movt.
+- **BIPAN CHANDRA**: religion=not the core feature of communalism, just used to mask the non religious social needs, aspirations & conflicts; used as a convenient vehicle of mass mobilisation In other words, communal ideology & politics are the disease, communal violence- only its external symptom.
+- **LOKANATH MISRA** cautioned the Constituent Assembly- the cry of religion is a dangerous cry. Today, religion in India serves no higher purpose than collecting ignorance, poverty.
+- Pol- the communal implications of the nos. game in a pluralistic society became apparent. The PPs conceive of their interests in terms of caste & religion.
+- BIPIN CHANDRA – gave 3 stages of communlism.
+- ZOYA HASAN – aspect of primordial society going through modernization.
+- ASGHAR ALI ENGINEER – uneven development across communities due to scarcity and class.
+- NEERA CHANDHOKE - We need to give rights to uplift minority – but politics of religion considers it minority appeasament.
+
+## Ulrich beck
+- Risk society.
+- Earlier risks were natural, now they are man made.
+- Relevance – globalization, climate change, AI, wars, covid 19.
+
+## Zygmunt bauman
+- Liquid modernity concept – use in globalization creating anxiety, rising consumerism, fast fashion etc.
+- Constant change in modern society, rapidly changing nature.
+
+## Anthony Giddens
+- Reflexive modernity – reflecting on actions you are taking and consequences.
+- Structuration theory – individuals both shape and are shaped by social structures.
+- Ex: labor guided by rules but can change them.
+
+## John baura
+- Hyper reality concept.
+
+## Shushona zuboff
+- Surveillance capitalism – INFORMATION Capitalism.
+- Start with Marxists – shape and function.
+![[Z9 Obsidian-files/Media/DOCX/Socio_Paper 2 18.png]]
+- **Factors**: religion (WEBER and PARSIS), dependency theory, caste, class (bourgeoise), gender (ANN OAKLEY), rural urban divide, tribals assimilation, pop demographic.
+- **Consequences**: poverty, migration, middle class, new opps for class mobility, self fulfilling prophecy for women youth.
+- Need cap building.
+![[Z9 Obsidian-files/Media/DOCX/Socio_Paper 2 19.png]]
+- **Factors**: religion (WEBER and PARSIS), dependency theory, caste and ascriptive roles, class (bourgeoise), gender (ANN OAKLEY), rural urban divide, tribals assimilation, geographical location and climate, political stability.
+- **Consequences**: poverty (prostitute destitute), migration, alienation, slums, informalization, few elites, bonded and child labor.
+
+## Increase age of marriage
+- Family and kinship.
+- **Pros**: feminists, LOTIKA SARKAR (reduce anxiety), reduce dependency, gender parity (GOLDWIN), TULSI PATEL, health, emotional maturity and decision making, unwanted pregnancy.
+- Crime and rapes, law only direction (AB), deviance.
+- Need – sensitization, opportunities to enable, patriarchal to equal mindset.
+
+## Technology
+- **Pros**: organic solidarity, integration (zoom wedding), cultural and economic capital, women upliftment, assimilation of tribes, nationalism.
+- **Cons**: kinmship pattern, cyber bullying, deepfakes – muslim women online sale, men in cave, Maldives troll.
+- Media – can lead to nationalism, social morality or deviance and anomie (prison break).
+- Social media – integration and avoid alienation, influence, marketing but relative deprivation and reference group theory, depression.
+- Weaker interpersonal bonds, crimes, religion.
+- Enabled wfh.
