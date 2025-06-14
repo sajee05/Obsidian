@@ -21,7 +21,7 @@ columns:
     position: 1
     isHidden: false
     sortIndex: -1
-    width: 315
+    width: 481
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -389,6 +389,28 @@ columns:
       - { label: "Technology in Healthcare", value: "Technology in Healthcare", color: "hsl(187, 95%, 90%)"}
       - { label: "Indian Classical Dance", value: "Indian Classical Dance", color: "hsl(61, 95%, 90%)"}
       - { label: "Cultural Awards", value: "Cultural Awards", color: "hsl(140, 95%, 90%)"}
+      - { label: "Higher Education in India", value: "Higher Education in India", color: "hsl(324, 95%, 90%)"}
+      - { label: "India and West Asia", value: "India and West Asia", color: "hsl(104, 95%, 90%)"}
+      - { label: "Foreign Policy", value: "Foreign Policy", color: "hsl(131, 95%, 90%)"}
+      - { label: "Centre-State Relations", value: "Centre-State Relations", color: "hsl(249, 95%, 90%)"}
+      - { label: "Executive", value: "Executive", color: "hsl(174, 95%, 90%)"}
+      - { label: "India's Foreign Policy", value: "India's Foreign Policy", color: "hsl(338, 95%, 90%)"}
+      - { label: "International Relations", value: "International Relations", color: "hsl(339, 95%, 90%)"}
+      - { label: "State Executive", value: "State Executive", color: "hsl(15, 95%, 90%)"}
+      - { label: "Local Governance", value: "Local Governance", color: "hsl(139, 95%, 90%)"}
+      - { label: "Governance", value: "Governance", color: "hsl(268, 95%, 90%)"}
+      - { label: "Disaster Management in India", value: "Disaster Management in India", color: "hsl(86, 95%, 90%)"}
+      - { label: "Government Response to Calamities", value: "Government Response to Calamities", color: "hsl(118, 95%, 90%)"}
+      - { label: "Disaster response", value: "Disaster response", color: "hsl(75, 95%, 90%)"}
+      - { label: "Role of Executive", value: "Role of Executive", color: "hsl(135, 95%, 90%)"}
+      - { label: "Health and Wellness", value: "Health and Wellness", color: "hsl(51, 95%, 90%)"}
+      - { label: "Indian Traditional Knowledge", value: "Indian Traditional Knowledge", color: "hsl(105, 95%, 90%)"}
+      - { label: "Agriculture Sector", value: "Agriculture Sector", color: "hsl(292, 95%, 90%)"}
+      - { label: "Land Reforms", value: "Land Reforms", color: "hsl(161, 95%, 90%)"}
+      - { label: "Artificial Intelligence (AI)", value: "Artificial Intelligence (AI)", color: "hsl(247, 95%, 90%)"}
+      - { label: "Telecommunication Networks", value: "Telecommunication Networks", color: "hsl(132, 95%, 90%)"}
+      - { label: "International Telecommunication Union (ITU)", value: "International Telecommunication Union (ITU)", color: "hsl(199, 95%, 90%)"}
+      - { label: "Digital Transformation", value: "Digital Transformation", color: "hsl(260, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
