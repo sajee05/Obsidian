@@ -26,6 +26,7 @@ tags:
 ###  [[AIR 16 Madhav Agarwal| AIR 16 Mains]] *Base*
 - [[AIR 28 MAINS]]
 ---
+- [[Socio-timeline]]
 -  📺 [[Lecture Notes|Socio Lecture Notes]]
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
 - [[MOC Socio Topper Notes|Socio Toppers Notes]]
