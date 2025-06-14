@@ -2,10 +2,10 @@
 # Table of Contents
 1. [[Strategy Plan# TODO|TODO]]
 	1. [[Strategy Plan## Monthly AT ANY COST Targets|Monthly AT ANY COST Targets]]
-2. [[Strategy Plan# Prelims|Prelims]]
-3. [[Strategy Plan# Current Affairs |Current Affairs ]]
-4. [[Strategy Plan# Mapping|Mapping]]
-5. [[Strategy Plan# Economics |Economics ]]
+2. [[Strategy Plan# GS **Workflow:**|GS **Workflow:**]]
+3. [[Strategy Plan# Prelims|Prelims]]
+4. [[Strategy Plan# Current Affairs |Current Affairs ]]
+5. [[Strategy Plan# Mapping|Mapping]]
 6. [[Strategy Plan# Ethics|Ethics]]
 7. [[Strategy Plan# Personal insights and Improvement Journaling|Personal insights and Improvement Journaling]]
 	1. [[Strategy Plan## Saturation|Saturation]]
@@ -86,16 +86,23 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 | -------- | --- | --- |
 | **November** |     |     |
 | **December** |     |     |
+# GS **Workflow:**
+1. CORE NOTES
+2. CSE why notes and PDF for the subject completed. (prelims PYQs all covered)
+3. then [[MOC GS1]], [[MOC GS2]]  , [[MOC GS3]] , [[MOC GS4]] → Copy paste content in [[Mains GS Template]] from [[AIR 28 MAINS]] Notes as base. while writing answers. *(like socio)* 
+4. Watch **Vision Mains advance batch** for Analytical understanding. (100 lectures finish fast) and add content to notes prepared.
+5. read [[AIR 16 Madhav Agarwal]] notes very well → add all the good content. (why note base? some acronyms etc used are not understandable)
+6. **Write smart** by Dr. Shivin
+7. Write PYQs Daily and add content / dimensions from X-factor notes of civils daily. 
 # Prelims
 - **4** CORE + **2** Prelims heavy ENV AND S/T + THEIR MAINS
 - Forum PYQ analysis/ CSE WHY DOCMENT document. - read twice.
 - Power of PYQ lectures.
 - Ascend → forum toolkit. 
 # Current Affairs 
-- I will read atish mathur **tracker pro** daily from ***mains* perspective** only and add [[Fodder]]
+- I will read atish mathur **tracker pro** daily from ***mains* perspective** only not adding any fodder since, theres plenty already.
 - for *prelims* i will just solve **next ias monthly current affairs Quiz magazine** -> after 4 core subs are done. (no prep beforehand): workflow= Solve with aptitude ➡️ Wrong answer notes from Ascend UPSC to obsidian ➡️ (only very imp ones - do rga) 
-- extra: for *prelims* i will refer to PT365 at the end of this year.
-- for mains - will see. will keep collecting fodder and examples from now. (first point)
+- extra: for *prelims* i will refer to PT365 at the end of this year. and daily glance through [[PIB-Daily]] and mark important areas.
 
 ---
 # Mapping
@@ -111,12 +118,9 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 
 ---
 
-# Economics 
+
 # Ethics
 - build the better india extractor if needed similar to [[PIB-Daily]] 
-
-**Workflow:**
- [[Economics]]  CORE → [[ECONOMICS AR]]  → Ketanomy for weak areas and skim through. → Rote Learn Mains notes [[Economy]] → Pre 2013 to 2024 → Mains PYQs : convert IAS.
 ---
 # Personal insights and Improvement Journaling
 ## Saturation
