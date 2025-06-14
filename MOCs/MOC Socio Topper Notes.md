@@ -7,4 +7,4 @@
 | Shivam Chandra                        | [[Shivam-Chandra (Pranay sir).pdf]]                       | on OneNote                                               |
 | Tusharanshu                           | [[Sociology-Tusharanshu Part 1 (UPSCPDF.com).pdf]]        | [[Sociology-Tusharanshu Part 2(UPSCPDF.com).pdf]]        |
 | Wardah Khan                           | [[Wardah Khan (1).pdf]]                                   | [[Wardah Khan (2).pdf]]                                  |
-| Mudita bansal AIR 44 (sleepy+levelup) |                                                           |                                                          |
+| Mudita bansal AIR 44 (sleepy+levelup) | [[MuditaBansalP1]]                                        | [[MuditaBansalP2]]                                       |
