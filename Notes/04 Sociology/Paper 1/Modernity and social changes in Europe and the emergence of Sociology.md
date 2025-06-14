@@ -3,7 +3,9 @@ tags: []
 ---
 * 2025-06-13
 
-- [ ] lecture
+- [ ] lecture - pranay
+- [ ] lecture - level up cc
+- [ ] lecture - vishal shah
 #### Topics To-do: 
 - **pyq themes**
 	- Modernity [[Topic 1. Sociology Fundamentals (133 questions)#modernity and social changes in Europe and emergence of Sociology (8 questions)|PYQ]]
@@ -32,7 +34,7 @@ tags: []
 	- [ ] enlightenment period
 	- [ ] french revolnt
 	- [ ] IR
-- **topper keywords**
+- **topper answer keywords**
 	- 
 
 ---

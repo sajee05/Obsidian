@@ -2,7 +2,11 @@
 tags: []
 ---
 * {{date}}
- - [ ] lecture
+ - [ ] AIR 28
+ - [ ] Vision MAB
+ - [ ] AIR 16
+ - [ ] X-factor
+ 
 #### Inter-linkages
 * (relevant syllabus pointers here- prelims, mains, socio)
 #### Topics To-do: 
@@ -15,7 +19,7 @@ tags: []
 		- [ ] 
 - **static concepts other than pyqs**
 	- [ ] 
-- **topper keywords**
+- **topper answer's keywords**
 	- 
 
 ---
