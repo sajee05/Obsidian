@@ -25,24 +25,6 @@
 1. What are the factors of production? Explain the role of each in economic output.
 2. How does the private sector utilize resources like labor and natural capital for production?
 ***
-
-
-
-*Diagram: Factors of Production to Goods & Services*
-*   **Entrepreneur** -> Profit
-*   **Capital** -> Interest
-*   **Natural Resources** -> Rent
-*   **Labour** -> Wage
-*   All lead to -> **Enterprise**
-*   Enterprise -> (Output) **Goods & Services**
-    *   **Intermediate** (Rolled Steel)
-    *   **Final**
-        *   **Consumption**
-            *   **Durable** (Life > 3 Yrs) (TV, Car)
-            *   **Non-Durable** (Life < 3 Yrs) (Clothes, Burger)
-            *   **Services** (Education)
-        *   **Capital** (Tractor)
-
 ### 1.6 Types of Goods
 1. Differentiate between intermediate goods and final goods with examples.
 2. Classify final goods into durable consumption goods, non-durable consumption goods, and services, providing examples for each.
