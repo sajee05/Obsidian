@@ -38,5 +38,6 @@
   "obsidian-linter",
   "better-export-pdf",
   "various-complements",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "obsidian-plugin-toc"
 ]

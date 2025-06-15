@@ -1,3 +1,5 @@
+
+
 ## Fundamental of Macro Economy
 ### 1.1 Introduction
 #### 1. Define economics and explain its significance in understanding the disparity between resource-rich and resource-scarce countries.
