@@ -7,7 +7,7 @@ tags:
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
 ---
-###  [[01 PYQs|PYQs]]
+###  [[01 PYQs|PYQs]] || - [[Timeline]]
 [[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || 📜 [[Z9 Clippings]] 
 
 ---
@@ -29,7 +29,7 @@ tags:
 ### [[A.W Feedback]]
 
 ---
-- [[Socio-timeline]]
+
 -  📺 [[Lecture Notes|Socio Lecture Notes]]
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
 - [[MOC Socio Topper Notes|Socio Toppers Notes]]
