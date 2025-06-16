@@ -30,7 +30,7 @@ tags:
 
 ---
 
--  📺 [[Lecture Notes|Socio Lecture Notes]]
+-  📺 [[Lecture Notes|Socio Lecture Notes]] || [[socio-thematic analysis]]
 - [[MOC Socio Paper 1| Socio Paper 1]] ||  [[MOC Socio Paper 2| Socio Paper 2]]
 - [[MOC Socio Topper Notes|Socio Toppers Notes]]
 ---
