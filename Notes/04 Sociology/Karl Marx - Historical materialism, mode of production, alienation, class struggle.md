@@ -24,6 +24,7 @@
 	- **Class Struggle**
 		- [ ] explain class-antagonism and functionalist's reaction to this view.
 		- [ ] short note: class in itself and class for itself.
+		- [ ] explain marx's analysis of class-struggle and capitalist mode of production. 
 		- [ ] 
 - **static concepts other than pyqs**
 	- [ ] 
