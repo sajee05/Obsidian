@@ -24,8 +24,10 @@
 	- **Class Struggle**
 		- [ ] explain class-antagonism and functionalist's reaction to this view.
 		- [ ] short note: class in itself and class for itself.
-		- [ ] explain marx's analysis of class-struggle and capitalist mode of production. 
-		- [ ] 
+		- [ ] class in itself and for itself wrt proletariats 
+		- [ ] explain marx's analysis of class-struggle and capitalist mode of production and intellectual reactions to it. 
+		- [ ] feudal and slave societies difference in marx's views.
+		- [ ] According to Marx, capitalism transforms even the personal relationships between *men and women*. Critically examine with illustrations from the *contemporary Indian context*. (2014-10M)
 - **static concepts other than pyqs**
 	- [ ] 
 - **topper answer keywords**
