@@ -29,7 +29,12 @@
 		- [ ] feudal and slave societies difference in marx's views.
 		- [ ] According to Marx, capitalism transforms even the personal relationships between *men and women*. Critically examine with illustrations from the *contemporary Indian context*. (2014-10M)
 - **static concepts other than pyqs**
-	- [ ] 
+	- [ ] Dialectic materialism
+	- [ ] Factors op
+	- [ ] Relationship op
+	- [ ] Modes of op
+	- [ ] theory of surplus value
+	- [ ] fetishism of commodities 
 - **topper answer keywords**
 	- 
 
