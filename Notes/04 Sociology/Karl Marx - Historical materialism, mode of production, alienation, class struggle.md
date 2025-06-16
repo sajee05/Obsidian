@@ -22,6 +22,8 @@
 		- [ ] critically assess alienation
 		- [ ] critically explain salient features of alienation. (2024) = *i.e. criticism for each point of explanation lagega har thinker ke liye* 
 	- **Class Struggle**
+		- [ ] explain class-antagonism and functionalist's reaction to this view.
+		- [ ] short note: class in itself and class for itself.
 		- [ ] 
 - **static concepts other than pyqs**
 	- [ ] 
