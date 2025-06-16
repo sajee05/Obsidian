@@ -4,10 +4,12 @@ sr-ease: 410
 sr-due: 2026-06-01
 tags:
 ---
+# ** [[Timeline]]**
+
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
 ---
-###  [[01 PYQs|PYQs]] || - [[Timeline]]
+###  [[01 PYQs|PYQs]]
 [[Fodder|GS-1-2-3-4-Essay: Fodder and Frameworks]] || 📜 [[Z9 Clippings]] 
 
 ---
