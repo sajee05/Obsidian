@@ -14,9 +14,11 @@
 		- [ ] "It is not the consciousness of men that determines their being, but on the contrary, it is their social being that determines their consciousness." Examine Karl Marx's notion of mode of production in the light of this statement. (1998-60M)
 		- [ ] explain marx's analysis of capitalistic mode of production. and intellectual reactions to its views.
 		- [ ] marx's ideas on mode of production. (Explain)
-		- [ ] *critically* examine - dialectics involved in each MOP as propounded by marx
-	-  
-		- [ ] 
+		- [ ] *critically* examine - dialectics involved in each MOP as put forward by marx
+	- **Alienation** 
+		- [ ] short note
+		- [ ] Sometimes workers do not feel attachment for their work. Marx formed a theory for this situation, discuss that theory. (2012-20M)
+		- [ ] how are human beings alienated from their 
 - **static concepts other than pyqs**
 	- [ ] 
 - **topper answer keywords**
