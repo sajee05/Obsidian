@@ -4,7 +4,7 @@
 - [ ] lecture - level up cc
 - [ ] lecture - vishal shah 
 #### Topics To-do: 
-- **pyq themes**
+- **pyq themes** #flashcard 
 	- support 
 		- [ ] give reasons to support socio=common sense
 	- distinguish
