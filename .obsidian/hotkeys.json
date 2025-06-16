@@ -100,5 +100,13 @@
       ],
       "key": "F"
     }
+  ],
+  "cmenu-plugin:underline": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "U"
+    }
   ]
 }
