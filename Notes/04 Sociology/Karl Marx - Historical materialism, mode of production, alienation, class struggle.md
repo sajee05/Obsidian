@@ -21,7 +21,7 @@
 		- [ ] how are human beings alienated from their potential? and what marx suggest to change this?
 		- [ ] critically assess alienation
 		- [ ] critically explain salient features of alienation. (2024) = *i.e. criticism for each point of explanation lagega har thinker ke liye* 
-	- **Class Stuggle**
+	- **Class Struggle**
 		- [ ] 
 - **static concepts other than pyqs**
 	- [ ] 
