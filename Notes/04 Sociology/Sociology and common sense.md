@@ -2,7 +2,7 @@
 
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
-- [ ] lecture - vishal shah
+- [ ] lecture - vishal shah 
 #### Topics To-do: 
 - **pyq themes**
 	- support 
