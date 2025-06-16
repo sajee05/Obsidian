@@ -5,9 +5,12 @@
 - [ ] lecture - vishal shah
 #### Topics To-do: 
 - **pyq themes**
-	- 
-		- [ ] 
-	- 
+	- **Scope of the Subject**
+		- [ ] what can socio show about our actions? - discuss practical significance of sociology.
+		- [ ] Due to globalisation → scope of socio changing in India - comment.
+		- [ ] Delimit (define the boundary) the scope of Sociology in relation to other social sciences.
+		- [ ] how *dramaturgical* perspective enable our understanding of everyday life?
+	- **comparison w other social sciences**
 		- [ ] 
 	-  
 		- [ ] 
