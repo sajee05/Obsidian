@@ -20,7 +20,9 @@
 		- [ ] Sometimes workers do not feel attachment for their work. Marx formed a theory for this situation, discuss that theory. (2012-20M)
 		- [ ] how are human beings alienated from their potential? and what marx suggest to change this?
 		- [ ] critically assess alienation
-		- [ ] critically explain salient features of alienation. (2024) 
+		- [ ] critically explain salient features of alienation. (2024) = *i.e. criticism for each point of explanation lagega har thinker ke liye* 
+	- **Class Stuggle**
+		- [ ] 
 - **static concepts other than pyqs**
 	- [ ] 
 - **topper answer keywords**
