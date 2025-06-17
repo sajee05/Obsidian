@@ -89,6 +89,7 @@
 	- alienation = divorced from fruit of their labour.
 	- ![[image-88.png]]
 	- commodity fetishism
+	- colonial exploitation of forests ⇒ leads to alienation ⇒ loss of culture, livelihood, sustenance
 	- 
 
 
