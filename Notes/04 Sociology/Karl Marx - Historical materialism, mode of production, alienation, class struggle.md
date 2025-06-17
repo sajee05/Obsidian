@@ -63,6 +63,8 @@
 	- ![[image-73.png]]
 	- ![[image-74.png]]
 	- man = prime mover of history 
+	- mop critic and concl. ![[image-75.png]]
+	- 
 
 ---
 ## **Historical Materialism**
