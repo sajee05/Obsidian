@@ -71,6 +71,7 @@
 	- ![[image-81.png]]
 	- Reification
 	- GOLD THORPE = worker accepts alienation in return of good wages.
+	- marx - influenced by philosophy of "praxis" did xyz
 	- 
 
 
