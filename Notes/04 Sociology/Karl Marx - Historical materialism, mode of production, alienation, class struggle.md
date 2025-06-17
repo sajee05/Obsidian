@@ -96,6 +96,8 @@
 	- DOL = Trapped people = cant take other jobs, since they are "specialists"
 	- Historical materialism → role of class struggle. ![[image-92.png]]
 	- ![[image-93.png]]
+	- marx → class = group of people sharing same position in production process. this position is defined on the basis of "ownership" of means of production
+	- 
 	- 
 
 ---
