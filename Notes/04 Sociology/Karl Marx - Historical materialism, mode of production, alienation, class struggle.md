@@ -88,6 +88,7 @@
 	- BLAUNER = Sociology is relative - depending upon the industry. (eg: low in textile industry, high in mass manufacturing plant/car factory)
 	- alienation = divorced from fruit of their labour.
 	- ![[image-88.png]]
+	- commodity fetishism
 	- 
 
 
