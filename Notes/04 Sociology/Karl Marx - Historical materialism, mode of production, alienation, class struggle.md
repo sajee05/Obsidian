@@ -50,6 +50,8 @@
 	- monopolization
 	- preoletarization
 	-  alienation example: startup culture = countering alienation depicting value of freedom.
+	- loss cutting (recovering losses) -> reducing working class to lumpen proletariat ![[image-64.png]] 
+	- lumpen proletariat = unemployed proletariat - beggars etc. ![[image-65.png]]
 	- 
 
 ---
