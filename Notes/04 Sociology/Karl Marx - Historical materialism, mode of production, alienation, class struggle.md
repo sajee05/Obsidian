@@ -47,6 +47,9 @@
 	- Conclusion: ![[image-61.png]] **marks is called father of socialist revolution** NOT CAPITALIST.
 	-  ![[image-62.png]]
 	- intro: ![[image-63.png]]
+	- monopolization
+	- preoletarization
+	-  alienation example: startup culture = countering alienation depicting value of freedom.
 	- 
 
 ---
