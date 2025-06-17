@@ -1520,8 +1520,8 @@
 *   **NDPFC** + (Indirect Taxes - Subsidy) -> **NDPMP**
 *   **NDPMP** + Depreciation -> **GDP**
 *   **GDP** + NFIA -> **GNP** (Gross National Income)
-*   **GNP** - Depreciation -> **NNPMP** (National Income or Net National Income)
-*   **NNPMP** - (Indirect Taxes - Subsidy) -> **NNPFC**
+*   **GNP** - Depreciation -> **NNPMP** 
+*   **NNPMP** - (Indirect Taxes - Subsidy) -> **NNPFC** (National Income or Net National Income)
 
 *Formulas:*
 Gross Domestic Product (GDP) + NFIA = Gross National Product (GNP)
