@@ -80,7 +80,10 @@
 	- marx = alienation in industrial capitalist mode of production only. BUT CW MILLS = service based economy also- ![[image-84.png]]
 	- labour is only needed to man the machine. → mechanisation = AI. = alienation.
 	- alienation = breeding ground for innovation (karl popper) ex: ms dhoni felt alienated in his railway job and became a cricketer.
-	- 
+	- alienation → as a result of mechanisation but exception: coding enthusiasts, ai enthusiasts. 
+	- MANDELL = exploitative and competitive capitalism → collaborative and welfare capitalism = reducing alienation
+	- Modern phenomena ⇒ trade unions leading to labour monopoly ⇒ industries cant survive without appeasing the labour class.
+	- ![[image-85.png]]
 
 
 ---
