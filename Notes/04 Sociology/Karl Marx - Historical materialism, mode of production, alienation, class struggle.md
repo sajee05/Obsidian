@@ -37,7 +37,10 @@
 	- [ ] fetishism of commodities 
 - **topper answer keywords**
 	- ideological state apparatus
-	- 
+	- ![[image-58.png]]
+	- ![[image-59.png]]
+	- Nationalism = class struggle btw working class and britishers (AR DESAI)
+	- sri lanka / bangladesh protest = break down old class structure
 
 ---
 ## **Historical Materialism**
