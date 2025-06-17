@@ -44,7 +44,8 @@
 	- covid 19 = millions died few made profits (capitalis pharma companies)
 	- rise of techonology = alienation of workers, dehumanisation. (CW. MILLS = commodifaction of personality)
 	- ![[image-60.png]]
-	- 
+	- Conclusion: ![[image-61.png]] **marks is called father of socialist revolution** NOT CAPITALIST.
+	-  
 
 ---
 ## **Historical Materialism**
