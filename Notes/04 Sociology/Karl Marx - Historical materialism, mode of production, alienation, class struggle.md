@@ -62,7 +62,7 @@
 	- ![[image-72.png]]
 	- ![[image-73.png]]
 	- ![[image-74.png]]
-	- man = prime mover of history 
+	- man = prime mover of history → this realisation will come once alienation is removed.
 	- mop critic and concl. ![[image-75.png]]
 	- dialectial materialism = ideas are cosmic things = outside of individual mind (hegel)
 	- describe what you drew like this: ![[image-76.png]]
