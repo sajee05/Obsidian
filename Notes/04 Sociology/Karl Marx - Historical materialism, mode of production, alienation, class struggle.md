@@ -84,6 +84,7 @@
 	- MANDELL = exploitative and competitive capitalism → collaborative and welfare capitalism = reducing alienation
 	- Modern phenomena ⇒ trade unions leading to labour monopoly ⇒ industries cant survive without appeasing the labour class.
 	- ![[image-85.png]]
+	- ![[image-87.png]]
 
 
 ---
