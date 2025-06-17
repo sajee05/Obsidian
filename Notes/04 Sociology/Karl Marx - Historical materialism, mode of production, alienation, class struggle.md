@@ -78,7 +78,7 @@
 	- MARCUSE : capitalists also suffers from alienation (Critic of marx)
 	- ![[image-83.png]]
 	- marx = alienation in industrial capitalist mode of production only. BUT CW MILLS = service based economy also- ![[image-84.png]]
-	- 
+	- labour is only needed to man the machine. → mechanisation = AI. = alienation.
 
 
 ---
