@@ -42,7 +42,7 @@
 	- Nationalism = class struggle btw working class and britishers (AR DESAI) = cause of nationalism -> economic struggle. 
 	- sri lanka protest = break down old class structure
 	- covid 19 = millions died few made profits (capitalis pharma companies - rich consolidating wealth in stocks) - class polarization 
-	- rise of techonology = alienation of workers, dehumanisation. (CW. MILLS = commodifaction of personality)
+	- rise of techonology = alienation of workers, dehumanisation. (CW. MILLS = commodifaction of personality) • Mills used terms like "selling personality" and "commercialization of human feeling" - in his magnus opus - "WHITE COLLAR (1951)"
 	- ![[image-60.png]]
 	- Conclusion: ![[image-61.png]] **marks is called father of socialist revolution** NOT CAPITALIST.
 	-  ![[image-62.png]]
