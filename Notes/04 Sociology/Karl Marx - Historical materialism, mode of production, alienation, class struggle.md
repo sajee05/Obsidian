@@ -55,7 +55,8 @@
 	- ![[image-66.png]]
 	- Middle class shares surplus value with boudgeoisie by virtue of Managerial capitalism (Erik Wright)
 	- Anthony giddens = new middle class → class of technocrats who have skills to earn money.
-	- 
+	- alienation from species being![[image-67.png]]
+	- ![[image-69.png]]
 
 ---
 ## **Historical Materialism**
