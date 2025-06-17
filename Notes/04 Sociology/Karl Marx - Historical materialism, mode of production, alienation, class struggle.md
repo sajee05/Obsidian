@@ -41,7 +41,7 @@
 	- ![[image-59.png]]
 	- Nationalism = class struggle btw working class and britishers (AR DESAI) = cause of nationalism -> economic struggle. 
 	- sri lanka protest = break down old class structure
-	- covid 19 = millions died few made profits (capitalis pharma companies)
+	- covid 19 = millions died few made profits (capitalis pharma companies - rich consolidating wealth in stocks) - class polarization 
 	- rise of techonology = alienation of workers, dehumanisation. (CW. MILLS = commodifaction of personality)
 	- ![[image-60.png]]
 	- Conclusion: ![[image-61.png]] **marks is called father of socialist revolution** NOT CAPITALIST.
@@ -52,6 +52,7 @@
 	-  alienation example: startup culture = countering alienation depicting value of freedom.
 	- loss cutting (recovering losses) -> reducing working class to lumpen proletariat ![[image-64.png]] 
 	- lumpen proletariat = unemployed proletariat - beggars etc. ![[image-65.png]]
+	- ![[image-66.png]]
 	- 
 
 ---
