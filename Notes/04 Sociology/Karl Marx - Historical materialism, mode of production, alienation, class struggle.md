@@ -102,6 +102,7 @@
 	- ![[image-95.png]]
 	- indian national movement ⇒ gained momentum after dadabhai naoroji's economic criticism which clearly indicated and widespread colonial exploitation similar to true class consciousness or class for itself as marx proposed.
 	- american revolution fueled when americans became aware of their second class citizens in england.
+	- homogenisation of workers.
 	- 
 
 ---
