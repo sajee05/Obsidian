@@ -94,8 +94,9 @@
 	- ![[image-90.png]]
 	- marx vs weber on capitalism [localhost:8080/open_pdf?file=C%3A%5CUsers%5CFO%5CDesktop%5CMaster Database%5CTopper Copies%5CSociology%5CSocio Answer Copies till 2023 Mains%5Csocio%5CSocio Test 1 Checked%23.pdf&page=30&term=Alienation](http://localhost:8080/open_pdf?file=C%3A%5CUsers%5CFO%5CDesktop%5CMaster%20Database%5CTopper%20Copies%5CSociology%5CSocio%20Answer%20Copies%20till%202023%20Mains%5Csocio%5CSocio%20Test%201%20Checked%23.pdf&page=30&term=Alienation)
 	- DOL = Trapped people = cant take other jobs, since they are "specialists"
+	- Historical materialism → role of class struggle. ![[image-92.png]]
+	- ![[image-93.png]]
 	- 
-
 
 ---
 ## **Historical Materialism**
