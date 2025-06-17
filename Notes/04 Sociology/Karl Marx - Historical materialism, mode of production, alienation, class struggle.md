@@ -99,6 +99,9 @@
 	- marx → class = group of people sharing same position in production process. this position is defined on the basis of "ownership" of means of production
 	- labour laws and labour unions = true class consciousness or class for itself
 	- class stuggle conclusion ![[image-94.png]]
+	- ![[image-95.png]]
+	- indian national movement ⇒ gained momentum after dadabhai naoroji's economic criticism which clearly indicated and widespread colonial exploitation similar to true class consciousness or class for itself as marx proposed.
+	- american revolution fueled when americans became aware of their second class citizens in england.
 	- 
 
 ---
