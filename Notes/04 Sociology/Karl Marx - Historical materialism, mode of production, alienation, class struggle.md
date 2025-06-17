@@ -85,6 +85,8 @@
 	- Modern phenomena ⇒ trade unions leading to labour monopoly ⇒ industries cant survive without appeasing the labour class.
 	- ![[image-85.png]]
 	- ![[image-87.png]]
+	- BLAUNER = Sociology is relative - depending upon the industry. (eg: low in textile industry, high in mass manufacturing plant)
+	- 
 
 
 ---
