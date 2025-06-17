@@ -1,3 +1,4 @@
+![[image-78.png]]
 ## mistakes
 ### Intro
 - generic ahh intro ❌= Use definition approach ✅ by thinkers/ books/ etc = sociological impression. (also noted by AIR 44 Mudita bansal)
