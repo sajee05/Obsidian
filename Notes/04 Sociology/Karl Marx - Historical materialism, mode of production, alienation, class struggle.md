@@ -40,7 +40,11 @@
 	- ![[image-58.png]]
 	- ![[image-59.png]]
 	- Nationalism = class struggle btw working class and britishers (AR DESAI)
-	- sri lanka / bangladesh protest = break down old class structure
+	- sri lanka protest = break down old class structure
+	- covid 19 = millions died few made profits (capitalis pharma companies)
+	- rise of techonology = alienation of workers, dehumanisation. (CW. MILLS = commodifaction of personality)
+	- ![[image-60.png]]
+	- 
 
 ---
 ## **Historical Materialism**
