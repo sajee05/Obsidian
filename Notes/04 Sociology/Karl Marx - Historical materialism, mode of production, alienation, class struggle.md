@@ -65,6 +65,7 @@
 	- man = prime mover of history 
 	- mop critic and concl. ![[image-75.png]]
 	- dialectial materialism = ideas are cosmic things = outside of individual mind (hegel)
+	- describe what you drew like this: ![[image-76.png]]
 	- 
 
 
