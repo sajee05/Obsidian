@@ -66,6 +66,8 @@
 	- mop critic and concl. ![[image-75.png]]
 	- dialectial materialism = ideas are cosmic things = outside of individual mind (hegel)
 	- describe what you drew like this: ![[image-76.png]]
+	- ![[image-79.png]]
+	- presentation is good, content is wrong:![[image-80.png]]
 	- 
 
 
