@@ -7,4 +7,3 @@
 - jagrati awasthi
 - neha bhosle
 - Gunjita agawal
-- 
