@@ -73,6 +73,7 @@
 	- GOLD THORPE = worker accepts alienation in return of good wages.
 	- marx - influenced by philosophy of "praxis" did xyz
 	- ![[image-82.png]]
+	- ⭐ Anomie vs Alienation [VisionIAS Toppers Answer Booklet Yaksh Chaudhary_1718716010.pdf (Page 23)](http://localhost:8080/open_pdf?file=C%3A%5CUsers%5CFO%5CDesktop%5CMaster%20Database%5CTopper%20Copies%5CSociology%5CSocio%20Answer%20Copies%20till%202023%20Mains%5CYaksh%20Chaudhary%20-%20Rank%20-%206%5Cyaksh%20chaudhary%5CVisionIAS%20Toppers%20Answer%20Booklet%20Yaksh%20Chaudhary_1718716010.pdf&page=23&term=Alienation)
 	- 
 
 
