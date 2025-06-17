@@ -69,6 +69,8 @@
 	- ![[image-79.png]]
 	- presentation is good, content is wrong:![[image-80.png]]
 	- ![[image-81.png]]
+	- Reification
+	- GOLD THORPE = worker accepts alienation in return of good wages.
 	- 
 
 
