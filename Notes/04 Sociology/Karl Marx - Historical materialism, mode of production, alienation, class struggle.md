@@ -61,7 +61,8 @@
 	- ![[image-71.png]]
 	- ![[image-72.png]]
 	- ![[image-73.png]]
-	- 
+	- ![[image-74.png]]
+	- man = prime mover of history 
 
 ---
 ## **Historical Materialism**
