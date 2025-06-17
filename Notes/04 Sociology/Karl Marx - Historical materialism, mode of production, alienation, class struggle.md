@@ -68,6 +68,7 @@
 	- describe what you drew like this: ![[image-76.png]]
 	- ![[image-79.png]]
 	- presentation is good, content is wrong:![[image-80.png]]
+	- ![[image-81.png]]
 	- 
 
 
