@@ -57,6 +57,8 @@
 	- Anthony giddens = new middle class → class of technocrats who have skills to earn money.
 	- alienation from species being![[image-67.png]]
 	- ![[image-69.png]]
+	- ![[image-70.png]]
+	- ![[image-71.png]]
 
 ---
 ## **Historical Materialism**
