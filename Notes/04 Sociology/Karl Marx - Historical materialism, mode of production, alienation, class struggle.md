@@ -53,6 +53,8 @@
 	- loss cutting (recovering losses) -> reducing working class to lumpen proletariat ![[image-64.png]] 
 	- lumpen proletariat = unemployed proletariat - beggars etc. ![[image-65.png]]
 	- ![[image-66.png]]
+	- Middle class shares surplus value with boudgeoisie by virtue of Managerial capitalism (Eric Wright)
+	- Anthony giddens = new middle class → class of technocrats who have skills to earn money.
 	- 
 
 ---
