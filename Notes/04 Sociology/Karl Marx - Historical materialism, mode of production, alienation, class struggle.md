@@ -59,6 +59,7 @@
 	- ![[image-69.png]]
 	- ![[image-70.png]]
 	- ![[image-71.png]]
+	- ![[image-72.png]]
 
 ---
 ## **Historical Materialism**
