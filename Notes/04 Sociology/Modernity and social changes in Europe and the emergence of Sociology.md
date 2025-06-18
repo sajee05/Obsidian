@@ -39,6 +39,8 @@ tags: []
 	- Priestly class
 	- modernity intro ![[image-96.png]]
 	- transition in quick. what is modernity (intro) → tho modernity was a solution to traditional dogmas and beliefs, it has some downside - abc (diagram) → then conservatives - counter-enlightenment thinkers mention in 3 lines. 
+	- modernity as a reaction to enlightenment = ![[image-97.png]]
+	- aftermath of modernity and emergence of sociology summed up in a diagram ![[image-98.png]]
 	- 
 
 ---
