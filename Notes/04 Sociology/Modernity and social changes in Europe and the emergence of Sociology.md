@@ -58,6 +58,7 @@ tags: []
 		- ![[image-116.png]]
 		- ![[image-117.png]]
 		- definition of revolution needed.
+		- ![[image-118.png]]
 		- 
 ---
 ## Topic 1
