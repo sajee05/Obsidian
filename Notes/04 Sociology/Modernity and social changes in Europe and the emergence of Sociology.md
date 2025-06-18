@@ -55,6 +55,7 @@ tags: []
 		- Renaissance = spirit of humanism → philosphers by their work, brought it forward.
 		- ![[image-114.png]]
 		- FR conclusion ![[image-115.png]]
+		- ![[image-116.png]]
 		- 
 ---
 ## Topic 1
