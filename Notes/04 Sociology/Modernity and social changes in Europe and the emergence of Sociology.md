@@ -57,6 +57,7 @@ tags: []
 		- FR conclusion ![[image-115.png]]
 		- ![[image-116.png]]
 		- ![[image-117.png]]
+		- definition of revolution needed.
 		- 
 ---
 ## Topic 1
