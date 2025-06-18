@@ -54,6 +54,7 @@ tags: []
 		-  definition of modernity - clarifying false common sensical understanding![[image-113.png]]
 		- Renaissance = spirit of humanism → philosphers by their work, brought it forward.
 		- ![[image-114.png]]
+		- FR conclusion ![[image-115.png]]
 		- 
 ---
 ## Topic 1
