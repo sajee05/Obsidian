@@ -56,6 +56,7 @@ tags: []
 		- ![[image-114.png]]
 		- FR conclusion ![[image-115.png]]
 		- ![[image-116.png]]
+		- ![[image-117.png]]
 		- 
 ---
 ## Topic 1
