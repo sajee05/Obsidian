@@ -45,6 +45,9 @@ tags: []
 	- Historical antecedents with the help of thinker:
 		- 
 
+***
+**NOTE:** The name transcribed as "Jane Addams" is written as it appears in the image, though its historical context might be questionable. The word transcribed as "providing" is based on the best interpretation of the handwriting.
+
 ---
 ## Topic 1
 ### Subtopic
