@@ -53,6 +53,7 @@ tags: []
 			- ![[image-112.png]] Sociology ⇒ MULTIPARADIGMATIC Science (Multiple perspectives and methodologies) - good conclusion
 		-  definition of modernity - clarifying false common sensical understanding![[image-113.png]]
 		- Renaissance = spirit of humanism → philosphers by their work, brought it forward.
+		- ![[image-114.png]]
 		- 
 ---
 ## Topic 1
