@@ -36,6 +36,8 @@ tags: []
 	- [ ] IR
 - **topper answer keywords**
 	- Institutionalization of private property.
+	- Priestly class
+	- 
 
 ---
 ## Topic 1
