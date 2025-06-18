@@ -47,7 +47,10 @@ tags: []
 			- ![[image-104.png]]![[image-105.png]]
 		- key sociological thinkers in the emergence of sociology = transformative forces in europe + modernity 
 			- ![[image-106.png]] ![[image-107.png]]
-		- Impact of modernity on the sociology:![[image-108.png]]
+		- Impact of modernity on the sociology:
+			- ![[image-108.png]]
+			- ![[image-109.png]]![[image-110.png]]
+			- 
 ---
 ## Topic 1
 ### Subtopic
