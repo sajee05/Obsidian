@@ -43,8 +43,11 @@ tags: []
 	- aftermath of modernity and emergence of sociology summed up in a diagram ![[image-98.png]]
 	- ![[image-99.png]] NISBET = sociology -> "Child of Enlightenment"
 	- Historical antecedents with the help of thinker
-		- 
-		- 
+		- Historical antecedents to the emergence of sociology
+			- ![[image-104.png]]![[image-105.png]]
+		- key sociological thinkers in the emergence of sociology = transformative forces in europe + modernity 
+			- ![[image-106.png]] ![[image-107.png]]
+		- Impact of modernity on the sociology:![[image-108.png]]
 ---
 ## Topic 1
 ### Subtopic
