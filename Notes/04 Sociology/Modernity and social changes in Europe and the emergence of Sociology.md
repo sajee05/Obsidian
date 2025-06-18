@@ -51,7 +51,8 @@ tags: []
 			- ![[image-108.png]]
 			- ![[image-109.png]]![[image-110.png]]
 			- ![[image-112.png]] Sociology ⇒ MULTIPARADIGMATIC Science (Multiple perspectives and methodologies) - good conclusion
-		-  
+		-  definition of modernity - clarifying false common sensical understanding![[image-113.png]]
+		- 
 ---
 ## Topic 1
 ### Subtopic
