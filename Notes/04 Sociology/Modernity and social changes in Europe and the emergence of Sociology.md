@@ -59,6 +59,7 @@ tags: []
 		- ![[image-117.png]]
 		- definition of revolution needed.
 		- ![[image-118.png]]
+		- role of counter enlightenment ![[image-119.png]]
 		- 
 ---
 ## Topic 1
