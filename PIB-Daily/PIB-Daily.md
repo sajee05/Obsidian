@@ -411,6 +411,10 @@ columns:
       - { label: "Telecommunication Networks", value: "Telecommunication Networks", color: "hsl(132, 95%, 90%)"}
       - { label: "International Telecommunication Union (ITU)", value: "International Telecommunication Union (ITU)", color: "hsl(199, 95%, 90%)"}
       - { label: "Digital Transformation", value: "Digital Transformation", color: "hsl(260, 95%, 90%)"}
+      - { label: "Military exercises", value: "Military exercises", color: "hsl(81, 95%, 90%)"}
+      - { label: "India's foreign policy", value: "India's foreign policy", color: "hsl(60, 95%, 90%)"}
+      - { label: "Citizen-centric administration", value: "Citizen-centric administration", color: "hsl(347, 95%, 90%)"}
+      - { label: "Role of ICT in governance", value: "Role of ICT in governance", color: "hsl(315, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
