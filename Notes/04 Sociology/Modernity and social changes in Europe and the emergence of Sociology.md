@@ -35,7 +35,7 @@ tags: []
 	- [ ] french revolnt
 	- [ ] IR
 - **topper answer keywords**
-	- 
+	- Institutionalization of private property.
 
 ---
 ## Topic 1
