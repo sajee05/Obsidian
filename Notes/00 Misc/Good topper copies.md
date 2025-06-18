@@ -7,3 +7,6 @@
 - jagrati awasthi
 - neha bhosle
 - Gunjita agawal
+- Harshita Goyal
+- Shah Margi
+- Animesh Pardhan
