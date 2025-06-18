@@ -51,7 +51,7 @@ tags: []
 			- ![[image-108.png]]
 			- ![[image-109.png]]![[image-110.png]]
 			- ![[image-112.png]] Sociology ⇒ MULTIPARADIGMATIC Science (Multiple perspectives and methodologies) - good conclusion
-			-  
+		-  
 ---
 ## Topic 1
 ### Subtopic
