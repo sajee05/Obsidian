@@ -37,6 +37,7 @@ tags: []
 - **topper answer keywords**
 	- Institutionalization of private property.
 	- Priestly class
+	- modernity intro ![[image-96.png]]
 	- 
 
 ---
