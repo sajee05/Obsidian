@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - anki
 ---
 * 2025-06-16
 
@@ -113,8 +114,6 @@ tags: []
 ## **Historical Materialism**
 
 ### salient features
-test
-![[image-120.png]]
 ### historical materialism as a critique of hegelian dialectics (20 marks)
 ### what is fetishism of commodities 
 ### historical materialism's relevance in understanding contemporary societies.
