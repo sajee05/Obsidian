@@ -1,0 +1,75 @@
+{
+  "id": "eda856b7-6c66-4f08-a9fb-698334ffa82a",
+  "title": ".",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": ".",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n.\n\n"
+        }
+      ],
+      "id": "563ed7ef-b14c-4466-ab24-97dbcfce7a56",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Notes/04 Sociology/Lecture Notes/PA Lecture 10.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\nQ1: What is functionalism in simple words?\n>! Functionalism is about how different parts of society help keep the whole society working well. !<\n\nQ2: What is one problem critics point out about functionalism?\n>! Critics say functionalism ignores fighting and chaos in society, or that it assumes everyone agrees on values. !<\n\nQ3: Which book did Durkheim write to explain his theory of religion?\n>! He wrote the book \"The Elementary Forms of Religious Life\". !<\n\nQ4: How did Durkheim define religion?\n>! Durkheim defined religion as a system of beliefs and practices about sacred things. !<\n\nQ5: What are \"sacred things\" according to Durkheim? Give one example.\n>! Sacred things are special things that are set apart and considered forbidden to touch casually, like a holy book or a sacred river. !<\n\nQ6: What are \"profane things\" according to Durkheim? Give one example.\n>! Profane things are ordinary, everyday things, like tap water or a normal stone. !<\n\nQ7: What is one way sacred things are kept separate from profane things?\n>! Sacred things are protected by strict rules or taboos, so profane things cannot touch them easily. !<\n\nQ8: Does something have to be useful to be sacred? Why?\n>! No, usefulness does not make something sacred. Even a simple stone can be sacred if people believe it is special. !<\n\nQ9: Can something that is profane become sacred? How?\n>! Yes, things can become sacred from profane through special rituals or ceremonies. !<\n\nQ10: Which primitive tribe in Australia did Durkheim study to understand religion?\n>! He studied the Arunta tribe. !<\n\nQ11: What is a totem in the Arunta tribe?\n>! A totem is a plant or animal symbol that represents a clan (a group within the tribe). !<\n\nQ12: What did the Arunta people carve their totems on, besides flags?\n>! They carved them on a sacred object called a churunga. !<\n\nQ13: What did Durkheim conclude about what people are truly worshipping when they worship their totem?\n>! Durkheim concluded they are worshipping their own clan or society. !<\n\nQ14: What did Durkheim mean by saying \"God is society divinized\"?\n>! He meant that the idea of God is really the idea of society made holy or divine. !<\n\nQ15: How does religion help people know what is right and wrong?\n>! Religion provides people with a shared sense of morality and ideas about good and bad conduct. !<\n\nQ16: How does religion help society maintain control over people?\n>! Religion gives strict rules and taboos, and religious punishments are often seen as stronger than legal ones. !<\n\nQ17: Durkheim said the relationship between a person and God is similar to the relationship between a person and what else?\n>! It is similar to the relationship between a person and society. !<\n\nQ18: How can religion help people feel strong during sad times, like when someone dies?\n>! Religion can offer ideas like afterlife or soul, and people come together in rituals to support each other. !<\n\nQ19: What is \"collective effervescence\"? Give an example.\n>! Collective effervescence is a strong feeling of energy and excitement that happens when people come together in rituals with singing, chanting, or dancing, like chanting \"Jai Mata Di\" together. !<\n\nQ20: What is the main way religion helps society stay together?\n>! Religion creates social solidarity and helps unite members into a single moral community. !<\n\nQ21: What process seemed to be happening to religion in Durkheim's time in Europe?\n>! The process of secularization was happening, where religion seemed to be declining. !<\n\nQ22: Did Durkheim believe religion was dying out in modern society? What did he think was happening instead?\n>! No, he thought the old sacred things were being replaced by new sacred things. !<\n\nQ23: What are two examples of \"new sacreds\" in modern society according to Durkheim?\n>! Examples include the national flag, national anthem, or the constitution. !<\n\nQ24: Why are new sacred symbols needed in modern society?\n>! Modern society has many different kinds of people and religions, so they need new shared symbols to bring them together. !<\n\nQ25: What is a major criticism of Durkheim's theory of religion regarding fighting?\n>! Critics say he ignores the violence and conflict that religion can cause throughout history, like wars and riots. !<\n\nQ26: How did critics describe Durkheim's method of studying the Arunta tribe?\n>! They called him an \"armchair sociologist\" because he didn't visit the tribe himself but read about them from others' writings. !<\n\nQ27: Give an example from daily life that shows the sacred and profane are not always completely separate.\n>! Examples include notebooks (related to knowledge/Vidya but used daily) or money (related to Lakshmi Mata but used casually). !<\n\nQ28: Why do some people say Durkheim's theory is not good enough to explain big, complex religions like Hinduism or Islam?\n>! They say it was based on a simple tribal religion and doesn't fully explain the many different ideas, books, and groups in large world religions. !<\n\nQ29: How can religion be a source of unfairness or bad practices, according to critics? Give an example.\n>! Critics say religion has sometimes supported bad practices like Sati, child marriage, or untouchability. !<\n\nQ30: What do critics say about how religion treats women?\n>! Critics say most major religions are patriarchal and have rules or traditions that harm women. !<\n\nQ31: What is the name of Durkheim's first major book about how society works?\n>! It is called \"Division of Labor in Society\". !<\n\nQ32: What does \"division of labor\" mean in a simple way?\n>! It means breaking down a job or activity into smaller parts, with different people doing each part. !<\n\nQ33: How did economists like Adam Smith mostly see the division of labor?\n>! They saw it as a way to make production faster and more efficient. !<\n\nQ34: How was Durkheim's view of the division of labor different from the economists' view?\n>! Durkheim saw division of labor as benefiting the whole society in many ways, not just making more things. !<\n\nQ35: What big question did Durkheim try to answer about modern society in his book on division of labor?\n>! He wanted to know how modern society stays together when people are more focused on themselves (individualism) rather than the group. !<\n\nQ36: How did traditional society differ from modern society in how people thought about themselves and the group?\n>! Traditional society had a collective orientation (group focus), while modern society has heightened individualism (self focus). !<\n\nQ37: Why does Durkheim believe religion helps create a shared sense of morality?\n>! He thinks religion provides common ideas and examples of what is considered good or bad behaviour for everyone in the society. !<\n\nQ38: How does the energy from collective effervescence help connect people in a group?\n>! The shared experience and energy during collective rituals strengthen the feelings of belonging and connection between people and their community. !<\n\nQ39: What might happen to a society if people stopped believing in anything sacred or having shared sacred symbols?\n>! Durkheim might say the society could lose its sense of unity and shared identity, making it harder to hold together. !<\n\nQ40: How does the idea of sacred things relate to rules and prohibitions in society?\n>! Things defined as sacred are protected by strong rules and taboos; breaking these rules is often seen as very serious. !<\n\nQ41: Think about something in your school or family that is treated with special respect or has rules around it, making it seem almost \"sacred\" in a small way. Give an example.\n>! (Example: A national flag hoisted in the school assembly; a special family heirloom that must be handled carefully) !<\n\nQ42: Why do some critics say Durkheim's focus on the positive functions of religion is one-sided?\n>! They say he focuses too much on how religion unites people and ignores the ways it has caused terrible conflicts, violence, and oppression throughout history. !<\n\nQ43: How does the division of labor help people in modern society depend on each other?\n>! When people specialize in different tasks, they need others who specialize in different tasks to meet their needs, which creates interdependence and helps hold society together. !<\n\nQ44: Imagine your school had no division of labor, and one teacher had to teach all subjects, clean the school, manage the library, and cook the food. What problems might happen?\n>! The school would likely be very inefficient; subjects might not be taught well, and tasks would be missed or done poorly because one person cannot do everything effectively. !<\n\nQ45: Why is it important for a society to have moments or events where everyone comes together, like religious festivals or national holidays?\n>! Coming together helps create a sense of shared identity and belonging, strengthens the bonds between people, and reminds them they are part of a larger community. !<\n\n✓ Topic coverage check: All aspects covered including functionalism recap, Durkheim's religion theory (definition, sacred/profane, Arunta study, conclusion, functions, modern society view), criticisms of religion theory, division of labor intro (concept, comparison to economics, central question), and various question types including why, how, compare, what if, and examples.\n</smtcmp_block>",
+      "id": "6540ca1a-589f-46ef-a52a-fd65ca4781c4",
+      "metadata": {
+        "model": {
+          "providerId": "gemini",
+          "providerType": "gemini",
+          "id": "gemini-2.5-flash-preview-04-17",
+          "model": "gemini-2.5-flash-preview-04-17",
+          "promptLevel": 1
+        },
+        "usage": {
+          "prompt_tokens": 5785,
+          "completion_tokens": 2173,
+          "total_tokens": 10020
+        }
+      }
+    }
+  ],
+  "createdAt": 1750361858477,
+  "updatedAt": 1750361881514,
+  "schemaVersion": 1
+}

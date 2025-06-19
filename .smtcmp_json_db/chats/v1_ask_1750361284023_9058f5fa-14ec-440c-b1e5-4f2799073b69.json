@@ -1,0 +1,75 @@
+{
+  "id": "9058f5fa-14ec-440c-b1e5-4f2799073b69",
+  "title": "ask",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "ask",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nask\n\n"
+        }
+      ],
+      "id": "07fe919b-c35b-435e-b004-6ff038153bd7",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Notes/04 Sociology/Lecture Notes/PA Lecture 10.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n**Questions:**\n\n1.  Define 'functionalism' as presented in the text.\n\n2.  List the major criticisms of functionalism discussed in the text.\n\n3.  What is the title of DURKHEIM's primary work on the theory of religion?\n\n4.  How does DURKHEIM define religion in his primary work?\n\n5.  Explain the distinction between 'sacred' and 'profane' according to DURKHEIM, providing examples from the text.\n\n6.  Describe the relationship between sacred and profane things, highlighting the principles mentioned by DURKHEIM.\n\n7.  What is the significance of 'utility' in determining whether something is sacred or profane?\n\n8.  How can things transition between being sacred and profane, and under what conditions?\n\n9.  Which tribe did DURKHEIM study to develop his theory of religion, and where are they from?\n\n10. Describe the social structure and organization of the ARUNTA tribe as mentioned.\n\n11. Define 'exogamy' and 'endogamy' and provide an example of their application in Indian society based on the text.\n\n12. Explain the concept of 'totemism' among the ARUNTA tribe. What is a totem and what object was specifically considered sacred in relation to the totem?\n\n13. State DURKHEIM's key conclusion about the essence of religion based on his study of the ARUNTA tribe.\n\n14. What is DURKHEIM's view on the relationship between God and society?\n\n15. List the six main functions of religion identified by DURKHEIM in the text.\n\n16. How does religion contribute to providing a shared sense of morality? Provide the example used in the text.\n\n17. Explain how religion acts as a mechanism for social control, contrasting religious sanctions with legal sanctions.\n\n18. Describe the relationship between man and God as perceived by DURKHEIM, and how it mirrors the relationship between man and society. What function does this relationship serve?\n\n19. How does religion provide strength during difficult times, particularly during tragic events like death? What mechanisms does it employ?\n\n20. Define 'collective effervescence' and explain how it is produced during religious rituals and its effect on individuals and the community. Give examples from the text.\n\n21. What is considered the primary function of religion by DURKHEIM?\n\n22. In what historical context was DURKHEIM writing about religion, and what apparent process was occurring in European society at that time?\n\n23. According to DURKHEIM, had religion disappeared in modern society? Explain his interpretation.\n\n24. What are the 'new sacreds' that DURKHEIM identifies in modern society? Provide examples.\n\n25. Why does DURKHEIM believe modern, heterogeneous societies need new sacreds?\n\n26. What term does DURKHEIM use to describe the form religion takes in modern society?\n\n27. List the major criticisms of DURKHEIM's theory of religion presented in the text.\n\n28. How does the text criticize DURKHEIM for ignoring conflict and violence in religion? Provide historical examples mentioned.\n\n29. What methodological criticisms are leveled against DURKHEIM's study of the ARUNTA tribe?\n\n30. Explain the criticism regarding DURKHEIM's sacred-profane dichotomy, providing examples of things that don't fit neatly into these categories.\n\n31. What limitation is suggested regarding the applicability of DURKHEIM's theory of religion?\n\n32. How is religion criticized for being a source of immorality and legitimizing oppression? Provide examples and mention who made this critique according to the text.\n\n33. Explain the feminist criticism of religion as discussed in the text, providing examples from different religions. Mention the scholars mentioned in this context.\n\n34. What specific issue is raised regarding the unity of the ARUNTA tribe that might challenge DURKHEIM's focus on the totem?\n\n35. What is the title of DURKHEIM's first major work (his PhD thesis)?\n\n36. Define 'division of labor' according to the text.\n\n37. Compare the economic perspective (e.g., ADAM SMITH) on division of labor with DURKHEIM's sociological approach.\n\n38. What is the central question that DURKHEIM addresses regarding the division of labor in modern society?\n\n39. Characterize traditional society versus modern society based on the concepts of collectivism and individualism as described in the text.\n\n✓ Topic coverage check: All major aspects covered including functionalism recap, religion theory (definition, sacred/profane, Arunta, totemism, conclusion), functions, modern religion, criticisms, and introduction to division of labor (definition, perspectives, central question, societal comparison).\n\n**Answers:**\n\n1.  Functionalism is defined as the contribution that a social institution makes to the maintenance and well being of the whole society.\n\n2.  Major criticisms include assuming a value consensus that may not exist, ignoring conflict and chaos, justifying the status quo, equating causes with functions (tautological explanations), and ignoring individual agency.\n\n3.  His primary work on the theory of religion is \"The Elementary Forms of Religious Life\".\n\n4.  DURKHEIM defines religion as a unified system of beliefs and practices related to sacred things.\n\n5.  Sacred things are set apart and forbidden (e.g., Holy Bible, Ganga, cows), while profane things are ordinary, everyday things (e.g., tap water, donkey, everyday objects).\n\n6.  The sacred is always separated and set apart from all other objects. The sacred is that which the profane cannot touch with impunity, protected by strong prohibitions and taboos. Detailed rules govern interaction with the sacred.\n\n7.  Utility is not what makes a thing sacred. Anything can be sacred, and the profane may often be far more useful than the sacred.\n\n8.  Things can make a passage from the profane to the sacred and vice versa through rituals. The same thing can be regarded as sacred in one context and profane in another (e.g., laddus, Bhagawa rang).\n\n9.  DURKHEIM studied the ARUNTA tribe, who are aborigines (original inhabitants) of Australia.\n\n10. The ARUNTA tribe is small-sized, simple, and primitive, divided into exogamous clans.\n\n11. Exogamy means marrying outside one's group, while endogamy means marrying within one's group. In Indian society, there is caste endogamy but gotra exogamy.\n\n12. Totemism is the representation of each clan by a particular plant or animal symbol, known as the totem. The churunga, a piece of wood carved with the totem, was a very sacred object.\n\n13. His key conclusion is that religion is simply members of a society worshipping itself.\n\n14. DURKHEIM states that God is society divinized; God and society are not two different things but God is society itself.\n\n15. The six main functions are: Shared sense of morality, social control, relationship between man and God/Society, source of strength during difficult times, collective effervescence, and social solidarity.\n\n16. Religion helps develop a consensus on what is considered good and bad conduct, providing a shared sense of morality. An example is worshipping Sri Ram as the ideal man (Maryada Purushottam) who conformed to shared morality.\n\n17. Religion maintains social control by providing strict codes of dos and don'ts and defining things as sacred or taboo. Religious sanctions are considered stronger than legal sanctions because breaking them offends the sacred.\n\n18. The relationship between man and God is exactly the same as between man and society: a relationship of man's dependence on an all-powerful God/society. It imbues people with a sense of humility and dependence.\n\n19. Religion is a source of strength particularly during tragic events like death. It provides concepts like afterlife or soul continuation, rationalizes/denies death, and facilitates community support through religious rituals.\n\n20. Collective effervescence is the pulsating energy created during collective acts in religious rituals, such as singing, chanting, and dancing together. It strengthens the bonds binding the individual to the religious community. Examples include chanting \"Jai Mata Di,\" singing the national anthem, or the Islamic Azan.\n\n21. Social solidarity is considered the primary function of religion.\n\n22. DURKHEIM was writing in the late 19th/early 20th century, after the French and Industrial revolutions, when the process of secularization (apparent decline of religion) seemed to be occurring in European society.\n\n23. No, according to DURKHEIM, religion had not declined but the old notions of the sacred were replaced by new sacreds.\n\n24. The new sacreds identified by DURKHEIM relate to nation worship or civic religion, such as the national flag, national anthem, constitution, and national emblem.\n\n25. Modern society is heterogeneous and multicultural, unlike traditional homogeneous society. It needs a new shared morality and sacred symbols to unify its diverse members, cutting across parochial identities.\n\n26. He describes modern religion as 'civic religion'.\n\n27. Criticisms include ignoring conflict/violence, methodological issues (armchair sociology), false sacred-profane dichotomy, limited applicability to complex religions, incomplete secularization, legitimizing oppression/immorality, and being patriarchal.\n\n28. The text states that DURKHEIM downplays the conflict and violence religion generates throughout history, citing examples like communal riots, crusades, the Shia-Sunni divide, and wars between religious communities.\n\n29. Methodological criticisms include being an armchair sociologist who never visited the ARUNTA tribe, basing analysis on potentially biased secondary sources (ethnographies), and doing no direct field work.\n\n30. The sacred-profane dichotomy is criticized as a false dichotomy because in reality, many things are neither purely sacred nor profane (e.g., notebooks, daily meals, money).\n\n31. The theory may only help explain religious beliefs of primitive small-scale tribes like the ARUNTA and may not be equally applicable to large-scale complex world religions with multiple philosophies, scriptures, and interpretations.\n\n32. Religion is criticized for legitimizing oppression and exploitation through regressive practices sanctioned by religion like Satipratha, child marriage, polygamy, and untouchability. AMBEDKAR is mentioned as critiquing Hinduism for practices like untouchability.\n\n33. Feminist scholars like KAREN ARMSTRONG and KAMLA BHASIN suggest major religions are patriarchal and justify women's oppression, citing examples from Hinduism (MANUSMRITI) and Islam/Judaism (women as half witness, hijab, nikah halala, triple talaq).\n\n34. Since the totem was clan-specific, there must have been something other than the totem that unified the Arunta people across clan lines at the tribal level.\n\n35. DURKHEIM's first major work (PhD thesis) is \"Division of Labor in Society\".\n\n36. Division of labor is defined as the splitting up of an activity into a number of smaller processes, which are then undertaken by different persons (specialization).\n\n37. Economists like ADAM SMITH focus on division of labor for its benefits in production efficiency and increasing productivity. DURKHEIM sees its benefits extending beyond economy to the whole society, meeting vital social needs, and existing in all aspects of social life.\n\n38. The central question DURKHEIM addresses is what prevents modern society from falling apart, given its characteristic heightened individualism where each person strives for their own goals.\n\n39. Traditional society is characterized by collective orientation (collectivism) where individual aspirations are suppressed, while modern society is characterized by heightened and legitimized individualism.\n</smtcmp_block>",
+      "id": "766eef4a-c95e-4218-8388-0cabe4046ae0",
+      "metadata": {
+        "model": {
+          "providerId": "gemini",
+          "providerType": "gemini",
+          "id": "gemini-2.5-flash-preview-04-17",
+          "model": "gemini-2.5-flash-preview-04-17",
+          "promptLevel": 1
+        },
+        "usage": {
+          "prompt_tokens": 5745,
+          "completion_tokens": 2509,
+          "total_tokens": 8546
+        }
+      }
+    }
+  ],
+  "createdAt": 1750361268720,
+  "updatedAt": 1750361284023,
+  "schemaVersion": 1
+}
