@@ -494,7 +494,6 @@ Churchill's unwavering spirit became the beacon that guided Britain through its 
 
 #### Potential arguments
 Positive attitude
-
 ##### Advantages of being Hopeful
 In the face of adversity, everyone has two options- first, to succumb to it and second, to be hopeful and make the best out of it. Hope offers motivation, optimism, perseverance, manages stress and anxiety, inspires action, increases self-confidence and builds resilience. Hope makes life worth living.
 

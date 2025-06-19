@@ -9,12 +9,10 @@
   "highlightr-plugin",
   "image-converter",
   "obsidian-link-embed",
-  "dataview",
   "obsidian-kanban",
   "file-explorer-plus",
   "obsidian-git",
   "obsidian-mindmap-nextgen",
-  "contribution-graph",
   "recent-files-obsidian",
   "homepage",
   "dbfolder",
@@ -23,7 +21,6 @@
   "obsidian-style-settings",
   "rss-board",
   "surfing",
-  "docxer",
   "substitutions",
   "obsidian-folder-index",
   "tag-page-md",
@@ -36,11 +33,9 @@
   "better-export-pdf",
   "obsidian-plugin-toc",
   "cloze",
-  "giphy",
   "obsidian-outliner",
   "omnisearch",
   "various-complements",
   "blue-star",
-  "cmenu-plugin",
-  "write-good"
+  "cmenu-plugin"
 ]
