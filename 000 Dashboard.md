@@ -8,7 +8,7 @@ tags:
 
 🍉 [[Visualization]] || 🎯 [[Strategy|Strategy Tracker]] || 🪴 [[Strategy Plan]] || 🗺️[[other|Misc]] || [[habit|Daily Notes]] 
 
-©️ [[Good topper copies]] 
+©️ [[Good topper copies]] || [[Original PYQs]] 
 
 ---
 ###  [[01 PYQs|PYQs]]
