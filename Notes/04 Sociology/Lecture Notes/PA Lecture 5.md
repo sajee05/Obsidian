@@ -3,6 +3,7 @@ Teacher:
   - Pranay sir
 Subject:
   - Sociology
+tags: []
 ---
 # Development of Sociology: Historical Context and Intellectual Influences
 
