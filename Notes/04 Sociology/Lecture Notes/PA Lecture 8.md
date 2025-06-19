@@ -3,6 +3,8 @@ Teacher:
   - Pranay sir
 Subject:
   - Sociology
+tags:
+  - anki
 ---
 # Practical Problems in Using Scientific Method in Sociological Research
 
