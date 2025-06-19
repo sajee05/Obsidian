@@ -23,7 +23,6 @@
   "surfing",
   "substitutions",
   "obsidian-folder-index",
-  "tag-page-md",
   "table-of-contents-automatic-but-compatible-with-publish",
   "table-checkboxes",
   "kikijiki-habit-tracker",
@@ -37,5 +36,6 @@
   "omnisearch",
   "various-complements",
   "blue-star",
-  "cmenu-plugin"
+  "cmenu-plugin",
+  "typing-assistant"
 ]
