@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1986" height="972">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <rect stroke="#2D2D2D" id="3ec4058b15624ac184f15af3df5580e8-ao-4" height="78.48102" width="256.96203" y="575.46837" x="1000.70887" fill="#FFEBA2"/>
+  <g id="3ec4058b15624ac184f15af3df5580e8-ao-1">
+   <rect stroke="#2D2D2D" transform="rotate(12.380863189697266 741.399780273436,930.4641113281255) " height="78.91253" width="285.67028" y="891.00788" x="598.56462" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" transform="rotate(2.226630210876465 873.4735107421885,729.0762329101549) " height="78.91253" width="145.74767" y="689.62001" x="800.59966" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" transform="rotate(2.226630210876465 665.8987426757883,787.4936523437502) " height="78.91253" width="145.74767" y="748.03743" x="593.02486" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" transform="rotate(2.226630210876465 1134.209228515633,827.8644409179645) " height="78.91253" width="203.93153" y="788.40822" x="1032.24345" fill="#FFEBA2"/>
+  </g>
+  <g id="3ec4058b15624ac184f15af3df5580e8-ao-2">
+   <rect stroke="#2D2D2D" height="62.02532" width="178.48102" y="220.40504" x="750.70897" fill="#FFEBA2"/>
+   <rect transform="rotate(-19.178930282592773 654.5063476562502,438.1266174316407) " height="62.02532" width="256.96203" y="407.11393" x="526.02533" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect transform="rotate(-28.6103458404541 507.6708679199219,182.43037414550776) " height="62.02532" width="256.96203" y="151.41771" x="379.18983" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" height="62.02532" width="125.31646" y="455.21519" x="728.55693" fill="#FFEBA2"/>
+  </g>
+  <g id="3ec4058b15624ac184f15af3df5580e8-ao-3">
+   <rect transform="rotate(-36.30442428588867 172.22784423828122,548.253173828125) " height="62.02532" width="256.96203" y="517.24051" x="43.74683" stroke="#2D2D2D" fill="#FFEBA2"/>
+   <rect stroke="#2D2D2D" transform="rotate(18.43501091003418 298.81015014648483,633.0632934570311) " height="78.91253" width="203.93153" y="593.60703" x="196.84438" fill="#FFEBA2"/>
+  </g>
+ </g>
+</svg>
