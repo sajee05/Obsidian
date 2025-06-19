@@ -148,7 +148,10 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 - jo cheeze yaad nahi ho usko anki me daaldena.
 - jo cheeze nahi samajh aaye uske liye lecture dekhlena ya ignou padhlena ya next ias notes ya AI.
 
-
+### Revision Strategy 
+- Step 1 : **Blurting** : read paragraph → visualise, ask yourself what you studied. -> *first read.*
+- Step 2: **Objective Subject Knowledge** : Active recall questions / MCQS → make *Anki cards* for weak areas, also the extremely necessary facts even if i know them. like thinkers, articles, vocab, etc.
+- Step 3: **Mains Notes** → Make mains notes - real crisp. (since i have done 2 readings, step 1 and 2) → make pdf and *blurt* on the same day and *write answers* ALSO, put it all into obsidian with # anki tag.   
 ---
 
 # Topper's Advice:
