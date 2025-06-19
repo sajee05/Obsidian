@@ -1,7 +1,7 @@
 ---
 cards-deck: Notes::04 Sociology
 ---
-# Karl Marx - Historical materialism, mode of production, alienation, class struggle 
+
 * 2025-06-16
 
 - [ ] lecture - pranay
