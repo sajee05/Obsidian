@@ -89,6 +89,11 @@ START CSAT **AT ANY COST FROM OCTOBER.**
 # Ethics
 - build the better india extractor if needed similar to [[PIB-Daily]] 
 ---
+# Science and Tech 
+- Dr Shivin classes 
+- The Hindu : all science and tech editorials and articles → AM Tracker
+- PT365
+- TheIndianExpress Editorials and explained →  The Hindu.
 # Personal insights and Improvement Journaling
 ## Saturation
 - its alright to change subject when saturated. do this: when saturated from short term target, make sure you have monthly goal in mind, and adjust accordingly. the diversity is so much that you wont feel saturated. at least for a year. thus,
