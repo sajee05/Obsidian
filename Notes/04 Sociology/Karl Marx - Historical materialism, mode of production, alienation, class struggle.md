@@ -7,7 +7,7 @@ cards-deck: Notes::04 Sociology
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
 - [ ] lecture - vishal shah
-## Topics To-do: 
+### Topics To-do: 
 * **pyq themes**
 	* **Historical Materialism**
 		- [ ] salient features
