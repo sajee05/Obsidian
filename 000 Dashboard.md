@@ -47,7 +47,7 @@ tags:
 
 | What         | Tags                | Purpose                                             |
 | ------------ | ------------------- | --------------------------------------------------- |
-| to Anki (##) | anki                | Mains Ready by September                            |
+| to Anki (##) | # anki              | Mains Ready by September                            |
 | Forgetting   | remember/forgetting | for something which i am forgetting again and again |
 | Remember     | remember            | For something important.                            |
 
