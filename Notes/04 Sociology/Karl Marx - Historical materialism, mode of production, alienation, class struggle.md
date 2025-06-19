@@ -1,7 +1,6 @@
 ---
-cards-deck: Notes::04 Sociology
+tags: []
 ---
-
 * 2025-06-16
 
 - [ ] lecture - pranay
