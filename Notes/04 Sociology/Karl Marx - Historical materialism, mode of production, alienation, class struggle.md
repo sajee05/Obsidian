@@ -3,7 +3,7 @@
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
 - [ ] lecture - vishal shah
-#### Topics To-do: 
+#### Topics To-do: #flashcard 
 - **pyq themes**
 	- **Historical Materialism**
 		- [ ] salient features
