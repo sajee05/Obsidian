@@ -306,7 +306,7 @@
 
 ##### e-Kranti (Nation e-governance plan 2.0) - e-health, e-jail, e-edu: MOOC for education, e-courts; PMGDISHA (6 crore people to be made digitally literate)
 
-##### Limitations/ Challenges/ Issues #revise
+##### Limitations/ Challenges/ Issues 
 
 -   **Economic** - Huge capex needed, Infra issues (power sector woes), Semiconductor industry
     -   Huge capital expenditure- eg in case of 5G rollout
@@ -417,7 +417,7 @@
 -   ![GS2 Governance](<Z9 Obsidian-files/Media/DOCX/GS2 Governance 7.jpeg>)-**ve impact** of corruption: **Lowers investment** and retards growth; Impacts **govts revenue**; Increased **inequalities (raising cost of operations)**
 -   ![GS2 Governance](<Z9 Obsidian-files/Media/DOCX/GS2 Governance 8.jpeg>)
 
-##### Causes of Corruption #revise
+##### Causes of Corruption 
 
 -   **Individual**: Moral Muteness, increased penchant for a luxurious lifestyle
 -   **Societal**: Sanskritization of corruption (‘Be _Practical, Pay Bribe’)_, **Social Proofing** (accepted by all)
@@ -429,7 +429,7 @@
 
 -   Cash for Vote Scam, Spot fixing by rich players, PNB Fraud, DHFL Scam, Private trade by English officials, Prince Michael-caught offering confidential information to Russian investors
 
-##### Solutions/Reforms #revise
+##### Solutions/Reforms 
 
 -   Individual: Value education that promotes **zero tolerance**; Being vigilant/proactive; Ethical Hotlines
 -   Societal: Using **Citizen Report Cards** to create pressure on those in power to change things

@@ -321,7 +321,7 @@ Examples include:
 - Can have primary groups within larger secondary groups
 - Can have secondary-type relationships within primary groups (family business transactions)
 
-## Key Points #📹Lecture 
+## Key Points 
 
 | **Main Topic** | **Subtopic/Concept** | **Key Keywords/Facts** |
 |----------------|---------------------|----------------------|

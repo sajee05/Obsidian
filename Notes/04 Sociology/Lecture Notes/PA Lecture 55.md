@@ -230,7 +230,7 @@
 - **Unity does not presuppose uniformity** 
 - **We don't need to be the same in order to be one**
 
-## Key Points #📹Lecture 
+## Key Points 
 
 | Main Topic                              | Subtopic/Concept              | Key Keywords/Facts                                                                                                                                               |
 | --------------------------------------- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |

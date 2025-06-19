@@ -2023,4 +2023,4 @@ Laws
       - MGNREGA, DAY-NRLM
 - **Conclusion**
   - सर्वे संतु निरामया
-  - SDG 2 #zerohunger
+  - SDG 2 
