@@ -1,3 +1,7 @@
+---
+cards-deck: Notes::04 Sociology
+---
+# Karl Marx - Historical materialism, mode of production, alienation, class struggle
 * 2025-06-16
 
 - [ ] lecture - pranay
@@ -28,14 +32,14 @@
 		- [ ] explain marx's analysis of class-struggle and capitalist mode of production and intellectual reactions to it. 
 		- [ ] feudal and slave societies difference in marx's views.
 		- [ ] According to Marx, capitalism transforms even the personal relationships between *men and women*. Critically examine with illustrations from the *contemporary Indian context*. (2014-10M)
-- **static concepts other than pyqs**
+- **static concepts other than pyqs** 
 	- [ ] Dialectic materialism
 	- [ ] Factors op
 	- [ ] Relationship op
 	- [ ] Modes of op
 	- [ ] theory of surplus value
 	- [ ] fetishism of commodities 
-- **topper answer keywords** #flashcard 
+- **topper answer keywords** 
 	- ideological state apparatus
 	- ![[image-58.png]]
 	- ![[image-59.png]]
@@ -104,6 +108,7 @@
 	- american revolution fueled when americans became aware of their second class citizens in england.
 	- homogenisation of workers.
 	- OLLMAN - Difficult to distinguish btw job dissatifaction and alieantion. (critic)
+^1750334018059
 
 ---
 ## **Historical Materialism**
@@ -112,7 +117,7 @@
 ### historical materialism as a critique of hegelian dialectics (20 marks)
 ### what is fetishism of commodities 
 ### historical materialism's relevance in understanding contemporary societies.
-## **Mode of Production**
+## **Mode of Production** #card
 ### "It is not the consciousness of men that determines their being, but on the contrary, it is their social being that determines their consciousness." Examine Karl Marx's notion of mode of production in the light of this statement. (1998-60M)
 ### explain marx's analysis of capitalistic mode of production. and intellectual reactions to its views.
 ### marx's ideas on mode of production. (Explain)
