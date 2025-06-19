@@ -1,0 +1,4936 @@
+{
+  "schema": "0.2",
+  "settings": {
+    "enabledLanguages": [
+      "LATIN"
+    ],
+    "dailyWritingGoal": 500,
+    "startOfTheWeek": "SUNDAY",
+    "heatmapNavigation": true,
+    "heatmapConfig": {
+      "roundCells": true,
+      "hideMonthLabels": false,
+      "hideWeekdayLabels": false,
+      "intensityMode": "gradual",
+      "intensityStops": {
+        "low": 100,
+        "medium": 500,
+        "high": 1000
+      },
+      "colors": {
+        "light": {
+          "0": "#e0e0e0",
+          "1": "#9be9a8",
+          "2": "#6ad286",
+          "3": "#2ebd54",
+          "4": "#12a53e"
+        },
+        "dark": {
+          "0": "#ebedf015",
+          "1": "#0e4429",
+          "2": "#006d32",
+          "3": "#26a641",
+          "4": "#39d353"
+        }
+      }
+    },
+    "sidebarConfig": {
+      "visibility": {
+        "showSlots": true,
+        "showEntries": true,
+        "showHeatmap": true
+      },
+      "slots": [
+        {
+          "index": 0,
+          "option": "CURRENT_DAY",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 1,
+          "option": "CURRENT_WEEK",
+          "unit": "WORD",
+          "calc": "TOTAL"
+        },
+        {
+          "index": 2,
+          "option": "LAST_MONTH",
+          "unit": "WORD",
+          "calc": "AVG"
+        }
+      ]
+    }
+  },
+  "stats": {
+    "dailyActivity": [
+      {
+        "date": "2025-05-01",
+        "filePath": "000 INDEX.md",
+        "wordCountStart": 325,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 1
+      },
+      {
+        "date": "2025-05-02",
+        "filePath": "09 Daily Notes/02-05-2025, Friday.md",
+        "wordCountStart": 38,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 71,
+            "c": 0
+          }
+        ],
+        "id": 2
+      },
+      {
+        "date": "2025-05-02",
+        "filePath": "000 INDEX.md",
+        "wordCountStart": 326,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 3
+      },
+      {
+        "date": "2025-05-02",
+        "filePath": "10 Dump/prompt for PREPMAP.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 859,
+            "c": 0
+          }
+        ],
+        "id": 4
+      },
+      {
+        "date": "2025-05-02",
+        "filePath": "06 Templates/Daily Note Template.md",
+        "wordCountStart": 38,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 23,
+            "c": 0
+          }
+        ],
+        "id": 5
+      },
+      {
+        "date": "2025-05-02",
+        "filePath": "10 Dump/DUMP MOC.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 15,
+            "c": 0
+          }
+        ],
+        "id": 6
+      },
+      {
+        "date": "2025-05-03",
+        "filePath": "09 Daily Notes/03-05-2025, Saturday.md",
+        "wordCountStart": 61,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 79,
+            "c": 0
+          }
+        ],
+        "id": 7
+      },
+      {
+        "date": "2025-05-03",
+        "filePath": "202505030138.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 8
+      },
+      {
+        "date": "2025-05-03",
+        "filePath": "10 Dump/PREPMAP - Semantic RAG + Perplexity (Road-Map).md",
+        "wordCountStart": 859,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 44,
+            "c": 0
+          }
+        ],
+        "id": 9
+      },
+      {
+        "date": "2025-05-03",
+        "filePath": "06 Templates/Daily Note Template.md",
+        "wordCountStart": 61,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 17,
+            "c": 0
+          }
+        ],
+        "id": 10
+      },
+      {
+        "date": "2025-05-03",
+        "filePath": "Untitled.md",
+        "wordCountStart": 1,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 11
+      },
+      {
+        "date": "2025-05-04",
+        "filePath": "000 INDEX.md",
+        "wordCountStart": 329,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 112,
+            "c": 0
+          }
+        ],
+        "id": 12
+      },
+      {
+        "date": "2025-05-04",
+        "filePath": "10 Dump/PREPMAP - Semantic RAG + Perplexity (Road-Map).md",
+        "wordCountStart": 903,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 27,
+            "c": 0
+          }
+        ],
+        "id": 13
+      },
+      {
+        "date": "2025-05-04",
+        "filePath": "10 Dump/DUMP MOC.md",
+        "wordCountStart": 18,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 0
+          }
+        ],
+        "id": 14
+      },
+      {
+        "date": "2025-05-04",
+        "filePath": "10 Dump/A Sense of Purpose.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 59,
+            "c": 0
+          }
+        ],
+        "id": 15
+      },
+      {
+        "date": "2025-05-04",
+        "filePath": "09 Daily Notes/04-05-2025, Sunday.md",
+        "wordCountStart": 78,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 35,
+            "c": 0
+          }
+        ],
+        "id": 16
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "000 INDEX.md",
+        "wordCountStart": 441,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -103,
+            "c": 0
+          }
+        ],
+        "id": 17
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "10 Dump/Strategy.md",
+        "wordCountStart": 769,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -131,
+            "c": 0
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "10 Dump/PREPMAP - Semantic RAG + Perplexity (Road-Map).md",
+        "wordCountStart": 948,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -4,
+            "c": 0
+          }
+        ],
+        "id": 19
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "Inbox.md",
+        "wordCountStart": 4,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 20,
+            "c": 0
+          }
+        ],
+        "id": 20
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "Daily.md",
+        "wordCountStart": 4,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 22,
+            "c": 0
+          }
+        ],
+        "id": 21
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "06 Templates/Mains Notes.md",
+        "wordCountStart": 54,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 22
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "09 Daily Notes (no-more)/01-05-2025, Thursday.md",
+        "wordCountStart": 64,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 23
+      },
+      {
+        "date": "2025-05-07",
+        "filePath": "09 Daily Notes (no-more)/07-05-2025, Wednesday.md",
+        "wordCountStart": 126,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -32,
+            "c": 0
+          }
+        ],
+        "id": 24
+      },
+      {
+        "date": "2025-05-09",
+        "filePath": "10 Dump/polity workflow.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 28,
+            "c": 0
+          }
+        ],
+        "id": 25
+      },
+      {
+        "date": "2025-05-09",
+        "filePath": "10 Dump/DUMP MOC.md",
+        "wordCountStart": 23,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 26
+      },
+      {
+        "date": "2025-05-09",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 65583,
+            "c": 0
+          }
+        ],
+        "id": 27
+      },
+      {
+        "date": "2025-05-10",
+        "filePath": "10 Dump/polity workflow.md",
+        "wordCountStart": 28,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 10,
+            "c": 0
+          }
+        ],
+        "id": 28
+      },
+      {
+        "date": "2025-05-19",
+        "filePath": "10 Dump/A Sense of Purpose.md",
+        "wordCountStart": 61,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 15,
+            "c": 0
+          }
+        ],
+        "id": 29
+      },
+      {
+        "date": "2025-05-21",
+        "filePath": "10 Dump/A Sense of Purpose.md",
+        "wordCountStart": 77,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 27,
+            "c": 0
+          }
+        ],
+        "id": 30
+      },
+      {
+        "date": "2025-05-21",
+        "filePath": "10 Dump/Strategy.md",
+        "wordCountStart": 650,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 20,
+            "c": 0
+          }
+        ],
+        "id": 31
+      },
+      {
+        "date": "2025-05-26",
+        "filePath": "00 Notes/Sociology/Paper 1/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1083,
+            "c": 0
+          }
+        ],
+        "id": 32
+      },
+      {
+        "date": "2025-05-27",
+        "filePath": "05 MOCs/MOC for Socio/MOC Socio Paper 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 33
+      },
+      {
+        "date": "2025-05-27",
+        "filePath": "00 Notes/Sociology/Paper 1/A. Unit 1. Sociology - The Discipline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 775,
+            "c": 0
+          }
+        ],
+        "id": 34
+      },
+      {
+        "date": "2025-05-27",
+        "filePath": "06 Templates/Mains Notes.md",
+        "wordCountStart": 53,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -26,
+            "c": 0
+          }
+        ],
+        "id": 35
+      },
+      {
+        "date": "2025-05-27",
+        "filePath": "00 Notes/Sociology/Paper 1/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 29,
+            "c": 0
+          }
+        ],
+        "id": 36
+      },
+      {
+        "date": "2025-05-27",
+        "filePath": "10 Dump/Strategy.md",
+        "wordCountStart": 687,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 189,
+            "c": 0
+          }
+        ],
+        "id": 37
+      },
+      {
+        "date": "2025-05-28",
+        "filePath": "10 Dump/A Sense of Purpose.md",
+        "wordCountStart": 107,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -18,
+            "c": 0
+          }
+        ],
+        "id": 38
+      },
+      {
+        "date": "2025-05-29",
+        "filePath": "10 Dump/Strategy.md",
+        "wordCountStart": 876,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 39
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 338,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -226,
+            "c": 0
+          }
+        ],
+        "id": 40
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "DPSP.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 29,
+            "c": 0
+          }
+        ],
+        "id": 41
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/00 Misc/DUMP MOC.md",
+        "wordCountStart": 26,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -19,
+            "c": 0
+          }
+        ],
+        "id": 42
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC for C.A.md",
+        "wordCountStart": 32,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -21,
+            "c": 0
+          }
+        ],
+        "id": 43
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC GS1.md",
+        "wordCountStart": 20,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 215,
+            "c": 0
+          }
+        ],
+        "id": 44
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC GS3.md",
+        "wordCountStart": 26,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 252,
+            "c": 0
+          }
+        ],
+        "id": 45
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/Ethics Examples/example note (just right keyword).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 46
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/Current Affairs/Democracy.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 50,
+            "c": 0
+          }
+        ],
+        "id": 47
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/C.A. Database.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 197,
+            "c": 0
+          }
+        ],
+        "id": 48
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Obsidian-files/Templates/Current Affairs.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 9,
+            "c": 0
+          }
+        ],
+        "id": 49
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/db.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 197,
+            "c": 0
+          }
+        ],
+        "id": 50
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/Current Affairs/Untitled database.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 8,
+            "c": 0
+          }
+        ],
+        "id": 51
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/Ethics Examples/Ethics Examples.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 52
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC Essay.md",
+        "wordCountStart": 4,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 75,
+            "c": 0
+          }
+        ],
+        "id": 53
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/All-CA/AI.md",
+        "wordCountStart": 11,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -7,
+            "c": 0
+          }
+        ],
+        "id": 54
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/All-CA/Places in News.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 55
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC GS2.md",
+        "wordCountStart": 14,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 311,
+            "c": 0
+          }
+        ],
+        "id": 56
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC GS4.md",
+        "wordCountStart": 8,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 273,
+            "c": 0
+          }
+        ],
+        "id": 57
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC Socio Paper 1.md",
+        "wordCountStart": 7,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 364,
+            "c": 0
+          }
+        ],
+        "id": 58
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC Socio Paper 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 467,
+            "c": 0
+          }
+        ],
+        "id": 59
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "MOCs/MOC Prelims.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 177,
+            "c": 0
+          }
+        ],
+        "id": 60
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 36,
+            "c": 0
+          }
+        ],
+        "id": 61
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Obsidian-files/Templates/Mains Notes.md",
+        "wordCountStart": 27,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2,
+            "c": 0
+          }
+        ],
+        "id": 62
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "temporary-dump/Templates-usecase.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 12,
+            "c": 0
+          }
+        ],
+        "id": 63
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/00 Misc/Strategy.md",
+        "wordCountStart": 881,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -21,
+            "c": 0
+          }
+        ],
+        "id": 64
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/01 Current Affairs/All-CA/Current Affairs.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 210,
+            "c": 0
+          }
+        ],
+        "id": 65
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/05 Prelims/Export (xyz date).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 15,
+            "c": 0
+          }
+        ],
+        "id": 66
+      },
+      {
+        "date": "2025-06-01",
+        "filePath": "Notes/00 Misc/Spaced repetition workflow.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 76,
+            "c": 0
+          }
+        ],
+        "id": 67
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 112,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 68
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1998,
+            "c": 0
+          }
+        ],
+        "id": 69
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/Lecture Notes.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 182,
+            "c": 0
+          }
+        ],
+        "id": 70
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 2.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1566,
+            "c": 0
+          }
+        ],
+        "id": 71
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 3.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 72
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 4.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 0
+          }
+        ],
+        "id": 73
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 5.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 74
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 8.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3095,
+            "c": 0
+          }
+        ],
+        "id": 75
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 6.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 76
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 7.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 77
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 9.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 78
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/06 Lecture Notes/PA Lecture 10.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 79
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/03 GS/GS Spaced Repetition.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 80
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Obsidian-files/Templates/Mains Notes.md",
+        "wordCountStart": 25,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 81
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/07 Answer Writing Fodder/Fodder.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 249,
+            "c": 0
+          }
+        ],
+        "id": 82
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "MOCs/MOC Prelims.md",
+        "wordCountStart": 177,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -7,
+            "c": 0
+          }
+        ],
+        "id": 83
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/05 Prelims/Mocks Test Notes/Mock Test Prelims.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 84
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/01 Current Affairs/Ethics Examples/Ethics Examples.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 45,
+            "c": 0
+          }
+        ],
+        "id": 85
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/07 Answer Writing Fodder/Challenges with anything.md",
+        "wordCountStart": 2,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 0
+          }
+        ],
+        "id": 86
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/01 Current Affairs/Sociology Examples/Sociology Examples.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 80,
+            "c": 0
+          }
+        ],
+        "id": 87
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/07 Answer Writing Fodder/5 Pillars of AI summit in Paris.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 13,
+            "c": 0
+          }
+        ],
+        "id": 88
+      },
+      {
+        "date": "2025-06-02",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 92,
+            "c": 0
+          }
+        ],
+        "id": 89
+      },
+      {
+        "date": "2025-06-03",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 92,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 135,
+            "c": 0
+          }
+        ],
+        "id": 90
+      },
+      {
+        "date": "2025-06-03",
+        "filePath": "Notes/02 Essay/Rahul W Essay Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 17531,
+            "c": 0
+          }
+        ],
+        "id": 91
+      },
+      {
+        "date": "2025-06-03",
+        "filePath": "MOCs/MOC Essay.md",
+        "wordCountStart": 79,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 92
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 115,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 93
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 227,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 354,
+            "c": 0
+          }
+        ],
+        "id": 94
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/00 Misc/Visualization.md",
+        "wordCountStart": 87,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 9,
+            "c": 0
+          }
+        ],
+        "id": 95
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/00 Misc/other/other.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 106,
+            "c": 0
+          }
+        ],
+        "id": 96
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/00 Misc/other/SDGs.md",
+        "wordCountStart": 2,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 263,
+            "c": 0
+          }
+        ],
+        "id": 97
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "OneNote/Prelims Notes/GS3 - CORE/Security.md",
+        "wordCountStart": 8902,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -126,
+            "c": 0
+          }
+        ],
+        "id": 98
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/07 Answer Writing Fodder/Fodder.md",
+        "wordCountStart": 369,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 83,
+            "c": 0
+          }
+        ],
+        "id": 99
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/07 Answer Writing Fodder/Structural constrains.md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 76,
+            "c": 0
+          }
+        ],
+        "id": 100
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Z9 Clippings/Define Infrastructure Bottlenecks.md",
+        "wordCountStart": 1056,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 101
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Z9 Clippings/Z9 Clippings.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 158,
+            "c": 0
+          }
+        ],
+        "id": 102
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/07 Answer Writing Fodder/Affluence is becoming a vector of poor health, particularly in urban settings..md",
+        "wordCountStart": 2,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 263,
+            "c": 0
+          }
+        ],
+        "id": 103
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "Notes/07 Answer Writing Fodder/Japan's AI Act.md",
+        "wordCountStart": 2,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 87,
+            "c": 0
+          }
+        ],
+        "id": 104
+      },
+      {
+        "date": "2025-06-04",
+        "filePath": "temporary-dump/202506042321.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 39847,
+            "c": 0
+          }
+        ],
+        "id": 105
+      },
+      {
+        "date": "2025-06-05",
+        "filePath": "temporary-dump/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 25405,
+            "c": 0
+          }
+        ],
+        "id": 106
+      },
+      {
+        "date": "2025-06-05",
+        "filePath": "temporary-dump/202506051815.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 107
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 115,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 28,
+            "c": 0
+          }
+        ],
+        "id": 108
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 581,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 836,
+            "c": 0
+          }
+        ],
+        "id": 109
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "MOCs/MOC Prelims.md",
+        "wordCountStart": 170,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -51,
+            "c": 0
+          }
+        ],
+        "id": 110
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "MOCs/MOC - CSAT.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 82,
+            "c": 0
+          }
+        ],
+        "id": 111
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/04 Sociology/Lecture Notes/Lecture Notes.md",
+        "wordCountStart": 293,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -48,
+            "c": 0
+          }
+        ],
+        "id": 112
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/06 Answer Writing Fodder/Fodder.md",
+        "wordCountStart": 452,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 22,
+            "c": 0
+          }
+        ],
+        "id": 113
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/06 Answer Writing Fodder/Panchamrit Goals attainment..md",
+        "wordCountStart": 3,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 156,
+            "c": 0
+          }
+        ],
+        "id": 114
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/06 Answer Writing Fodder/Structural constrains.md",
+        "wordCountStart": 79,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 115
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "MOCs/Active Recall Questions.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 12,
+            "c": 0
+          }
+        ],
+        "id": 116
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/AR Questions/POLITY QUESTIONS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 24534,
+            "c": 0
+          }
+        ],
+        "id": 117
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/AR Questions/GEOGRAPHY QUESTIONS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14938,
+            "c": 0
+          }
+        ],
+        "id": 118
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/AR Questions/ENVIRONMENT QUESTIONS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 21057,
+            "c": 0
+          }
+        ],
+        "id": 119
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/AR Questions/MIH QUESTIONS.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 20547,
+            "c": 0
+          }
+        ],
+        "id": 120
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "MOCs/MOC Topper Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 21,
+            "c": 0
+          }
+        ],
+        "id": 121
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "MOCs/MOC Socio Topper Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 104,
+            "c": 0
+          }
+        ],
+        "id": 122
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/Subject Notes/Polity - राजनीति.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 39174,
+            "c": 0
+          }
+        ],
+        "id": 123
+      },
+      {
+        "date": "2025-06-06",
+        "filePath": "Notes/05 Prelims/Subject Notes/Governance.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7379,
+            "c": 0
+          }
+        ],
+        "id": 124
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "MOCs/MOC Prelims.md",
+        "wordCountStart": 122,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 41,
+            "c": 0
+          }
+        ],
+        "id": 125
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Social Justice - सामाजिक न्याय.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7389,
+            "c": 0
+          }
+        ],
+        "id": 126
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Economics - अर्थशास्त्र.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 54851,
+            "c": 0
+          }
+        ],
+        "id": 127
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "MOCs/MOC Topper Notes.md",
+        "wordCountStart": 21,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 41,
+            "c": 0
+          }
+        ],
+        "id": 128
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Modern History Timeline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4051,
+            "c": 0
+          }
+        ],
+        "id": 129
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Agriculture and Planning.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 17038,
+            "c": 0
+          }
+        ],
+        "id": 130
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Basic Science - 12 वीं Fail.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 15841,
+            "c": 0
+          }
+        ],
+        "id": 131
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "Notes/05 Prelims/Subject Notes/Internal Security - आंतरिक सुरक्षा.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 8751,
+            "c": 0
+          }
+        ],
+        "id": 132
+      },
+      {
+        "date": "2025-06-07",
+        "filePath": "HTML import/AncientIndia.md",
+        "wordCountStart": 142552,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -217,
+            "c": 0
+          }
+        ],
+        "id": 133
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 143,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 134
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1388,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 352,
+            "c": 0
+          }
+        ],
+        "id": 135
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/Ethics - Piyush sir.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14,
+            "c": 0
+          }
+        ],
+        "id": 136
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/Lecture 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4068,
+            "c": 0
+          }
+        ],
+        "id": 137
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/04 Sociology/Lecture Notes/Lecture Notes.md",
+        "wordCountStart": 245,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 138
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 12.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2087,
+            "c": 0
+          }
+        ],
+        "id": 139
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5141,
+            "c": 0
+          }
+        ],
+        "id": 140
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 3.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3134,
+            "c": 0
+          }
+        ],
+        "id": 141
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 4.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 8242,
+            "c": 0
+          }
+        ],
+        "id": 142
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 5.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3381,
+            "c": 0
+          }
+        ],
+        "id": 143
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 6.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3828,
+            "c": 0
+          }
+        ],
+        "id": 144
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 7.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2496,
+            "c": 0
+          }
+        ],
+        "id": 145
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 8.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2311,
+            "c": 0
+          }
+        ],
+        "id": 146
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 9.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4280,
+            "c": 0
+          }
+        ],
+        "id": 147
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 10.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3930,
+            "c": 0
+          }
+        ],
+        "id": 148
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 11.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2890,
+            "c": 0
+          }
+        ],
+        "id": 149
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 13.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4116,
+            "c": 0
+          }
+        ],
+        "id": 150
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 14.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3580,
+            "c": 0
+          }
+        ],
+        "id": 151
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 15.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3186,
+            "c": 0
+          }
+        ],
+        "id": 152
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 16.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3897,
+            "c": 0
+          }
+        ],
+        "id": 153
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 17.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3582,
+            "c": 0
+          }
+        ],
+        "id": 154
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 18.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2513,
+            "c": 0
+          }
+        ],
+        "id": 155
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 19.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2393,
+            "c": 0
+          }
+        ],
+        "id": 156
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 20.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3667,
+            "c": 0
+          }
+        ],
+        "id": 157
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/lecture 21.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3077,
+            "c": 0
+          }
+        ],
+        "id": 158
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "temporary-dump/Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 19488,
+            "c": 0
+          }
+        ],
+        "id": 159
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 28862,
+            "c": 0
+          }
+        ],
+        "id": 160
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Z9 Obsidian-files/Templates/Mains Notes.md",
+        "wordCountStart": 28,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 161
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "temporary-dump/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 162
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "temporary-dump/media/Art and Culture --- कला और संस्कृति.md",
+        "wordCountStart": 19832,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -19832,
+            "c": 0
+          }
+        ],
+        "id": 163
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "temporary-dump/word to md.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 164
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "docxs/GS1/Ancient India --- प्राचीन इतिहास.md",
+        "wordCountStart": 10502,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -10502,
+            "c": 0
+          }
+        ],
+        "id": 165
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Notes/05 Prelims/Subject Notes/Ancient India --- प्राचीन इतिहास.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 10332,
+            "c": 0
+          }
+        ],
+        "id": 166
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "Z9 Obsidian-files/daily_routine/notes/2025-06-08.md",
+        "wordCountStart": 10,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 167
+      },
+      {
+        "date": "2025-06-08",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 163,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 173,
+            "c": 0
+          }
+        ],
+        "id": 168
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 147,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14,
+            "c": 0
+          }
+        ],
+        "id": 169
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 336,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 202,
+            "c": 0
+          }
+        ],
+        "id": 170
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Art Culture.md",
+        "wordCountStart": 21047,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -526,
+            "c": 0
+          }
+        ],
+        "id": 171
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Geography.md",
+        "wordCountStart": 40691,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -529,
+            "c": 0
+          }
+        ],
+        "id": 172
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 ModernIndianHistory.md",
+        "wordCountStart": 20077,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -500,
+            "c": 0
+          }
+        ],
+        "id": 173
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 PostIndependenceHistory.md",
+        "wordCountStart": 6511,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -439,
+            "c": 0
+          }
+        ],
+        "id": 174
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Society.md",
+        "wordCountStart": 33182,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -530,
+            "c": 0
+          }
+        ],
+        "id": 175
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 Governance.md",
+        "wordCountStart": 14756,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -582,
+            "c": 0
+          }
+        ],
+        "id": 176
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 InternationalRelations.md",
+        "wordCountStart": 31030,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -841,
+            "c": 0
+          }
+        ],
+        "id": 177
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 Polity Constitution.md",
+        "wordCountStart": 71027,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -822,
+            "c": 0
+          }
+        ],
+        "id": 178
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 SocialJustice.md",
+        "wordCountStart": 19844,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -516,
+            "c": 0
+          }
+        ],
+        "id": 179
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Agriculture.md",
+        "wordCountStart": 24474,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -658,
+            "c": 0
+          }
+        ],
+        "id": 180
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 DisasterManagement.md",
+        "wordCountStart": 12255,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -643,
+            "c": 0
+          }
+        ],
+        "id": 181
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Environment.md",
+        "wordCountStart": 15353,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -606,
+            "c": 0
+          }
+        ],
+        "id": 182
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 InternalSecurity.md",
+        "wordCountStart": 16124,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -711,
+            "c": 0
+          }
+        ],
+        "id": 183
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC Topper Notes.md",
+        "wordCountStart": 62,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 29,
+            "c": 0
+          }
+        ],
+        "id": 184
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC Essay.md",
+        "wordCountStart": 83,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 22,
+            "c": 0
+          }
+        ],
+        "id": 185
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "temporary-dump/AIR 28 Mains Notes.md",
+        "wordCountStart": 140417,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 18,
+            "c": 0
+          }
+        ],
+        "id": 186
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/Active Recall Questions.md",
+        "wordCountStart": 12,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 187
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/AR Questions/ECONOMICS AR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 13714,
+            "c": 0
+          }
+        ],
+        "id": 188
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC GS1.md",
+        "wordCountStart": 235,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 79,
+            "c": 0
+          }
+        ],
+        "id": 189
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC GS2.md",
+        "wordCountStart": 325,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 135,
+            "c": 0
+          }
+        ],
+        "id": 190
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC GS3.md",
+        "wordCountStart": 278,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 134,
+            "c": 0
+          }
+        ],
+        "id": 191
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "MOCs/MOC GS4.md",
+        "wordCountStart": 281,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 53,
+            "c": 0
+          }
+        ],
+        "id": 192
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Art and Culture 1.md",
+        "wordCountStart": 7583,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -6,
+            "c": 0
+          }
+        ],
+        "id": 193
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "GS2 Governance 1.md",
+        "wordCountStart": 14174,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -71,
+            "c": 0
+          }
+        ],
+        "id": 194
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "temporary-dump/Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 0
+          }
+        ],
+        "id": 195
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Z9 Obsidian-files/habit/09-06-2025, Monday.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 18,
+            "c": 0
+          }
+        ],
+        "id": 196
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Z9 Obsidian-files/Templates/Daily Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 13,
+            "c": 0
+          }
+        ],
+        "id": 197
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Economics.md",
+        "wordCountStart": 53760,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -512,
+            "c": 0
+          }
+        ],
+        "id": 198
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/Lecture 26.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3199,
+            "c": 0
+          }
+        ],
+        "id": 199
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/Lecture 24.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4127,
+            "c": 0
+          }
+        ],
+        "id": 200
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/03 GS/GS4/Piyush Ethics/Lecture 23.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4573,
+            "c": 0
+          }
+        ],
+        "id": 201
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "temporary-dump/Untitled 2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 202
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "temporary-dump/Economics 1.md",
+        "wordCountStart": 53112,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 525,
+            "c": 0
+          }
+        ],
+        "id": 203
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1740,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 107,
+            "c": 0
+          }
+        ],
+        "id": 204
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 EconomicDevelopment.md",
+        "wordCountStart": 30416,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -802,
+            "c": 0
+          }
+        ],
+        "id": 205
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Science Technology.md",
+        "wordCountStart": 19597,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -833,
+            "c": 0
+          }
+        ],
+        "id": 206
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 13003,
+            "c": 0
+          }
+        ],
+        "id": 207
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Art and Culture --- कला और संस्कृति.md",
+        "wordCountStart": 19923,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -22,
+            "c": 0
+          }
+        ],
+        "id": 208
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Ancient India --- प्राचीन इतिहास.md",
+        "wordCountStart": 10333,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 46,
+            "c": 0
+          }
+        ],
+        "id": 209
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Medieval Indian History --- मध्यकालीन इतिहास.md",
+        "wordCountStart": 7317,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 48,
+            "c": 0
+          }
+        ],
+        "id": 210
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Modern Indian History - आधुनिक भारतीय इतिहास.md",
+        "wordCountStart": 33949,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -5,
+            "c": 0
+          }
+        ],
+        "id": 211
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Indian Geography -- भारतीय भूगोल.md",
+        "wordCountStart": 13139,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 183,
+            "c": 0
+          }
+        ],
+        "id": 212
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Post- Independence India.md",
+        "wordCountStart": 2808,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2808,
+            "c": 0
+          }
+        ],
+        "id": 213
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Physical Geography - भौतिक भूगोल.md",
+        "wordCountStart": 46677,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -17478,
+            "c": 0
+          }
+        ],
+        "id": 214
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Human Geography - मानव भूगोल.md",
+        "wordCountStart": 4129,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -26,
+            "c": 0
+          }
+        ],
+        "id": 215
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Mapping.md",
+        "wordCountStart": 14788,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1125,
+            "c": 0
+          }
+        ],
+        "id": 216
+      },
+      {
+        "date": "2025-06-09",
+        "filePath": "Notes/05 Prelims/Subject Notes/Society - समाज.md",
+        "wordCountStart": 17105,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -43,
+            "c": 0
+          }
+        ],
+        "id": 217
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Untitled.md",
+        "wordCountStart": 17353,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 129,
+            "c": 0
+          }
+        ],
+        "id": 218
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Physical Geography - भौतिक भूगोल.md",
+        "wordCountStart": 29237,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 17137,
+            "c": 0
+          }
+        ],
+        "id": 219
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 538,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 220
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Polity.md",
+        "wordCountStart": 39954,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -713,
+            "c": 0
+          }
+        ],
+        "id": 221
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Governance.md",
+        "wordCountStart": 7273,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 222
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Social Justice --- सामाजिक न्याय.md",
+        "wordCountStart": 7460,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -42,
+            "c": 0
+          }
+        ],
+        "id": 223
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Agriculture and Planning.md",
+        "wordCountStart": 17043,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -190,
+            "c": 0
+          }
+        ],
+        "id": 224
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Basic Science.md",
+        "wordCountStart": 14861,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -10,
+            "c": 0
+          }
+        ],
+        "id": 225
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Disaster Management.md",
+        "wordCountStart": 1492,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -4,
+            "c": 0
+          }
+        ],
+        "id": 226
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Environment.md",
+        "wordCountStart": 18336,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -392,
+            "c": 0
+          }
+        ],
+        "id": 227
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/05 Prelims/Subject Notes/Science and Technology.md",
+        "wordCountStart": 14554,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -60,
+            "c": 0
+          }
+        ],
+        "id": 228
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Security.md",
+        "wordCountStart": 6714,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1098,
+            "c": 0
+          }
+        ],
+        "id": 229
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Agriculture.md",
+        "wordCountStart": 9493,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1597,
+            "c": 0
+          }
+        ],
+        "id": 230
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Art and Culture.md",
+        "wordCountStart": 7583,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1120,
+            "c": 0
+          }
+        ],
+        "id": 231
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "temporary-dump/Untitled.md",
+        "wordCountStart": 5,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 11242,
+            "c": 0
+          }
+        ],
+        "id": 232
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Economy.md",
+        "wordCountStart": 11895,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1876,
+            "c": 0
+          }
+        ],
+        "id": 233
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Environment and Disaster Management.md",
+        "wordCountStart": 8234,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1580,
+            "c": 0
+          }
+        ],
+        "id": 234
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Art Culture.md",
+        "wordCountStart": 20521,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -161,
+            "c": 0
+          }
+        ],
+        "id": 235
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Agriculture.md",
+        "wordCountStart": 23816,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2,
+            "c": 0
+          }
+        ],
+        "id": 236
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 EconomicDevelopment.md",
+        "wordCountStart": 29614,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -218,
+            "c": 0
+          }
+        ],
+        "id": 237
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Frameworks.md",
+        "wordCountStart": 2476,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -628,
+            "c": 0
+          }
+        ],
+        "id": 238
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Geography.md",
+        "wordCountStart": 7775,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1383,
+            "c": 0
+          }
+        ],
+        "id": 239
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Governance and Social Justice.md",
+        "wordCountStart": 13544,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2297,
+            "c": 0
+          }
+        ],
+        "id": 240
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/GS4.md",
+        "wordCountStart": 27443,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -5629,
+            "c": 0
+          }
+        ],
+        "id": 241
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/History.md",
+        "wordCountStart": 17653,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2719,
+            "c": 0
+          }
+        ],
+        "id": 242
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/S&T.md",
+        "wordCountStart": 5263,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -873,
+            "c": 0
+          }
+        ],
+        "id": 243
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Polity and Governance.md",
+        "wordCountStart": 9229,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1471,
+            "c": 0
+          }
+        ],
+        "id": 244
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 28 MAINS/Society.md",
+        "wordCountStart": 10342,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1619,
+            "c": 0
+          }
+        ],
+        "id": 245
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Geography.md",
+        "wordCountStart": 40162,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1906,
+            "c": 0
+          }
+        ],
+        "id": 246
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 ModernIndianHistory.md",
+        "wordCountStart": 19577,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 247
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 PostIndependenceHistory.md",
+        "wordCountStart": 6072,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 248
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS1 Society.md",
+        "wordCountStart": 32652,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -15,
+            "c": 0
+          }
+        ],
+        "id": 249
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 Governance.md",
+        "wordCountStart": 14174,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -648,
+            "c": 0
+          }
+        ],
+        "id": 250
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 InternationalRelations.md",
+        "wordCountStart": 30189,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -865,
+            "c": 0
+          }
+        ],
+        "id": 251
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 Polity Constitution.md",
+        "wordCountStart": 70205,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -627,
+            "c": 0
+          }
+        ],
+        "id": 252
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS2 SocialJustice.md",
+        "wordCountStart": 19328,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 253
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/04 Sociology/Lecture Notes/PA Lecture 11.md",
+        "wordCountStart": 1526,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -8,
+            "c": 0
+          }
+        ],
+        "id": 254
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/04 Sociology/Lecture Notes/PA Lecture 12.md",
+        "wordCountStart": 8,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2953,
+            "c": 0
+          }
+        ],
+        "id": 255
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/04 Sociology/Lecture Notes/PA Lecture 13.md",
+        "wordCountStart": 5935,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2732,
+            "c": 0
+          }
+        ],
+        "id": 256
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Environment.md",
+        "wordCountStart": 14747,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -72,
+            "c": 0
+          }
+        ],
+        "id": 257
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 InternalSecurity.md",
+        "wordCountStart": 15413,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -189,
+            "c": 0
+          }
+        ],
+        "id": 258
+      },
+      {
+        "date": "2025-06-10",
+        "filePath": "Notes/07 Topper/AIR 16 Madhav Agarwal/GS3 Science Technology.md",
+        "wordCountStart": 18764,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -2007,
+            "c": 0
+          }
+        ],
+        "id": 259
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 161,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 260
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "Accountability to self/10-06-2025, Tuesday.md",
+        "wordCountStart": 13,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 39,
+            "c": 0
+          }
+        ],
+        "id": 261
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "Accountability to self/11-06-2025, Wednesday.md",
+        "wordCountStart": 13,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 49,
+            "c": 0
+          }
+        ],
+        "id": 262
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "Z9 Obsidian-files/Templates/Daily Notes.md",
+        "wordCountStart": 13,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 263
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1847,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -75,
+            "c": 0
+          }
+        ],
+        "id": 264
+      },
+      {
+        "date": "2025-06-11",
+        "filePath": "temporary-dump/10 June 2025 - PIB.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 839,
+            "c": 0
+          }
+        ],
+        "id": 265
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/PIB-Daily.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2198,
+            "c": 0
+          }
+        ],
+        "id": 266
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Tags/Obsidian_test_Tags.md",
+        "wordCountStart": 22,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 267
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Tags/Untitled 1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 268
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "pib/Untitled database.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 144,
+            "c": 0
+          }
+        ],
+        "id": 269
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "pib/pib.md",
+        "wordCountStart": 5,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 5,
+            "c": 0
+          }
+        ],
+        "id": 270
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Notes/04 Sociology/Lecture Notes/Lecture Notes.md",
+        "wordCountStart": 5,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 400,
+            "c": 0
+          }
+        ],
+        "id": 271
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "pib/Prime Minister meets members of various delegations who represented India in various countrie.md",
+        "wordCountStart": 3334,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 74,
+            "c": 0
+          }
+        ],
+        "id": 272
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Tags/Tags.md",
+        "wordCountStart": 5,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 273
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Tags/Untitled database.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 42,
+            "c": 0
+          }
+        ],
+        "id": 274
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Notes/05 Prelims/AR Questions/POLITY QUESTIONS.md",
+        "wordCountStart": 24534,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 275
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Notes/04 Sociology/Lecture Notes/PA Lecture 55.md",
+        "wordCountStart": 1889,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 276
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/PIB-IR.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 276,
+            "c": 0
+          }
+        ],
+        "id": 277
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/temporary-dump.md",
+        "wordCountStart": 5,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 278
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/TITLE AS IT IS..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 694,
+            "c": 0
+          }
+        ],
+        "id": 279
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/1st-Meeting-of-Task-Force-on-Textiles-Exports-held-under-the-Chairmanship-of-Com.md",
+        "wordCountStart": 444,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -57,
+            "c": 0
+          }
+        ],
+        "id": 280
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "temporary-dump/TimeLine..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1401,
+            "c": 0
+          }
+        ],
+        "id": 281
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1772,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 43,
+            "c": 0
+          }
+        ],
+        "id": 282
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/India-Hosts-ITU-FG-AINN-Meeting-to-Advance-AI-Native-Telecom-Networks.md",
+        "wordCountStart": 942,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -25,
+            "c": 0
+          }
+        ],
+        "id": 283
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PIB-Daily/India-Participates-in-2nd-Session-of-IALA-Council-as-Vice-President-in-Nice-France.md",
+        "wordCountStart": 452,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -17,
+            "c": 0
+          }
+        ],
+        "id": 284
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PYQs/Untitled database.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 406,
+            "c": 0
+          }
+        ],
+        "id": 285
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "PYQs/(question will come here).md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 68,
+            "c": 0
+          }
+        ],
+        "id": 286
+      },
+      {
+        "date": "2025-06-12",
+        "filePath": "Untitled/Untitled database.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 406,
+            "c": 0
+          }
+        ],
+        "id": 287
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 161,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 288
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "temporary-dump/Untitled 5.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 8,
+            "c": 0
+          }
+        ],
+        "id": 289
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1815,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 7,
+            "c": 0
+          }
+        ],
+        "id": 290
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/04 Sociology/Paper 1/Modernity and social changes in Europe and the emergence of Sociology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 252,
+            "c": 0
+          }
+        ],
+        "id": 291
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "PIB-Daily/PIB-Daily.md",
+        "wordCountStart": 2309,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 411,
+            "c": 0
+          }
+        ],
+        "id": 292
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/04 Sociology/socio-thematic analysis.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 20909,
+            "c": 0
+          }
+        ],
+        "id": 293
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Z9 Obsidian-files/Templates/Socio-template.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 32,
+            "c": 0
+          }
+        ],
+        "id": 294
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Z9 Obsidian-files/Templates/Mains GS Template.md",
+        "wordCountStart": 27,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14,
+            "c": 0
+          }
+        ],
+        "id": 295
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/Sociology - Gemini guide and prediction for 2026.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2518,
+            "c": 0
+          }
+        ],
+        "id": 296
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/other.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 297
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/Prelims 26 Prediction by Claude 4.0 thinking.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2968,
+            "c": 0
+          }
+        ],
+        "id": 298
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/Socio - 26 predictions by Claude 4 thinking.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1120,
+            "c": 0
+          }
+        ],
+        "id": 299
+      },
+      {
+        "date": "2025-06-13",
+        "filePath": "Notes/00 Misc/Socio - perplexity labs 2026 prediction.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1238,
+            "c": 0
+          }
+        ],
+        "id": 300
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "PIB-Daily/PIB-Daily.md",
+        "wordCountStart": 2720,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 396,
+            "c": 0
+          }
+        ],
+        "id": 301
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 164,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 302
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/05 Prelims/AR Questions/ECONOMICS AR.md",
+        "wordCountStart": 13714,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -378,
+            "c": 0
+          }
+        ],
+        "id": 303
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "MOCs/MOC Socio Paper 1.md",
+        "wordCountStart": 371,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 304
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/00 Misc/Socio-timeline.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1918,
+            "c": 0
+          }
+        ],
+        "id": 305
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 539,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 45,
+            "c": 0
+          }
+        ],
+        "id": 306
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1822,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -170,
+            "c": 0
+          }
+        ],
+        "id": 307
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Z9 Obsidian-files/Templates/Socio-template.md",
+        "wordCountStart": 35,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 12,
+            "c": 0
+          }
+        ],
+        "id": 308
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Z9 Obsidian-files/Templates/Mains GS Template.md",
+        "wordCountStart": 41,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14,
+            "c": 0
+          }
+        ],
+        "id": 309
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "MOCs/MOC GS4.md",
+        "wordCountStart": 334,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 29,
+            "c": 0
+          }
+        ],
+        "id": 310
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/00 Misc/A.W Feedback/A.W. Feedback.md",
+        "wordCountStart": 111,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 6,
+            "c": 0
+          }
+        ],
+        "id": 311
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/00 Misc/A.W Feedback/Sociology.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 94,
+            "c": 0
+          }
+        ],
+        "id": 312
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "MOCs/MOC Socio Topper Notes.md",
+        "wordCountStart": 82,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 8,
+            "c": 0
+          }
+        ],
+        "id": 313
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Socio_Paper 1.md",
+        "wordCountStart": 56092,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -1,
+            "c": 0
+          }
+        ],
+        "id": 314
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/07 Topper/MuditaBansalP1.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 25724,
+            "c": 0
+          }
+        ],
+        "id": 315
+      },
+      {
+        "date": "2025-06-14",
+        "filePath": "Notes/07 Topper/MuditaBansalP2.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 31557,
+            "c": 0
+          }
+        ],
+        "id": 316
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Notes/04 Sociology/Paper 1/Modernity and social changes in Europe and the emergence of Sociology.md",
+        "wordCountStart": 265,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 9,
+            "c": 0
+          }
+        ],
+        "id": 317
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Notes/05 Prelims/AR Questions/ECONOMICS AR.md",
+        "wordCountStart": 13336,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -45,
+            "c": 0
+          }
+        ],
+        "id": 318
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Notes/05 Prelims/Subject Notes/Vivek Singh QnA.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 105440,
+            "c": 0
+          }
+        ],
+        "id": 319
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 584,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 3,
+            "c": 0
+          }
+        ],
+        "id": 320
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "MOCs/MOC GS1.md",
+        "wordCountStart": 314,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 1,
+            "c": 0
+          }
+        ],
+        "id": 321
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "temporary-dump/Indian culture will cover the salient aspects of Art Forms, literature and Architecture from ancient to modern times..md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 57,
+            "c": 0
+          }
+        ],
+        "id": 322
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Notes/00 Misc/Timeline.md",
+        "wordCountStart": 1918,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 535,
+            "c": 0
+          }
+        ],
+        "id": 323
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 30046,
+            "c": 0
+          }
+        ],
+        "id": 324
+      },
+      {
+        "date": "2025-06-15",
+        "filePath": "temporary-dump/Vivek Singh Short Notes.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 12980,
+            "c": 0
+          }
+        ],
+        "id": 325
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 168,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 326
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "MOCs/MOC Socio Paper 1.md",
+        "wordCountStart": 375,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 2,
+            "c": 0
+          }
+        ],
+        "id": 327
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "MOCs/MOC Topper Notes.md",
+        "wordCountStart": 91,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 11,
+            "c": 0
+          }
+        ],
+        "id": 328
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "MOCs/MOC Prelims and Foundation.md",
+        "wordCountStart": 587,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 21,
+            "c": 0
+          }
+        ],
+        "id": 329
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Notes/00 Misc/Timeline.md",
+        "wordCountStart": 2453,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 330
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Karl Marx.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 558,
+            "c": 0
+          }
+        ],
+        "id": 331
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Notes/04 Sociology/Scope of the subject and comparison with other social sciences.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 246,
+            "c": 0
+          }
+        ],
+        "id": 332
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Notes/04 Sociology/Sociology and common sense.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 84,
+            "c": 0
+          }
+        ],
+        "id": 333
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Notes/04 Sociology/Karl Marx - Historical materialism, mode of production, alienation, class struggle.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 356,
+            "c": 0
+          }
+        ],
+        "id": 334
+      },
+      {
+        "date": "2025-06-16",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 148,
+            "c": 0
+          }
+        ],
+        "id": 335
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "000 Dashboard.md",
+        "wordCountStart": 170,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 4,
+            "c": 0
+          }
+        ],
+        "id": 336
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Notes/04 Sociology/Karl Marx - Historical materialism, mode of production, alienation, class struggle.md",
+        "wordCountStart": 356,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 942,
+            "c": 0
+          }
+        ],
+        "id": 337
+      },
+      {
+        "date": "2025-06-17",
+        "filePath": "Notes/00 Misc/Good topper copies.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 17,
+            "c": 0
+          }
+        ],
+        "id": 338
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Notes/04 Sociology/Karl Marx - Historical materialism, mode of production, alienation, class struggle.md",
+        "wordCountStart": 1298,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 10,
+            "c": 0
+          }
+        ],
+        "id": 339
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Notes/00 Misc/Timeline.md",
+        "wordCountStart": 2460,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": -5,
+            "c": 0
+          }
+        ],
+        "id": 340
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Notes/04 Sociology/Modernity and social changes in Europe and the emergence of Sociology.md",
+        "wordCountStart": 274,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 169,
+            "c": 0
+          }
+        ],
+        "id": 341
+      },
+      {
+        "date": "2025-06-18",
+        "filePath": "Notes/00 Misc/Good topper copies.md",
+        "wordCountStart": 17,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 26,
+            "c": 0
+          }
+        ],
+        "id": 342
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Notes/04 Sociology/Modernity and social changes in Europe and the emergence of Sociology.md",
+        "wordCountStart": 445,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 183,
+            "c": 0
+          }
+        ],
+        "id": 343
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Notes/00 Misc/Good topper copies.md",
+        "wordCountStart": 43,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 16,
+            "c": 0
+          }
+        ],
+        "id": 344
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Untitled.md",
+        "wordCountStart": 0,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 14,
+            "c": 0
+          }
+        ],
+        "id": 345
+      },
+      {
+        "date": "2025-06-19",
+        "filePath": "Notes/00 Misc/Strategy Plan.md",
+        "wordCountStart": 1654,
+        "charCountStart": 0,
+        "changes": [
+          {
+            "timeKey": "12:00",
+            "w": 24,
+            "c": 0
+          }
+        ],
+        "id": 346
+      }
+    ],
+    "daysWithCompletedGoal": [
+      "2025-05-02",
+      "2025-05-09",
+      "2025-05-26",
+      "2025-05-27",
+      "2025-06-01",
+      "2025-06-02",
+      "2025-06-03",
+      "2025-06-04",
+      "2025-06-05",
+      "2025-06-06",
+      "2025-06-07",
+      "2025-06-08",
+      "2025-06-09",
+      "2025-06-10",
+      "2025-06-11",
+      "2025-06-12",
+      "2025-06-13",
+      "2025-06-14",
+      "2025-06-15",
+      "2025-06-16",
+      "2025-06-17"
+    ]
+  }
+}
