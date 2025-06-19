@@ -1,1 +1,2 @@
 [[Karl Marx - Historical materialism, mode of production, alienation, class struggle#**Historical Materialism**|historical material]]
+
