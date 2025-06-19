@@ -3,7 +3,7 @@
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
 - [ ] lecture - vishal shah
-#### Topics To-do: #flashcard 
+#### Topics To-do: 
 - **pyq themes**
 	- **Historical Materialism**
 		- [ ] salient features
@@ -35,7 +35,7 @@
 	- [ ] Modes of op
 	- [ ] theory of surplus value
 	- [ ] fetishism of commodities 
-- **topper answer keywords**
+- **topper answer keywords** #flashcard 
 	- ideological state apparatus
 	- ![[image-58.png]]
 	- ![[image-59.png]]
