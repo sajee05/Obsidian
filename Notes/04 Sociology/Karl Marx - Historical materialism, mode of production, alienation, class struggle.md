@@ -114,10 +114,11 @@ cards-deck: Notes::04 Sociology
 ## **Historical Materialism**
 
 ### salient features
+test
 ### historical materialism as a critique of hegelian dialectics (20 marks)
 ### what is fetishism of commodities 
 ### historical materialism's relevance in understanding contemporary societies.
-## **Mode of Production** #card
+## **Mode of Production** 
 ### "It is not the consciousness of men that determines their being, but on the contrary, it is their social being that determines their consciousness." Examine Karl Marx's notion of mode of production in the light of this statement. (1998-60M)
 ### explain marx's analysis of capitalistic mode of production. and intellectual reactions to its views.
 ### marx's ideas on mode of production. (Explain)
