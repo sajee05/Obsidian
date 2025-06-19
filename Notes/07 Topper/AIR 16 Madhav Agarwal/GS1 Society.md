@@ -1,6 +1,6 @@
 ## Dimensions for Society
 
-#### Value Addition: #readagain
+#### Value Addition: 
 
 -   As per Census 2011, only 16% households were joint families in India
 -   Challenges faced by marriage in - child marriage, domestic violence, infidelity (social media affairs)
@@ -350,7 +350,7 @@
         -   Used as vote-bank politics - used more to gain political mileage
         -   May hinder international diplomacy (West Bengal Teesta dispute)
             -   eg: West Bengal- teesta dispute, Tamil concerns- relations with SL, NE region- Myanmar cautious diplomacy wrt army
-        -   Son of Soil Policy (happens in areas of higher ‘in’ migration (bringing outsiders), presence of regional parties, failure of state to acconomdate interests of natives & outsiders) #readagain
+        -   Son of Soil Policy (happens in areas of higher ‘in’ migration (bringing outsiders), presence of regional parties, failure of state to acconomdate interests of natives & outsiders) 
             -   Means that the state constitutes the exclusive homeland of its main language speakers, who are the sons of the soil or local residents
             -   **Reasons:** Competition for industrial jobs, Rising unemployment, Rehabilitation of landowners + Agri distress, Linguistic reorg of state, Misued by regional parties **Needed for (+ve side):** Managing migration; Ensure that businesses do not adopt bias against local people (see them as lazy)
             -   **Issues:** May not pass legal scrutiny (**Article 16** only parl can prescribe residence), Auto industry which contributed to 25% of the state GDP of Haryana will be adversely impacted, Dangerous for unity of the country (open pandoras box); Revival of License Raj (akin to pvt nationalisation); Litigation-Does Article 16 cover pvt jobs or only state jobs; **Dr. Pradeep Jain Case** - Son of S would be unconst but not expressly rules on it
@@ -454,7 +454,7 @@
 ## Secularism (2024)
 
 -   💭: **Definition** (Doctrine that opposes all forms of inter and intra religious domination), **Key terms** [Sarva Dh Sambhav (equal respect to all R), Complete separation vs Principled Distance] **Constitutional** (Article 25-28, Article 14/15/16, 42nd AA, 51A(e)-promote brotherhood; Right to religion is not absolute though), **Challenges/Threats to S** (Indv, Society, Pol, Admin-2.5% Sachar Rerport, PP Secularism rather than Cont Sec, Inter-national, Media), **Good example** (All faith prayer for new parl foundation), **Way Fwds** (Moral Education, Responsible Journalism via PCI Norms, Periodic convention of Nat Integration Council, UCC, PP oversight over spokesperson) **Conclusion** (Soul of R is one, encased in multiple forms-MG; There is no doubt Secularism is relevant to, and appropriate for India and thus must be defended from evils of communalism, casteism, party politics and obscurantaism); Intra-religious denominations examples- Caste discrimination, Prejudice against women, Sectarianism-Shia/Sunni sects) **Contemporary issues** (UCC, Triple Talaq, Sabrimala Case); Read yellow highlights below
--   **Concept:** _Secularization_ is to be understood as a process in which ties of religion, casteist and ethnic particularism are gradually transcended, in which the politics is defined on rationalist and ideological lines, and in which religion, caste and ethnicity are confined to the sphere of ‘private” life #readagain
+-   **Concept:** _Secularization_ is to be understood as a process in which ties of religion, casteist and ethnic particularism are gradually transcended, in which the politics is defined on rationalist and ideological lines, and in which religion, caste and ethnicity are confined to the sphere of ‘private” life 
 -   🏅: Tolerance/Pluralism are the pillars of Indian secularism; Sachar Committee Report-2.5% in bureaucracy; Data on communal violences **2900** cases b/w 2017-2021; (_5 yrs from 17 pe khatra_), Madan Commission;
 -   Intro, Quotes, constitutional articles ✅
     -   Doctrine that opposes all forms of inter and intra religious domination (NCERT)
@@ -472,8 +472,8 @@
     -   More liberal: Indian secularism is more liberal in a sense it is not neutral rather accept every religion in a broader sense
 -   #### Challenges/Threats faced by Secularism
     -   Indv level: Religious fundamentalism (amplified by social media)
-    -   Societal level: **Forced conversions (against Stanislaus judement),** Rise in **majoritarianism eg: Imposition of vegetarianism** (imposing the morals of majority community over the minorities), **Casteism** (greatest roadblock to the furtherance of secularism in our polity), **Obscurantism** is a great hurdle eg: Mob lynching/ **Valentine Day attacks** (people give importance to customs/traditions rather than reason); **Communalism** (data of NCRB 2900 cases b/w 2017-21) #readagain
-    -   **Economics Causes** of Communalism: Unemployment leads to riots; Competition of resources (2008 Indore riots marginalisation of Muslim blacksmiths in tin based industries by Hindus); Ghettoization as observed in Ahmedabad #readagain
+    -   Societal level: **Forced conversions (against Stanislaus judement),** Rise in **majoritarianism eg: Imposition of vegetarianism** (imposing the morals of majority community over the minorities), **Casteism** (greatest roadblock to the furtherance of secularism in our polity), **Obscurantism** is a great hurdle eg: Mob lynching/ **Valentine Day attacks** (people give importance to customs/traditions rather than reason); **Communalism** (data of NCRB 2900 cases b/w 2017-21) 
+    -   **Economics Causes** of Communalism: Unemployment leads to riots; Competition of resources (2008 Indore riots marginalisation of Muslim blacksmiths in tin based industries by Hindus); Ghettoization as observed in Ahmedabad 
     -   **Madan Commission** (1970) said primary builders of communal tensions are politicians
     -   International influence: attacks on minorities in BG, Afghanistan issue
     -   Corporatisation of Media → **Sensationalisation** of news or circulation of fake news
@@ -487,7 +487,7 @@
             -   However write positives of sec in end- that it reforms orthodox practices- Nikah halala, protects minority, politics of dec etc
 -   Contemporary issues with Secularism: ✅
     -   **Sabrimala Case**: Issues as to what constitutes ‘essential religious practice’ which is protected under Article 25. The state/judiciary can intervene only in non-essential matters, however it cannot determine what constituted ERP — the matter is sub judice
-    -   Uniform Civil Code: Covered in → [[2015: Factors that inhibit enacting uniform civil code #readagain: GS-2 Polity & Constitution]]
+    -   Uniform Civil Code: Covered in → [[2015: Factors that inhibit enacting uniform civil code : GS-2 Polity & Constitution]]
     -   Triple Talaq Issue: The new act [Muslim Women (Protection of Rights on Marriage) Act, 2019] declared talaq-e-biddat illegal. Any muslim husband who pronounces such talaq to his wife can suffer imprisonment for a term of three years and also be liable for fine
     -   Santhara/Sallekhana: SC stayed the decision of the RJ High Court and lifted the ban on the practice of Santhara
 -   Good examples: ✅
@@ -510,7 +510,7 @@
     -   2022: 19. Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism? Justify your answer. (Answer in 250 words) 15
         -   **Intro**: Indian form of secularism: Rooted in unique historical circumstances, unlike west’s complete isolation here exists principled distance with equal respect and protection to all religion
         -   India has always been land of tolerance, assimilation, pluralism and has shaped secularism in following ways:
-            -   **Tolerance**: Ancient (Samudragupta allowed Meghavarman to estab monastery); Late Ancient (Harshavardhan adopted buddhism w/o giving up hinduism); Medieval (Akbar- Sul-hi-kul policy, Ibadat Khana, KDR employed muslim in admin); MIH (Bhakti-Sufi, Secular politics of MG Ranade, GK Gokhale), Post indep (no official state religion, Article 25-28, etc), Values of **Vasudev Kutumbakam #readagain**
+            -   **Tolerance**: Ancient (Samudragupta allowed Meghavarman to estab monastery); Late Ancient (Harshavardhan adopted buddhism w/o giving up hinduism); Medieval (Akbar- Sul-hi-kul policy, Ibadat Khana, KDR employed muslim in admin); MIH (Bhakti-Sufi, Secular politics of MG Ranade, GK Gokhale), Post indep (no official state religion, Article 25-28, etc), Values of **Vasudev Kutumbakam **
             -   **Assimilation**: Process by which diff groups are absorbed into dominant culture of country
                 -   eg: Sufi’s influence from Bhakti used yogic postures, breathing technique; Dr BR Ambedkar called for assimilation of downtrodden into mainstream, Sufi saints are revered by all faiths
             -   **Pluralism**: variety seen in smaller groups making them unique
@@ -609,7 +609,7 @@
 ## Globalization - Effects on Indian society (last ques in 2022)
 
 -   💭: **Definition** (Globalisation can be defined as the process of **increasing interdependence and integration** between the countries), **Terms** (Global Village, Borderless World, Vasudev Kutumbhukam, Problems w/o passports; Local events having global conseq and vice versa), **Factors leading to** ⬆ **G** majorly eco (Tech-IT/space tech, Liberal tax norms; MNCs, Shortage of labour, Supra-national bodies, Global challenges, Cultural linkages eg: Buddhism), **Diff forms of impact on Ind Society** (Homogenisation, Hybrid/Glocal, Revival of local), Overall +ve, -ve impact; Impact on health/nutrition, Impact on family, Impact on religion, business, environment; **PYQs** (apart from others includes Impact on women, old age, higher education)
--   💡: Angles to look fwd while analysing Impact of G on anything #readagain
+-   💡: Angles to look fwd while analysing Impact of G on anything 
     -   **Economic**: agriculture/inc-dec in jobs
         -   +ve: WTO, BPO for India, Poverty; -ve: Deficit, MNC tax haven, Casual workforce, GFC 2008, Technocracy of social media, Agri- traditional varieties dying for rice
     -   Impact due to movement of people/Goods&Serv
@@ -624,9 +624,9 @@
         -   🔥 **Impact on culture** (lang, **food, dressing**, education style, **consumerist culture, religious assertion,** MMR-KFC; Boosted **tourism** for india; **Soft power** - Yoga day; Diwali in USA: Fusion culture promoted Pizza dosa; Negatives: Alienation due to ICT; **Commercialisation of festivals**)
     -   **Use other forces** of change to talk about Globalisation (MUG-LIME)
         -   **Marriages**: Live in relationship, same sex marriages, Destination weddings, international cuisines, and fusion ceremonies - cake cutting in ring cermonies
-        -   **Women**: +ve: Social mobilty, Rights (#metoo), Pol (Rwanda model), UN Women, Health, Gig economy, Kutchcraft; -ve: Glass ceiling/wage gaps in MNC, Informal work, Increased vulnerability of sexual exploitation (night work at BPO), Patriarchy in tech
+        -   **Women**: +ve: Social mobilty, Rights (), Pol (Rwanda model), UN Women, Health, Gig economy, Kutchcraft; -ve: Glass ceiling/wage gaps in MNC, Informal work, Increased vulnerability of sexual exploitation (night work at BPO), Patriarchy in tech
         -   **Youth: +ve** (Cosmopolitanism, Employment ⬆, Cultural hybridisation, Foreign Edu); **-ve**(Consumerist attitude, Youth spend less time with the older generation resulting in loss of wisdom handed down; cases of depression and suicide, more deviant behaviour w/o family oversight)
-    -   Use #readagain only for below
+    -   Use  only for below
 -   Basics: ✅
     -   Globalisation is process where people & countries are getting integrated culturally and economically through trade, labour movt, media, travel and cultural exchanges. Involved movement of people, capital, goods & services
     -   Local events global consequences and global events local consequences (Farm Bill response from Rihana, Impact of MeToo in Hollywood to Bollywood) eg: Global food/fuel inflation fuelled by local Russia-Uk conflict
@@ -653,12 +653,12 @@
             -   The same globalization allows for cuisines of various nations to be explored by people across the world like Thai, Chinese, Indian or Mexican
             -   Again, a connected world also allows one to **explore different religions and spiritual paths**. You could be sitting in Jakarta and exploring Taoism, Shintoism, Hinduism or various African/native American religions.
             -   Youtube effect- learning various distant arts, new music like Blues - getting connected to history of other countries
-    -   **Hybridisation: aka Glocalisation** (Global + Local) #readagain
+    -   **Hybridisation: aka Glocalisation** (Global + Local) 
         -   Eg: Mcdonalds not setlling beef products, Remix music culture, Dubbing of Hollywood in local lang, Celebration of new days such as Father’s/Mothers day, Contractual marriages (which are done with an aim for getting visa and generally last till the expiry of visa)
         -   Indian cuisine: Eg Gobi manchurian, McAloo Tikki;
         -   Value systems: For example- the LGBT movement in India got cultural support
         -   Language diversity: Languages such as French, German are learnt at school level along with local languages
-    -   #### Revival of local culture: #readagain
+    -   #### Revival of local culture: 
         -   Eg: International Yoga day, Revival of AYUSH, Concept of GI tags, emerging demand of indian fashion products globally such as chikankari/bandhani, Food like Tandoori Chicken, Namaste Culture, Awareness of local leaders using Google doodles, revival of holy shrines, Culture of Millets eating (multi-grain foods), Hindi at UN
         -   **Indian classical dance and music has got fillip** in the recent years with the efforts of organization like **SPIC MACAY** (nationwide, voluntary movement founded in 1977) and others
         -   Web series like Bandish Bandits- revival of traditional music among youth
@@ -825,7 +825,7 @@
 
 ## Urbanisation, their problems and their remedies (question in 2023)
 
--   #readagain only yellow pointers below (only of 1st next point/para only, rest no need), asked in 2023
+-    only yellow pointers below (only of 1st next point/para only, rest no need), asked in 2023
 -   💭: Intro fact (From 31% to 41% by **2030; 70% GDP**), **Social effects** (disruption of old bonds; Caste→ Class; Annonymity, Mini cultural pot, Suresh Tendulkar Committee ~**13%** popu of urban ppl poor, _normal apni Tendulkar Cmt, 13.7 vs 25.7% tha na_ ), **7 key Problems** (Pol-Gov&Fin, Eco-Infra, Social, Env-Delhi 2% Yamuna patch bt 70% pollution, Housing/Slum, Health-lifestyle/mental h, -ve fallouts on rural areas), **Govt measures** (Smart City, AMRUT, PMSVANIDHI, Jal Jeevan-Urban; Urban Forests), **Way Fwd** (**2nd ARC 6th Report**-Sep cadre, National Urban Policy Framework (_NUPF_) **2018**-Incl cities for LIG, Use of ICT, Cascaded Planning, Transport oriented dev, **NITI**-Model Tenancy Act, Municipal B, Monetise land, Waste to Energy Corporation of India; **15th FC**-publish audit/circle rate; Counter-magnet cities), **Best practices** (Kerela Urban Employement, **Indore Model** of waste management, China’s factory dorms; **Mahila Milan** developing Pune Slums), **Conclusion** (SDG-11)'; **Terms** (Cities are a technology for poverty reduction; Cities act as magnets; sub-urbanisation, RURBAN, Urban Sprawl (low density housing), Urbanisation of pandemic - 10 cities account for half COVID Cases); Global example (New York's GDP > Russia, Tokyo has short transit timing, High popu density of Tokyo); New York and Copenhagen models of Urbanisation (Vertical density, green spaces, bicycle infra, Community Involvement)
 -   #### Conclusion/Way Fwd:
     -   WB President Ajay Banga said “Municipal financing is the way for India's progress''
@@ -1012,7 +1012,7 @@
 
 ## Population and associated issues
 
--   **2024:** Read only next 3 yellow paras below then #readagain
+-   **2024:** Read only next 3 yellow paras below then 
 -   💸: Popu as an asset (if HRD ✔, labour supply, huge market), Role of disapora (remittances, diplomacy); Hetrogenous nature of DD in India; Dual burden on state (old age+ still keep giving jobs); Population Pyramid can be drawn (to show bulge); **Eco Survey - DD by 2041 peak (and overall population to peak at 2061); Youth bulge** (need to tap this dividend; where working > dependent population); China (retirement age inc, primary school converted to old age nursing, huge exp on social capital), High economic growth and sex ratio not relative (Punjab,Haryana,Guj), Son-meta pref; When world is ageing, it needs India
     -   **Schemes** (family planning, chaya/antara contraception 88% data, universal immunisation, Jaya Jaitley Cmt - pushing age up) **Swaminathan Cmt** (Reproductive autonomy for women, universal immunisation, Elderly geriatric care, Women led family planning, Streamlining adoption process), **Development is the best contraceptive, UP unveils New Population Policy 2021-30 (targets low TFR);**
     -   **Migrants**: 450 mn (Census 2011); Inter-State Migrant Workmen Act, 1979 (register migrant worker, license lab contractors - low followed as per Std Commt of Lab, JH survey, NITI - migration at part of dev, Code of Social security), Women 70% migrants
@@ -1054,7 +1054,7 @@
         -   Urbanisation- City life etc
     -   Socio-cultural
         -   Religious or cultural significance attract, social/pol unrest repels
--   #### Characteristics of Indian Demography #readagain
+-   #### Characteristics of Indian Demography 
     -   **TFR** (no of child women have in their fertility age) All india- 2.3, **24 (state+UT) achieved replacement level 2.1** but high in states such as Bihar-3.4, UP 3.1, MP 2.9, Jharkhand 2.7 etc (Lowest states- WB-1.6, Delhi,Punjab,TN,HP- 1.7, Kerela- 1.8)
         -   **TFR as per NFHS-5 has reached 2.0; Inc in adoption of contraceptives (as highlighted by NFHS-5); _BH, UP, MP, etc are above around 3 TFR_**
         -   #### Other data from NFHS-5: Sex Ratio 1020, Institutional deliveries 88% (from 78%)
@@ -1288,7 +1288,7 @@
 
 -   **2024:** Readagain (rest no need to read)
 -   💭: Features of IS, **Caste** (Meaning of Caste & C Sys, Issues, changes, factors affecting changes), **Family** (def of Jt family, features of JF, Fx/Dys-Fx of F, Disintegration, Emergent forms), **Marriage** (Meaning, new forms), Read PYQs
--   #### Features of IS (SF: C3M-JUMP) - Cultural lag, Cosmopolitanism, Coexistence of T&M, Mosaic Model, Jt fam, U in D, Multi-cultural soc, Patriarchy) #readagain (rest no need to read)
+-   #### Features of IS (SF: C3M-JUMP) - Cultural lag, Cosmopolitanism, Coexistence of T&M, Mosaic Model, Jt fam, U in D, Multi-cultural soc, Patriarchy)  (rest no need to read)
     -   **Cosmopolitanism** - Vasudhiav Kutumbakam (Art 51), G20 logo
     -   **Cultural Lag -** rigid/slow in changing core values, compared to peripheral values
     -   **Coexistence of traditionalism and modernity**- marriage (_Fusion cermony cake, Marriage with tree if manglik_)
@@ -1502,7 +1502,7 @@
     -   **Political** Identity: Election is run based on **variety of ideologies** rather than a single
     -   **Legal & Constitutional identity**- **Common thread**, FR-Art **15**, **Single citizenship**, common federal system
     -   **Eco** integration- **freedom of trade and commerce under Art 301**, GST- one nation one tax
-    -   **Social** Integration ⭐ #readagain
+    -   **Social** Integration ⭐ 
         -   **Inter-State mobilty**- freedom of movement and residence **under 19**, All India Services-governance in form of IAS
         -   **Pilgrimage**- From badrinath to kedarnath to dwarka to rameshwaram- **spread throughout** in country- **geo-cultural unity**
         -   **Fairs and festivals** - Diwali celeberated by all religions as festival, **Chirstmas too, Id- distributing sewaiyan etc**
@@ -1528,7 +1528,7 @@
 -   #### Diversity of India
     -   2015: Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. [Types of diversity and their significance (Any 4 cultural elements of India which can be defended with examples]
         -   1. Religious, Linguistic, Cultural (festival, monuments), Racial
-    -   2020: Customs and traditions suppress reason leading to obscurantism. #### Do you agree? #readagain
+    -   2020: Customs and traditions suppress reason leading to obscurantism. #### Do you agree? 
         -   1. Negative:
             1. Tribal in **Odisha** getting **branded by hot iron rods** on stomach as a **cure to Tuberculosis** - later died
             2. **Eating more** during pregnancy will lead to **girl child**
@@ -1577,7 +1577,7 @@
             -   Illiteracy among women (total 74%, men 82% and female 65% or **write there is Literacy gap of 17%**)
             -   **Violence against women** - manifested at various places such as at home (domestic violence **spiked during COVID as per NCW**), at work (workplace harssament), at public places (eve teasing, sexual harrasment), across borders
                 -   **Gender stereotyping**: Women are seen as weak, passive & dependent → **Subject to violence**(same point can be used for all vulnerable sections)
-                -   This **_remains unabated_** _due to stigmatization,_ **_fear of_** **_exclusion from society, low conviction_**_,_ **_broken window theory_**_, corruption of moral values,_ cultural acceptance of domestic violence #readagain
+                -   This **_remains unabated_** _due to stigmatization,_ **_fear of_** **_exclusion from society, low conviction_**_,_ **_broken window theory_**_, corruption of moral values,_ cultural acceptance of domestic violence 
             -   Crime against women showed an increase of 7.3% in 2019 from 2018 as per **NCRB- 39/~40 cases of crimes** against women were recorded **per hour**, **every 16 min rape, _every hour a dowry death_**_,_ living with constant threat of violence- affects motivation
             -   Concept of ‘Paraya Dhan’ due to patrilocal nature of society → Parents refrain from investing in education of girl child whereas boy child is seen as inheritor of family
             -   **Feminization of old age (sex ratio for 60+ is 1033)** due to higher life expectancy. This makes them vulnerable at older ages
@@ -1636,7 +1636,7 @@
             -   Communications and laws made in the parliament are not gender neutral - eg: women in 'l'ship positions are refered as chairmen and partymen; Laws are not made geneder neutral (Whereas Canada's Dept of Justice has guidelines for using gender neutral lang in all legal documents; In 2018 UK's Parliament conducted to understand its culture & env for women as a workspace)
         -   Time (Past challenges, current debates on gender)
             -   Past: Seen participation in Sabha/Samitis in vedic age; _Manu_ said _‘where women are honoured; there reside the Gods’;_ Women are seen as _Ardhangani_ where without them, any crucial work/ritual is incomplete
-            -   **Current debates**: #MeToo, Marital Rape, DV during COVID, Sabrimala (religion vs women equality), FGM, TT issues wrt UCC
+            -   **Current debates**: , Marital Rape, DV during COVID, Sabrimala (religion vs women equality), FGM, TT issues wrt UCC
         -   Space (Urban, Rural, Domestic, Public, West, East)
             -   Rural areas: Femi of agri, Rigid structure of society, lesser opportunities for mobility
             -   Urban areas: Challenges related to violence, isolation
@@ -1729,7 +1729,7 @@
         -   Structural transformation of the economy, gender parity in wages and expanded social protection are the strategies pursued through which more women can take part in economic activities
         -   Expansion MGNREGA or Urban employment guarantee focused on women
     -   Social:
-        -   ⭐ Violence against women: #readagain
+        -   ⭐ Violence against women: 
             -   Short term: Fast track courts, self defence training, Community police/mohalla committes, Mahila police stations, active role of NGO/SHG, Outcome based budgeting, Self-regulation for media so that there is no over-sensitization
             -   Long term: Moral overhauling of society, Engage men & boys as change agents (He 4 She , MARD(Men against rape and discrimination) campaign), Break the Loop campaign by Star Plus for women empowerment
         -   Dowry: Naming & shaming; Promote Aadarsh marriages, Educating & empowering women, promoting age to 21
@@ -1800,7 +1800,7 @@
         -   **Section 375 of IPC has 2 exception**; Stat: NFHS-5 1 in 3 women b/w 18-49 have faced spousal abuse
         -   **Favour:** Psyhological effects; Women safety (fact above); CEDAW committements; Rape is rape said Karnataka HC; Martial rape good ground to claim divorce said Kerela HC
         -   **Against:** Misuse of law; Burden of proof; Breakdown of marriage as an institution
-    -   #### Raising the Age of Marriage #readagain
+    -   #### Raising the Age of Marriage 
         -   #### Current Act = Special Marriage Act 1954 & Prevention of Child Marriage Act 2006: Ages as 18 and 21 (Jaya Jaitley TF)
         -   Prevention of Child Marriage Act 2006 will get amended
         -   Arguments for:
@@ -1828,7 +1828,7 @@
             -   **UNICEF-India on POSCO Act** - **One in every four** cases under POCSO Act constituted romantic cases. o **>90% cases ended with acquittals**
             -   Other side: Higher age leads to regulation of maternal mortality and early child birth; Min age of consent and age of marriage are seen as linked (which needs to be overcome)
             -   WF: Justice JS Verma recommeded age to be brought to 16 yrs; CJI DY Chandrachud called for legislative reforms to address the gap
-    -   #### Women Reservation in Legislature - Nari Shakti Adhiniyam Act #readagain
+    -   #### Women Reservation in Legislature - Nari Shakti Adhiniyam Act 
         -   **Provisions: 106th AA**; New Article **330A** and Article **332A** Inserted for **LS/State LAs**; After delimitation; **15 years**; **Periodic Rotation**
         -   Need: Under rep of women; **Rawanda/Iceland positive evidence**; **Gender-sensitization** of public policy (low FLFP, crimes - **‘India Spend' Report**); **International mandate under CEDAW**/Beijing declaration
         -   Issues: **Against equality principle**; Women, **unlike caste groups, are not a homogeneous**; **Other issues unaddressed** (criminalisation, internal demo); **No reservation in RS and LC** of States; **Proxy culture like sarpanch pati; Diverts attention from larger issue**

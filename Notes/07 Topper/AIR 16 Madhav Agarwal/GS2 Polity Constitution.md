@@ -2162,7 +2162,7 @@ Conclusion
 2.  The constitution is the supreme law of the land, deriving its power from the people
 3.  PM Modi: Need campaign for New KYC (Know your constitution)
 
-#### COMPARION #readagain (read below of UK, US, France)
+#### COMPARION  (read below of UK, US, France)
 1.  **UK**
     1.  Unwritten
     2.  Flexible too much
@@ -2213,7 +2213,7 @@ Conclusion
     9.  Amend - 60% majority
     10. Frequently amended
 
-#### 2018: India and USA Are Two Large Democracies. Examine the Basic Tenets of Which the Two Political Systems Are Based #readagain
+#### 2018: India and USA Are Two Large Democracies. Examine the Basic Tenets of Which the Two Political Systems Are Based 
 1.  Compare both countries on the basis of the table given below
 2.  **Crucial difference is that In USA, there is a clear-cut separation of powers** between judiciary, executive and legislature while the same is not observed exactly in India, as there is fusion between executive and legislature
 3.  Compare federal system in both nations (union of india vs indestructible state in USA)
@@ -2225,7 +2225,7 @@ Conclusion
 7.  **Conclusion:** Largest and oldest democracry have constitutions that works well in their own socio-political context
 8.  **2023**: Recently, **affirmative action was turned down by US Court** as it **violated the concept of equality**
 
-#### India vs UK’s Polity Comparison #readagain
+#### India vs UK’s Polity Comparison 
 1.  **Indian Parliament similarities: Collective responsibility** of the **executive**; **Membership of the executive in the legislature**; **Dissolution** of the lower house; **Majority party rules** under the **PM**
 2.  **Differences**: Republic vs Monarchy; Const vs Parliament’s Sovereignty; **PM in UK must be member of Lower house**; UK has legal respon of the **ministry by countersigning official** acts; Shadow cabinet is present in UK’s system; No restriction on ministers being an MP on appointment in India (**6m become member) but not allowed in UK**
 
@@ -2283,7 +2283,7 @@ Conclusion
 #### Historical Underpinnings:
 1.  Several laws and regulations passed by the British played their role in shaping the Constitution:
     1.  **Post the Charter Act of 1833**, there was a **gradual increase in the membership of the Governor-General’s Council** and further separation of powers.
-2.  The Government of India Act, **1858** passed shortly after the 1857 revolt led to **bureaucratic development** in India **#readagain**
+2.  The Government of India Act, **1858** passed shortly after the 1857 revolt led to **bureaucratic development** in India ****
     1.  The Indian Councils Act, **1861** sowed the seed for **the legislature as an independent entity (along with Portfolio system)** separate from the Executive Council, a step forward in the Parliamentary type of system.
 3.  **The Indian Councils Act, 1892 (legislative councils to discuss budget), Morley-Minto reforms of 1909 (powers to the members of council to ask supplementary questions, move resolution on budget, brought ‘element’ of election) and Montagu-Chelmsford report of 1919 cemented the distribution of power and growth of representative government (by separating of central and provincial subjects , introduction of bicameralism majority of members were to be elected, further the Simon commission recommended continuation of responsible government)**
 4.  In a way today’s parliamentary system has **evolved through the various charters and acts** ,which itself were the result of the efforts of freedom fighters during the freedom struggle ,making the parliamentary democracy Organic to India.
@@ -2601,7 +2601,7 @@ The Government of India Act 1935, however, had introduced several features which
     - 2018 Verdict: Practice in sabrimala violates Article 17 (purity-impurity concept)
         - Justice Indu Malhotra dissented - interfere only in pernicious practices such as sati
 - **Doctrine of Essentiality was invented in Shirur Mutt Case 1954 where court took upon itself the responsibility of determining the essential and non-essential practices of a religion**
-    - **Application of doctrine -** Triple talaq case; Sabrimala case; Ban of Hijab not essential Karnataka HC, Ananda Marga sect (Tandav Case), Sikh Beard Case, **Shah Bano case**; _Judiciary entering into domain of theology, Nihil Soni (upheld Santhara as part of ERP); Stanis Laus case (right to covert not part of propogation)_ **_#readagain_**
+    - **Application of doctrine -** Triple talaq case; Sabrimala case; Ban of Hijab not essential Karnataka HC, Ananda Marga sect (Tandav Case), Sikh Beard Case, **Shah Bano case**; _Judiciary entering into domain of theology, Nihil Soni (upheld Santhara as part of ERP); Stanis Laus case (right to covert not part of propogation)_ **__**
     - Current Status: Matter is sub judice and following questions are in raised:
         - Balance between Article 14 and Article 25/26
         - Whether a court can probe whether practice is essential or should it be left to religious head
@@ -2880,7 +2880,7 @@ Though much has been achieved but still there is a long way to go to accomplish 
 - **Way forward :** Instead of using it as an emotive issue to gain political advantage, **political and intellectual leaders should try to evolve a consensus**. Government **must adopt a “Piecemeal” approach-** could bring separate aspects such as marriage, adoption, succession and maintenance into a uniform civil code in stages
 - ⭐ **Property Owners Association** vs State of Maharashtra - opportunity to settle a constitutional clash b/w FR & DPSP
 
-#### 1998: Briefly State the Stages Through Which the Present Position of the Directive Principles Visa-Vis the Fundamental Rights Has Emerged (DPSP Vs FR) (Repeat Question) #readagain
+#### 1998: Briefly State the Stages Through Which the Present Position of the Directive Principles Visa-Vis the Fundamental Rights Has Emerged (DPSP Vs FR) (Repeat Question) 
 - **Champakam Dorairajan Case** (1951) Supreme Court ruled that **in any case of conflict between Fundamental Rights and DPSPs, the provisions of the FR would prevail** but SC also ruled that Parliament can amend Fundamental Rights to implement DPSPs.
     - Result: Parliament made the First Amendment Act (1951), the Fourth Amendment Act (1955) and the Seventeenth Amendment Act (1964) to implement some of the Directives.
 - **Golaknath Case (1967)** Supreme Court ruled that **Parliament cannot amend FR** to **implement DPSP**
@@ -2924,7 +2924,7 @@ Though much has been achieved but still there is a long way to go to accomplish 
         - In Minerva Mills (1980) case, SC said that judicial review is the basic structure of the constitution and hence can’t be taken away (overruled clauses 4/5 inserted in Art. 368 by 42nd AA that took away JR). Hence, giving a stamp to the basic structure.
         - In Waman Rao Case 1981, SC said BSD will apply to amendments post 24th April 1973
 
-#### Significance: #readagain
+#### Significance: 
 - BSD is the testimony to the theory of **constitutionalism (**acts a moral check on the parliament)
 - **Check on unbridled power of parliament** and ensures its accountability
 - Policies and rights are formed keeping BSD into consideration
@@ -2961,7 +2961,7 @@ Though much has been achieved but still there is a long way to go to accomplish 
         - Special officer for linguistic minorities u/a 350-B
     - 24th, 25th AA covered above in BSD; 26th AA abolished privy purse
 
-#### 42nd AA 1976: #readagain
+#### 42nd AA 1976: 
 - Later restored
 - **Made constitutional amendments beyond judicial scrutiny**
 - **Curtialed power of judicial review** and writ jurisdiction
@@ -2973,7 +2973,7 @@ Though much has been achieved but still there is a long way to go to accomplish 
 - Provided for creation of **all-India judicial services**
 - National **Emergency to a part territory** of India
 - Shifted five subjects from the state list to concurrent list -- education, forests, environment, weights, etc.
-- ⭐💣⭐ 44th AA 1978: ⭐💣⭐ **#readagain**
+- ⭐💣⭐ 44th AA 1978: ⭐💣⭐ ****
     - **Constitutional protection to publication in newspaper** of the proceedings of the Parliament and State Legislatures
     - Restored the jurisdiction of High court and the Supreme Court in respect of judicial review and issue of writs
 - **Empowered president to send back advice of council of minister for reconsideration**

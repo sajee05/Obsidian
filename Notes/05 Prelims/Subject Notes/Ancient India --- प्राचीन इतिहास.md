@@ -1,6 +1,6 @@
 ## THEMES IN ANCIENT HISTORY
 
--   **Theme 1: Pre-historic Period:** #flashcard
+-   **Theme 1: Pre-historic Period:** 
     -   Paleolithic
     -   Mesolithic
     -   Neolithic

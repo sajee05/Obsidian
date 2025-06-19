@@ -393,7 +393,7 @@
     - Domestic Violence
         - E.g. physical, emotional, and sexual abuse within their homes.
     - Sexual Harassment and Assault
-        - #MeToo movement
+        - # MeToo movement
     - Dowry System leading to financial strain
         - Example: Cases of dowry harassment and dowry deaths
     - Child Marriage
@@ -600,7 +600,7 @@
 ### Way forward
 - Education : Beti Bachao, Beti Padhao.
 - Economic Empowerment : SHGs like SEWA by ELA BHATT
-- Media Campaigns : #HeForShe.
+- Media Campaigns : # HeForShe.
 
 - Modernizing laws
     - e.g. POCSO, UCC etc.
@@ -1152,7 +1152,7 @@
     - Bollywood hip-hop
 - Erosion of Traditional Values:
 - Global Awareness and Solidarity on issues like climate change, human rights, and social justice
-    - Fridays for Future, #metoo
+    - Fridays for Future, # MeToo
 - Social and political fragmentation within societies
     - Brexit, Make America Great Again campaign
 - Revival of local culture

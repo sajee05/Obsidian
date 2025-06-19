@@ -303,7 +303,7 @@
 
 - **Collective effort** (not individual action)
 - **Sustained** (not momentary outburst like vandalizing bus after accident)
-- **Organized** (formally like Indian National Congress in freedom struggle, or informally like #MeToo movement)
+- **Organized** (formally like Indian National Congress in freedom struggle, or informally like # MeToo movement)
 - **Change-oriented** (demand certain change OR prevent certain change)
 
 ### Examples of Social Movements

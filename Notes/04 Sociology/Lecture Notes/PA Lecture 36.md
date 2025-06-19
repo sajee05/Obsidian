@@ -261,7 +261,7 @@ Different classes can afford different kinds of:
 - **Content Characteristics**: Uncensored, unfiltered, uncontrolled by big and powerful traditional media
 - **Traditional Media Control**: Typically owned and controlled by dominant sections of society
 - **Democratic Platform**: Social media becomes platform for expression of marginalized sections
-- **Examples**: Black Lives Matter movement, #MeToo movement primarily through social media
+- **Examples**: Black Lives Matter movement, # MeToo movement primarily through social media
 - **Advantages**: Anonymity, accessibility, can create account without money to vent against issues
 
 ## Key Points
@@ -308,4 +308,4 @@ Different classes can afford different kinds of:
 |                                | David & Gaither               | • Victim blaming • Past aggression highlight • "Asking for it" narrative              |
 | **Social Media Resistance**    | Warren's Analysis             | • Increasing reliance • Uncensored content • Unfiltered information                   |
 |                                | Traditional Media             | • Controlled by dominant sections • Big and powerful ownership                        |
-|                                | Democratic Platform           | • Marginalized expression • Anonymity • Accessibility • #MeToo movement               |
+|                                | Democratic Platform           | • Marginalized expression • Anonymity • Accessibility • # MeToo movement               |

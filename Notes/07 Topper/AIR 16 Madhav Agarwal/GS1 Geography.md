@@ -50,7 +50,7 @@ The global climate system is an interactive system consisting of five major comp
 ##### 2022 - 16. Mention the significance of straits and isthmus in international trade. (Answer in 250 words) 15
 
 - **Context**: Context of ship getting blocked in Suez Canal which led to global issues + using choke points as strategic leverage
-- Define both the terms and draw diagrams and world map to mark their points (#IPAD)
+- Define both the terms and draw diagrams and world map to mark their points (IPAD)
 - **Straits**:
     - Strait of Hormuz (oil supplies)
     - Strait of Gibraltar (access to markets, goods, RM)
@@ -233,7 +233,7 @@ The global climate system is an interactive system consisting of five major comp
 
 - Increase the level of awareness to save life/property; Gear up the admin to carry out rescue and rehab
 - 4 stages of warning: Pre-cylone watch, Cyclone alert (when system intensifies), Cyclone warning, Post landfall outlook (area to be affected)
-- **Map**: Cylone map just pencil line sketch of areas in GJ, Bharuch, Goa and whole Easter coastline (refer #IPAD)
+- **Map**: Cylone map just pencil line sketch of areas in GJ, Bharuch, Goa and whole Easter coastline (refer IPAD)
 - Wind speed is crucial in cyclones: as it determines storm surge (which can lead to coastal flooding, floods in river channels) as well as overall intensity of cyclone
 - Refer image: (G → Y → O → R)
 ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 1.png>)
@@ -307,7 +307,7 @@ The global climate system is an interactive system consisting of five major comp
 
 #### 2022 - 15. Describing the distribution of **rubber** producing countries, indicate the major environmental issues faced by them. (Answer in 250 words) 15
 
-- Rubber plantation crop, introduced during colonial period, tropical regions (#IPAD)
+- Rubber plantation crop, introduced during colonial period, tropical regions (IPAD)
 - Ideal conditions: Soil needs to drained, Warm humid climate above 20 degree, No stagnant water
 - Env issues: Reduce biodiversity (reduced in Thailand) by clearing large tracts of forests thus boosting to climate change, excessive usage of water resources, contamination, Soil prone to sheet erosion, Monoculture affects natural vegetation eg: Kerala, etc
 
@@ -317,7 +317,7 @@ The global climate system is an interactive system consisting of five major comp
 - **Potential**:
     - Draw a map
     - Estimated 302 GW and installed in 40 GW (thus scope is immense)
-    - refer map in #IPAD
+    - refer map in IPAD
     - Offshore- 7000 km + water bodies coastline provides steady movt of winds
     - Onshore- Arid regions with no frictions on ground surface = GJ, RJ, MH (frictional resistance is less, wind speed is great → greater productivity)
     - Even Island territories of A&N, Lakshadweep can be made; Use eastern ghats hilly tracks
@@ -441,7 +441,7 @@ The global climate system is an interactive system consisting of five major comp
         - Normal notion-wind affect oceans and oceans affect wind
     - **Climate Change/GW** (Sea level rise, ⬆ freq of disasters; Dead zones; Eutrophication; Ocean acidification; Ocean chemistry eg: Global W impact on corals then use these points, Unseasonal rains, IAS)
 
-### MISCELLANEOUS PTS: #readagain
+### MISCELLANEOUS PTS: 
 
 - Corals generate $2.7 trillion pa in trade and tourism; Protection against disasters; Study of the provide record of climatic events
 - Western disturbances are temperate cyclonic waves originating in the Mediterranean Sea region due to formation of fronts. The clouds formed by theses front are carried to India by jet streams
@@ -462,7 +462,7 @@ The global climate system is an interactive system consisting of five major comp
 - **Water scarcity in megacities**: **WF**: Demand side (Greywater usage as done by California; Innovative solutions - desalinsation plants in Perth Aus; Supply: Revitalise lakes; Integrated water mgmt of Cavery river; **Concl**: In **NARMADA BACHAO ANDOLAN V UNION OF INDIA (2000)**, the Court concluded that water is part of the right to life enshrined in Article 21 of the Constitution
 - **Large Solar plants**: Examples (Rewa, Belgavi in KR, Bhadla solar plant in RJ); **WF to balance with env**: Site selection (barren lands used in Rewa); Promote Agrivoltaics; Advanced cleaning methods to save water
 
-### POINTS FROM TRYST WITH DESTINY #readagain
+### POINTS FROM TRYST WITH DESTINY 
 
 - **Data**: As per IPCC 6th ARC: Current ice cover of glaciers lowest since 1850, Arctic to be ice-free atleast once before 2050;
 - **Example/Case Study based introduction to an answers** → Case of rampant illegal sand mining at National Chambal Sanctuary
@@ -486,7 +486,7 @@ The global climate system is an interactive system consisting of five major comp
     - Recent 30x30 target set by Kunming-Montreal Protocol of CBD
     - India committed to Ocean Clean Seas Campaign (reduce SUP plastic);
     - Write sth obvious (then mention IPCC Assessment Report eg: Sea level is rising or Glaciers are melting)
-- **2024**: Use → #readagain
+- **2024**: Use → 
 
 ### GEOMORPHOLOGY - EARTH (ORIGIN, THEORIES, SHAPE, MOVEMENTS, INTERIORS, CRUST)
 
@@ -703,7 +703,7 @@ The below image cover all types of plate movts (Details of these convergences is
         e.g. Water table in Barkitand village of Giridih district (JH) has fallen from 8 metre below the ground level in 2013 to about 10 m in 2017
     7.  Rampant mining and expanding urbanisation eg: impact on the state of Goa, Mining threat looms over Aravalis in Haryana. The dust from the mining areas settles and retards water infiltration. Jharkhand, Chhattisgarh and Orissa
 4.  **Above are manmade causes to desertification**, whereas we also have various natural causes leading to desertification such as erosion by water (leading to badland topography in Chambal); as well as landslides, forest fires, flash floods (all these drain away the top soil leading to desertification) and wind erosion leading to removal of top soil which takes years to get restore; Glacial retreat causing top soil to become bare
-5.  **Measures to tackle**: Prevention of soil erosion; improved **early warning system** and water resource management; **Sustainable pasture,** forest and livestock management; **Aero-seeding** over shifting sand dunes; narrow strip planting, **windbreaks and shelter-belts** of live plants; **Agroforestry** ecosystems (increases farmer incomes - **ISHA AGRO MOVEMENT**); **Afforestation and Reforestation (as desertification mainly caused by vegetation loss)**; introduction of new species and varieties with a capacity to tolerate salinity and/or aridity; and environmentally sound human settlements #readagain
+5.  **Measures to tackle**: Prevention of soil erosion; improved **early warning system** and water resource management; **Sustainable pasture,** forest and livestock management; **Aero-seeding** over shifting sand dunes; narrow strip planting, **windbreaks and shelter-belts** of live plants; **Agroforestry** ecosystems (increases farmer incomes - **ISHA AGRO MOVEMENT**); **Afforestation and Reforestation (as desertification mainly caused by vegetation loss)**; introduction of new species and varieties with a capacity to tolerate salinity and/or aridity; and environmentally sound human settlements 
 6.  India has adopted the goal of achieving **Land Degradation Neutrality (LDN) by 2030** as adopted under SDG 15 (or Bonn Challenge)
 
 #### 2013- Major hot deserts in northern hemisphere are located between 20-30 N latitudes and on the western sides of the continents. Why?
@@ -1418,7 +1418,7 @@ The below image cover all types of plate movts (Details of these convergences is
 7.  **Other information**:
     1.  **National Investment & Manufacturing Zones** (NIMZs) are one of the important instruments of National Manufacturing Policy, 2011. While main objective of Special Economic Zones is promotion of exports, while **NIMZs** are based on the principle of industrial growth in partnership with States and **focuses on manufacturing growth** and **employment generation. NMIZ** Examples: **NAGPUR in MH, CHITTOOR in Andhra Pradesh, MEDAK in Telangana,** to name a few
 
-#### Major industrial regions (Corridors alag hai regions alag hai) of India #readagain (only yellow)
+#### Major industrial regions (Corridors alag hai regions alag hai) of India  (only yellow)
 
 1.  **Sequence: North to west to south to east to centre**
 2.  **Gurgaon (HY)-Delhi-Meerut (UP) region**
@@ -1440,7 +1440,7 @@ The below image cover all types of plate movts (Details of these convergences is
 
 #### Iron and Steel Industry
 
-- **Iron ore distribution across the world (these regions also have coal) #readagain**
+- **Iron ore distribution across the world (these regions also have coal) **
     - **Germany — Ruhr Valley**, **Saxony region**
     - **US — Appalachian**-Pennsylvania-Great lakes
     - **Britain** — **Lancashire, York shire**, South wales
@@ -1552,7 +1552,7 @@ The below image cover all types of plate movts (Details of these convergences is
 #### 2017- Petroleum refineries not necessarily located nearer to crude oil producing areas particularly in many developing countries. Explain its implications, 2004- Examine distribution of oil refineries in India
 
 - Oil is extracted from the oil fields is in its **crude form** and contains many impurities. It is **refined in oil refineries** before use. After refining various products such as kerosene, diesel, petrol, lubricants, bitumen etc are obtained.
-- **Oil fields then discuss “Refineries” #readagain**
+- **Oil fields then discuss “Refineries” **
     - **West India**:- **Guj (Jamnagar, Ankleshwar,** Lunej, Ahmedabad), **Mumbai High**, **Rajasthan** (inland oil discoveries in **Barmer**)
     - **East coast- Godavari, Krishna, Cauvery**
     - **NE India:-** Assam- oldest oil producing state- **Digboi, Guwahati, Naharkatiya**
@@ -1577,11 +1577,11 @@ The below image cover all types of plate movts (Details of these convergences is
 - **Natural Gas**: **SIBERIAN BASIN** in Russia, **PERSIAN GULF**, **TURKMENISTAN** (TAPI), **HUGOTON** in USA
 - **Coal: Location coverd above in image wrt Iron-ore near coal fields**
     - Other areas - **Africa (South Africa, Zimbabwe, Zaire, Mozambique)**
-    - **Coal in India:** 9th largest reserves but 2nd highest importer (in 2019) 😐 #readagain
+    - **Coal in India:** 9th largest reserves but 2nd highest importer (in 2019) 😐 
         - Gondwana Belt (98%): **Jha**rkhand (**Ra**niganj in WB, **Jha**ria, **Bo**karo - **RaJha Bose**), **Talcher** in Odisha, Son-Damodar Valley, **Korba** in CG, **Neyveli** in TN, Ranigarh, **Makum** (north east)
         - **Tertiary Belt (2%):** Upper Assam, **Garo, Khasi, and Jaintia** hills, **Jammu**
         - ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 12.png>)
-- 🧨**Critical Minerals:** Minerals **essential for economic dev and security** and **whose lack of availability** due to presence in some geo locations and thus **cause supply chain vulnerability (Critical M = Economic Imp** **+ Supply risk) #readagain**
+- 🧨**Critical Minerals:** Minerals **essential for economic dev and security** and **whose lack of availability** due to presence in some geo locations and thus **cause supply chain vulnerability (Critical M = Economic Imp** **+ Supply risk) **
     - **Both metals and non-metals** vital for economic well being; **Suffering from resource nationalism** (**Indonesia**, China putting export restriction on critical minerals); Geological scarcity
         - Eg: Nickle, Cobalt, Lithium, Rare E Minerals
     - **Application**: **(For Eco dev, For Climate action, Defence/Sec)** for clean tech, EV, solar panels, security (aerospace and defence), fuel cell, semiconductor, defence such as cobalt, nickel, lithum, graphite (all for battery, import from China of all, lithum from LA), also rare earth minerals-17 in elec and sem
@@ -1590,7 +1590,7 @@ The below image cover all types of plate movts (Details of these convergences is
         - **India**- GSI survey, **eg In Reasi distt(JK) lithium found,** Khanji Bidesh India ltd(KABIL) JV in foreign for lithium cobalt, inducted into **Mineral Security Partnership of US** for pvt /public inv (_late mover now need to capitalise_); Govt notified 30 strategic critical minerals
     - **Global: C**obalt in D.R.**C**ongo; Lithium in Australia; **N**ickel in Indo**n**esia; Rare earth minerals by 60% res/production by China while Vitenam+Brazil in REE reserves and US/Aus (ie. Quad :p) in REE production; Platinum in South Africa
 
-#### LITHIUM DEPOSITS IN INDIA #readagain
+#### LITHIUM DEPOSITS IN INDIA 
 
 - GSI found Lithium **inferred** resources (G3) of **5.9 million** tonnes in Reasi distt(JK)
 - Global Distribution of Lithium: 75% by Lithium Triangle (Argentina, Bolivia, and Chile); While China control half of lithium processing; Australia also major player
@@ -1598,7 +1598,7 @@ The below image cover all types of plate movts (Details of these convergences is
 - **-ves**: Himalayan region fragile; **Pollution** (1 tonne = 15 tonnes of CO2, land degradation due to open-pit); Still in the inferred category; **Water intenive (1 tonne = ~2 million litre water)**
 - **WF: Sustainable mining; Diversification of supply chain; More R&D**
 
-#### Rare Earth Minerals: These are group of 17 metals which have **unique magnetic, luminescent, and electrochemical** properties. They are called **'rare earth' because earlier it was difficult to extract them from their oxides forms technologically. #readagain**
+#### Rare Earth Minerals: These are group of 17 metals which have **unique magnetic, luminescent, and electrochemical** properties. They are called **'rare earth' because earlier it was difficult to extract them from their oxides forms technologically. **
 
 - **Distribution:** China (both reserves & production) once made 90% (now about 60% by China); Other major players Vietnam & Brazil in terms of reserves while US/Aus (Quad) in terms of production; India has Light REEs
 - ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 13.png>)
@@ -1608,7 +1608,7 @@ The below image cover all types of plate movts (Details of these convergences is
 - **Env Issues**: GHG release (CO2, NOx, CO), Soil acidification, Eutrophication, Water usage, Particulate pollution (dust, chem released)
 - **WF**: **Sustainable extraction practices (env regulation,** minimise pollution); International collaboration, **Recycling and Recovery; Boost R&D**
 
-#### Semi Conductor Industry #readagain
+#### Semi Conductor Industry 
 
 - From **availability of raw materials** to **designing and manufacturing**, the global semiconductor supply chain is **highly fragmented**
 - USA held approximately **47% of total semiconductor market share in 2020**
@@ -1668,10 +1668,10 @@ The below image cover all types of plate movts (Details of these convergences is
 - **Resources in Africa**
     - ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 16.jpeg>)
     - Known to hold **30% of world mineral** resources- epicentre
-    - North Africa- Highly rich in **oil production**, Southern Africa- famous for **gold, platinum & diamond** production, Namibia/Malawi- rich in **nuclear fuel**, Tin, East Africa- rich in gold, aluminium, **bauxite**, diamond, **Dense equatorial forest** in **Congo** basin- forest natural resources #readagain
+    - North Africa- Highly rich in **oil production**, Southern Africa- famous for **gold, platinum & diamond** production, Namibia/Malawi- rich in **nuclear fuel**, Tin, East Africa- rich in gold, aluminium, **bauxite**, diamond, **Dense equatorial forest** in **Congo** basin- forest natural resources 
         - India- being emerging country requires almost all natural resources for developement but fierce competition in form of Scramble for Africa 2.0 in form of china and other west countries challenge
         - Other challanges such as internal rifts, civil wars, at some places hostile attitudes towards Indian capitalists, high corruption- competition in form of Scramble for Africa 2.0; India need to overcome this;
-- **Indian Efforts**: India **active in Zimbabwe for coal** and other energy resources- **ONGC VIDESH** has 25% **stake** in **GREAT NILE PETROLEUM CO in Sudan**, India looking for **Uranium from Malawi** **and Namibia**, Co such as **BHARTI AIRTEL; TATA** (**Vehicle assembly** plant in **South Africa**) #readagain
+- **Indian Efforts**: India **active in Zimbabwe for coal** and other energy resources- **ONGC VIDESH** has 25% **stake** in **GREAT NILE PETROLEUM CO in Sudan**, India looking for **Uranium from Malawi** **and Namibia**, Co such as **BHARTI AIRTEL; TATA** (**Vehicle assembly** plant in **South Africa**) 
 - 🌟 Not only natural resources but Peacekeeping, ITEC
     - Peacekeeping, humanitarian grants, ITEC,other initiatives such as Pan-African e network for tele edu. Medicine, India- africa tech inst in ghana , scholarship to african students in india
 
@@ -1838,7 +1838,7 @@ The below image cover all types of plate movts (Details of these convergences is
 #### 2013- With growing scarcity of fossil fuels, the Atomic energy is gaining more and more significance in India. Discuss availabilty of raw material required for generation of AE in India and world
 
 - Facts and Fears covered in Nuclear energy GS3
-- Most imp materials for Nuclear Energy- Uranium and Thorium #readagain
+- Most imp materials for Nuclear Energy- Uranium and Thorium 
 - In India( Not much Uranium( therefore need imports in large quantity) but thorium abundant)
     - **Thorium**- obtained from monazite and ilmenite beach along the coast of Kerela(pallakad, kolam districts) , TN, Vishakhapatnam in AP, Mahanadi near Orissa
     - **Uranium deposits** in **Jaduguda mines (JH), Aravalli Range**, Cuddapah basin (AP), **Mahadek basin (Meghalaya)**
@@ -2008,14 +2008,14 @@ The below image cover all types of plate movts (Details of these convergences is
     - Types: Tropical cyclones between the Tropics; Extra tropical cyclones (temperate/frontal)
         - Difference: Tropical cyclone higher speed; but Temperate has larger area and longer duration (15-20 days); Temperate is both on land and water; Area (tropics vs temperate); Direction (east to west in tropical vs west to east in temperate)
 - ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 19.png>)
-    - The **conditions favourable for the formation of tropical cyclones** are: #readagain
+    - The **conditions favourable for the formation of tropical cyclones** are: 
         - Large sea surface with temperature higher than 27° C.
         - **Small variations in the vertical wind speed**
         - A **pre-existing weak low- pressure** area or low-level-cyclonic circulation
         - **Presence of the Coriolis force** (coriolis force absent at equator)
         - Upper divergence above the sea level system
 - **aka: Typhoons (China), Hurricanes (US,Mexico), Tornados, Willy-willies**
-- **Increasing Cyclones in Arabian Sea: Both Cyclone Tauktae, Cyclone Biparjoy (trajectory below) #readagain**
+- **Increasing Cyclones in Arabian Sea: Both Cyclone Tauktae, Cyclone Biparjoy (trajectory below) **
     - This can also be seen that **in 2019, 4 major super-cyclonic storms: Kyarr, Vayu, Hikka, and Maha** formed over the Arabian Sea. In 2020, **cyclone Nisarga** and in 2021 **cyclone Taukhte** formed in the Arabian Sea
     - Earlier, the formation of tropical cyclones in the Arabian Sea was **restricted to Gujarat** but in **recent times, this has also changed.** For e.g., **Cyclone Ockhi** was formed in Kerala and Karnataka
 - ![GS1 Geography](<Z9 Obsidian-files/Media/DOCX/GS1 Geography 20.png>)
@@ -2193,14 +2193,14 @@ The below image cover all types of plate movts (Details of these convergences is
     - Types: Tropical cyclones between the Tropics; Extra tropical cyclones (temperate/frontal)
         - Difference: Tropical cyclone higher speed; but Temperate has larger area and longer duration (15-20 days); Temperate is both on land and water; Area (tropics vs temperate); Direction (east to west in tropical vs west to east in temperate)
 - ![[Z9 Obsidian-files/Media/DOCX/GS1 Geography 19.png]]
-    - The **conditions favourable for the formation of tropical cyclones** are: #readagain
+    - The **conditions favourable for the formation of tropical cyclones** are: 
         - Large sea surface with temperature higher than 27° C.
         - **Small variations in the vertical wind speed**
         - A **pre-existing weak low- pressure** area or low-level-cyclonic circulation
         - **Presence of the Coriolis force** (coriolis force absent at equator)
         - Upper divergence above the sea level system
 - **aka: Typhoons (China), Hurricanes (US,Mexico), Tornados, Willy-willies**
-- **Increasing Cyclones in Arabian Sea: Both Cyclone Tauktae, Cyclone Biparjoy (trajectory below) #readagain**
+- **Increasing Cyclones in Arabian Sea: Both Cyclone Tauktae, Cyclone Biparjoy (trajectory below) **
     - This can also be seen that **in 2019, 4 major super-cyclonic storms: Kyarr, Vayu, Hikka, and Maha** formed over the Arabian Sea. In 2020, **cyclone Nisarga** and in 2021 **cyclone Taukhte** formed in the Arabian Sea
     - Earlier, the formation of tropical cyclones in the Arabian Sea was **restricted to Gujarat** but in **recent times, this has also changed.** For e.g., **Cyclone Ockhi** was formed in Kerala and Karnataka
 - ![[Z9 Obsidian-files/Media/DOCX/GS1 Geography 20.png]]

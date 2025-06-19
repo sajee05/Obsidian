@@ -289,7 +289,7 @@ To assist with updates, we’ve added a **Current Affairs & Value Addition** sec
         -   FTA of Maldives with China, land grab issues agreed by Mhd Nasheed
     -   Political instability as democracy not yet ripe- termination of GMR project of India, take back helicopters, No indian should appl, Yameen-imposed emergency (However currently Solih govt- good India relations-Modi at swearing in)
     -   Increasing radicalisation → 200 ppl joining ISIS
-    -   Rising Anti-India sentiments - eg: #saveAddu (after new consulate proposed), Lakshadweep Development Authority Regulation (LDAR impacted maldvies as it had historic/ethinic ties with indian there), India Out campaign, taking back of helicopters
+    -   Rising Anti-India sentiments - eg: # saveAddu (after new consulate proposed), Lakshadweep Development Authority Regulation (LDAR impacted maldvies as it had historic/ethinic ties with indian there), India Out campaign, taking back of helicopters
 -   **Current measures for cooperation**
     -   Economic aspects: ~280 mn (in favour of India)
     -   Development assistance:

@@ -220,7 +220,7 @@
 **At Employer Level:**
 - **Favoritism and nepotism**: More common than in government organizations
 - **Monopolistic tendencies**: Anti-competitive practices, deep discounts
-- **Sexual harassment**: Couch casting allegations, #MeToo cases
+- **Sexual harassment**: Couch casting allegations,  cases
 - **Gender discrimination**: Pay gap, glass ceiling, limited women in upper management
 - **Disability and caste discrimination**
 - **Regional discrimination**: Checks not present as in public organizations

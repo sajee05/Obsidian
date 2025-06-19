@@ -1264,7 +1264,7 @@ Prospects, Causes for less dev., status (2017)
 #### Steps taken by India
 
 -   **NATIONAL STRATEGY FOR ARTIFICIAL INTELLIGENCE**- **NITI AAYOG** has identified five areas where **AI** can be useful. It has noted the lack of regulation around **AI** as a major weakness for **INDIA**.
-    -   **NITI AAYOG**’s draft ‘Working Document: Enforcement Mechanisms for Responsible **#AIFORALL**’,- suggests setting up oversight body for **AI**
+    -   **NITI AAYOG**’s draft ‘Working Document: Enforcement Mechanisms for Responsible **AIFORALL**’,- suggests setting up oversight body for **AI**
     -   In 2018-19 budget, the government mandated **NITI AAYOG** to establish the **NATIONAL PROGRAM ON AI**
 -   **CENTER OF EXCELLENCE IN ARTIFICIAL INTELLIGENCE (COE IN AI)** by **NATIONAL INFORMATICS CENTRE (NIC)** which is a platform for innovative new solutions in **AI** space.
 -   **GLOBAL PARTNERSHIP ON ARTIFICIAL INTELLIGENCE (GPAI)**: Recently, **INDIA** joined **GPAI** as a founding member. (multi-stakeholder partnership to promote responsible and human centric development and use of **AI**, grounded in human rights, inclusion, diversity,eco growth)

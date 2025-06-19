@@ -92,7 +92,7 @@
 
 - **Skillful use of media** - writing extensively in leading newspapers
 - **Oral communication** - KERALA SHASTRA SAHITYA PARISHAD used street theater (nukkad natak)
-- **Digital activism** - social media campaigns, Twitter trends like #Save
+- **Digital activism** - social media campaigns, Twitter trends like # Save
 
 ### Effects of Development-Induced Displacement
 

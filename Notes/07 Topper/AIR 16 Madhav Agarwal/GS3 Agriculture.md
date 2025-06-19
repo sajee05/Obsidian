@@ -740,7 +740,7 @@ ARAT RATNA". "Green Revolution" should be "GREEN REVOLUTION". "Pusa Basmati" sho
     - Millet mission under NFSA- Makka and Jau, Sub mission on Nutri-cereals- Jowar, Bajra, Ragi
     - Orissa- announced to spend 100cr on Millet mission in 2018
     - Calling millets ‘orphan crops,’ SWAMINATHAN has called for greater investment in millet research to add variety to India’s food basket
-    - #LETSMILLET CAMPAIGN in Bengaluru to induce behavioral change
+    -  # LETSMILLET CAMPAIGN in Bengaluru to induce behavioral change
     - Overall there is a need to change the narrative towards coarse grains and need to rebrand them as super foods
 
 #### 2016: Reasons for declining rice and wheat yield in the cropping system? How crop diversification is helpful to stabilize the yield of the crop in the system?

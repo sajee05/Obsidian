@@ -255,7 +255,7 @@ To assist with updates, we’ve added a **Current Affairs & Value Addition** sec
 ##### Steps taken:
 
 -   Impact on - fishes,shipping,climate cycle,disasters etc
--   UNEP #Clean seas campaign
+-   UNEP # Clean seas campaign
 -   Basel conv on transb waste mov- included plastic
 -   G20 action plann on marine plastic litter
 

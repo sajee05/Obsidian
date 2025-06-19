@@ -653,7 +653,7 @@ The **GUPTA PERIOD** witnessed a tremendous progress in the field of art, scienc
 6. As **human worship and its representation are not allowed** in **ISLAM**, the buildings are decorated richly in geometrical and **ARABESQUE** designs
 7. There is **INTRICATE JALI WORK** on the walls which signifies importance of light in **ISLAM**
 8. **PIETRA DURA STYLE** & **ARABESQUE** was used for ornamentation. Floral designs were carved in walls and semi-precious stones were fitted in these engravings for entire design
-- Spelling - **TRABEATE & ARCUADE**; see #_diagram_ at point 2 Spelling: **PIETRA DURA STYLE** (_diagram_)
+- Spelling - **TRABEATE & ARCUADE**; see #diagram at point 2 Spelling: **PIETRA DURA STYLE** (_diagram_)
 #diagram bottom part of image #diagram of AKBAR period
 
 ### Delhi Sultanate (think of each dynasty - Sab Khao Tamatar Sab Lo Maaze; 1206-1526)
