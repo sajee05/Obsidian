@@ -1,5 +1,7 @@
 [[Karl Marx - Historical materialism, mode of production, alienation, class struggle#**Historical Materialism**|historical material]]
 
+#anki
+
 
 | Test  | test    |
 | ----- | ------- |
@@ -14,3 +16,5 @@ india
 ```
 
 **america** *is india*
+
+test

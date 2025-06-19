@@ -1,4 +1,4 @@
-## Art #anki
+## Art 
 
 is the expression or application of human creative skill and imagination like painting, sculpture, music, dance, architecture
 
