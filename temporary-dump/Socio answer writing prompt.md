@@ -5,5 +5,8 @@ take insights from:
 - smriti shah YouTube session transcript
 - telegram texts
 - Vishal shah course 
-- Vision ias sociology answer writing session batch transcript.
+- Vision ias sociology answer writing session batch transcript
 - etc
+
+- upsc specific - add pyqs and syllabus in the prompt.
+- personalisation : give it my notes
