@@ -40,8 +40,6 @@ notetoolbar: "1"
 - [[MOC Socio Topper Notes|Socio Toppers Notes]]
 ---
  - ❓ [[Active Recall Questions]] 🤔🤔
--  [[GS Spaced Repetition]] 🃏
-- [[Socio Spaced Repetition]] 🃏
 ---
 
 ## Important Tags 🏷️
