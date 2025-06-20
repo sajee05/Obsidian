@@ -3,6 +3,8 @@ tags: []
 ---
 * 2025-06-13
 
+[[P1-Sociology---The-Discipline.pdf]] = good base for this specific topic.
+
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
 - [ ] lecture - vishal shah
