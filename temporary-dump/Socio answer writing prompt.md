@@ -10,3 +10,5 @@ take insights from:
 
 - upsc specific - add pyqs and syllabus in the prompt.
 - personalisation : give it my notes
+
+- BEST POSSIBLE: transcript of level up ias test discussions → give to gemini to extract instructions only add to prompt.
