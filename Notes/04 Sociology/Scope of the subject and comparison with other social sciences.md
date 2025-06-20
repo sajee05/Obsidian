@@ -31,16 +31,15 @@
 	- 
 
 ---
-## Topic 1
-### Subtopic
-#### Introduction
+## Topic 
 
-#### Body
+### Introduction
 
-#### Conclusion
+### Background
 
-#### Important Keywords and thinkers
+### Concept 
 
-| **THINKERS** | **KEYWORDS** |
-| ------------ | ------------ |
-|              |              |
+### Theory 
+
+### Criticism
+### Conclusion
