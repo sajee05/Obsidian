@@ -1,719 +1,500 @@
-www.gradeup.co
-gradeup
-
-# Chronology of important events in Indian History
-
 # Ancient India
 
-#### 2 Million BC to 10,00 BC
-##### Event
-- Palaeolithic Period
-- Lower Palaeolithic (2 Million BC to 50,000 BC)
-- Middle Palaeolithic (50,000 BC to 40,000 BC)
-- Upper Palaeolithic (40,000 BC to 10,000 BC)
-##### Importance
-- Fire was discovered
-- Tools made of limestones were used. They are found in Chota-Nagpur plateau and Kurnool district
+## Indus Valley Civilization (2500 BC – 1750 BC)
+- It is also known as Harappan Civilization.
+- John Marshall was the first person to use the term ‘Indus Valley Civilization’.
+- The Indus Valley Civilization belongs to the Proto-historic Period (Chalcolithic Age/Bronze Age).
+- The capital cities were Mohenjodaro and Harappa.
+- The port cities were Sutkagendor, Balakot, Lothal, Allahdino and Kuntasi.
+- The largest sites are Mohenjodaro, Harappa, Dholavira, Rakhigarhi.
+- The main crops were wheat and barley.
+- The people of this civilization worshipped Pashupati Mahadeva (Proto-Shiva), Mother Goddess, and animals like bull, birds (dove and pigeon) and trees like Peepal.
 
-#### 10,000 BC to 7000 BC
-##### Event
-- Mesolithic Age
-##### Importance
-- Hunters and Herders
-- Microlith tools were used
+## Vedic Period (1500 BC – 600 BC)
+### Early Vedic Period (1500 BC – 1000 BC)
+- It is also known as the Rig Vedic Period.
+- The main occupation of people was pastoralism.
+- The most important divinity was Indra.
+- The society was patriarchal.
 
-#### 7000 BC
-##### Event
-- Neolithic age
-##### Importance
-- Food producers
-- Use of polished tools
+### Later Vedic Period (1000 BC – 600 BC)
+- The main occupation of people was agriculture.
+- The most important divinity became Prajapati.
+- The society was divided into four varnas: Brahmins, Kshatriyas, Vaishyas, and Shudras.
+- The concept of Gotra appeared for the first time.
 
-#### Pre-Harappan Phase – 3000 BC
-##### Event
-- Chalcolithic Age ⭐ (This is an oversimplification. The Chalcolithic Age is a broader period, c. 3500-1700 BC. The Pre-Harappan phase, c. 3300-2600 BC, is part of it. The date "3000 BC" is a specific point within this larger timeframe and not the start of the Chalcolithic Age itself.)
-##### Importance
-- Use of Copper – first metal
+## Jainism
+- The first Tirthankara was Rishabhdev.
+- The 23rd Tirthankara was Parshwanath.
+- The 24th and the last Tirthankara was Vardhaman Mahavira.
+- Mahavira was born in Kundagrama near Vaishali in 540 BC.
+- His father was Siddhartha (Head of Jnatrika Clan) and mother was Trishala (Lichchhavi Princess).
+- He attained Kaivalya (supreme knowledge) at Jimbhikagrama in his 42nd year.
+- He delivered his first sermon at Pava.
+- He died at Pavapuri in 468 BC.
 
-#### 2500 BC
-##### Event
-- Harappan Phase
-##### Importance
-- Bronze age civilization, development of Urban culture
-
-#### 1500 BC-1000 BC
-##### Event
-- Early Vedic period
-##### Importance
-- Rig Veda period
-
-#### 1000BC-500BC
-##### Event
-- Later Vedic period
-##### Importance
-- Growth of 2nd Urban phase with the establishment of Mahajanapadhas
-
-#### 600 BC – 325 BC
-##### Event
-- Mahajanapadhas
-##### Importance
-- 16 kingdoms with certain republics established
-
-#### 544 BC – 412 BC
-##### Event
-- Haryanka Dynasty
-##### Importance
-- Bimbisara, Ajatshatru and Udayin
-
-#### 412 BC – 342 BC
-##### Event
-- Shishunaga Dynasty
-##### Importance
-- Shishunaga and Kalashoka
-
-#### 344BC – 323 BC
-##### Event
-- Nanda Dynasty
-##### Importance
-- Mahapadmananda
-
-#### 563 BC
-##### Event
-- Birth of Gautama Buddha
-##### Importance
-- Buddhism established
-
-#### 540 BC
-##### Event
-- Birth of Mahavira
-##### Importance
-- 24th Tirthankara of Jainism
-
-#### 518 BC
-##### Event
-- Persian Invasion
-##### Importance
-- Darius
-
-#### 483 BC
-##### Event
-- 1st Buddhist council
-##### Importance
-- Rajgir
-
-#### 383 BC
-##### Event
-- 2nd Buddhist Council
-##### Importance
-- Vaishali
-
-#### 326 BC
-##### Event
-- Macedonian Invasion
-##### Importance
-- Direct contact between Greek and India
-
-#### 250 BC
-##### Event
-- 3rd Buddhist council
-##### Importance
-- Pataliputra
-
-#### 322 BC – 185 BC
-##### Event
-- Mauryan Period
-- Chandragupta Maurya (322 BC – 298 BC)
-- Bindusara (298 BC - 273 BC)
-- Ashoka (273 BC - 232 BC)
-- Later Mauryans (232 BC – 185 BC)
-##### Importance
-- Political unification of India, Dhamma policy of Ashoka, the growth of Art and architecture
-
-#### 185 BC – 73 BC
-##### Event
-- Sunga Dynasty
-##### Importance
-- Pushyamitra Sunga
-
-#### 73 BC - 28 BC
-##### Event
-- Kanva dynasty
-##### Importance
-- Vasudeva founded the dynasty
-
-#### 60 BC – 225 AD
-##### Event
-- Satavahana dynasty
-##### Importance
-- Capital at Paithan, MH
-
----
-2
----
-
-#### 2nd BC
-##### Event
-- Indo-Greeks
-##### Importance
-- Menander(165-145AD) ⭐ (The date should be BC, not AD. Menander I ruled c. 165/155 – 130 BC.)
-
-#### 1st BC – 4th AD
-##### Event
-- Shakas
-##### Importance
-- Rudradaman (130 AD – 150 AD)
-
-#### 1st BC – 1st AD
-##### Event
-- Parthians
-##### Importance
-- St Thomas arrived in India during the reign of Gondophernes
-
-#### 1st AD-4th AD
-##### Event
-- Kushans
-##### Importance
-- Kanishka (78 AD – 101 AD)
-
-#### 72 AD
-##### Event
-- 4th Buddhist Council
-##### Importance
-- Kashmir
-
-#### 3rd BC – 3rd AD
-##### Event
-- Sangam age
-##### Importance
-- Convene of Sangam Commune, Rule of Cheras, Cholas and Pandyas
-
-#### 319 AD - 540 AD
-##### Event
-- The Gupta Age
-- Chandragupta I (319 – 334 AD)
-- Samudragupta (335 – 380 AD)
-- Chandragupta II (380 – 414 AD)
-- Kumaragupta (415 – 455 AD)
-- Skandagupta (455 – 467 AD)
-##### Importance
-- 319 AD - Gupta Age
-- The golden age of India
-- Development of numerous art and literature.
-- Nagara style of Temple Building
-
-#### 550 AD – 647 AD
-##### Event
-- Vardhana Dynasty
-##### Importance
-- Harsha (606-647 AD)
-- Kannauj assembly and Prayag assembly held
-- Huan-Tsang visited Harsha's assembly
-
-#### 543 – 755 AD
-##### Event
-- Chalukyas of Vatapi
-##### Importance
-- Development of Vesara style
-
-#### 575 - 897 AD
-##### Event
-- Pallavas of Kanchi
-##### Importance
-- Structural temples in Dravida style started to develop
+## Buddhism
+- Founder: Gautam Buddha (originally Siddhartha).
+- He was born in 563 BC at Lumbini in Nepal.
+- His father was Suddhodhana (Sakya Clan) and mother was Mahamaya.
+- He attained Nirvana (enlightenment) under a pipal tree at Bodh Gaya.
+- He delivered his first sermon at Sarnath (Dharmachakrapravartana).
+- He died in 483 BC at Kushinagar.
 
 # Medieval India
 
 ## Early Medieval Period (650 – 1206 AD)
+- The tripartite struggle for control over Kannauj occurred between the Palas, Pratiharas, and Rashtrakutas.
+- The Palas ruled over Bengal and Bihar. The founder of the Pala dynasty was Gopala.
+- The Pratiharas ruled over western India. The founder of the Pratihara dynasty was Nagabhatta I.
+- The Rashtrakutas ruled over the Deccan. The founder of the Rashtrakuta dynasty was Dantidurga.
 
-#### 750 – 1150 AD
-##### Event
-- Rule of the Palas
-##### Importance
-- Capital at Munger, Bihar
-
-#### 752 – 973 AD
-##### Event
-- The Rashtrakutas
-##### Importance
-- Capital at Malkhed
-
-#### 730 – 1036 AD
-##### Event
-- The Pratiharas
-##### Importance
-- Ruled western India
-
-#### 712 AD
-##### Event
-- First Muslim Invasion
-##### Importance
-- Mahmud Bin Qasim invaded India
-
-#### 850 – 1279 AD
-##### Event
-- The Cholas
-##### Importance
-- Capital at Tanjore, epitome moment for Dravidian Architecture
-
-#### 998 – 1030 AD
-##### Event
-- First Turk invasion
-##### Importance
-- Mahmud of Ghazni
-
-#### 1175 – 1206 AD
-##### Event
-- Second Turk invasion
-##### Importance
-- Mahmud of Ghori
-
-#### 1178 – 1192 AD
-##### Event
-- Prithviraj Chauhan
-##### Importance
-- First battle of Tarain in 1191 between Prithviraj and Mahmud of Ghori
-- 1192, Second battle of Tarain
-
----
-3
----
-
-## The Sultanate Period (1206 – 1526 AD)
+## The Delhi Sultanate (1206 – 1526 AD)
 
 ### The Slave Dynasty
 #### 1206 – 1210 AD
-##### Event
-- Qutbuddin Aibak
+##### Ruler
+- Qutubuddin Aibak
 ##### Importance
-- Known as Lal Bakhsh, began the construction of Qutb Minar
+- Founder of the Slave dynasty.
+- He was a slave of Muhammad Ghori.
+- He started the construction of the Qutub Minar.
 
-#### 1211 – 1236 AD
-##### Event
-- Shamsuddin Iltumish
+#### 1210 – 1236 AD
+##### Ruler
+- Iltutmish
 ##### Importance
-- Real founder of Delhi sultanate
+- He was a slave of Qutubuddin Aibak.
+- He completed the construction of the Qutub Minar.
+- He introduced the Silver Tanka and Copper Jital.
+- He set up the ‘Chalisa’ or ‘Chahalgani’ (a group of 40 nobles).
 
 #### 1236 – 1240 AD
-##### Event
+##### Ruler
 - Razia Sultana
 ##### Importance
-- First and only muslim lady who ever ruled India
-
-#### 1240 – 1266 AD
-##### Event
-- Weak successors
-##### Importance
--
+- She was the first and only Muslim lady who ever ruled India.
 
 #### 1266 – 1287 AD
-##### Event
+##### Ruler
 - Ghiyasuddin Balban
 ##### Importance
-- Established Diwan-i-Arz
+- He broke the power of the Chalisa.
+- He established a separate military department (Diwan-i-arz).
+- He started the festival of Navroz.
 
-### Khilji Dynasty
+### The Khilji Dynasty
 #### 1290 – 1296 AD
-##### Event
+##### Ruler
 - Jalaluddin Khilji
 ##### Importance
-- Founder of Khilji dynasty
+- Founder of the Khilji dynasty.
 
 #### 1296 – 1316 AD
-##### Event
-- Allaudin Khilji
+##### Ruler
+- Alauddin Khilji
 ##### Importance
-- Many administrative reforms, introduced the Dagh and Chehra system
+- He was the first Sultan to have a permanent army.
+- He introduced the Dagh (branding of horses) and Chehra (descriptive roll of soldiers) system.
+- He introduced market reforms.
 
-### Tughlaq dynasty
+### The Tughlaq Dynasty
 #### 1320 – 1325 AD
-##### Event
-- Ghiyasuddin Tuglaq
+##### Ruler
+- Ghiyasuddin Tughlaq
 ##### Importance
-- Founder
+- Founder of the Tughlaq dynasty.
+- He built the city of Tughlaqabad.
 
 #### 1325 – 1351 AD
-##### Event
-- Mohammed-Bin-Tuglaq
+##### Ruler
+- Muhammad Bin Tughlaq
 ##### Importance
-- Introduction of administrative reforms and certain ambitious projects
+- He shifted his capital from Delhi to Daulatabad.
+- He introduced token currency.
+- He set up a separate department for agriculture (Diwan-i-Kohi).
 
 #### 1351 – 1388 AD
-##### Event
-- Firoz Shah Tuglaq
+##### Ruler
+- Firoz Shah Tughlaq
 ##### Importance
-- Built great cities
+- He imposed Jizya on the Brahmins for the first time.
+- He built canals for irrigation.
+- He built the cities of Firozabad, Fatehabad, Jaunpur and Hisar.
 
-#### 1398 – 1399 AD
-##### Event
-- Taimur Invasion
-##### Importance
-- Taimur, the descendant of Chengiz Khan, invaded during the reign of Muhammad Shah Tuglaq
-
-### Sayyid dynasty
+### The Sayyid Dynasty
 #### 1414 – 1421 AD
-##### Event
-- Khijr Khan
+##### Ruler
+- Khizr Khan
 ##### Importance
-- Founder; was deputized by Taimur as the Governor of Multan
+- Founder of the Sayyid dynasty.
 
-#### 1421 – 1434 AD
-##### Event
-- Mubarak Shah
+### The Lodi Dynasty
+#### 1451 – 1489 AD
+##### Ruler
+- Bahlol Lodi
 ##### Importance
-- Tarikh-i-Mubarak Shahi written by Yahya-bin-Ahmad Sirhindi.
+- Founder of the Lodi dynasty.
 
-#### 1434 – 1445 AD
-##### Event
-- Muhammad Shah
+#### 1489 – 1517 AD
+##### Ruler
+- Sikandar Lodi
 ##### Importance
-- First ruler of the dynasty to adopt the title of Sultan
-
-#### 1445-1451 AD
-##### Event
-- Ala-ud-din Shah
-##### Importance
-- Last ruler of the dynasty, abdicated voluntarily
-
----
-4
----
-
-### The Lodhi Dynasty
-#### 1451 – 1488 AD
-##### Event
-- Bahlol Lodhi
-##### Importance
-- Founder of Lodhi dynasty
-
-#### 1489 - 1517 AD
-##### Event
-- Sikander Lodhi
-##### Importance
-- Founded the city of Agra
+- He shifted his capital from Delhi to Agra.
+- He introduced the Gaz-i-Sikandari (a unit of measurement).
 
 #### 1517 – 1526 AD
-##### Event
-- Ibrahim Lodhi
+##### Ruler
+- Ibrahim Lodi
 ##### Importance
-- Babur defeated Lodhi in the first battle of Panipat
+- He was the last ruler of the Delhi Sultanate.
+- He was defeated and killed by Babur in the First Battle of Panipat in 1526.
 
-## Vijaynagar and Bahmani Kingdoms
+## The Mughal Empire (1526 – 1707 AD)
 
-### Vijaynagar Kingdom
-#### 1336 – 1485 AD
-##### Event
-- Sangama Dynasty
-##### Importance
-- Founded by Harihara and Bukka
-
-#### 1485 – 1505 AD
-##### Event
-- Saluva Dynasty
-##### Importance
-- Saluva Narasgima
-
-#### 1505 – 1570 AD
-##### Event
-- Tuluva Dynasty
-##### Importance
-- Veer Narashima
-
-#### 1509 – 1529 AD
-##### Event
-- Krishna Deva Raya
-##### Importance
-- A gifted Scholar, contemporary of Babur
-
-#### 1570 – 1650 AD
-##### Event
-- Aravidu Dynasty
-##### Importance
-- Founded by Tirumala
-
-### Bahmani Kingdom
-#### 1347 – 1358 AD
-##### Event
-- Alaudin Hasan Bahman Shah
-##### Importance
-- Founded the Bahmani Kingdom at Gulbarga
-
-#### 1397 – 1422 AD
-##### Event
-- Tajuddin Firoz Shah
-##### Importance
--
-
-#### 1422 – 1435 AD
-##### Event
-- Ahmad Shah Wali
-##### Importance
--
-
-## Mughal Empire
-
+### Babur
 #### 1526 – 1530 AD
-##### Event
+##### Ruler
 - Babur
 ##### Importance
-- Founder of Mughal empire after the 1st Battle of Panipat
+- Founder of the Mughal Empire.
+- He defeated Ibrahim Lodi in the First Battle of Panipat in 1526.
+- He defeated Rana Sanga in the Battle of Khanwa in 1527.
+- He wrote his autobiography, Tuzuk-i-Baburi, in Turkish.
 
+### Humayun
 #### 1530 – 1540 AD & 1555 – 1556 AD
-##### Event
+##### Ruler
 - Humayun
 ##### Importance
-- He was defeated by Sher Shah
+- He was defeated by Sher Shah Suri in the Battle of Chausa (1539) and Battle of Kannauj (1540).
+- He died in 1556 due to a fall from his library’s stairs.
 
-#### 1540 – 1555 AD
-##### Event
-- Sur Empire
-##### Importance
-- Sher Shah defeated Humayun and ruled from 1540-45 AD ⭐ (This is slightly misleading. Sher Shah died in 1545, but the Sur Empire he founded continued to be ruled by his successors until 1555.)
-
-#### 1556
-##### Event
-- 2nd Battle of Panipat
-##### Importance
-- Akbar Vs. Hemu
-
+### Akbar
 #### 1556 – 1605 AD
-##### Event
+##### Ruler
 - Akbar
 ##### Importance
-- Established Din-i-illahi, expanded Mughal empire
+- He defeated Hemu in the Second Battle of Panipat in 1556.
+- He abolished Jizya (1564).
+- He built the Buland Darwaza at Fatehpur Sikri.
+- He started a new religion, Din-i-Ilahi.
+- His court had nine jewels (Navratnas).
 
+### Jahangir
 #### 1605 – 1627 AD
-##### Event
-- Jehangir
+##### Ruler
+- Jahangir
 ##### Importance
-- Captain William Hawkins and Sir Thomas Roe visited the Mughal court
+- He executed the fifth Sikh Guru, Guru Arjan Dev.
+- Captain Hawkins and Sir Thomas Roe visited his court.
+- His reign is known for its excellence in painting.
 
-#### 1628 - 1658 AD
-##### Event
-- Shahjahan
+### Shah Jahan
+#### 1628 – 1658 AD
+##### Ruler
+- Shah Jahan
 ##### Importance
-- The pinnacle of Mughal empire and art and architecture
+- He built the Taj Mahal in memory of his wife, Mumtaz Mahal.
+- He also built the Moti Masjid at Agra and the Red Fort and Jama Masjid at Delhi.
+- His reign is considered the Golden age of Mughal architecture.
 
+### Aurangzeb
 #### 1658 – 1707 AD
-##### Event
+##### Ruler
 - Aurangzeb
 ##### Importance
-- Beginning of the decline of Mughal empire
-
-#### 1707 – 1857 AD
-##### Event
-- Later Mughals
-##### Importance
-- Decline and disintegration of Mughal empire with gaining strength of the British
-
----
-5
----
-
-## Maratha State and Maratha Confederacy
-
-### Maratha state
-#### 1674 – 1680 AD
-##### Event
-- Shivaji
-##### Importance
-- Contemporary of Aurangzeb and the biggest challenge for the Mughals in Deccan
-
-#### 1680 – 1689 AD
-##### Event
-- Sambhaji
-##### Importance
--
-
-#### 1689 – 1700 AD
-##### Event
-- Rajaram
-##### Importance
--
-
-#### 1700 – 1707 AD
-##### Event
-- Tarabai
-##### Importance
--
-
-#### 1707 – 1749 AD
-##### Event
-- Shahu
-##### Importance
-- The rise of Peshwas
-
-#### 1713 – 1720 AD
-##### Event
-- Balaji Vishwanath
-##### Importance
-- The first Peshwa
-
-### Maratha Confederacy
-#### 1720 – 1740 AD
-##### Event
-- Baji Rao I
-##### Importance
--
-
-#### 1740 – 1761 AD
-##### Event
-- Balaji Baji Rao
-##### Importance
--
-
-#### 1761 AD
-##### Event
-- Third battle of Panipat
-##### Importance
-- Defeat of Marathas by Ahmad Shah Abdali
-
-#### 1761 – 1818 AD
-##### Event
-- Later successors
-##### Importance
--
-
-## Anglo Maratha Wars
-
-#### 1775 – 1782 AD
-##### Event
-- 1st Anglo Maratha War
-##### Importance
-- British were defeated
-
-#### 1803 – 1806 AD
-##### Event
-- 2nd Anglo Maratha War
-##### Importance
-- Marathas were defeated, and they signed the Subsidiary Alliance
-
-#### 1817 – 1818 AD
-##### Event
-- 3rd Anglo Maratha War
-##### Importance
-- Marathas were decisively defeated
+- He was also known as ‘Zinda Pir’ or ‘Living Saint’.
+- He executed the ninth Sikh Guru, Guru Tegh Bahadur.
+- He reimposed Jizya in 1679.
+- He built the Moti Masjid in the Red Fort at Delhi.
 
 # Modern India
 
-## Bengal
+## Important Governors-General & Viceroys of India
 
-#### 1717 - 1727 AD
-##### Event
-- Murshid Quli Khan
+#### 1772-1785
+##### Governor-General
+- Warren Hastings
+##### Events
+- First Governor-General of India. ⭐ (Warren Hastings was the first Governor-General of Bengal. The first Governor-General of India was Lord William Bentinck in 1833.)
+- Regulating Act of 1773.
+- Pitt’s India Act of 1784.
+- First Anglo-Maratha War (1775-82).
+- Second Anglo-Mysore War (1780-84).
+
+#### 1786-1793
+##### Governor-General
+- Lord Cornwallis
+##### Events
+- Third Anglo-Mysore War (1790-92).
+- Permanent Settlement of Bengal (1793).
+- Introduction of Civil Services.
+
+#### 1798-1805
+##### Governor-General
+- Lord Wellesley
+##### Events
+- Subsidiary Alliance (1798).
+- Fourth Anglo-Mysore War (1799).
+- Second Anglo-Maratha War (1803-05).
+
+#### 1828-1835
+##### Governor-General
+- Lord William Bentinck
+##### Events
+- Abolition of Sati (1829).
+- Charter Act of 1833.
+- First Governor-General of India.
+
+#### 1848-1856
+##### Governor-General
+- Lord Dalhousie
+##### Events
+- Doctrine of Lapse.
+- Wood’s Despatch (1854).
+- First railway line from Bombay to Thane (1853).
+
+#### 1856-1862
+##### Governor-General
+- Lord Canning
+##### Events
+- Revolt of 1857.
+- First Viceroy of India.
+- Indian Councils Act of 1861.
+
+#### 1876-1880
+##### Governor-General
+- Lord Lytton
+##### Events
+- Vernacular Press Act (1878).
+- Arms Act (1878).
+- Second Anglo-Afghan War (1878-80).
+
+#### 1880-1884
+##### Governor-General
+- Lord Ripon
+##### Events
+- Repeal of Vernacular Press Act (1882).
+- First Factory Act (1881).
+- Ilbert Bill controversy (1883-84).
+
+#### 1884-1888
+##### Governor-General
+- Lord Dufferin
+##### Events
+- Formation of Indian National Congress (1885).
+
+#### 1899-1905
+##### Governor-General
+- Lord Curzon
+##### Events
+- Partition of Bengal (1905).
+- Indian Universities Act (1904).
+
+#### 1905-1910
+##### Governor-General
+- Lord Minto II
+##### Events
+- Swadeshi Movement (1905).
+- Foundation of Muslim League (1906).
+- Morley-Minto Reforms (1909).
+
+#### 1910-1916
+##### Governor-General
+- Lord Hardinge II
+##### Events
+- Annulment of Partition of Bengal (1911).
+- Shift of capital from Calcutta to Delhi (1911).
+- Ghadar Party formed (1913).
+
+#### 1916-1921
+##### Governor-General
+- Lord Chelmsford
+##### Events
+- Home Rule Movement (1916).
+- Lucknow Pact (1916).
+- Montagu-Chelmsford Reforms (1919).
+- Rowlatt Act (1919).
+- Jallianwala Bagh massacre (1919).
+
+#### 1921-1926
+##### Governor-General
+- Lord Reading
+##### Events
+- Chauri-Chaura incident (1922).
+- Swaraj Party formed (1923).
+- Kakori train robbery (1925).
+
+#### 1926-1931
+##### Governor-General
+- Lord Irwin
+##### Events
+- Simon Commission (1928).
+- Nehru Report (1928).
+- Dandi March and Civil Disobedience Movement (1930).
+- First Round Table Conference (1930).
+- Gandhi-Irwin Pact (1931).
+
+#### 1931-1936
+##### Governor-General
+- Lord Willingdon
+##### Events
+- Second and Third Round Table Conferences (1931, 1932).
+- Poona Pact (1932).
+- Government of India Act of 1935.
+
+#### 1936-1944
+##### Governor-General
+- Lord Linlithgow
+##### Events
+- Second World War (1939).
+- August Offer (1940).
+- Cripps Mission (1942).
+- Quit India Movement (1942).
+
+#### 1944-1947
+##### Governor-General
+- Lord Wavell
+##### Events
+- Shimla Conference (1945).
+- Cabinet Mission (1946).
+- Direct Action Day (1946).
+
+#### 1947-1948
+##### Governor-General
+- Lord Mountbatten
+##### Events
+- Mountbatten Plan (June 3, 1947).
+- Partition of India (1947).
+- First Governor-General of Independent India.
+
+## Important Indian National Congress (INC) Sessions
+
+#### 1885
+##### Place
+- Bombay
+##### President
+- W.C. Bonnerjee
 ##### Importance
-- Capital of Bengal transferred to Murshidabad
+- First session, attended by 72 delegates.
 
-#### 1727 – 1739 AD
-##### Event
-- Shujauddin
+#### 1886
+##### Place
+- Calcutta
+##### President
+- Dadabhai Naoroji
 ##### Importance
--
+- Second session.
 
-#### 1739 – 1740 AD
-##### Event
-- Sarfaraj khan
+#### 1887
+##### Place
+- Madras
+##### President
+- Badruddin Tyabji
 ##### Importance
--
+- First Muslim President.
 
-#### 1740 – 1756 AD
-##### Event
-- Alivardi Khan
+#### 1888
+##### Place
+- Allahabad
+##### President
+- George Yule
 ##### Importance
--
+- First English President.
 
-#### 1756 – 1757 AD
-##### Event
-- Sirajuddaulah
+#### 1905
+##### Place
+- Benaras
+##### President
+- G.K. Gokhale
 ##### Importance
-- Battle of Plassey
+- Resolution of Swadeshi was adopted.
 
-#### 1757 – 1760 AD
-##### Event
-- Mir Jafar
+#### 1906
+##### Place
+- Calcutta
+##### President
+- Dadabhai Naoroji
 ##### Importance
--
+- The word ‘Swaraj’ was mentioned for the first time.
 
-#### 1760 – 1764 AD
-##### Event
-- Mir Qasim
+#### 1907
+##### Place
+- Surat
+##### President
+- Rashbehari Ghosh
 ##### Importance
-- Battle of Buxar
+- Congress split into Moderates and Extremists (Surat Split).
 
-
-## Mysore
-
-#### 1761 – 1782 AD
-##### Event
-- Haider Ali
+#### 1916
+##### Place
+- Lucknow
+##### President
+- A.C. Majumdar
 ##### Importance
-- Establishment of Modern Mysore state
+- Lucknow Pact - Congress and Muslim League came together.
 
-#### 1766 – 1769 AD
-##### Event
-- 1st Anglo - Mysore war
+#### 1917
+##### Place
+- Calcutta
+##### President
+- Annie Besant
 ##### Importance
-- Haider Ali defeated the British
+- First Woman President of INC.
 
-#### 1780 – 1784 AD
-##### Event
-- 2nd Anglo - Mysore war
+#### 1924
+##### Place
+- Belgaum
+##### President
+- M.K. Gandhi
 ##### Importance
-- Haider Ali was defeated by Sir Eyrecoot
+- The only session presided over by Mahatma Gandhi.
 
-#### 1782 – 1799 AD
-##### Event
-- Tipu Sultan
+#### 1925
+##### Place
+- Kanpur
+##### President
+- Sarojini Naidu
 ##### Importance
-- Continued the 2nd war
+- First Indian Woman President of INC.
 
-#### 1790 – 1792 AD
-##### Event
-- 3rd Anglo - Mysore war
+#### 1929
+##### Place
+- Lahore
+##### President
+- J.L. Nehru
 ##### Importance
-- Tipu ceded half of his territory
+- Resolution for ‘Purna Swaraj’ (Complete Independence) was passed.
 
-#### 1799
-##### Event
-- 4th Anglo - Mysore war
+#### 1931
+##### Place
+- Karachi
+##### President
+- Vallabhbhai Patel
 ##### Importance
-- Tipu Sultan died
+- Resolution on Fundamental Rights and National Economic Policy was passed.
 
-## Punjab
-
-#### 1792 – 1839 AD
-##### Event
-- Maharaja Ranjit Singh
+#### 1938
+##### Place
+- Haripura
+##### President
+- S.C. Bose
 ##### Importance
-- Founder of Sikh rule
+- National Planning Committee was set up under J.L. Nehru.
 
-#### 1845 – 1846 AD
-##### Event
-- 1st Anglo - Sikh war
+#### 1939
+##### Place
+- Tripuri
+##### President
+- S.C. Bose
 ##### Importance
-- Sikhs were defeated
+- S.C. Bose was re-elected but had to resign due to protests by Gandhiji. Rajendra Prasad was appointed in his place.
 
-#### 1848 – 1849 AD
-##### Event
-- 2nd Anglo – Sikh war
+#### 1946
+##### Place
+- Meerut
+##### President
+- J.B. Kripalani
 ##### Importance
-- Dalhousie annexed Punjab
-
-## Advent of Europeans in India
-
-#### 1498
-##### Event
-- Portuguese East India company
-##### Importance
-- Headquarters at Cochin and Goa
-
-#### 1600
-##### Event
-- English East India company
-##### Importance
-- Madras, Calcutta and Bombay
-
-#### 1602
-##### Event
-- Dutch East India company
-##### Importance
-- Pulicat,
+- Last session before independence. J.B. Kripalani was the president of INC at independence.
