@@ -1,3 +1,7 @@
+Lectures → book → prelims objective understanding (while doing next sub) → GS Notes.
+- Don't come in content coverage FOMO.
+- Forum Toolkit / objective understanding me sab imp cheeze cover hojayegi. that is THE most important. → uske baad Secondry reference books 
+
 | **Timeline** (month, days) | **General Studies** | **Subject**              |   **Lectures** | **Book**   | **Objective understanding** | **Secondary Book** | **Strategy**                                                               |
 | -------------------------- | ------------------- | ------------------------ | -------------: | ---------- | --------------------------- | :----------------: | -------------------------------------------------------------------------- |
 |                            | [[MOC GS1\|GS 1]]   | Art and Culture 🔥       | Paras Chitkara | NCERTs (2) |                             |   AIR 16's notes   | Paras chitkara notes will be primary. will read the two NCERTs after that. |
