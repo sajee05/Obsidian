@@ -7,7 +7,7 @@ tags: []
 
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
-- [ ] lecture - vishal shah
+- [ ] Forum Ias Notes
 #### Topics To-do: 
 - **pyq themes**
 	- **Modernity** [[Topic 1. Sociology Fundamentals (133 questions)#modernity and social changes in Europe and emergence of Sociology (8 questions)|PYQ]]

@@ -2,7 +2,7 @@
 
 - [ ] lecture - pranay
 - [ ] lecture - level up cc
-- [ ] lecture - vishal shah
+- [ ] Forum Ias Notes
 #### Topics To-do: 
 - **pyq themes**
 	- **Scope of the Subject**
