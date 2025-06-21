@@ -262,8 +262,8 @@
 | Rocks are older | Rocks are younger |
 | It is richer in Aluminium, sodium, and potassium elements (**SiAl layer**) | It is richer in Magnesium, Calcium, Iron (**SiMa layer**) |
 
-    2. **Mantle**: It is a solid layer divided into the upper and lower mantle. The overall depth of the mantle extends to **2888 km**. It consists of **68%** of the mass of the earth. It accounts for **83%** volume of the earth. It is lighter than the core and denser than the crust.
-    3. **Core**: It is the innermost layer of the earth. It is majorly made up of nickel and iron (**NiFe layer**). The density is very high that is almost double that of the mantle. The core is divided into the inner and outer core. The inner core is solid and the outer core is liquid due to high pressure in the inner core that increases the melting point of rocks.
+2. **Mantle**: It is a solid layer divided into the upper and lower mantle. The overall depth of the mantle extends to **2888 km**. It consists of **68%** of the mass of the earth. It accounts for **83%** volume of the earth. It is lighter than the core and denser than the crust.
+3. **Core**: It is the innermost layer of the earth. It is majorly made up of nickel and iron (**NiFe layer**). The density is very high that is almost double that of the mantle. The core is divided into the inner and outer core. The inner core is solid and the outer core is liquid due to high pressure in the inner core that increases the melting point of rocks.
 
 - **Physical division of the interior of the earth**:
     1. **Lithosphere**: It is a solid layer made up of **Crust** and the upper part of the **Upper Mantle**. It is hard and rigid. It extends up to the depth of **100 Km**.
