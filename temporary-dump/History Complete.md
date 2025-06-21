@@ -318,7 +318,7 @@
 ##### Event
 - Weak successors
 ##### Importance
-- (None listed)
+- 
 
 #### 1266 – 1287 AD
 ##### Event
@@ -458,13 +458,13 @@
 ##### Events
 - Tajuddin Firoz Shah
 ##### Importance
-- (None listed)
+- 
 
 #### 1422 – 1435 AD
 ##### Events
 - Ahmad Shah Wali
 ##### Importance
-- (None listed)
+- 
 
 ### Mughal Empire
 
@@ -536,19 +536,19 @@
 ##### Events
 - Sambhaji
 ##### Importance
-- (None listed)
+- 
 
 #### 1689 – 1700 AD
 ##### Events
 - Rajaram
 ##### Importance
-- (None listed)
+- 
 
 #### 1700 – 1707 AD
 ##### Events
 - Tarabai
 ##### Importance
-- (None listed)
+- 
 
 #### 1707 – 1749 AD
 ##### Events
@@ -568,13 +568,13 @@
 ##### Events
 - Baji Rao I
 ##### Importance
-- (None listed)
+- 
 
 #### 1740 – 1761 AD
 ##### Events
 - Balaji Baji Rao
 ##### Importance
-- (None listed)
+- 
 
 #### 1761 AD
 ##### Events
@@ -586,7 +586,7 @@
 ##### Events
 - Later successors
 ##### Importance
-- (None listed)
+- 
 
 ### Anglo Maratha Wars
 
@@ -622,19 +622,19 @@
 ##### Events
 - Shujauddin
 ##### Importance
-- (None listed)
+- 
 
 #### 1739 – 1740 AD
 ##### Events
 - Sarfaraj khan
 ##### Importance
-- (None listed)
+- 
 
 #### 1740 – 1756 AD
 ##### Events
 - Alivardi Khan
 ##### Importance
-- (None listed)
+- 
 
 #### 1756 – 1757 AD
 ##### Events
@@ -646,7 +646,7 @@
 ##### Events
 - Mir Jafar
 ##### Importance
-- (None listed)
+- 
 
 #### 1760 – 1764 AD
 ##### Events
@@ -806,7 +806,7 @@
 ##### Events
 - Muslim league formation
 ##### Importance
-- (None listed)
+- 
 
 #### 1906
 ##### Events
@@ -860,13 +860,13 @@
 ##### Events
 - Gandhi in India
 ##### Importance
-- (None listed)
+- 
 
 #### 1915
 ##### Events
 - Arrived in Bombay. First two years to tour India and not to participate in any political movement
 ##### Importance
-- (None listed)
+- 
 
 #### 1917
 ##### Events
@@ -896,7 +896,7 @@
 ##### Events
 - Non-cooperation and Khilafat movement
 ##### Importance
-- (None listed)
+- 
 
 #### 1924
 ##### Events
@@ -917,7 +917,7 @@
 ##### Events
 - Individual satyagraha
 ##### Importance
-- (None listed)
+- 
 
 #### 1942
 ##### Events
@@ -937,7 +937,7 @@
 ##### Events
 - Jallianwala Massacre
 ##### Importance
-- (None listed)
+- 
 
 #### 1920-22
 ##### Events
@@ -973,7 +973,7 @@
 ##### Events
 - Jinnah's 14 points
 ##### Importance
-- (None listed)
+- 
 
 #### 1929
 ##### Events
@@ -997,19 +997,19 @@
 ##### Events
 - 2nd RTC held in London
 ##### Importance
-- (None listed)
+- 
 
 #### 1932
 ##### Events
 - Communal award
 ##### Importance
-- (None listed)
+- 
 
 #### 1932
 ##### Events
 - Poona Pact
 ##### Importance
-- (None listed)
+- 
 
 #### 1935
 ##### Events
@@ -1021,19 +1021,19 @@
 ##### Events
 - 18 months rule of Congress begins ⭐ (Factual error: The Congress ministries formed in 1937 ruled for about 28 months, resigning in late 1939.)
 ##### Importance
-- (None listed)
+- 
 
 #### 1939-45
 ##### Events
 - World War II begins
 ##### Importance
-- (None listed)
+- 
 
 #### 1939
 ##### Events
 - Congress ministries resign
 ##### Importance
-- (None listed)
+- 
 
 #### 1940
 ##### Events
@@ -1045,82 +1045,82 @@
 ##### Events
 - Individual Satyagraha
 ##### Importance
-- (None listed)
+- 
 
 #### 1942
 ##### Events
 - Cripps mission
 ##### Importance
-- (None listed)
+- 
 
 #### 1942
 ##### Events
 - Quit India movement
 ##### Importance
-- (None listed)
+- 
 
 #### 1943
 ##### Events
 - Gandhi's 21 days fast
 ##### Importance
-- (None listed)
+- 
 
 #### 1944
 ##### Events
 - C R Formula
 ##### Importance
-- (None listed)
+- 
 
 #### 1945
 ##### Events
 - Wavell Plan and Shimla Conference
 ##### Importance
-- (None listed)
+- 
 
 #### 1945
 ##### Events
 - INA Trails ⭐ (Typo: The correct term is 'INA Trials'.)
 ##### Importance
-- (None listed)
+- 
 
 #### 1946
 ##### Events
 - RIN Ratings Mutiny ⭐ (Typo: The correct term is 'RIN Ratings Mutiny' or 'Royal Indian Navy Mutiny'.)
 ##### Importance
-- (None listed)
+- 
 
 #### 1946
 ##### Events
 - Cabinet mission plan
 ##### Importance
-- (None listed)
+- 
 
 #### 1946
 ##### Events
 - Formation of Interim government
 ##### Importance
-- (None listed)
+- 
 
 #### 1946
 ##### Events
 - Formation of the constituent assembly
 ##### Importance
-- (None listed)
+- 
 
 #### 1947
 ##### Events
 - Atlee's announcement
 ##### Importance
-- (None listed)
+- 
 
 #### 1947
 ##### Events
 - Mountbatten Plan
 ##### Importance
-- (None listed)
+- 
 
 #### 1947
 ##### Events
 - Indian independence act, 1947
 ##### Importance
-- (None listed)
+- 
