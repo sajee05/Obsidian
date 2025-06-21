@@ -2,12 +2,13 @@
 
 # Ancient India
 
-#### 2 Million BC to 10,00 BC, 2 Million BC to 50,000 BC, 50,000 BC to 40,000 BC, 40,000 BC to 10,000 BC
+#### 2Million BC to 10,000BC
+- 
 ##### Event
-- Palaeolithic Period
-- Lower Palaeolithic
-- Middle Palaeolithic
-- Upper Palaeolithic
+- **2 Million BC to 50,000 BC** - Palaeolithic Period (ice age )
+- **50,000 BC to 40,000 BC** - Lower Palaeolithic
+- **50,000 BC to 40,000 BC** - Middle Palaeolithic
+- **40,000 BC to 10,000 BC** - Upper Palaeolithic
 ##### Importance
 - Fire was discovered
 - Tools made of limestones were used. They are found in Chota-Nagpur plateau and Kurnool district ⭐ (The term "limestones" is likely an error for "stone". While limestone might have been used for some purposes, the primary materials for Palaeolithic tools were harder stones like quartzite, chert, and flint.)
