@@ -1,8 +1,3 @@
-**Modern Indian History - आधुनिक भारतीय इतिहास**
-
-Tuesday, 23 August 2022
-
-10:13 AM
 
 ## CHRONOLOGY/TIMELINE:
 
