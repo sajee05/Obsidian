@@ -1,10 +1,15 @@
-Lectures → book → prelims objective understanding (while doing next sub) → GS Notes.
-- Don't come in content coverage FOMO.
-- Forum Toolkit / objective understanding me sab imp cheeze cover hojayegi. *that is THE most important*. → Uske baad *Mains notes* bhi rattne hai usme bhi holistic coverage aajayegi → uske baad Secondry reference books 
+**Lectures → book → prelims objective understanding (while doing next sub) → GS Notes.**
+- Don't come in content coverage *FOMO*.
+> [!tip]
+> >Forum Toolkit / objective understanding me sab imp cheeze cover hojayegi. *that is THE most important*. 
+> >→ Uske baad *Mains notes* bhi rattne hai usme bhi *holistic coverage* aur *analytical understanding* aajayegi
+> >→ Fir Quaterly Vision Magazine. = more than ENOUGH! 
+> >MOCK LAGALENA BAS FIR.
+> > → uske baad Secondry reference books agar boht zyada free time mil jaaye toh.
 
 | **Timeline** (month, days) | **General Studies** | **Subject**              |   **Lectures** | **Book**   | **Objective understanding** | **Secondary Book** | **Strategy**                                                               |
 | -------------------------- | ------------------- | ------------------------ | -------------: | ---------- | --------------------------- | :----------------: | -------------------------------------------------------------------------- |
-|                            | [[MOC GS1\|GS 1]]   | Art and Culture 🔥       | Paras Chitkara | NCERTs (2) |                             |   AIR 16's notes   | Paras chitkara notes will be primary. will read the two NCERTs after that. |
+|                            | [[MOC GS1\|GS 1]]   | Art and Culture 🔥       | Paras Chitkara | NCERTs (2) | Forum Toolkit               |   AIR 16's notes   | Paras chitkara notes will be primary. will read the two NCERTs after that. |
 |                            |                     | Ancient India🔥          |     Vision IAS |            |                             |                    |                                                                            |
 |                            |                     | Medieval Indian History  |     Vision IAS |            |                             |                    |                                                                            |
 |                            |                     | Modern Indian History🔥  | Paras Chitkara |            |                             |                    |                                                                            |
