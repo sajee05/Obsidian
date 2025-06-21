@@ -920,7 +920,7 @@
 
 ![Ancient India --- प्राचीन इतिहास](<Z9 Obsidian-files/Media/DOCX/Ancient India --- प्राचीन इतिहास 15.png>)
 
-#### HARSHVARDHAN (606 AD TO 647 AD)
+#### HARSHVARDHAN (606 AD TO 647 AD) [[Medieval Indian History --- मध्यकालीन इतिहास]] Overlap transition here. 
 
 ![Ancient India --- प्राचीन इतिहास](<Z9 Obsidian-files/Media/DOCX/Ancient India --- प्राचीन इतिहास 16.png>)
 
