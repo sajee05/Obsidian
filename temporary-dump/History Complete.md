@@ -3,7 +3,7 @@
 # Ancient India
 
 #### 2Million BC to 10,000BC
-- 
+- includes palaeolithic, Lower Palaeolithic, Middle and Upper Palaeolithic.
 ##### Event
 - **2 Million BC to 50,000 BC** - Palaeolithic Period (ice age )
 - **50,000 BC to 40,000 BC** - Lower Palaeolithic
