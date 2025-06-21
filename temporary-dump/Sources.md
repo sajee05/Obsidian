@@ -39,3 +39,5 @@
 |                            | [[MOC GS4\|GS 4]] | Ethics🔥                 |                                                                                                      |                                                                                                                      |                                 |                                                                                                                              |                                                                                      |     |     |
 note: use [[Active Recall Questions]] for revisions.
 some misc. mains subject para chitkara playlist(S): [mains playlsit](https://www.youtube.com/playlist?list=PLn2lLO2X6VGtBXXGM1FzPoj6CvbIlnxRb), [ThinQ IAS by Paras Chitkara - YouTube](https://www.youtube.com/@ThinQIAS/videos)
+- Don't forget write smart
+- for mains, these sources are tentative, try to maximize efficiency over completion.
