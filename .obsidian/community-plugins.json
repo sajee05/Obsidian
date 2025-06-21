@@ -38,5 +38,6 @@
   "cmenu-plugin",
   "typing-assistant",
   "rss-dashboard",
-  "autocorrect-formatter"
+  "autocorrect-formatter",
+  "docxer"
 ]
