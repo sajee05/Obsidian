@@ -56,7 +56,7 @@ Organizations like [UNESCO](https://en.wikipedia.org/wiki/UNESCO) attempt to pre
 #### MEDIEVAL INDIA
 
 - **DELHI SULTANATE**.
-  - Imperial**-** SLAVE/MAMLUK (1206-1290), KHILJI (1290-1320), TUGHLAQ (1320 to 1414), SAYYID PERIOD(1414 to 1451), LODHI PERIOD(1451 to 1456) ⭐ (The LODHI period is stated as 1451 to 1456, but historical records indicate it lasted until 1526.)
+  - Imperial- SLAVE/MAMLUK (1206-1290), KHILJI (1290-1320), TUGHLAQ (1320 to 1414), SAYYID PERIOD(1414 to 1451), LODHI PERIOD(1451 to 1456) ⭐ (The LODHI period is stated as 1451 to 1456, but historical records indicate it lasted until 1526.)
   - **Provincial -** BENGAL ART, JAUNPUR ART, MALWA ART, BIJAPUR ART
 - **MUGHAL PERIOD.**
   - AKBAR (1556-1605)
