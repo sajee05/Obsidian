@@ -1,6 +1,6 @@
 Lectures → book → prelims objective understanding (while doing next sub) → GS Notes.
 - Don't come in content coverage FOMO.
-- Forum Toolkit / objective understanding me sab imp cheeze cover hojayegi. that is THE most important. → uske baad Secondry reference books 
+- Forum Toolkit / objective understanding me sab imp cheeze cover hojayegi. *that is THE most important*. → Uske baad *Mains notes* bhi rattne hai usme bhi holistic coverage aajayegi → uske baad Secondry reference books 
 
 | **Timeline** (month, days) | **General Studies** | **Subject**              |   **Lectures** | **Book**   | **Objective understanding** | **Secondary Book** | **Strategy**                                                               |
 | -------------------------- | ------------------- | ------------------------ | -------------: | ---------- | --------------------------- | :----------------: | -------------------------------------------------------------------------- |
