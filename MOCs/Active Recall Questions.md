@@ -8,4 +8,4 @@
 
 - [[ENVIRONMENT QUESTIONS]]
 
-- [[ECONOMICS AR]] 
+- [[ECONOMICS AR]] - [[Vivek Singh QnA]]
